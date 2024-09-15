@@ -1,0 +1,105 @@
+{
+  "Effect Group Name": "Group_PinkCat_Slash_L",
+  "Duration": 0.15000000596046448,
+  "Loop": false,
+  "Is Collider": false,
+  "Collider Type": 0,
+  "Collision Flag": 0,
+  "Collision Layer": 256,
+  "Sphere Collider Radius": 0.0,
+  "Box Collider Extents": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Box Collider LocalPosition": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Box Collider LocalRotate": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Sound Name": "",
+  "Sound Loop": false,
+  "Sound Value": 1.0,
+  "Effects": [
+    {
+      "Effect Name": "Effect Mesh - EffectMesh_PinkCat_Slash_L",
+      "RenderType": 9,
+      "EffectType": 1,
+      "Model File Path": "../../Resource/Models/Dat/NonAnim/EffectMeshs/Plane.dat",
+      "Effect Shader Name": "FX_EffectMesh_PNT2T",
+      "Scale": [
+        2.5,
+        2.5,
+        2.5
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Translation": [
+        0.0,
+        0.0,
+        0.5
+      ],
+      "Diffuse Color1": [
+        1.0,
+        0.7557669878005981,
+        0.406862735748291,
+        1.0
+      ],
+      "Diffuse Color2": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Diffuse Color3": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Diffuse Texture Name": "",
+      "Noise Texture Name": "T_VFX_tk_scratch_01e",
+      "Mask Texture Name": "FX_BI_ScratchMark",
+      "Distortion Texture Name": "",
+      "Dissolve Texture Name": "Eff_Noise_01",
+      "Is Sprite": false,
+      "Sprite Row": 1,
+      "Sprite Col": 1,
+      "Sprite Speed": 1.0,
+      "Is Anim": false,
+      "Is Loop": false,
+      "Is UVMove Loop": false,
+      "Is Glow": false,
+      "Is Bloom": false,
+      "Is AlphaAttenuation": false,
+      "Use Diffuse Texture": false,
+      "Use Noise Texture": true,
+      "Use Mask Texture": true,
+      "Use Distortion Texture": false,
+      "Use Dissolve Texture": true,
+      "Distortion Weight": 0.0,
+      "Dissolve Weight": 1.0,
+      "Glow Weight": 0.0,
+      "Bloom Weight": 0.0,
+      "AlphaAttenuation Weight": 0.0,
+      "Life Time": [
+        0.0,
+        0.15000000596046448
+      ],
+      "UVMove Speed": [
+        0.0,
+        0.0
+      ],
+      "Num KeyFrames": 0,
+      "KeyFrames": []
+    }
+  ]
+}

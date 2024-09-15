@@ -1,0 +1,18 @@
+[
+	{
+		"AttachBoneName" : "spine_01",
+		"Duration" : 0.93880176544189453,
+		"EndTime" : 2.4805490970611572,
+		"OffsetDataArray" : 
+		[
+			{
+				"SphereRadius" : 0.0,
+				"vRelativeLocationX" : 0.0,
+				"vRelativeLocationY" : 0.0,
+				"vRelativeLocationZ" : 0.0
+			}
+		],
+		"StartTime" : 1.5417473316192627,
+		"Type" : "Collision"
+	}
+]

@@ -1,0 +1,53 @@
+{
+  "Textures": {
+    "Base Texture": "Pal/Content/Pal/Model/Character/NPC/SK_NPC_Female_Soldier04/T_NPC_Female_Soldier04_Body_B.T_NPC_Female_Soldier04_Body_B",
+    "T_NPC_Female_Soldier04_Body_B": "Pal/Content/Pal/Model/Character/NPC/SK_NPC_Female_Soldier04/T_NPC_Female_Soldier04_Body_B.T_NPC_Female_Soldier04_Body_B",
+    "PM_SpecularMasks": "Pal/Content/Pal/Model/Character/NPC/SK_NPC_Female_Soldier04/T_NPC_Female_Soldier04_Body_M.T_NPC_Female_Soldier04_Body_M",
+    "MetallicRoughnessOcclusionSpecularTexture": "Pal/Content/Pal/Model/Character/NPC/SK_NPC_Female_Soldier04/T_NPC_Female_Soldier04_Body_M.T_NPC_Female_Soldier04_Body_M",
+    "PM_Normals": "Pal/Content/Pal/Model/Character/NPC/SK_NPC_Female_Soldier04/T_NPC_Female_Soldier04_Body_N.T_NPC_Female_Soldier04_Body_N",
+    "Normal Map": "Pal/Content/Pal/Model/Character/NPC/SK_NPC_Female_Soldier04/T_NPC_Female_Soldier04_Body_N.T_NPC_Female_Soldier04_Body_N",
+    "Subsurface Texture": "Pal/Content/Pal/Material/DefaultBaseTexture.DefaultBaseTexture",
+    "DefaultBaseTexture": "Pal/Content/Pal/Material/DefaultBaseTexture.DefaultBaseTexture"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 2,
+    "Colors": {
+      "BaseColor": {
+        "R": 0.755208,
+        "G": 0.755208,
+        "B": 0.755208,
+        "A": 1.0,
+        "Hex": "FFE2E2E2"
+      }
+    },
+    "Scalars": {
+      "Roughness Add": 0.4,
+      "Normal Map Intensity": 1.0,
+      "Half Lambert": 0.2,
+      "Toony Factor": 0.3,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "bOverride_OpacityMaskClipValue": true,
+        "bOverride_ShadingModel": true,
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_Subsurface",
+        "OpacityMaskClipValue": 0.0
+      },
+      "SubsurfaceProfile": {
+        "ObjectName": "SubsurfaceProfile'SP_CharacterBodyBase'",
+        "ObjectPath": "Pal/Content/Pal/Material/Character/Common/SP_CharacterBodyBase.0"
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

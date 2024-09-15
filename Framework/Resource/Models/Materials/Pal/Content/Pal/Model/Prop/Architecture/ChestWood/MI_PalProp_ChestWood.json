@@ -1,0 +1,38 @@
+{
+  "Textures": {
+    "Base Texture": "Pal/Content/Pal/Model/Prop/Architecture/ChestWood/MI_ChestWood_B.MI_ChestWood_B",
+    "MI_ChestWood_B": "Pal/Content/Pal/Model/Prop/Architecture/ChestWood/MI_ChestWood_B.MI_ChestWood_B",
+    "PM_SpecularMasks": "Pal/Content/Pal/Model/Prop/Architecture/ChestWood/MI_ChestWood_M.MI_ChestWood_M",
+    "MetallicRoughnessOcclusionSpecularTexture": "Pal/Content/Pal/Model/Prop/Architecture/ChestWood/MI_ChestWood_M.MI_ChestWood_M",
+    "PM_Normals": "Pal/Content/Pal/Model/Prop/Architecture/ChestWood/MI_ChestWood_N.MI_ChestWood_N",
+    "Normal Map": "Pal/Content/Pal/Model/Prop/Architecture/ChestWood/MI_ChestWood_N.MI_ChestWood_N"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "Saturation": 0.496,
+      "Value": 0.7,
+      "Roughness Add": 0.3,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "SubsurfaceProfile": {
+        "ObjectName": "SubsurfaceProfile'SP_CharacterBodyBase'",
+        "ObjectPath": "Pal/Content/Pal/Material/Character/Common/SP_CharacterBodyBase.0"
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "Textures": {
+    "BaseColor": "Pal/Content/Others/Medieval_Town/Mesh/Interior_props/Tools/M_Tool_01.tool_props_text_Tools_01_BaseColor",
+    "OcclusionRoughnessMetallic": "Pal/Content/Others/Medieval_Town/Mesh/Interior_props/Tools/M_Tool_01.tool_props_text_Tools_01_OcclusionRoughnessMetallic",
+    "Normals": "Pal/Content/Others/Medieval_Town/Mesh/Interior_props/Tools/M_Tool_01.tool_props_text_Tools_01_Normal"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      }
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

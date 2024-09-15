@@ -1,0 +1,55 @@
+{
+  "Textures": {
+    "Base Texture": "Pal/Content/Pal/Model/Character/NPC/Boss/ForestBoss/SK_NPC_Outfit_ForestBoss001/T_NPC_Outfit_ForestBoss001_M02_B.T_NPC_Outfit_ForestBoss001_M02_B",
+    "T_NPC_Outfit_ForestBoss001_M02_B": "Pal/Content/Pal/Model/Character/NPC/Boss/ForestBoss/SK_NPC_Outfit_ForestBoss001/T_NPC_Outfit_ForestBoss001_M02_B.T_NPC_Outfit_ForestBoss001_M02_B",
+    "PM_SpecularMasks": "Pal/Content/Pal/Model/Character/NPC/Boss/ForestBoss/SK_NPC_Outfit_ForestBoss001/T_NPC_Outfit_ForestBoss001_M02_M.T_NPC_Outfit_ForestBoss001_M02_M",
+    "MetallicRoughnessOcclusionSpecularTexture": "Pal/Content/Pal/Model/Character/NPC/Boss/ForestBoss/SK_NPC_Outfit_ForestBoss001/T_NPC_Outfit_ForestBoss001_M02_M.T_NPC_Outfit_ForestBoss001_M02_M",
+    "PM_Normals": "Pal/Content/Pal/Model/Character/NPC/Boss/ForestBoss/SK_NPC_Outfit_ForestBoss001/T_NPC_Outfit_ForestBoss001_M02_N.T_NPC_Outfit_ForestBoss001_M02_N",
+    "Normal Map": "Pal/Content/Pal/Model/Character/NPC/Boss/ForestBoss/SK_NPC_Outfit_ForestBoss001/T_NPC_Outfit_ForestBoss001_M02_N.T_NPC_Outfit_ForestBoss001_M02_N",
+    "Subsurface Texture": "Pal/Content/Pal/Material/DefaultBaseTexture.DefaultBaseTexture",
+    "DefaultBaseTexture": "Pal/Content/Pal/Material/DefaultBaseTexture.DefaultBaseTexture"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 4,
+    "Colors": {
+      "Subsurface Color": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 0.0,
+        "Hex": "000000"
+      }
+    },
+    "Scalars": {
+      "Jewel Opacity": 1.0,
+      "Jewel Refract Color Power": 0.0,
+      "Jewel Refract Color Rate": 0.056,
+      "Jewel Refraction": 3.448,
+      "Metallic Add": 0.1,
+      "Roughness Add": 0.28,
+      "Specular": 0.06,
+      "Light Affect Emissive Intensity": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_ClearCoat",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "SubsurfaceProfile": {
+        "ObjectName": "SubsurfaceProfile'SP_CharacterBodyBase'",
+        "ObjectPath": "Pal/Content/Pal/Material/Character/Common/SP_CharacterBodyBase.0"
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

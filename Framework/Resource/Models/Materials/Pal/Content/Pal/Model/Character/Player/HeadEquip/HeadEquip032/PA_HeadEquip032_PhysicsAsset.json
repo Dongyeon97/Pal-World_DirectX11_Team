@@ -1,0 +1,133 @@
+[
+  {
+    "Type": "PhysicsAsset",
+    "Name": "PA_HeadEquip032_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsAsset'",
+    "Properties": {
+      "BoundsBodies": [
+        0,
+        1
+      ],
+      "SkeletalBodySetups": [
+        {
+          "ObjectName": "SkeletalBodySetup'PA_HeadEquip032_PhysicsAsset:SkeletalBodySetup_0'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Player/HeadEquip/HeadEquip032/PA_HeadEquip032_PhysicsAsset.2"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'PA_HeadEquip032_PhysicsAsset:SkeletalBodySetup_1'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Player/HeadEquip/HeadEquip032/PA_HeadEquip032_PhysicsAsset.3"
+        }
+      ],
+      "ConstraintSetup": [
+        {
+          "ObjectName": "PhysicsConstraintTemplate'PA_HeadEquip032_PhysicsAsset:PhysicsConstraintTemplate_0'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Player/HeadEquip/HeadEquip032/PA_HeadEquip032_PhysicsAsset.1"
+        }
+      ],
+      "ThumbnailInfo": null
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_0",
+    "Outer": "PA_HeadEquip032_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "HeadEquip032_02_02",
+        "ConstraintBone1": "HeadEquip032_02_02",
+        "ConstraintBone2": "head",
+        "Pos2": {
+          "X": 21.964151,
+          "Y": -17.404505,
+          "Z": -1.4234844E-05
+        },
+        "PriAxis2": {
+          "X": -0.52991927,
+          "Y": -0.8480481,
+          "Z": 1.5250558E-06
+        },
+        "SecAxis2": {
+          "X": -0.8480481,
+          "Y": 0.52991927,
+          "Z": 2.252173E-06
+        },
+        "ProfileInstance": {
+          "ConeLimit": {
+            "Swing1Motion": "EAngularConstraintMotion::ACM_Limited",
+            "Swing2Motion": "EAngularConstraintMotion::ACM_Limited"
+          },
+          "TwistLimit": {
+            "TwistMotion": "EAngularConstraintMotion::ACM_Limited"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_0",
+    "Outer": "PA_HeadEquip032_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphylElems": [
+          {
+            "Center": {
+              "X": 10.834466,
+              "Y": -3.585884,
+              "Z": 1.2047323
+            },
+            "Rotation": {
+              "Pitch": 3.1805547E-15,
+              "Yaw": 23.767336,
+              "Roll": -87.207596
+            },
+            "Radius": 13.701042,
+            "Length": 18.392872,
+            "RestOffset": 0.0,
+            "Name": "None",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "head",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "4785056248DD71F19ECF2AA5FCA25AFC"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_1",
+    "Outer": "PA_HeadEquip032_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphylElems": [
+          {
+            "Center": {
+              "X": 10.877473,
+              "Y": 4.0021524,
+              "Z": -0.049019147
+            },
+            "Rotation": {
+              "Pitch": 3.1805547E-15,
+              "Yaw": -38.563976,
+              "Roll": -89.5304
+            },
+            "Radius": 7.580853,
+            "Length": 18.15904,
+            "RestOffset": 0.0,
+            "Name": "None",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "HeadEquip032_02_02",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "5B67BA044BDAEB8A307A39964B95463A"
+  }
+]

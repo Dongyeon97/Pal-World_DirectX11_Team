@@ -1,0 +1,38 @@
+{
+  "Textures": {
+    "Base Texture": "Pal/Content/Pal/Model/Prop/Architecture/PalSphereFactoryMedieval/Material/T_PalSphereFactoryMedievalAddpartsB_B.T_PalSphereFactoryMedievalAddpartsB_B",
+    "T_PalSphereFactoryMedievalAddpartsB_B": "Pal/Content/Pal/Model/Prop/Architecture/PalSphereFactoryMedieval/Material/T_PalSphereFactoryMedievalAddpartsB_B.T_PalSphereFactoryMedievalAddpartsB_B",
+    "PM_SpecularMasks": "Pal/Content/Pal/Model/Prop/Architecture/PalSphereFactoryMedieval/Material/T_PalSphereFactoryMedievalAddpartsB_M.T_PalSphereFactoryMedievalAddpartsB_M",
+    "MetallicRoughnessOcclusionSpecularTexture": "Pal/Content/Pal/Model/Prop/Architecture/PalSphereFactoryMedieval/Material/T_PalSphereFactoryMedievalAddpartsB_M.T_PalSphereFactoryMedievalAddpartsB_M",
+    "PM_Normals": "Pal/Content/Pal/Model/Prop/Architecture/PalSphereFactoryMedieval/Material/T_PalSphereFactoryMedievalAddpartsB_N.T_PalSphereFactoryMedievalAddpartsB_N",
+    "Normal Map": "Pal/Content/Pal/Model/Prop/Architecture/PalSphereFactoryMedieval/Material/T_PalSphereFactoryMedievalAddpartsB_N.T_PalSphereFactoryMedievalAddpartsB_N"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 4,
+    "Colors": {},
+    "Scalars": {
+      "Specular": 0.2,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_ClearCoat",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "SubsurfaceProfile": {
+        "ObjectName": "SubsurfaceProfile'SP_CharacterBodyBase'",
+        "ObjectPath": "Pal/Content/Pal/Material/Character/Common/SP_CharacterBodyBase.0"
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

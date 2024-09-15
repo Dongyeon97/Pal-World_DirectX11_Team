@@ -1,0 +1,36 @@
+{
+  "Textures": {
+    "Base Texture": "Pal/Content/Pal/Model/Weapon/RocketLauncher/SK_Weapon_RocketLauncher_002/Material/T_Weapon_RocketLauncher_002_B.T_Weapon_RocketLauncher_002_B",
+    "T_Weapon_RocketLauncher_002_B": "Pal/Content/Pal/Model/Weapon/RocketLauncher/SK_Weapon_RocketLauncher_002/Material/T_Weapon_RocketLauncher_002_B.T_Weapon_RocketLauncher_002_B",
+    "PM_SpecularMasks": "Pal/Content/Pal/Model/Weapon/RocketLauncher/SK_Weapon_RocketLauncher_002/Material/T_Weapon_RocketLauncher_002_M.T_Weapon_RocketLauncher_002_M",
+    "MetallicRoughnessOcclusionSpecularTexture": "Pal/Content/Pal/Model/Weapon/RocketLauncher/SK_Weapon_RocketLauncher_002/Material/T_Weapon_RocketLauncher_002_M.T_Weapon_RocketLauncher_002_M",
+    "PM_Normals": "Pal/Content/Pal/Model/Weapon/RocketLauncher/SK_Weapon_RocketLauncher_002/Material/T_Weapon_RocketLauncher_002_N.T_Weapon_RocketLauncher_002_N",
+    "Normal Map": "Pal/Content/Pal/Model/Weapon/RocketLauncher/SK_Weapon_RocketLauncher_002/Material/T_Weapon_RocketLauncher_002_N.T_Weapon_RocketLauncher_002_N"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "Value": 0.7,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "SubsurfaceProfile": {
+        "ObjectName": "SubsurfaceProfile'SP_CharacterBodyBase'",
+        "ObjectPath": "Pal/Content/Pal/Material/Character/Common/SP_CharacterBodyBase.0"
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

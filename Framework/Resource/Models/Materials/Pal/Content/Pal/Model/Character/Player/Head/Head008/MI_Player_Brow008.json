@@ -1,0 +1,49 @@
+{
+  "Textures": {
+    "Base Texture": "Pal/Content/Pal/Model/Character/Player/Head/Head008/T_Player_Brow008_B.T_Player_Brow008_B",
+    "T_Player_Brow008_B": "Pal/Content/Pal/Model/Character/Player/Head/Head008/T_Player_Brow008_B.T_Player_Brow008_B",
+    "PM_Diffuse": "Pal/Content/Pal/Model/Character/Player/Head/Head008/T_Player_Brow008_CM.T_Player_Brow008_CM",
+    "BaseColor Mask": "Pal/Content/Pal/Model/Character/Player/Head/Head008/T_Player_Brow008_CM.T_Player_Brow008_CM",
+    "PM_SpecularMasks": "Pal/Content/Pal/Model/Character/Player/Head/Head008/T_Player_Brow008_M.T_Player_Brow008_M",
+    "MetallicRoughnessOcclusionSpecularTexture": "Pal/Content/Pal/Model/Character/Player/Head/Head008/T_Player_Brow008_M.T_Player_Brow008_M",
+    "PM_Normals": "Pal/Content/Pal/Model/Character/Player/Head/Head008/T_Player_Brow008_N.T_Player_Brow008_N",
+    "Normal Map": "Pal/Content/Pal/Model/Character/Player/Head/Head008/T_Player_Brow008_N.T_Player_Brow008_N"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 4,
+    "Colors": {
+      "BaseColor": {
+        "R": 0.40625,
+        "G": 0.389323,
+        "B": 0.393979,
+        "A": 1.0,
+        "Hex": "FFABA8A9"
+      }
+    },
+    "Scalars": {
+      "Character CameraFade Distance": 30.0,
+      "Roughness Add": 0.68,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_ClearCoat",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "SubsurfaceProfile": {
+        "ObjectName": "SubsurfaceProfile'SP_CharacterBodyBase'",
+        "ObjectPath": "Pal/Content/Pal/Material/Character/Common/SP_CharacterBodyBase.0"
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

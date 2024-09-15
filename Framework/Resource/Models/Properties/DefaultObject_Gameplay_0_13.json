@@ -1,0 +1,3269 @@
+{
+    "M_SM_MERGED_StaticMeshActor_136.mat": {
+        "texture_count": 4,
+        "shader_name": "M_PalLit_Env",
+        "textures": [
+            {
+                "name": "T_SM_MERGED_StaticMeshActor_136_BaseColor",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\NatureCaveCliff\\Texture\\T_SM_MERGED_StaticMeshActor_136_BaseColor.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_D_2",
+                "usage": "Detail Diffuse",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_D_2.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_N",
+                "usage": "Detail Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_N.png"
+            },
+            {
+                "name": "T_SM_MERGED_StaticMeshActor_136_Normal",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\NatureCaveCliff\\Texture\\T_SM_MERGED_StaticMeshActor_136_Normal.png"
+            }
+        ]
+    },
+    "M_SM_MERGED_StaticMeshActor_33.mat": {
+        "texture_count": 4,
+        "shader_name": "M_PalLit_Env",
+        "textures": [
+            {
+                "name": "T_SM_MERGED_StaticMeshActor_33_BaseColor",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\NatureCaveCliff\\Texture\\T_SM_MERGED_StaticMeshActor_33_BaseColor.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_D_2",
+                "usage": "Detail Diffuse",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_D_2.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_N",
+                "usage": "Detail Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_N.png"
+            },
+            {
+                "name": "T_SM_MERGED_StaticMeshActor_33_Normal",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\NatureCaveCliff\\Texture\\T_SM_MERGED_StaticMeshActor_33_Normal.png"
+            }
+        ]
+    },
+    "M_SM_MERGED_StaticMeshActor_58.mat": {
+        "texture_count": 4,
+        "shader_name": "M_PalLit_Env",
+        "textures": [
+            {
+                "name": "T_SM_MERGED_StaticMeshActor_58_BaseColor",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\NatureCaveCliff\\Texture\\T_SM_MERGED_StaticMeshActor_58_BaseColor.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_D_2",
+                "usage": "Detail Diffuse",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_D_2.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_N",
+                "usage": "Detail Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_N.png"
+            },
+            {
+                "name": "T_SM_MERGED_StaticMeshActor_58_Normal",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\NatureCaveCliff\\Texture\\T_SM_MERGED_StaticMeshActor_58_Normal.png"
+            }
+        ]
+    },
+    "MI_Cliff_customlarge_01.mat": {
+        "texture_count": 7,
+        "shader_name": "M_PalLit_Top",
+        "textures": [
+            {
+                "name": "T_pal_b00_cliff_customlarge_01_02_D",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Texture/Stage/cliff_rock_stone/SP_BrushUp/T_pal_b00_cliff_customlarge_01_02_D.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_D",
+                "usage": "Detail Diffuse",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_D.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_N",
+                "usage": "Detail Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_N.png"
+            },
+            {
+                "name": "T_pal_b00_cliff_customlarge_01_02_MRO",
+                "usage": "MetallicRoughnessOcclusionSpecularTexture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Texture/Stage/cliff_rock_stone/SP_BrushUp/T_pal_b00_cliff_customlarge_01_02_MRO.png"
+            },
+            {
+                "name": "T_pal_b00_cliff_customlarge_01_03_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Texture/Stage/cliff_rock_stone/SP_BrushUp/T_pal_b00_cliff_customlarge_01_03_N.png"
+            },
+            {
+                "name": "Grass0073_D",
+                "usage": "Top Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\LandscapeAutoMaterial\\Textures\\Tiles\\Grass01\\Grass0073_D.png"
+            },
+            {
+                "name": "vebkaeys_4K_Normal",
+                "usage": "Top Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Field_Asset_CustomLargeCliff\\Texture\\vebkaeys_4K_Normal.png"
+            }
+        ]
+    },
+    "MI_Cliff_customlarge_02.mat": {
+        "texture_count": 7,
+        "shader_name": "M_PalLit_Top",
+        "textures": [
+            {
+                "name": "T_pal_b00_cliff_customlarge_02_03_D",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Texture\\Stage\\cliff_rock_stone\\SP_BrushUp\\T_pal_b00_cliff_customlarge_02_03_D.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_D",
+                "usage": "Detail Diffuse",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_D.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_N",
+                "usage": "Detail Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_N.png"
+            },
+            {
+                "name": "T_pal_b00_cliff_customlarge_02_MRO",
+                "usage": "MetallicRoughnessOcclusionSpecularTexture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Texture\\Stage\\cliff_rock_stone\\SP_BrushUp\\T_pal_b00_cliff_customlarge_02_MRO.png"
+            },
+            {
+                "name": "T_pal_b00_cliff_customlarge_02_02_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Texture\\Stage\\cliff_rock_stone\\SP_BrushUp\\T_pal_b00_cliff_customlarge_02_02_N.png"
+            },
+            {
+                "name": "Grass0073_D",
+                "usage": "Top Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\LandscapeAutoMaterial\\Textures\\Tiles\\Grass01\\Grass0073_D.png"
+            },
+            {
+                "name": "vebkaeys_4K_Normal",
+                "usage": "Top Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Field_Asset_CustomLargeCliff\\Texture\\vebkaeys_4K_Normal.png"
+            }
+        ]
+    },
+    "MI_Cliff_customlarge_02_noTop.mat": {
+        "texture_count": 5,
+        "shader_name": "M_PalLit_Env",
+        "textures": [
+            {
+                "name": "T_pal_b00_cliff_customlarge_02_04_D",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Texture/Stage/cliff_rock_stone/SP_BrushUp/T_pal_b00_cliff_customlarge_02_04_D.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_D_2",
+                "usage": "Detail Diffuse",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_D_2.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_N",
+                "usage": "Detail Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_N.png"
+            },
+            {
+                "name": "T_pal_b00_cliff_customlarge_02_MRO",
+                "usage": "MetallicRoughnessOcclusionSpecularTexture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Texture\\Stage\\cliff_rock_stone\\SP_BrushUp\\T_pal_b00_cliff_customlarge_02_MRO.png"
+            },
+            {
+                "name": "T_pal_b00_cliff_customlarge_02_02_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Texture\\Stage\\cliff_rock_stone\\SP_BrushUp\\T_pal_b00_cliff_customlarge_02_02_N.png"
+            }
+        ]
+    },
+    "MI_Cliff_Formation_2_.mat": {
+        "texture_count": 8,
+        "shader_name": "M_PalLit_Top",
+        "textures": [
+            {
+                "name": "T_pal_b00_rock_Cliff_Formation_D",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Field_Asset_CustomLargeCliff\\Texture\\T_pal_b00_rock_Cliff_Formation_D.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_D",
+                "usage": "Detail Diffuse",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_D.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_N",
+                "usage": "Detail Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_N.png"
+            },
+            {
+                "name": "T_pal_b00_rock_Cliff_Formation_MRO",
+                "usage": "MetallicRoughnessOcclusionSpecularTexture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Field_Asset_CustomLargeCliff\\Texture\\T_pal_b00_rock_Cliff_Formation_MRO.png"
+            },
+            {
+                "name": "T_pal_b00_rock_Cliff_Formation_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Field_Asset_CustomLargeCliff\\Texture\\T_pal_b00_rock_Cliff_Formation_N.png"
+            },
+            {
+                "name": "Grass0073_D",
+                "usage": "Top Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\LandscapeAutoMaterial\\Textures\\Tiles\\Grass01\\Grass0073_D.png"
+            },
+            {
+                "name": "T_Grass0073_MRO",
+                "usage": "Top MetallicRoughnessOcclusionSpecularTexture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\LandscapeAutoMaterial\\Textures\\Tiles\\Grass01\\T_Grass0073_MRO.png"
+            },
+            {
+                "name": "Grass0072_N",
+                "usage": "Top Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\LandscapeAutoMaterial\\Textures\\Tiles\\Grass01\\Grass0072_N.png"
+            }
+        ]
+    },
+    "MI_Cliff_Formation_2_noTop.mat": {
+        "texture_count": 5,
+        "shader_name": "M_PalLit_Env",
+        "textures": [
+            {
+                "name": "T_pal_b00_rock_Cliff_Formation_D",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Field_Asset_CustomLargeCliff\\Texture\\T_pal_b00_rock_Cliff_Formation_D.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_D_2",
+                "usage": "Detail Diffuse",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_D_2.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_N",
+                "usage": "Detail Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_N.png"
+            },
+            {
+                "name": "T_pal_b00_rock_Cliff_Formation_MRO",
+                "usage": "MetallicRoughnessOcclusionSpecularTexture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Field_Asset_CustomLargeCliff\\Texture\\T_pal_b00_rock_Cliff_Formation_MRO.png"
+            },
+            {
+                "name": "T_pal_b00_rock_Cliff_Formation_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Field_Asset_CustomLargeCliff\\Texture\\T_pal_b00_rock_Cliff_Formation_N.png"
+            }
+        ]
+    },
+    "MI_Cliff_Formation_3_.mat": {
+        "texture_count": 8,
+        "shader_name": "M_PalLit_Top",
+        "textures": [
+            {
+                "name": "T_pal_b00_rock_Cliff_Formation_3_D",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Field_Asset_CustomLargeCliff\\Texture\\T_pal_b00_rock_Cliff_Formation_3_D.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_D",
+                "usage": "Detail Diffuse",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_D.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_N",
+                "usage": "Detail Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_N.png"
+            },
+            {
+                "name": "T_pal_b00_rock_Cliff_Formation_3_MRO",
+                "usage": "MetallicRoughnessOcclusionSpecularTexture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Field_Asset_CustomLargeCliff\\Texture\\T_pal_b00_rock_Cliff_Formation_3_MRO.png"
+            },
+            {
+                "name": "T_pal_b00_rock_Cliff_Formation_3_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Field_Asset_CustomLargeCliff\\Texture\\T_pal_b00_rock_Cliff_Formation_3_N.png"
+            },
+            {
+                "name": "Grass0073_D",
+                "usage": "Top Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\LandscapeAutoMaterial\\Textures\\Tiles\\Grass01\\Grass0073_D.png"
+            },
+            {
+                "name": "T_Grass0073_MRO",
+                "usage": "Top MetallicRoughnessOcclusionSpecularTexture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\LandscapeAutoMaterial\\Textures\\Tiles\\Grass01\\T_Grass0073_MRO.png"
+            },
+            {
+                "name": "vebkaeys_4K_Normal",
+                "usage": "Top Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Field_Asset_CustomLargeCliff\\Texture\\vebkaeys_4K_Normal.png"
+            }
+        ]
+    },
+    "MI_Cliff_Formation_3_noTop.mat": {
+        "texture_count": 5,
+        "shader_name": "M_PalLit_Env",
+        "textures": [
+            {
+                "name": "T_pal_b00_rock_Cliff_Formation_3_D",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Field_Asset_CustomLargeCliff\\Texture\\T_pal_b00_rock_Cliff_Formation_3_D.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_D_2",
+                "usage": "Detail Diffuse",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_D_2.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_N",
+                "usage": "Detail Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_N.png"
+            },
+            {
+                "name": "T_pal_b00_rock_Cliff_Formation_3_MRO",
+                "usage": "MetallicRoughnessOcclusionSpecularTexture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Field_Asset_CustomLargeCliff\\Texture\\T_pal_b00_rock_Cliff_Formation_3_MRO.png"
+            },
+            {
+                "name": "T_pal_b00_rock_Cliff_Formation_3_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Field_Asset_CustomLargeCliff\\Texture\\T_pal_b00_rock_Cliff_Formation_3_N.png"
+            }
+        ]
+    },
+    "MI_Cliff_Formation_4_.mat": {
+        "texture_count": 8,
+        "shader_name": "M_PalLit_Top",
+        "textures": [
+            {
+                "name": "T_pal_b00_rock_Cliff_Formation_4_D",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Field_Asset_CustomLargeCliff\\Texture\\T_pal_b00_rock_Cliff_Formation_4_D.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_D",
+                "usage": "Detail Diffuse",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_D.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_N",
+                "usage": "Detail Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_N.png"
+            },
+            {
+                "name": "T_pal_b00_rock_Cliff_Formation_4_MRO",
+                "usage": "MetallicRoughnessOcclusionSpecularTexture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Field_Asset_CustomLargeCliff\\Texture\\T_pal_b00_rock_Cliff_Formation_4_MRO.png"
+            },
+            {
+                "name": "T_pal_b00_rock_Cliff_Formation_4_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Field_Asset_CustomLargeCliff\\Texture\\T_pal_b00_rock_Cliff_Formation_4_N.png"
+            },
+            {
+                "name": "Grass0073_D",
+                "usage": "Top Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\LandscapeAutoMaterial\\Textures\\Tiles\\Grass01\\Grass0073_D.png"
+            },
+            {
+                "name": "T_Grass0073_MRO",
+                "usage": "Top MetallicRoughnessOcclusionSpecularTexture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\LandscapeAutoMaterial\\Textures\\Tiles\\Grass01\\T_Grass0073_MRO.png"
+            },
+            {
+                "name": "Grass0072_N",
+                "usage": "Top Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\LandscapeAutoMaterial\\Textures\\Tiles\\Grass01\\Grass0072_N.png"
+            }
+        ]
+    },
+    "MI_Cliff_Formation_4_noTop.mat": {
+        "texture_count": 5,
+        "shader_name": "M_PalLit_Env",
+        "textures": [
+            {
+                "name": "T_pal_b00_rock_Cliff_Formation_4_D",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Field_Asset_CustomLargeCliff\\Texture\\T_pal_b00_rock_Cliff_Formation_4_D.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_D_2",
+                "usage": "Detail Diffuse",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_D_2.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_N",
+                "usage": "Detail Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_N.png"
+            },
+            {
+                "name": "T_pal_b00_rock_Cliff_Formation_4_MRO",
+                "usage": "MetallicRoughnessOcclusionSpecularTexture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Field_Asset_CustomLargeCliff\\Texture\\T_pal_b00_rock_Cliff_Formation_4_MRO.png"
+            },
+            {
+                "name": "T_pal_b00_rock_Cliff_Formation_4_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Field_Asset_CustomLargeCliff\\Texture\\T_pal_b00_rock_Cliff_Formation_4_N.png"
+            }
+        ]
+    },
+    "MI_Cliff_Formation_5_.mat": {
+        "texture_count": 8,
+        "shader_name": "M_PalLit_Top",
+        "textures": [
+            {
+                "name": "T_pal_b00_rock_Cliff_Formation_5_02_D",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Field_Asset_CustomLargeCliff\\Texture\\T_pal_b00_rock_Cliff_Formation_5_02_D.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_D",
+                "usage": "Detail Diffuse",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_D.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_N",
+                "usage": "Detail Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_N.png"
+            },
+            {
+                "name": "T_pal_b00_rock_Cliff_Formation_5_02_MRO",
+                "usage": "MetallicRoughnessOcclusionSpecularTexture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Field_Asset_CustomLargeCliff\\Texture\\T_pal_b00_rock_Cliff_Formation_5_02_MRO.png"
+            },
+            {
+                "name": "T_pal_b00_rock_Cliff_Formation_5_02_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Field_Asset_CustomLargeCliff\\Texture\\T_pal_b00_rock_Cliff_Formation_5_02_N.png"
+            },
+            {
+                "name": "Grass0073_D",
+                "usage": "Top Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\LandscapeAutoMaterial\\Textures\\Tiles\\Grass01\\Grass0073_D.png"
+            },
+            {
+                "name": "T_Grass0073_MRO",
+                "usage": "Top MetallicRoughnessOcclusionSpecularTexture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\LandscapeAutoMaterial\\Textures\\Tiles\\Grass01\\T_Grass0073_MRO.png"
+            },
+            {
+                "name": "vebkaeys_4K_Normal",
+                "usage": "Top Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Field_Asset_CustomLargeCliff\\Texture\\vebkaeys_4K_Normal.png"
+            }
+        ]
+    },
+    "MI_Cliff_Formation_5_noTop.mat": {
+        "texture_count": 5,
+        "shader_name": "M_PalLit_Env",
+        "textures": [
+            {
+                "name": "T_pal_b00_rock_Cliff_Formation_5_02_D",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Field_Asset_CustomLargeCliff\\Texture\\T_pal_b00_rock_Cliff_Formation_5_02_D.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_D_2",
+                "usage": "Detail Diffuse",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_D_2.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_N",
+                "usage": "Detail Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_N.png"
+            },
+            {
+                "name": "T_pal_b00_rock_Cliff_Formation_5_02_MRO",
+                "usage": "MetallicRoughnessOcclusionSpecularTexture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Field_Asset_CustomLargeCliff\\Texture\\T_pal_b00_rock_Cliff_Formation_5_02_MRO.png"
+            },
+            {
+                "name": "T_pal_b00_rock_Cliff_Formation_5_02_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Field_Asset_CustomLargeCliff\\Texture\\T_pal_b00_rock_Cliff_Formation_5_02_N.png"
+            }
+        ]
+    },
+    "MI_Cliff_Formation_6_.mat": {
+        "texture_count": 8,
+        "shader_name": "M_PalLit_Top",
+        "textures": [
+            {
+                "name": "T_pal_b00_rock_Cliff_Formation_6_03_D",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Field_Asset_CustomLargeCliff\\Texture\\T_pal_b00_rock_Cliff_Formation_6_03_D.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_D",
+                "usage": "Detail Diffuse",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_D.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_N",
+                "usage": "Detail Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_N.png"
+            },
+            {
+                "name": "T_pal_b00_rock_Cliff_Formation_6_03_MRO",
+                "usage": "MetallicRoughnessOcclusionSpecularTexture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Field_Asset_CustomLargeCliff\\Texture\\T_pal_b00_rock_Cliff_Formation_6_03_MRO.png"
+            },
+            {
+                "name": "T_pal_b00_rock_Cliff_Formation_6_03_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Field_Asset_CustomLargeCliff\\Texture\\T_pal_b00_rock_Cliff_Formation_6_03_N.png"
+            },
+            {
+                "name": "Grass0073_D",
+                "usage": "Top Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\LandscapeAutoMaterial\\Textures\\Tiles\\Grass01\\Grass0073_D.png"
+            },
+            {
+                "name": "T_Grass0073_MRO",
+                "usage": "Top MetallicRoughnessOcclusionSpecularTexture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\LandscapeAutoMaterial\\Textures\\Tiles\\Grass01\\T_Grass0073_MRO.png"
+            },
+            {
+                "name": "vebkaeys_4K_Normal",
+                "usage": "Top Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Field_Asset_CustomLargeCliff\\Texture\\vebkaeys_4K_Normal.png"
+            }
+        ]
+    },
+    "MI_Cliff_Formation_6_noTop.mat": {
+        "texture_count": 5,
+        "shader_name": "M_PalLit_Env",
+        "textures": [
+            {
+                "name": "T_pal_b00_rock_Cliff_Formation_6_03_D",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Field_Asset_CustomLargeCliff\\Texture\\T_pal_b00_rock_Cliff_Formation_6_03_D.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_D_2",
+                "usage": "Detail Diffuse",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_D_2.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_N",
+                "usage": "Detail Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_N.png"
+            },
+            {
+                "name": "T_pal_b00_rock_Cliff_Formation_6_03_MRO",
+                "usage": "MetallicRoughnessOcclusionSpecularTexture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Field_Asset_CustomLargeCliff\\Texture\\T_pal_b00_rock_Cliff_Formation_6_03_MRO.png"
+            },
+            {
+                "name": "T_pal_b00_rock_Cliff_Formation_6_03_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Field_Asset_CustomLargeCliff\\Texture\\T_pal_b00_rock_Cliff_Formation_6_03_N.png"
+            }
+        ]
+    },
+    "MI_Cliff_Formation_7_.mat": {
+        "texture_count": 8,
+        "shader_name": "M_PalLit_Top",
+        "textures": [
+            {
+                "name": "T_pal_b00_rock_Cliff_Formation_7_02_D",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Field_Asset_CustomLargeCliff\\Texture\\T_pal_b00_rock_Cliff_Formation_7_02_D.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_D",
+                "usage": "Detail Diffuse",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_D.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_N",
+                "usage": "Detail Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_N.png"
+            },
+            {
+                "name": "T_pal_b00_rock_Cliff_Formation_7_02_MRO",
+                "usage": "MetallicRoughnessOcclusionSpecularTexture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Field_Asset_CustomLargeCliff\\Texture\\T_pal_b00_rock_Cliff_Formation_7_02_MRO.png"
+            },
+            {
+                "name": "T_pal_b00_rock_Cliff_Formation_7_02_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Field_Asset_CustomLargeCliff\\Texture\\T_pal_b00_rock_Cliff_Formation_7_02_N.png"
+            },
+            {
+                "name": "Grass0073_D",
+                "usage": "Top Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\LandscapeAutoMaterial\\Textures\\Tiles\\Grass01\\Grass0073_D.png"
+            },
+            {
+                "name": "T_Grass0073_MRO",
+                "usage": "Top MetallicRoughnessOcclusionSpecularTexture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\LandscapeAutoMaterial\\Textures\\Tiles\\Grass01\\T_Grass0073_MRO.png"
+            },
+            {
+                "name": "vebkaeys_4K_Normal",
+                "usage": "Top Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Field_Asset_CustomLargeCliff\\Texture\\vebkaeys_4K_Normal.png"
+            }
+        ]
+    },
+    "MI_Cliff_Formation_7_noTop.mat": {
+        "texture_count": 5,
+        "shader_name": "M_PalLit_Env",
+        "textures": [
+            {
+                "name": "T_pal_b00_rock_Cliff_Formation_7_02_D",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Field_Asset_CustomLargeCliff\\Texture\\T_pal_b00_rock_Cliff_Formation_7_02_D.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_D_2",
+                "usage": "Detail Diffuse",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_D_2.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_N",
+                "usage": "Detail Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_N.png"
+            },
+            {
+                "name": "T_pal_b00_rock_Cliff_Formation_7_02_MRO",
+                "usage": "MetallicRoughnessOcclusionSpecularTexture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Field_Asset_CustomLargeCliff\\Texture\\T_pal_b00_rock_Cliff_Formation_7_02_MRO.png"
+            },
+            {
+                "name": "T_pal_b00_rock_Cliff_Formation_7_02_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Field_Asset_CustomLargeCliff\\Texture\\T_pal_b00_rock_Cliff_Formation_7_02_N.png"
+            }
+        ]
+    },
+    "MI_Cliff_Formation_LowLOD.mat": {
+        "texture_count": 5,
+        "shader_name": "M_PalLit_Top",
+        "textures": [
+            {
+                "name": "TexturesCom_Rock_CliffMountain_1K_albedo",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Field_Asset_CustomLargeCliff\\Material\\LowLOD_Textures\\TexturesCom_Rock_CliffMountain_1K_albedo.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_D",
+                "usage": "Detail Diffuse",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_D.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_N",
+                "usage": "Detail Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_N.png"
+            },
+            {
+                "name": "Grass0073_D",
+                "usage": "Top Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\LandscapeAutoMaterial\\Textures\\Tiles\\Grass01\\Grass0073_D.png"
+            },
+            {
+                "name": "vebkaeys_4K_Normal",
+                "usage": "Top Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Field_Asset_CustomLargeCliff\\Texture\\vebkaeys_4K_Normal.png"
+            }
+        ]
+    },
+    "MI_Cliff_SharpA.mat": {
+        "texture_count": 7,
+        "shader_name": "M_PalLit_Top",
+        "textures": [
+            {
+                "name": "T_pal_b00_MI_Cliff_SharpA_D",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/b00/Field_Asset_CustomLargeCliff/Texture/T_pal_b00_MI_Cliff_SharpA_D.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_D",
+                "usage": "Detail Diffuse",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_D.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_N",
+                "usage": "Detail Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_N.png"
+            },
+            {
+                "name": "T_pal_b00_MI_Cliff_SharpA_M",
+                "usage": "MetallicRoughnessOcclusionSpecularTexture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/b00/Field_Asset_CustomLargeCliff/Texture/T_pal_b00_MI_Cliff_SharpA_M.png"
+            },
+            {
+                "name": "T_pal_b00_MI_Cliff_SharpA_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/b00/Field_Asset_CustomLargeCliff/Texture/T_pal_b00_MI_Cliff_SharpA_N.png"
+            },
+            {
+                "name": "Grass0073_D",
+                "usage": "Top Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\LandscapeAutoMaterial\\Textures\\Tiles\\Grass01\\Grass0073_D.png"
+            },
+            {
+                "name": "vebkaeys_4K_Normal",
+                "usage": "Top Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Field_Asset_CustomLargeCliff\\Texture\\vebkaeys_4K_Normal.png"
+            }
+        ]
+    },
+    "MI_Cliff_SharpA_noTop.mat": {
+        "texture_count": 5,
+        "shader_name": "M_PalLit_Env",
+        "textures": [
+            {
+                "name": "T_pal_b00_MI_Cliff_SharpA_D",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/b00/Field_Asset_CustomLargeCliff/Texture/T_pal_b00_MI_Cliff_SharpA_D.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_D_2",
+                "usage": "Detail Diffuse",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_D_2.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_N",
+                "usage": "Detail Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_N.png"
+            },
+            {
+                "name": "T_pal_b00_MI_Cliff_SharpA_M",
+                "usage": "MetallicRoughnessOcclusionSpecularTexture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/b00/Field_Asset_CustomLargeCliff/Texture/T_pal_b00_MI_Cliff_SharpA_M.png"
+            },
+            {
+                "name": "T_pal_b00_MI_Cliff_SharpA_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/b00/Field_Asset_CustomLargeCliff/Texture/T_pal_b00_MI_Cliff_SharpA_N.png"
+            }
+        ]
+    },
+    "MI_Nordic_Beach_Rock_Formation_ukolajj_2K.mat": {
+        "texture_count": 4,
+        "shader_name": "M_PalLit_Env",
+        "textures": [
+            {
+                "name": "T_Nordic_Beach_Rock_Formation_ukolajj_2K_D",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Megascans/3D_Assets/Nordic_Beach_Rock_Formation_ukolajj/T_Nordic_Beach_Rock_Formation_ukolajj_2K_D.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_D_2",
+                "usage": "Detail Diffuse",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_D_2.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_N",
+                "usage": "Detail Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_N.png"
+            },
+            {
+                "name": "T_Nordic_Beach_Rock_Formation_ukolajj_2K_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Megascans/3D_Assets/Nordic_Beach_Rock_Formation_ukolajj/T_Nordic_Beach_Rock_Formation_ukolajj_2K_N.png"
+            }
+        ]
+    },
+    "MI_Nordic_Beach_Rock_Formation_vjunffdfa_1K.mat": {
+        "texture_count": 4,
+        "shader_name": "M_PalLit_Env",
+        "textures": [
+            {
+                "name": "T_Nordic_Beach_Rock_Formation_vjunffdfa_8K_D",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Megascans/3D_Assets/Nordic_Beach_Rock_Formation_vjunffdfa/T_Nordic_Beach_Rock_Formation_vjunffdfa_8K_D.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_D_2",
+                "usage": "Detail Diffuse",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_D_2.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_N",
+                "usage": "Detail Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_N.png"
+            },
+            {
+                "name": "T_Nordic_Beach_Rock_Formation_vjunffdfa_8K_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Megascans/3D_Assets/Nordic_Beach_Rock_Formation_vjunffdfa/T_Nordic_Beach_Rock_Formation_vjunffdfa_8K_N.png"
+            }
+        ]
+    },
+    "MI_Nordic_Beach_Rock_Formation_vkujfekfa_8K.mat": {
+        "texture_count": 4,
+        "shader_name": "M_PalLit_Env",
+        "textures": [
+            {
+                "name": "T_Nordic_Beach_Rock_Formation_vkujfekfa_8K_D",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Megascans/3D_Assets/Nordic_Beach_Rock_Formation_vkujfekfa/T_Nordic_Beach_Rock_Formation_vkujfekfa_8K_D.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_D_2",
+                "usage": "Detail Diffuse",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_D_2.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_N",
+                "usage": "Detail Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_N.png"
+            },
+            {
+                "name": "T_Nordic_Beach_Rock_Formation_vkujfekfa_8K_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Megascans/3D_Assets/Nordic_Beach_Rock_Formation_vkujfekfa/T_Nordic_Beach_Rock_Formation_vkujfekfa_8K_N.png"
+            }
+        ]
+    },
+    "MI_pal_b00_BigStone_NatureCaveCliff_01A_TOP.mat": {
+        "texture_count": 4,
+        "shader_name": "M_PalLit_Top",
+        "textures": [
+            {
+                "name": "T_pal_b00_Big_stone_NatureCaveCliff01A_base_D",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\NatureCaveCliff\\OLD\\Texture\\Stones\\T_pal_b00_Big_stone_NatureCaveCliff01A_base_D.png"
+            },
+            {
+                "name": "T_pal_b00_Big_stone_NatureCaveCliff01A_base_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\NatureCaveCliff\\OLD\\Texture\\Stones\\T_pal_b00_Big_stone_NatureCaveCliff01A_base_N.png"
+            },
+            {
+                "name": "vebkaeys_4K_Albedo",
+                "usage": "Top Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Field_Asset_CustomLargeCliff\\Texture\\vebkaeys_4K_Albedo.png"
+            },
+            {
+                "name": "vebkaeys_4K_Normal",
+                "usage": "Top Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Field_Asset_CustomLargeCliff\\Texture\\vebkaeys_4K_Normal.png"
+            }
+        ]
+    },
+    "MI_pal_b00_boulder_GraniteCliffsKit_04.mat": {
+        "texture_count": 2,
+        "shader_name": "M_PalLit_Env",
+        "textures": [
+            {
+                "name": "t_graniteboulder04_BaseColor",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/b00/GraniteCliffsKit/Texture/t_graniteboulder04_BaseColor.png"
+            },
+            {
+                "name": "t_graniteboulder04_Normal",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/b00/GraniteCliffsKit/Texture/t_graniteboulder04_Normal.png"
+            }
+        ]
+    },
+    "MI_pal_b00_Brick_MedievalHouse_2.mat": {
+        "texture_count": 2,
+        "shader_name": "M_PalLit_Env",
+        "textures": [
+            {
+                "name": "T_pal_b00_Lordenfel_Wall_01_BC",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Lordenfel\\Textures\\T_pal_b00_Lordenfel_Wall_01_BC.png"
+            },
+            {
+                "name": "T_pal_b00_Lordenfel_Wall_01_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Lordenfel\\Textures\\T_pal_b00_Lordenfel_Wall_01_N.png"
+            }
+        ]
+    },
+    "MI_pal_b00_brick_Pillar.mat": {
+        "texture_count": 5,
+        "shader_name": "M_PalLit_Env",
+        "textures": [
+            {
+                "name": "dub07",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/b00/church/Textures/dub07.png"
+            },
+            {
+                "name": "T_pal_b00_Church_PillarDirt_D",
+                "usage": "Dirt Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/b00/church/Textures/T_pal_b00_Church_PillarDirt_D.png"
+            },
+            {
+                "name": "dub07_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/b00/church/Textures/dub07_N.png"
+            },
+            {
+                "name": "T_Mossy_Grass_vcpoajjs_4K_D",
+                "usage": "G channel Basecolor",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Megascans/Surfaces/Mossy_Grass_vcpoajjs/T_Mossy_Grass_vcpoajjs_4K_D.png"
+            },
+            {
+                "name": "T_Mossy_Grass_vcpoajjs_4K_N",
+                "usage": "G channel Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Megascans/Surfaces/Mossy_Grass_vcpoajjs/T_Mossy_Grass_vcpoajjs_4K_N.png"
+            }
+        ]
+    },
+    "MI_pal_b00_building_bridgePlanks.mat": {
+        "texture_count": 2,
+        "shader_name": "M_PalLit_Env",
+        "textures": [
+            {
+                "name": "TX_Wood_generic_D",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Texture\\Stage\\bridge\\TX_Wood_generic_D.png"
+            },
+            {
+                "name": "TX_Wood_generic_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Texture\\Stage\\bridge\\TX_Wood_generic_N.png"
+            }
+        ]
+    },
+    "MI_pal_b00_building_VillageBarrel.mat": {
+        "texture_count": 2,
+        "shader_name": "M_PalLit_Env",
+        "textures": [
+            {
+                "name": "pal_b00_building_village_Containers_D",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/b00/village/Textures/pal_b00_building_village_Containers_D.png"
+            },
+            {
+                "name": "pal_b00_building_village_Containers_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/b00/village/Textures/pal_b00_building_village_Containers_N.png"
+            }
+        ]
+    },
+    "MI_pal_b00_building_VillageBoat02.mat": {
+        "texture_count": 2,
+        "shader_name": "M_PalLit_Env",
+        "textures": [
+            {
+                "name": "pal_b00_building_village_Boat02_D",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/b00/village/Textures/pal_b00_building_village_Boat02_D.png"
+            },
+            {
+                "name": "pal_b00_building_village_Boat02_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/b00/village/Textures/pal_b00_building_village_Boat02_N.png"
+            }
+        ]
+    },
+    "MI_pal_b00_building_VillageBoxes.mat": {
+        "texture_count": 2,
+        "shader_name": "M_PalLit_Env",
+        "textures": [
+            {
+                "name": "pal_b00_building_village_Boxes_D",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\village\\Textures\\pal_b00_building_village_Boxes_D.png"
+            },
+            {
+                "name": "pal_b00_building_village_Boxes_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\village\\Textures\\pal_b00_building_village_Boxes_N.png"
+            }
+        ]
+    },
+    "MI_pal_b00_building_VillageCloth.mat": {
+        "texture_count": 2,
+        "shader_name": "M_PalLit_Env",
+        "textures": [
+            {
+                "name": "pal_b00_building_village_Cloth_D",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\village\\Textures\\pal_b00_building_village_Cloth_D.png"
+            },
+            {
+                "name": "pal_b00_building_village_Cloth_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\village\\Textures\\pal_b00_building_village_Cloth_N.png"
+            }
+        ]
+    },
+    "MI_pal_b00_building_VillageJunk.mat": {
+        "texture_count": 2,
+        "shader_name": "M_PalLit_Env",
+        "textures": [
+            {
+                "name": "pal_b00_building_village_Junk_D",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/b00/village/Textures/pal_b00_building_village_Junk_D.png"
+            },
+            {
+                "name": "pal_b00_building_village_Junk_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/b00/village/Textures/pal_b00_building_village_Junk_N.png"
+            }
+        ]
+    },
+    "MI_pal_b00_building_VillageRope.mat": {
+        "texture_count": 2,
+        "shader_name": "M_PalLit_Env",
+        "textures": [
+            {
+                "name": "pal_b00_building_village_Rope_D",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\village\\Textures\\pal_b00_building_village_Rope_D.png"
+            },
+            {
+                "name": "pal_b00_building_village_Rope_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\village\\Textures\\pal_b00_building_village_Rope_N.png"
+            }
+        ]
+    },
+    "MI_pal_b00_building_VillageSheets.mat": {
+        "texture_count": 2,
+        "shader_name": "M_PalLit_Env",
+        "textures": [
+            {
+                "name": "pal_b00_building_village_Sheets_D_Alpha",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/b00/village/Textures/pal_b00_building_village_Sheets_D_Alpha.png"
+            },
+            {
+                "name": "pal_b00_building_village_Sheets_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/b00/village/Textures/pal_b00_building_village_Sheets_N.png"
+            }
+        ]
+    },
+    "MI_pal_b00_building_VillageSheets02.mat": {
+        "texture_count": 2,
+        "shader_name": "M_PalLit_Env",
+        "textures": [
+            {
+                "name": "pal_b00_building_village_Sheets02_D_Alpha",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/b00/village/Textures/pal_b00_building_village_Sheets02_D_Alpha.png"
+            },
+            {
+                "name": "pal_b00_building_village_Sheets02_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/b00/village/Textures/pal_b00_building_village_Sheets02_N.png"
+            }
+        ]
+    },
+    "MI_pal_b00_building_VillageWickers.mat": {
+        "texture_count": 2,
+        "shader_name": "M_PalLit_Env",
+        "textures": [
+            {
+                "name": "pal_b00_building_village_Wickers_D",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/b00/village/Textures/pal_b00_building_village_Wickers_D.png"
+            },
+            {
+                "name": "pal_b00_building_village_Wickers_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/b00/village/Textures/pal_b00_building_village_Wickers_N.png"
+            }
+        ]
+    },
+    "MI_pal_b00_building_VillageWood.mat": {
+        "texture_count": 2,
+        "shader_name": "M_PalLit_Env",
+        "textures": [
+            {
+                "name": "pal_b00_building_village_Wood_D",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\village\\Textures\\pal_b00_building_village_Wood_D.png"
+            },
+            {
+                "name": "pal_b00_building_village_Wood_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\village\\Textures\\pal_b00_building_village_Wood_N.png"
+            }
+        ]
+    },
+    "MI_pal_b00_cliff_AsianTemple_1a.mat": {
+        "texture_count": 8,
+        "shader_name": "M_PalLit_Top",
+        "textures": [
+            {
+                "name": "T_Cliff_01a_MacroAlbedo",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Asian_Temple\\texture\\T_Cliff_01a_MacroAlbedo.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_D",
+                "usage": "Detail Diffuse",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_D.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_N",
+                "usage": "Detail Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_N.png"
+            },
+            {
+                "name": "T_Cliff_01a__MRO",
+                "usage": "MetallicRoughnessOcclusionSpecularTexture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Asian_Temple\\texture\\T_Cliff_01a__MRO.png"
+            },
+            {
+                "name": "T_Cliff_01a_MacroNormal",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Asian_Temple\\texture\\T_Cliff_01a_MacroNormal.png"
+            },
+            {
+                "name": "Grass0073_D",
+                "usage": "Top Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\LandscapeAutoMaterial\\Textures\\Tiles\\Grass01\\Grass0073_D.png"
+            },
+            {
+                "name": "T_Grass0073_MRO",
+                "usage": "Top MetallicRoughnessOcclusionSpecularTexture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\LandscapeAutoMaterial\\Textures\\Tiles\\Grass01\\T_Grass0073_MRO.png"
+            },
+            {
+                "name": "vebkaeys_4K_Normal",
+                "usage": "Top Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Field_Asset_CustomLargeCliff\\Texture\\vebkaeys_4K_Normal.png"
+            }
+        ]
+    },
+    "MI_pal_b00_cliff_CliffsAndRocksPack_01.mat": {
+        "texture_count": 5,
+        "shader_name": "M_PalLit_Env",
+        "textures": [
+            {
+                "name": "T_pal_b00_cliff_CliffsAndRocksPack_01_D",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Cliffs_and_Rocks_Pack\\Texture\\T_pal_b00_cliff_CliffsAndRocksPack_01_D.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_D",
+                "usage": "Detail Diffuse",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_D.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_N",
+                "usage": "Detail Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_N.png"
+            },
+            {
+                "name": "T_pal_b00_cliff_CliffsAndRocksPack_01_M",
+                "usage": "MetallicRoughnessOcclusionSpecularTexture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Cliffs_and_Rocks_Pack\\Texture\\T_pal_b00_cliff_CliffsAndRocksPack_01_M.png"
+            },
+            {
+                "name": "T_pal_b00_cliff_CliffsAndRocksPack_01_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Cliffs_and_Rocks_Pack\\Texture\\T_pal_b00_cliff_CliffsAndRocksPack_01_N.png"
+            }
+        ]
+    },
+    "MI_pal_b00_cliff_CliffsAndRocksPack_02.mat": {
+        "texture_count": 7,
+        "shader_name": "M_PalLit_Env",
+        "textures": [
+            {
+                "name": "T_pal_b00_cliff_CliffsAndRocksPack_02_D",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Cliffs_and_Rocks_Pack\\Texture\\T_pal_b00_cliff_CliffsAndRocksPack_02_D.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_D_2",
+                "usage": "Detail Diffuse",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_D_2.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_N",
+                "usage": "Detail Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_N.png"
+            },
+            {
+                "name": "T_pal_b00_cliff_CliffsAndRocksPack_02_M",
+                "usage": "MetallicRoughnessOcclusionSpecularTexture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Cliffs_and_Rocks_Pack\\Texture\\T_pal_b00_cliff_CliffsAndRocksPack_02_M.png"
+            },
+            {
+                "name": "T_pal_b00_cliff_CliffsAndRocksPack_02_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Cliffs_and_Rocks_Pack\\Texture\\T_pal_b00_cliff_CliffsAndRocksPack_02_N.png"
+            },
+            {
+                "name": "Grass0072_C_D",
+                "usage": "G channel Basecolor",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\LandscapeAutoMaterial\\Textures\\Tiles\\Grass01\\Grass0072_C_D.png"
+            },
+            {
+                "name": "Grass0072_N",
+                "usage": "G channel Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\LandscapeAutoMaterial\\Textures\\Tiles\\Grass01\\Grass0072_N.png"
+            }
+        ]
+    },
+    "MI_pal_b00_cliff_CliffsAndRocksPack_TOP_02.mat": {
+        "texture_count": 7,
+        "shader_name": "M_PalLit_Top",
+        "textures": [
+            {
+                "name": "T_pal_b00_cliff_CliffsAndRocksPack_02_D",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Cliffs_and_Rocks_Pack\\Texture\\T_pal_b00_cliff_CliffsAndRocksPack_02_D.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_D",
+                "usage": "Detail Diffuse",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_D.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_N",
+                "usage": "Detail Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_N.png"
+            },
+            {
+                "name": "T_pal_b00_cliff_CliffsAndRocksPack_02_M",
+                "usage": "MetallicRoughnessOcclusionSpecularTexture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Cliffs_and_Rocks_Pack\\Texture\\T_pal_b00_cliff_CliffsAndRocksPack_02_M.png"
+            },
+            {
+                "name": "T_pal_b00_cliff_CliffsAndRocksPack_02_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Cliffs_and_Rocks_Pack\\Texture\\T_pal_b00_cliff_CliffsAndRocksPack_02_N.png"
+            },
+            {
+                "name": "Grass0073_D",
+                "usage": "Top Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\LandscapeAutoMaterial\\Textures\\Tiles\\Grass01\\Grass0073_D.png"
+            },
+            {
+                "name": "Grass0072_N",
+                "usage": "Top Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\LandscapeAutoMaterial\\Textures\\Tiles\\Grass01\\Grass0072_N.png"
+            }
+        ]
+    },
+    "MI_pal_b00_cliff_customlarge_3.mat": {
+        "texture_count": 7,
+        "shader_name": "M_PalLit_Top",
+        "textures": [
+            {
+                "name": "T_pal_b00_cliff_customlarge_03_03_D",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Texture\\Stage\\cliff_rock_stone\\SP_BrushUp\\T_pal_b00_cliff_customlarge_03_03_D.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_D",
+                "usage": "Detail Diffuse",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_D.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_N",
+                "usage": "Detail Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_N.png"
+            },
+            {
+                "name": "T_pal_b00_cliff_customlarge_03_02_D_MRO",
+                "usage": "MetallicRoughnessOcclusionSpecularTexture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Texture\\Stage\\cliff_rock_stone\\SP_BrushUp\\T_pal_b00_cliff_customlarge_03_02_D_MRO.png"
+            },
+            {
+                "name": "T_pal_b00_cliff_customlarge_03_03_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Texture\\Stage\\cliff_rock_stone\\SP_BrushUp\\T_pal_b00_cliff_customlarge_03_03_N.png"
+            },
+            {
+                "name": "Grass0073_D",
+                "usage": "Top Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\LandscapeAutoMaterial\\Textures\\Tiles\\Grass01\\Grass0073_D.png"
+            },
+            {
+                "name": "vebkaeys_4K_Normal",
+                "usage": "Top Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Field_Asset_CustomLargeCliff\\Texture\\vebkaeys_4K_Normal.png"
+            }
+        ]
+    },
+    "MI_pal_b00_cliff_customlarge_3_yellow_noTop.mat": {
+        "texture_count": 5,
+        "shader_name": "M_PalLit_Env",
+        "textures": [
+            {
+                "name": "T_pal_b00_cliff_customlarge_03_04_D",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Texture/Stage/cliff_rock_stone/SP_BrushUp/T_pal_b00_cliff_customlarge_03_04_D.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_D_2",
+                "usage": "Detail Diffuse",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_D_2.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_N",
+                "usage": "Detail Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_N.png"
+            },
+            {
+                "name": "T_pal_b00_cliff_customlarge_03_02_D_MRO",
+                "usage": "MetallicRoughnessOcclusionSpecularTexture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Texture\\Stage\\cliff_rock_stone\\SP_BrushUp\\T_pal_b00_cliff_customlarge_03_02_D_MRO.png"
+            },
+            {
+                "name": "T_pal_b00_cliff_customlarge_03_03_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Texture\\Stage\\cliff_rock_stone\\SP_BrushUp\\T_pal_b00_cliff_customlarge_03_03_N.png"
+            }
+        ]
+    },
+    "MI_pal_b00_cliff_FieldAssetCliff_02.mat": {
+        "texture_count": 7,
+        "shader_name": "M_PalLit_Top",
+        "textures": [
+            {
+                "name": "T_pal_b00_cliff_FieldAssetCliff_02__D",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Texture\\Stage\\cliff_rock_stone\\SP_BrushUp\\T_pal_b00_cliff_FieldAssetCliff_02__D.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_D",
+                "usage": "Detail Diffuse",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_D.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_N",
+                "usage": "Detail Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_N.png"
+            },
+            {
+                "name": "DefaultMaskMap",
+                "usage": "MetallicRoughnessOcclusionSpecularTexture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Material\\DefaultMaskMap.png"
+            },
+            {
+                "name": "T_pal_b00_cliff_FieldAssetCliff_02__N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Texture\\Stage\\cliff_rock_stone\\SP_BrushUp\\T_pal_b00_cliff_FieldAssetCliff_02__N.png"
+            },
+            {
+                "name": "Grass0073_D",
+                "usage": "Top Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\LandscapeAutoMaterial\\Textures\\Tiles\\Grass01\\Grass0073_D.png"
+            },
+            {
+                "name": "vebkaeys_4K_Normal",
+                "usage": "Top Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Field_Asset_CustomLargeCliff\\Texture\\vebkaeys_4K_Normal.png"
+            }
+        ]
+    },
+    "MI_pal_b00_cliff_FieldAssetCliff_02_.mat": {
+        "texture_count": 7,
+        "shader_name": "M_PalLit_Top",
+        "textures": [
+            {
+                "name": "T_pal_b00_cliff_FieldAssetCliff_02_D",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Field_Asset_CustomLargeCliff\\Texture\\T_pal_b00_cliff_FieldAssetCliff_02_D.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_D",
+                "usage": "Detail Diffuse",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_D.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_N",
+                "usage": "Detail Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_N.png"
+            },
+            {
+                "name": "T_pal_b00_cliff_FieldAssetCliff_02_M",
+                "usage": "MetallicRoughnessOcclusionSpecularTexture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Field_Asset_CustomLargeCliff\\Texture\\T_pal_b00_cliff_FieldAssetCliff_02_M.png"
+            },
+            {
+                "name": "T_pal_b00_cliff_FieldAssetCliff_02_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Field_Asset_CustomLargeCliff\\Texture\\T_pal_b00_cliff_FieldAssetCliff_02_N.png"
+            },
+            {
+                "name": "Grass0073_D",
+                "usage": "Top Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\LandscapeAutoMaterial\\Textures\\Tiles\\Grass01\\Grass0073_D.png"
+            },
+            {
+                "name": "Grass0072_N",
+                "usage": "Top Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\LandscapeAutoMaterial\\Textures\\Tiles\\Grass01\\Grass0072_N.png"
+            }
+        ]
+    },
+    "MI_pal_b00_cliff_FieldAssetCliff_02_yellow_noTop.mat": {
+        "texture_count": 5,
+        "shader_name": "M_PalLit_Env",
+        "textures": [
+            {
+                "name": "T_pal_b00_Lordenfel_Rock_Surface_01_BC",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Field_Asset_CustomLargeCliff\\Texture\\T_pal_b00_Lordenfel_Rock_Surface_01_BC.png"
+            },
+            {
+                "name": "DefaultBaseTexture",
+                "usage": "Detail Diffuse",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/PalConvert_kazuki/DefaultBaseTexture.png"
+            },
+            {
+                "name": "DefaultNormalMap",
+                "usage": "Detail Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Material/DefaultNormalMap.png"
+            },
+            {
+                "name": "T_pal_b00_cliff_FieldAssetCliff_02_M",
+                "usage": "MetallicRoughnessOcclusionSpecularTexture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Field_Asset_CustomLargeCliff\\Texture\\T_pal_b00_cliff_FieldAssetCliff_02_M.png"
+            },
+            {
+                "name": "T_Rock_2_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Texture/Stage/cliff_rock_stone/SP_BrushUp/T_Rock_2_N.png"
+            }
+        ]
+    },
+    "MI_pal_b00_cliff_FieldAssetCliff_03.mat": {
+        "texture_count": 7,
+        "shader_name": "M_PalLit_Top",
+        "textures": [
+            {
+                "name": "T_pal_b00_cliff_FieldAssetCliff_03_D",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Texture/Stage/cliff_rock_stone/SP_BrushUp/T_pal_b00_cliff_FieldAssetCliff_03_D.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_D",
+                "usage": "Detail Diffuse",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_D.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_N",
+                "usage": "Detail Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_N.png"
+            },
+            {
+                "name": "DefaultMaskMap",
+                "usage": "MetallicRoughnessOcclusionSpecularTexture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Material\\DefaultMaskMap.png"
+            },
+            {
+                "name": "T_pal_b00_cliff_FieldAssetCliff_03_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Texture/Stage/cliff_rock_stone/SP_BrushUp/T_pal_b00_cliff_FieldAssetCliff_03_N.png"
+            },
+            {
+                "name": "Grass0073_D",
+                "usage": "Top Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\LandscapeAutoMaterial\\Textures\\Tiles\\Grass01\\Grass0073_D.png"
+            },
+            {
+                "name": "vebkaeys_4K_Normal",
+                "usage": "Top Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Field_Asset_CustomLargeCliff\\Texture\\vebkaeys_4K_Normal.png"
+            }
+        ]
+    },
+    "MI_pal_b00_cliff_FieldAssetCliff_04.mat": {
+        "texture_count": 8,
+        "shader_name": "M_PalLit_Top",
+        "textures": [
+            {
+                "name": "T_pal_b00_cliff_FieldAssetCliff_04_D",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Texture\\Stage\\cliff_rock_stone\\SP_BrushUp\\T_pal_b00_cliff_FieldAssetCliff_04_D.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_D",
+                "usage": "Detail Diffuse",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_D.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_N",
+                "usage": "Detail Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_N.png"
+            },
+            {
+                "name": "T_pal_b00_cliff_FieldAssetCliff_04_MRO",
+                "usage": "MetallicRoughnessOcclusionSpecularTexture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Texture\\Stage\\cliff_rock_stone\\SP_BrushUp\\T_pal_b00_cliff_FieldAssetCliff_04_MRO.png"
+            },
+            {
+                "name": "T_pal_b00_cliff_FieldAssetCliff_04_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Texture\\Stage\\cliff_rock_stone\\SP_BrushUp\\T_pal_b00_cliff_FieldAssetCliff_04_N.png"
+            },
+            {
+                "name": "Grass0073_D",
+                "usage": "Top Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\LandscapeAutoMaterial\\Textures\\Tiles\\Grass01\\Grass0073_D.png"
+            },
+            {
+                "name": "T_Grass0073_MRO",
+                "usage": "Top MetallicRoughnessOcclusionSpecularTexture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\LandscapeAutoMaterial\\Textures\\Tiles\\Grass01\\T_Grass0073_MRO.png"
+            },
+            {
+                "name": "vebkaeys_4K_Normal",
+                "usage": "Top Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Field_Asset_CustomLargeCliff\\Texture\\vebkaeys_4K_Normal.png"
+            }
+        ]
+    },
+    "MI_pal_b00_cliff_GraniteCliffsKit_03.mat": {
+        "texture_count": 2,
+        "shader_name": "M_PalLit_Env",
+        "textures": [
+            {
+                "name": "t_granitecliff03_BaseColor",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/b00/GraniteCliffsKit/Texture/t_granitecliff03_BaseColor.png"
+            },
+            {
+                "name": "t_granitecliff03_Normal",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/b00/GraniteCliffsKit/Texture/t_granitecliff03_Normal.png"
+            }
+        ]
+    },
+    "MI_pal_b00_cliff_GraniteCliffsKit_05.mat": {
+        "texture_count": 2,
+        "shader_name": "M_PalLit_Env",
+        "textures": [
+            {
+                "name": "t_granitecliff05_BaseColor",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\GraniteCliffsKit\\Texture\\t_granitecliff05_BaseColor.png"
+            },
+            {
+                "name": "t_granitecliff05_Normal",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\GraniteCliffsKit\\Texture\\t_granitecliff05_Normal.png"
+            }
+        ]
+    },
+    "MI_pal_b00_cliff_ground_CliffsAndRocksPack_01.mat": {
+        "texture_count": 7,
+        "shader_name": "M_PalLit_Env",
+        "textures": [
+            {
+                "name": "T_pal_b00_cliff_ground_CliffsAndRocksPack_01_D",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Cliffs_and_Rocks_Pack\\Texture\\T_pal_b00_cliff_ground_CliffsAndRocksPack_01_D.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_D_2",
+                "usage": "Detail Diffuse",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_D_2.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_N",
+                "usage": "Detail Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_N.png"
+            },
+            {
+                "name": "T_pal_b00_cliff_ground_CliffsAndRocksPack_01_M",
+                "usage": "MetallicRoughnessOcclusionSpecularTexture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Cliffs_and_Rocks_Pack\\Texture\\T_pal_b00_cliff_ground_CliffsAndRocksPack_01_M.png"
+            },
+            {
+                "name": "T_pal_b00_cliff_ground_CliffsAndRocksPack_01_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Cliffs_and_Rocks_Pack\\Texture\\T_pal_b00_cliff_ground_CliffsAndRocksPack_01_N.png"
+            },
+            {
+                "name": "T_pal_b00_GroundForestA_D",
+                "usage": "R channel Basecolor",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Texture\\Stage\\Landscape\\T_pal_b00_GroundForestA_D.png"
+            },
+            {
+                "name": "T_pal_b00_GroundForestA_N",
+                "usage": "R channel Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Texture\\Stage\\Landscape\\T_pal_b00_GroundForestA_N.png"
+            }
+        ]
+    },
+    "MI_pal_b00_cliff_ground_CliffsAndRocksPack_TOP_01.mat": {
+        "texture_count": 7,
+        "shader_name": "M_PalLit_Top",
+        "textures": [
+            {
+                "name": "T_pal_b00_cliff_ground_CliffsAndRocksPack_01_D",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Cliffs_and_Rocks_Pack\\Texture\\T_pal_b00_cliff_ground_CliffsAndRocksPack_01_D.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_D",
+                "usage": "Detail Diffuse",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_D.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_N",
+                "usage": "Detail Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_N.png"
+            },
+            {
+                "name": "T_pal_b00_cliff_ground_CliffsAndRocksPack_01_M",
+                "usage": "MetallicRoughnessOcclusionSpecularTexture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Cliffs_and_Rocks_Pack\\Texture\\T_pal_b00_cliff_ground_CliffsAndRocksPack_01_M.png"
+            },
+            {
+                "name": "T_pal_b00_cliff_ground_CliffsAndRocksPack_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/b00/Cliffs_and_Rocks_Pack/Texture/T_pal_b00_cliff_ground_CliffsAndRocksPack_N.png"
+            },
+            {
+                "name": "Grass0073_D",
+                "usage": "Top Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\LandscapeAutoMaterial\\Textures\\Tiles\\Grass01\\Grass0073_D.png"
+            },
+            {
+                "name": "vebkaeys_4K_Normal",
+                "usage": "Top Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Field_Asset_CustomLargeCliff\\Texture\\vebkaeys_4K_Normal.png"
+            }
+        ]
+    },
+    "MI_pal_b00_cliff_ground_CliffsAndRocksPack_TOP_DARK_01.mat": {
+        "texture_count": 7,
+        "shader_name": "M_PalLit_Top",
+        "textures": [
+            {
+                "name": "T_pal_b00_cliff_ground_CliffsAndRocksPack_01_D",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Cliffs_and_Rocks_Pack\\Texture\\T_pal_b00_cliff_ground_CliffsAndRocksPack_01_D.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_D",
+                "usage": "Detail Diffuse",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_D.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_N",
+                "usage": "Detail Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_N.png"
+            },
+            {
+                "name": "T_pal_b00_cliff_ground_CliffsAndRocksPack_01_M",
+                "usage": "MetallicRoughnessOcclusionSpecularTexture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Cliffs_and_Rocks_Pack\\Texture\\T_pal_b00_cliff_ground_CliffsAndRocksPack_01_M.png"
+            },
+            {
+                "name": "T_pal_b00_cliff_ground_CliffsAndRocksPack_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/b00/Cliffs_and_Rocks_Pack/Texture/T_pal_b00_cliff_ground_CliffsAndRocksPack_N.png"
+            },
+            {
+                "name": "Grass0073_D",
+                "usage": "Top Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\LandscapeAutoMaterial\\Textures\\Tiles\\Grass01\\Grass0073_D.png"
+            },
+            {
+                "name": "vebkaeys_4K_Normal",
+                "usage": "Top Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Field_Asset_CustomLargeCliff\\Texture\\vebkaeys_4K_Normal.png"
+            }
+        ]
+    },
+    "MI_pal_b00_cliff_HugeCliff_Top_GrassA.mat": {
+        "texture_count": 6,
+        "shader_name": "M_PalLit_Top",
+        "textures": [
+            {
+                "name": "pal_b00_cliff_HugeCliff_D_02",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Texture/Stage/cliff_rock_stone/pal_b00_cliff_HugeCliff_D_02.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_D",
+                "usage": "Detail Diffuse",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_D.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_N",
+                "usage": "Detail Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_N.png"
+            },
+            {
+                "name": "pal_b00_cliff_HugeCliff_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Texture/Stage/cliff_rock_stone/pal_b00_cliff_HugeCliff_N.png"
+            },
+            {
+                "name": "Grass0073_D",
+                "usage": "Top Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\LandscapeAutoMaterial\\Textures\\Tiles\\Grass01\\Grass0073_D.png"
+            },
+            {
+                "name": "vebkaeys_4K_Normal",
+                "usage": "Top Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Field_Asset_CustomLargeCliff\\Texture\\vebkaeys_4K_Normal.png"
+            }
+        ]
+    },
+    "MI_pal_b00_cliff_RockBoulder_CliffMI.mat": {
+        "texture_count": 7,
+        "shader_name": "M_PalLit_Top",
+        "textures": [
+            {
+                "name": "T_pal_b00_cliff_RockBoulder_CliffMI_D",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Texture/Stage/cliff_rock_stone/SP_BrushUp/T_pal_b00_cliff_RockBoulder_CliffMI_D.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_D",
+                "usage": "Detail Diffuse",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_D.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_N",
+                "usage": "Detail Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_N.png"
+            },
+            {
+                "name": "DefaultMaskMap",
+                "usage": "MetallicRoughnessOcclusionSpecularTexture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Material\\DefaultMaskMap.png"
+            },
+            {
+                "name": "T_pal_b00_cliff_RockBoulder_CliffMI_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Texture/Stage/cliff_rock_stone/SP_BrushUp/T_pal_b00_cliff_RockBoulder_CliffMI_N.png"
+            },
+            {
+                "name": "Grass0073_D",
+                "usage": "Top Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\LandscapeAutoMaterial\\Textures\\Tiles\\Grass01\\Grass0073_D.png"
+            },
+            {
+                "name": "vebkaeys_4K_Normal",
+                "usage": "Top Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Field_Asset_CustomLargeCliff\\Texture\\vebkaeys_4K_Normal.png"
+            }
+        ]
+    },
+    "MI_pal_b00_cliff_SlopeRocks_CliffMI.mat": {
+        "texture_count": 7,
+        "shader_name": "M_PalLit_Top",
+        "textures": [
+            {
+                "name": "T_pal_b00_cliff_SlopeRocks_CliffMI_D",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Texture/Stage/cliff_rock_stone/SP_BrushUp/T_pal_b00_cliff_SlopeRocks_CliffMI_D.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_D",
+                "usage": "Detail Diffuse",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_D.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_N",
+                "usage": "Detail Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_N.png"
+            },
+            {
+                "name": "DefaultMaskMap",
+                "usage": "MetallicRoughnessOcclusionSpecularTexture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Material\\DefaultMaskMap.png"
+            },
+            {
+                "name": "T_pal_b00_cliff_SlopeRocks_CliffMI_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Texture/Stage/cliff_rock_stone/SP_BrushUp/T_pal_b00_cliff_SlopeRocks_CliffMI_N.png"
+            },
+            {
+                "name": "Grass0073_D",
+                "usage": "Top Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\LandscapeAutoMaterial\\Textures\\Tiles\\Grass01\\Grass0073_D.png"
+            },
+            {
+                "name": "vebkaeys_4K_Normal",
+                "usage": "Top Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Field_Asset_CustomLargeCliff\\Texture\\vebkaeys_4K_Normal.png"
+            }
+        ]
+    },
+    "MI_pal_b00_cliff_split_CliffsAndRocksPack_01.mat": {
+        "texture_count": 7,
+        "shader_name": "M_PalLit_Env",
+        "textures": [
+            {
+                "name": "T_pal_b00_cliff_split_CliffsAndRocksPack_01_D",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/b00/Cliffs_and_Rocks_Pack/Texture/T_pal_b00_cliff_split_CliffsAndRocksPack_01_D.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_D",
+                "usage": "Detail Diffuse",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_D.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_N",
+                "usage": "Detail Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_N.png"
+            },
+            {
+                "name": "T_pal_b00_cliff_split_CliffsAndRocksPack_01_M",
+                "usage": "MetallicRoughnessOcclusionSpecularTexture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/b00/Cliffs_and_Rocks_Pack/Texture/T_pal_b00_cliff_split_CliffsAndRocksPack_01_M.png"
+            },
+            {
+                "name": "T_pal_b00_cliff_split_CliffsAndRocksPack_01_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/b00/Cliffs_and_Rocks_Pack/Texture/T_pal_b00_cliff_split_CliffsAndRocksPack_01_N.png"
+            },
+            {
+                "name": "Grass0072_C_D",
+                "usage": "G channel Basecolor",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\LandscapeAutoMaterial\\Textures\\Tiles\\Grass01\\Grass0072_C_D.png"
+            },
+            {
+                "name": "Grass0072_N",
+                "usage": "G channel Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\LandscapeAutoMaterial\\Textures\\Tiles\\Grass01\\Grass0072_N.png"
+            }
+        ]
+    },
+    "MI_pal_b00_cliff_split_CliffsAndRocksPack_03.mat": {
+        "texture_count": 5,
+        "shader_name": "M_PalLit_Env",
+        "textures": [
+            {
+                "name": "T_pal_b00_cliff_split_CliffsAndRocksPack_03_D",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/b00/Cliffs_and_Rocks_Pack/Texture/T_pal_b00_cliff_split_CliffsAndRocksPack_03_D.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_D",
+                "usage": "Detail Diffuse",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_D.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_N",
+                "usage": "Detail Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_N.png"
+            },
+            {
+                "name": "T_pal_b00_cliff_split_CliffsAndRocksPack_03_M",
+                "usage": "MetallicRoughnessOcclusionSpecularTexture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/b00/Cliffs_and_Rocks_Pack/Texture/T_pal_b00_cliff_split_CliffsAndRocksPack_03_M.png"
+            },
+            {
+                "name": "T_pal_b00_cliff_split_CliffsAndRocksPack_03_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/b00/Cliffs_and_Rocks_Pack/Texture/T_pal_b00_cliff_split_CliffsAndRocksPack_03_N.png"
+            }
+        ]
+    },
+    "MI_pal_b00_clover_leaf.mat": {
+        "texture_count": 2,
+        "shader_name": "M_PalLit_Foliage",
+        "textures": [
+            {
+                "name": "T_pal_b00_cl_D",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Texture\\Stage\\grass_bush\\b00\\T_pal_b00_cl_D.png"
+            },
+            {
+                "name": "T_pal_b00_cl_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Texture\\Stage\\grass_bush\\b00\\T_pal_b00_cl_N.png"
+            }
+        ]
+    },
+    "MI_pal_b00_IvySingle.mat": {
+        "texture_count": 2,
+        "shader_name": "M_PalLit_Foliage",
+        "textures": [
+            {
+                "name": "IvySingleLeaf_Color_Tex",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/SmartSplineGen/Textures/BasicEnviro/IvySingleLeaf_Color_Tex.png"
+            },
+            {
+                "name": "IvySingleLeaf_Normal_Tex",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/SmartSplineGen/Textures/BasicEnviro/IvySingleLeaf_Normal_Tex.png"
+            }
+        ]
+    },
+    "MI_pal_b00_LeafMaterial.mat": {
+        "texture_count": 2,
+        "shader_name": "M_PalLit_Foliage",
+        "textures": [
+            {
+                "name": "Ivy_Color_Tex",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\SmartSplineGen\\Textures\\BasicEnviro\\Ivy_Color_Tex.png"
+            },
+            {
+                "name": "Ivy_Normal_Tex",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\SmartSplineGen\\Textures\\BasicEnviro\\Ivy_Normal_Tex.png"
+            }
+        ]
+    },
+    "MI_pal_b00_Lordenfel_Arch_01.mat": {
+        "texture_count": 7,
+        "shader_name": "M_PalLit_Env",
+        "textures": [
+            {
+                "name": "T_pal_b00_Lordenfel_Arch_01_BC",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/b00/Lordenfel/Textures/T_pal_b00_Lordenfel_Arch_01_BC.png"
+            },
+            {
+                "name": "T_pal_b00_Lordenfel_Arch_01_MRO",
+                "usage": "MetallicRoughnessOcclusionSpecularTexture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/b00/Lordenfel/Textures/T_pal_b00_Lordenfel_Arch_01_MRO.png"
+            },
+            {
+                "name": "T_pal_b00_Lordenfel_Arch_01_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/b00/Lordenfel/Textures/T_pal_b00_Lordenfel_Arch_01_N.png"
+            },
+            {
+                "name": "Grass0072_D",
+                "usage": "G channel Basecolor",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\LandscapeAutoMaterial\\Textures\\Tiles\\Grass01\\Grass0072_D.png"
+            },
+            {
+                "name": "Grass0072_N",
+                "usage": "G channel Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\LandscapeAutoMaterial\\Textures\\Tiles\\Grass01\\Grass0072_N.png"
+            },
+            {
+                "name": "T_pal_b00_SandBeach_D",
+                "usage": "R channel Basecolor",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Texture\\Stage\\Landscape\\T_pal_b00_SandBeach_D.png"
+            },
+            {
+                "name": "T_pal_b00_SandBeach_N",
+                "usage": "R channel Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Texture\\Stage\\Landscape\\T_pal_b00_SandBeach_N.png"
+            }
+        ]
+    },
+    "MI_pal_b00_Lordenfel_Arch_02.mat": {
+        "texture_count": 4,
+        "shader_name": "M_PalLit_Env",
+        "textures": [
+            {
+                "name": "T_pal_b00_Lordenfel_Arch_02_BC",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Lordenfel\\Textures\\T_pal_b00_Lordenfel_Arch_02_BC.png"
+            },
+            {
+                "name": "T_pal_b00_Lordenfel_Arch_02_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Lordenfel\\Textures\\T_pal_b00_Lordenfel_Arch_02_N.png"
+            },
+            {
+                "name": "Grass0072_D",
+                "usage": "G channel Basecolor",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\LandscapeAutoMaterial\\Textures\\Tiles\\Grass01\\Grass0072_D.png"
+            },
+            {
+                "name": "Grass0072_N",
+                "usage": "G channel Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\LandscapeAutoMaterial\\Textures\\Tiles\\Grass01\\Grass0072_N.png"
+            }
+        ]
+    },
+    "MI_pal_b00_Lordenfel_Ballustrade_01.mat": {
+        "texture_count": 4,
+        "shader_name": "M_PalLit_Env",
+        "textures": [
+            {
+                "name": "T_pal_b00_Lordenfel_Ballustrade_01_BC",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/b00/Lordenfel/Textures/T_pal_b00_Lordenfel_Ballustrade_01_BC.png"
+            },
+            {
+                "name": "T_pal_b00_Lordenfel_Ballustrade_01_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/b00/Lordenfel/Textures/T_pal_b00_Lordenfel_Ballustrade_01_N.png"
+            },
+            {
+                "name": "Grass0072_D",
+                "usage": "G channel Basecolor",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\LandscapeAutoMaterial\\Textures\\Tiles\\Grass01\\Grass0072_D.png"
+            },
+            {
+                "name": "Grass0072_N",
+                "usage": "G channel Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\LandscapeAutoMaterial\\Textures\\Tiles\\Grass01\\Grass0072_N.png"
+            }
+        ]
+    },
+    "MI_pal_b00_Lordenfel_Battlement_01.mat": {
+        "texture_count": 4,
+        "shader_name": "M_PalLit_Env",
+        "textures": [
+            {
+                "name": "T_pal_b00_Lordenfel_Arch_02_BC",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Lordenfel\\Textures\\T_pal_b00_Lordenfel_Arch_02_BC.png"
+            },
+            {
+                "name": "T_pal_b00_Lordenfel_Arch_02_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Lordenfel\\Textures\\T_pal_b00_Lordenfel_Arch_02_N.png"
+            },
+            {
+                "name": "Grass0072_D",
+                "usage": "G channel Basecolor",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\LandscapeAutoMaterial\\Textures\\Tiles\\Grass01\\Grass0072_D.png"
+            },
+            {
+                "name": "Grass0072_N",
+                "usage": "G channel Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\LandscapeAutoMaterial\\Textures\\Tiles\\Grass01\\Grass0072_N.png"
+            }
+        ]
+    },
+    "MI_pal_b00_Lordenfel_Brick_Rubble_01.mat": {
+        "texture_count": 2,
+        "shader_name": "M_PalLit_Env",
+        "textures": [
+            {
+                "name": "T_pal_b00_Lordenfel_Brick_Rubble_01_BC",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/b00/Lordenfel/Textures/T_pal_b00_Lordenfel_Brick_Rubble_01_BC.png"
+            },
+            {
+                "name": "T_pal_b00_Lordenfel_Brick_Rubble_01_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/b00/Lordenfel/Textures/T_pal_b00_Lordenfel_Brick_Rubble_01_N.png"
+            }
+        ]
+    },
+    "MI_pal_b00_Lordenfel_Brick_Rubble_02.mat": {
+        "texture_count": 2,
+        "shader_name": "M_PalLit_Env",
+        "textures": [
+            {
+                "name": "T_pal_b00_Lordenfel_Brick_Rubble_02_BC",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/b00/Lordenfel/Textures/T_pal_b00_Lordenfel_Brick_Rubble_02_BC.png"
+            },
+            {
+                "name": "T_pal_b00_Lordenfel_Brick_Rubble_02_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/b00/Lordenfel/Textures/T_pal_b00_Lordenfel_Brick_Rubble_02_N.png"
+            }
+        ]
+    },
+    "MI_pal_b00_Lordenfel_Bricks_01.mat": {
+        "texture_count": 6,
+        "shader_name": "M_PalLit_Env",
+        "textures": [
+            {
+                "name": "T_pal_b00_Lordenfel_Bricks_01_BC",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/b00/Lordenfel/Textures/T_pal_b00_Lordenfel_Bricks_01_BC.png"
+            },
+            {
+                "name": "T_pal_b00_Lordenfel_Bricks_01_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/b00/Lordenfel/Textures/T_pal_b00_Lordenfel_Bricks_01_N.png"
+            },
+            {
+                "name": "Grass0072_D",
+                "usage": "G channel Basecolor",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\LandscapeAutoMaterial\\Textures\\Tiles\\Grass01\\Grass0072_D.png"
+            },
+            {
+                "name": "Grass0072_N",
+                "usage": "G channel Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\LandscapeAutoMaterial\\Textures\\Tiles\\Grass01\\Grass0072_N.png"
+            },
+            {
+                "name": "T_pal_b00_SandBeach_D",
+                "usage": "R channel Basecolor",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Texture\\Stage\\Landscape\\T_pal_b00_SandBeach_D.png"
+            },
+            {
+                "name": "T_pal_b00_SandBeach_N",
+                "usage": "R channel Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Texture\\Stage\\Landscape\\T_pal_b00_SandBeach_N.png"
+            }
+        ]
+    },
+    "MI_pal_b00_Lordenfel_Column_01.mat": {
+        "texture_count": 2,
+        "shader_name": "M_PalLit_Env",
+        "textures": [
+            {
+                "name": "T_pal_b00_Lordenfel_Column_01_BC",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/b00/Lordenfel/Textures/T_pal_b00_Lordenfel_Column_01_BC.png"
+            },
+            {
+                "name": "T_pal_b00_Lordenfel_Column_01_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/b00/Lordenfel/Textures/T_pal_b00_Lordenfel_Column_01_N.png"
+            }
+        ]
+    },
+    "MI_pal_b00_Lordenfel_Column_02.mat": {
+        "texture_count": 7,
+        "shader_name": "M_PalLit_Env",
+        "textures": [
+            {
+                "name": "T_pal_b00_Lordenfel_Column_02_BC",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/b00/Lordenfel/Textures/T_pal_b00_Lordenfel_Column_02_BC.png"
+            },
+            {
+                "name": "T_pal_b00_Lordenfel_Column_02_MRO",
+                "usage": "MetallicRoughnessOcclusionSpecularTexture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/b00/Lordenfel/Textures/T_pal_b00_Lordenfel_Column_02_MRO.png"
+            },
+            {
+                "name": "T_pal_b00_Lordenfel_Column_02_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/b00/Lordenfel/Textures/T_pal_b00_Lordenfel_Column_02_N.png"
+            },
+            {
+                "name": "Grass0072_D",
+                "usage": "G channel Basecolor",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\LandscapeAutoMaterial\\Textures\\Tiles\\Grass01\\Grass0072_D.png"
+            },
+            {
+                "name": "Grass0072_N",
+                "usage": "G channel Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\LandscapeAutoMaterial\\Textures\\Tiles\\Grass01\\Grass0072_N.png"
+            },
+            {
+                "name": "T_pal_b00_SandBeach_D",
+                "usage": "R channel Basecolor",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Texture\\Stage\\Landscape\\T_pal_b00_SandBeach_D.png"
+            },
+            {
+                "name": "T_pal_b00_SandBeach_N",
+                "usage": "R channel Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Texture\\Stage\\Landscape\\T_pal_b00_SandBeach_N.png"
+            }
+        ]
+    },
+    "MI_pal_b00_Lordenfel_Floor_01.mat": {
+        "texture_count": 6,
+        "shader_name": "M_PalLit_Env",
+        "textures": [
+            {
+                "name": "T_pal_b00_Lordenfel_Floor_01_BC",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/b00/Lordenfel/Textures/T_pal_b00_Lordenfel_Floor_01_BC.png"
+            },
+            {
+                "name": "T_pal_b00_Lordenfel_Floor_01_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/b00/Lordenfel/Textures/T_pal_b00_Lordenfel_Floor_01_N.png"
+            },
+            {
+                "name": "Grass0072_D",
+                "usage": "G channel Basecolor",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\LandscapeAutoMaterial\\Textures\\Tiles\\Grass01\\Grass0072_D.png"
+            },
+            {
+                "name": "Grass0072_N",
+                "usage": "G channel Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\LandscapeAutoMaterial\\Textures\\Tiles\\Grass01\\Grass0072_N.png"
+            },
+            {
+                "name": "T_Mossy_Grass_vcpoajjs_4K_D",
+                "usage": "R channel Basecolor",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Megascans/Surfaces/Mossy_Grass_vcpoajjs/T_Mossy_Grass_vcpoajjs_4K_D.png"
+            },
+            {
+                "name": "T_Mossy_Grass_vcpoajjs_4K_N",
+                "usage": "R channel Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Megascans/Surfaces/Mossy_Grass_vcpoajjs/T_Mossy_Grass_vcpoajjs_4K_N.png"
+            }
+        ]
+    },
+    "MI_pal_b00_Lordenfel_Floor_Bricks_01.mat": {
+        "texture_count": 6,
+        "shader_name": "M_PalLit_Env",
+        "textures": [
+            {
+                "name": "T_pal_b00_Lordenfel_Floor_Bricks_01_BC",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/b00/Lordenfel/Textures/T_pal_b00_Lordenfel_Floor_Bricks_01_BC.png"
+            },
+            {
+                "name": "T_pal_b00_Lordenfel_Floor_Bricks_01_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/b00/Lordenfel/Textures/T_pal_b00_Lordenfel_Floor_Bricks_01_N.png"
+            },
+            {
+                "name": "Grass0072_D",
+                "usage": "G channel Basecolor",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\LandscapeAutoMaterial\\Textures\\Tiles\\Grass01\\Grass0072_D.png"
+            },
+            {
+                "name": "Grass0072_N",
+                "usage": "G channel Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\LandscapeAutoMaterial\\Textures\\Tiles\\Grass01\\Grass0072_N.png"
+            },
+            {
+                "name": "T_Mossy_Grass_vcpoajjs_4K_D",
+                "usage": "R channel Basecolor",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Megascans/Surfaces/Mossy_Grass_vcpoajjs/T_Mossy_Grass_vcpoajjs_4K_D.png"
+            },
+            {
+                "name": "T_Mossy_Grass_vcpoajjs_4K_N",
+                "usage": "R channel Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Megascans/Surfaces/Mossy_Grass_vcpoajjs/T_Mossy_Grass_vcpoajjs_4K_N.png"
+            }
+        ]
+    },
+    "MI_pal_b00_Lordenfel_Metal_01.mat": {
+        "texture_count": 2,
+        "shader_name": "M_PalLit_Env",
+        "textures": [
+            {
+                "name": "T_pal_b00_Lordenfel_Metal_Surface_01_BC",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/b00/Lordenfel/Textures/T_pal_b00_Lordenfel_Metal_Surface_01_BC.png"
+            },
+            {
+                "name": "T_pal_b00_Lordenfel_Metal_Surface_01_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/b00/Lordenfel/Textures/T_pal_b00_Lordenfel_Metal_Surface_01_N.png"
+            }
+        ]
+    },
+    "MI_pal_b00_Lordenfel_Rock_Pile_01.mat": {
+        "texture_count": 2,
+        "shader_name": "M_PalLit_Env",
+        "textures": [
+            {
+                "name": "T_pal_b00_Lordenfel_Rock_Pile_01_BC",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Lordenfel\\Textures\\T_pal_b00_Lordenfel_Rock_Pile_01_BC.png"
+            },
+            {
+                "name": "T_pal_b00_Lordenfel_Rock_Pile_01_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Lordenfel\\Textures\\T_pal_b00_Lordenfel_Rock_Pile_01_N.png"
+            }
+        ]
+    },
+    "MI_pal_b00_Lordenfel_Rock_Pile_02.mat": {
+        "texture_count": 4,
+        "shader_name": "M_PalLit_Top",
+        "textures": [
+            {
+                "name": "Grass0073_D",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\LandscapeAutoMaterial\\Textures\\Tiles\\Grass01\\Grass0073_D.png"
+            },
+            {
+                "name": "Grass0072_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\LandscapeAutoMaterial\\Textures\\Tiles\\Grass01\\Grass0072_N.png"
+            },
+            {
+                "name": "T_pal_b00_Lordenfel_Rock_Pile_01_BC",
+                "usage": "Top Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Lordenfel\\Textures\\T_pal_b00_Lordenfel_Rock_Pile_01_BC.png"
+            },
+            {
+                "name": "T_pal_b00_Lordenfel_Rock_Pile_01_N",
+                "usage": "Top Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Lordenfel\\Textures\\T_pal_b00_Lordenfel_Rock_Pile_01_N.png"
+            }
+        ]
+    },
+    "MI_pal_b00_Lordenfel_Roof_01.mat": {
+        "texture_count": 2,
+        "shader_name": "M_PalLit_Env",
+        "textures": [
+            {
+                "name": "T_pal_b00_Lordenfel_Roof_01_BC",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/b00/Lordenfel/Textures/T_pal_b00_Lordenfel_Roof_01_BC.png"
+            },
+            {
+                "name": "T_pal_b00_Lordenfel_Roof_01_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/b00/Lordenfel/Textures/T_pal_b00_Lordenfel_Roof_01_N.png"
+            }
+        ]
+    },
+    "MI_pal_b00_Lordenfel_Rope_01.mat": {
+        "texture_count": 2,
+        "shader_name": "M_PalLit_Env",
+        "textures": [
+            {
+                "name": "T_pal_b00_Lordenfel_Rope_01_BC",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/b00/Lordenfel/Textures/T_pal_b00_Lordenfel_Rope_01_BC.png"
+            },
+            {
+                "name": "T_pal_b00_Lordenfel_Rope_01_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/b00/Lordenfel/Textures/T_pal_b00_Lordenfel_Rope_01_N.png"
+            }
+        ]
+    },
+    "MI_pal_b00_Lordenfel_Stair_01.mat": {
+        "texture_count": 4,
+        "shader_name": "M_PalLit_Env",
+        "textures": [
+            {
+                "name": "T_pal_b00_Lordenfel_Stair_01_BC",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Lordenfel\\Textures\\T_pal_b00_Lordenfel_Stair_01_BC.png"
+            },
+            {
+                "name": "T_pal_b00_Lordenfel_Stair_01_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Lordenfel\\Textures\\T_pal_b00_Lordenfel_Stair_01_N.png"
+            },
+            {
+                "name": "Grass0072_D",
+                "usage": "G channel Basecolor",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\LandscapeAutoMaterial\\Textures\\Tiles\\Grass01\\Grass0072_D.png"
+            },
+            {
+                "name": "Grass0072_N",
+                "usage": "G channel Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\LandscapeAutoMaterial\\Textures\\Tiles\\Grass01\\Grass0072_N.png"
+            }
+        ]
+    },
+    "MI_pal_b00_Lordenfel_Stone_Dameged_01.mat": {
+        "texture_count": 2,
+        "shader_name": "M_PalLit_Env",
+        "textures": [
+            {
+                "name": "T_pal_b00_Lordenfel_Stone_Damaged_01_BC",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/b00/Lordenfel/Textures/T_pal_b00_Lordenfel_Stone_Damaged_01_BC.png"
+            },
+            {
+                "name": "T_pal_b00_Lordenfel_Stone_Damaged_01_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Lordenfel\\Textures\\T_pal_b00_Lordenfel_Stone_Damaged_01_N.png"
+            }
+        ]
+    },
+    "MI_pal_b00_Lordenfel_Trim_01.mat": {
+        "texture_count": 6,
+        "shader_name": "M_PalLit_Env",
+        "textures": [
+            {
+                "name": "T_pal_b00_Lordenfel_Trim_01_BC",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Lordenfel\\Textures\\T_pal_b00_Lordenfel_Trim_01_BC.png"
+            },
+            {
+                "name": "T_pal_b00_Lordenfel_Trim_01_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Lordenfel\\Textures\\T_pal_b00_Lordenfel_Trim_01_N.png"
+            },
+            {
+                "name": "Grass0072_D",
+                "usage": "G channel Basecolor",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\LandscapeAutoMaterial\\Textures\\Tiles\\Grass01\\Grass0072_D.png"
+            },
+            {
+                "name": "Grass0072_N",
+                "usage": "G channel Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\LandscapeAutoMaterial\\Textures\\Tiles\\Grass01\\Grass0072_N.png"
+            },
+            {
+                "name": "T_pal_b00_SandBeach_D",
+                "usage": "R channel Basecolor",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Texture\\Stage\\Landscape\\T_pal_b00_SandBeach_D.png"
+            },
+            {
+                "name": "T_pal_b00_SandBeach_N",
+                "usage": "R channel Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Texture\\Stage\\Landscape\\T_pal_b00_SandBeach_N.png"
+            }
+        ]
+    },
+    "MI_pal_b00_Lordenfel_Trim_02.mat": {
+        "texture_count": 2,
+        "shader_name": "M_PalLit_Env",
+        "textures": [
+            {
+                "name": "T_pal_b00_Lordenfel_Trim_01_BC",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Lordenfel\\Textures\\T_pal_b00_Lordenfel_Trim_01_BC.png"
+            },
+            {
+                "name": "T_pal_b00_Lordenfel_Trim_01_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Lordenfel\\Textures\\T_pal_b00_Lordenfel_Trim_01_N.png"
+            }
+        ]
+    },
+    "MI_pal_b00_Lordenfel_Trim_07.mat": {
+        "texture_count": 4,
+        "shader_name": "M_PalLit_Env",
+        "textures": [
+            {
+                "name": "T_pal_b00_Lordenfel_Trim_07_BC",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/b00/Lordenfel/Textures/T_pal_b00_Lordenfel_Trim_07_BC.png"
+            },
+            {
+                "name": "T_pal_b00_Lordenfel_Trim_07_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/b00/Lordenfel/Textures/T_pal_b00_Lordenfel_Trim_07_N.png"
+            },
+            {
+                "name": "Grass0072_D",
+                "usage": "G channel Basecolor",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\LandscapeAutoMaterial\\Textures\\Tiles\\Grass01\\Grass0072_D.png"
+            },
+            {
+                "name": "Grass0072_N",
+                "usage": "G channel Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\LandscapeAutoMaterial\\Textures\\Tiles\\Grass01\\Grass0072_N.png"
+            }
+        ]
+    },
+    "MI_pal_b00_Lordenfel_Wall_01.mat": {
+        "texture_count": 7,
+        "shader_name": "M_PalLit_Env",
+        "textures": [
+            {
+                "name": "T_pal_b00_Lordenfel_Wall_01_BC",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Lordenfel\\Textures\\T_pal_b00_Lordenfel_Wall_01_BC.png"
+            },
+            {
+                "name": "T_pal_b00_Lordenfel_Wall_01_MRO",
+                "usage": "MetallicRoughnessOcclusionSpecularTexture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Lordenfel\\Textures\\T_pal_b00_Lordenfel_Wall_01_MRO.png"
+            },
+            {
+                "name": "T_pal_b00_Lordenfel_Wall_01_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Lordenfel\\Textures\\T_pal_b00_Lordenfel_Wall_01_N.png"
+            },
+            {
+                "name": "Grass0072_D",
+                "usage": "G channel Basecolor",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\LandscapeAutoMaterial\\Textures\\Tiles\\Grass01\\Grass0072_D.png"
+            },
+            {
+                "name": "Grass0072_N",
+                "usage": "G channel Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\LandscapeAutoMaterial\\Textures\\Tiles\\Grass01\\Grass0072_N.png"
+            },
+            {
+                "name": "T_pal_b00_SandBeach_D",
+                "usage": "R channel Basecolor",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Texture\\Stage\\Landscape\\T_pal_b00_SandBeach_D.png"
+            },
+            {
+                "name": "T_pal_b00_SandBeach_N",
+                "usage": "R channel Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Texture\\Stage\\Landscape\\T_pal_b00_SandBeach_N.png"
+            }
+        ]
+    },
+    "MI_pal_b00_Lordenfel_Wall_03.mat": {
+        "texture_count": 2,
+        "shader_name": "M_PalLit_Env",
+        "textures": [
+            {
+                "name": "T_pal_b00_Lordenfel_Wall_03_BC",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/b00/Lordenfel/Textures/T_pal_b00_Lordenfel_Wall_03_BC.png"
+            },
+            {
+                "name": "T_pal_b00_Lordenfel_Wall_03_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/b00/Lordenfel/Textures/T_pal_b00_Lordenfel_Wall_03_N.png"
+            }
+        ]
+    },
+    "MI_pal_b00_Lordenfel_Wood_01.mat": {
+        "texture_count": 4,
+        "shader_name": "M_PalLit_Env",
+        "textures": [
+            {
+                "name": "T_pal_b00_Lordenfel_Wood_01_BC",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/b00/Lordenfel/Textures/T_pal_b00_Lordenfel_Wood_01_BC.png"
+            },
+            {
+                "name": "T_pal_b00_Lordenfel_Wood_01_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/b00/Lordenfel/Textures/T_pal_b00_Lordenfel_Wood_01_N.png"
+            },
+            {
+                "name": "Grass0072_D",
+                "usage": "G channel Basecolor",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\LandscapeAutoMaterial\\Textures\\Tiles\\Grass01\\Grass0072_D.png"
+            },
+            {
+                "name": "Grass0072_N",
+                "usage": "G channel Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\LandscapeAutoMaterial\\Textures\\Tiles\\Grass01\\Grass0072_N.png"
+            }
+        ]
+    },
+    "MI_pal_b00_Lordenfel_Wood_Burned_01.mat": {
+        "texture_count": 2,
+        "shader_name": "M_PalLit_Env",
+        "textures": [
+            {
+                "name": "T_pal_b00_Lordenfel_Wood_01_BC",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/b00/Lordenfel/Textures/T_pal_b00_Lordenfel_Wood_01_BC.png"
+            },
+            {
+                "name": "T_pal_b00_Lordenfel_Wood_01_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/b00/Lordenfel/Textures/T_pal_b00_Lordenfel_Wood_01_N.png"
+            }
+        ]
+    },
+    "MI_pal_b00_Rock_01.mat": {
+        "texture_count": 2,
+        "shader_name": "M_PalLit_Env",
+        "textures": [
+            {
+                "name": "T_Rock_01_A",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/b00/Planet-X-I/Textures/T_Rock_01_A.png"
+            },
+            {
+                "name": "T_Rock_01_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/b00/Planet-X-I/Textures/T_Rock_01_N.png"
+            }
+        ]
+    },
+    "MI_pal_b00_rock_CliffsAndRocksPack.mat": {
+        "texture_count": 5,
+        "shader_name": "M_PalLit_Env",
+        "textures": [
+            {
+                "name": "T_pal_b00_rock_CliffsAndRocksPack_D",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Cliffs_and_Rocks_Pack\\Texture\\T_pal_b00_rock_CliffsAndRocksPack_D.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_D",
+                "usage": "Detail Diffuse",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_D.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_N",
+                "usage": "Detail Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_N.png"
+            },
+            {
+                "name": "T_pal_b00_rock_CliffsAndRocksPack_M",
+                "usage": "MetallicRoughnessOcclusionSpecularTexture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Cliffs_and_Rocks_Pack\\Texture\\T_pal_b00_rock_CliffsAndRocksPack_M.png"
+            },
+            {
+                "name": "T_pal_b00_rock_CliffsAndRocksPack_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Cliffs_and_Rocks_Pack\\Texture\\T_pal_b00_rock_CliffsAndRocksPack_N.png"
+            }
+        ]
+    },
+    "MI_pal_b00_rock_quixel.mat": {
+        "texture_count": 2,
+        "shader_name": "M_PalLit_Env",
+        "textures": [
+            {
+                "name": "T_pal_b00_rock_quixel_D",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\quixel\\Texture\\T_pal_b00_rock_quixel_D.png"
+            },
+            {
+                "name": "T_pal_b00_rock_quixel_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\quixel\\Texture\\T_pal_b00_rock_quixel_N.png"
+            }
+        ]
+    },
+    "MI_pal_b00_rock_small_CliffsAndRocksPack.mat": {
+        "texture_count": 2,
+        "shader_name": "M_PalLit_Env",
+        "textures": [
+            {
+                "name": "T_pal_b00_rock_small_CliffsAndRocksPack_D",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/b00/Cliffs_and_Rocks_Pack/Texture/T_pal_b00_rock_small_CliffsAndRocksPack_D.png"
+            },
+            {
+                "name": "T_pal_b00_rock_small_CliffsAndRocksPack_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/b00/Cliffs_and_Rocks_Pack/Texture/T_pal_b00_rock_small_CliffsAndRocksPack_N.png"
+            }
+        ]
+    },
+    "MI_pal_b00_SmallStone_NatureCaveCliff_01.mat": {
+        "texture_count": 2,
+        "shader_name": "M_PalLit_Env",
+        "textures": [
+            {
+                "name": "T_pal_b00_Small_stone_NatureCaveCliff01_base_D",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\NatureCaveCliff\\OLD\\Texture\\Stones\\T_pal_b00_Small_stone_NatureCaveCliff01_base_D.png"
+            },
+            {
+                "name": "T_pal_b00_Small_stone_NatureCaveCliff01_base_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\NatureCaveCliff\\OLD\\Texture\\Stones\\T_pal_b00_Small_stone_NatureCaveCliff01_base_N.png"
+            }
+        ]
+    },
+    "MI_pal_b00_SmallStone_NatureCaveCliff_02.mat": {
+        "texture_count": 2,
+        "shader_name": "M_PalLit_Env",
+        "textures": [
+            {
+                "name": "T_pal_b00_Small_stone_NatureCaveCliff02_base_D",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\NatureCaveCliff\\OLD\\Texture\\Stones\\T_pal_b00_Small_stone_NatureCaveCliff02_base_D.png"
+            },
+            {
+                "name": "T_pal_b00_Small_stone_NatureCaveCliff02_base_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\NatureCaveCliff\\OLD\\Texture\\Stones\\T_pal_b00_Small_stone_NatureCaveCliff02_base_N.png"
+            }
+        ]
+    },
+    "MI_pal_b00_SmallStone_NatureCaveCliff_03.mat": {
+        "texture_count": 2,
+        "shader_name": "M_PalLit_Env",
+        "textures": [
+            {
+                "name": "T_pal_b00_Small_stone_NatureCaveCliff03_base_D",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\NatureCaveCliff\\OLD\\Texture\\Stones\\T_pal_b00_Small_stone_NatureCaveCliff03_base_D.png"
+            },
+            {
+                "name": "T_pal_b00_Small_stone_NatureCaveCliff03_base_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\NatureCaveCliff\\OLD\\Texture\\Stones\\T_pal_b00_Small_stone_NatureCaveCliff03_base_N.png"
+            }
+        ]
+    },
+    "MI_pal_b00_stone.mat": {
+        "texture_count": 7,
+        "shader_name": "M_PalLit_Top",
+        "textures": [
+            {
+                "name": "T_pal_b00_stone_D",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Texture/Stage/cliff_rock_stone/SP_BrushUp/T_pal_b00_stone_D.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_D",
+                "usage": "Detail Diffuse",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_D.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_N",
+                "usage": "Detail Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_N.png"
+            },
+            {
+                "name": "DefaultMaskMap",
+                "usage": "MetallicRoughnessOcclusionSpecularTexture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Material\\DefaultMaskMap.png"
+            },
+            {
+                "name": "T_pal_b00_stone_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Texture/Stage/cliff_rock_stone/SP_BrushUp/T_pal_b00_stone_N.png"
+            },
+            {
+                "name": "Grass0073_D",
+                "usage": "Top Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\LandscapeAutoMaterial\\Textures\\Tiles\\Grass01\\Grass0073_D.png"
+            },
+            {
+                "name": "vebkaeys_4K_Normal",
+                "usage": "Top Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Field_Asset_CustomLargeCliff\\Texture\\vebkaeys_4K_Normal.png"
+            }
+        ]
+    },
+    "MI_pal_b00_Stone_03.mat": {
+        "texture_count": 2,
+        "shader_name": "M_PalLit_Env",
+        "textures": [
+            {
+                "name": "T_Rock_01_A",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/b00/Planet-X-I/Textures/T_Rock_01_A.png"
+            },
+            {
+                "name": "T_pal_b00_Rock_01_01_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/b00/Planet-X-I/Textures/T_pal_b00_Rock_01_01_N.png"
+            }
+        ]
+    },
+    "MI_pal_b00_stone_StoneBoulder_10_Medium_Rock_1.mat": {
+        "texture_count": 7,
+        "shader_name": "M_PalLit_Top",
+        "textures": [
+            {
+                "name": "T_pal_b00_stone_StoneBoulder_10_Medium_Rock_1_D",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Texture\\Stage\\cliff_rock_stone\\SP_BrushUp\\T_pal_b00_stone_StoneBoulder_10_Medium_Rock_1_D.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_D",
+                "usage": "Detail Diffuse",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_D.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_N",
+                "usage": "Detail Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_N.png"
+            },
+            {
+                "name": "DefaultMaskMap",
+                "usage": "MetallicRoughnessOcclusionSpecularTexture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Material\\DefaultMaskMap.png"
+            },
+            {
+                "name": "T_pal_b00_stone_StoneBoulder_10_Medium_Rock_1_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Texture\\Stage\\cliff_rock_stone\\SP_BrushUp\\T_pal_b00_stone_StoneBoulder_10_Medium_Rock_1_N.png"
+            },
+            {
+                "name": "Grass0073_D",
+                "usage": "Top Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\LandscapeAutoMaterial\\Textures\\Tiles\\Grass01\\Grass0073_D.png"
+            },
+            {
+                "name": "vebkaeys_4K_Normal",
+                "usage": "Top Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Field_Asset_CustomLargeCliff\\Texture\\vebkaeys_4K_Normal.png"
+            }
+        ]
+    },
+    "MI_pal_b00_tree_RainforestEbonyTree_01.mat": {
+        "texture_count": 2,
+        "shader_name": "M_PalLit_Foliage",
+        "textures": [
+            {
+                "name": "T_pal_b00_tree_RainforestEbonyTree_D",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Rainforest\\Textures\\T_pal_b00_tree_RainforestEbonyTree_D.png"
+            },
+            {
+                "name": "T_pal_b00_tree_RainforestEbonyTree_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Rainforest\\Textures\\T_pal_b00_tree_RainforestEbonyTree_N.png"
+            }
+        ]
+    },
+    "MI_pal_b00_tree_RainforestEbonyTree_03.mat": {
+        "texture_count": 3,
+        "shader_name": "M_PalLit_Foliage",
+        "textures": [
+            {
+                "name": "T_pal_b00_tree_RainforestVines_01_D",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Rainforest\\Textures\\T_pal_b00_tree_RainforestVines_01_D.png"
+            },
+            {
+                "name": "T_pal_b00_tree_RainforestVines_01_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Rainforest\\Textures\\T_pal_b00_tree_RainforestVines_01_N.png"
+            },
+            {
+                "name": "T_pal_b00_tree_RainforestVines_01_D_2",
+                "usage": "Subsurface Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Rainforest\\Textures\\T_pal_b00_tree_RainforestVines_01_D_2.png"
+            }
+        ]
+    },
+    "MI_pal_b00_tree_RainforestGroundIvy_02.mat": {
+        "texture_count": 3,
+        "shader_name": "M_PalLit_Foliage",
+        "textures": [
+            {
+                "name": "T_pal_b00_tree_RainforestIvy_02_D",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Rainforest\\Textures\\T_pal_b00_tree_RainforestIvy_02_D.png"
+            },
+            {
+                "name": "T_pal_b00_tree_RainforestIvy_02_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Rainforest\\Textures\\T_pal_b00_tree_RainforestIvy_02_N.png"
+            },
+            {
+                "name": "T_pal_b00_tree_RainforestIvy_02_D",
+                "usage": "Subsurface Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Rainforest\\Textures\\T_pal_b00_tree_RainforestIvy_02_D.png"
+            }
+        ]
+    },
+    "MI_pal_b00_tree_RainforestTree_02.mat": {
+        "texture_count": 2,
+        "shader_name": "M_PalLit_Foliage",
+        "textures": [
+            {
+                "name": "T_pal_b00_tree_RainforestTileTR_D",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Rainforest\\Textures\\T_pal_b00_tree_RainforestTileTR_D.png"
+            },
+            {
+                "name": "T_pal_b00_tree_RainforestTileTR_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Rainforest\\Textures\\T_pal_b00_tree_RainforestTileTR_N.png"
+            }
+        ]
+    },
+    "MI_pal_b00_tree_Tree_rough_Stumps_and_logs.mat": {
+        "texture_count": 2,
+        "shader_name": "M_PalLit_Env",
+        "textures": [
+            {
+                "name": "T_pal_b00_tree_new_Tree_rough_Stumps_and_logs_D",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Stumps_and_logs\\Textures\\T_pal_b00_tree_new_Tree_rough_Stumps_and_logs_D.png"
+            },
+            {
+                "name": "T_pal_b00_tree_Stump_Stumps_and_logs_Tree_rough_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Stumps_and_logs\\Textures\\T_pal_b00_tree_Stump_Stumps_and_logs_Tree_rough_N.png"
+            }
+        ]
+    },
+    "MI_Rock_2.mat": {
+        "texture_count": 7,
+        "shader_name": "M_PalLit_Top",
+        "textures": [
+            {
+                "name": "T_Rock_2_D",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Texture/Stage/cliff_rock_stone/SP_BrushUp/T_Rock_2_D.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_D",
+                "usage": "Detail Diffuse",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_D.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_N",
+                "usage": "Detail Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_N.png"
+            },
+            {
+                "name": "DefaultMaskMap",
+                "usage": "MetallicRoughnessOcclusionSpecularTexture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Material\\DefaultMaskMap.png"
+            },
+            {
+                "name": "T_Rock_2_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Texture/Stage/cliff_rock_stone/SP_BrushUp/T_Rock_2_N.png"
+            },
+            {
+                "name": "Grass0073_D",
+                "usage": "Top Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\LandscapeAutoMaterial\\Textures\\Tiles\\Grass01\\Grass0073_D.png"
+            },
+            {
+                "name": "vebkaeys_4K_Normal",
+                "usage": "Top Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Field_Asset_CustomLargeCliff\\Texture\\vebkaeys_4K_Normal.png"
+            }
+        ]
+    },
+    "MI_Rock_Formation_2_CliffMI.mat": {
+        "texture_count": 7,
+        "shader_name": "M_PalLit_Top",
+        "textures": [
+            {
+                "name": "T_Rock_Formation_2_CliffMI_D",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Texture\\Stage\\cliff_rock_stone\\SP_BrushUp\\T_Rock_Formation_2_CliffMI_D.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_D",
+                "usage": "Detail Diffuse",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_D.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_N",
+                "usage": "Detail Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_N.png"
+            },
+            {
+                "name": "DefaultMaskMap",
+                "usage": "MetallicRoughnessOcclusionSpecularTexture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Material\\DefaultMaskMap.png"
+            },
+            {
+                "name": "T_Rock_Formation_2_CliffMI_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Texture\\Stage\\cliff_rock_stone\\SP_BrushUp\\T_Rock_Formation_2_CliffMI_N.png"
+            },
+            {
+                "name": "Grass0073_D",
+                "usage": "Top Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\LandscapeAutoMaterial\\Textures\\Tiles\\Grass01\\Grass0073_D.png"
+            },
+            {
+                "name": "vebkaeys_4K_Normal",
+                "usage": "Top Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Field_Asset_CustomLargeCliff\\Texture\\vebkaeys_4K_Normal.png"
+            }
+        ]
+    },
+    "MI_Rock_Formation_3.mat": {
+        "texture_count": 4,
+        "shader_name": "M_PalLit_Top",
+        "textures": [
+            {
+                "name": "T_pal_b00_Lordenfel_Rock_Surface_01_BC",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Field_Asset_CustomLargeCliff\\Texture\\T_pal_b00_Lordenfel_Rock_Surface_01_BC.png"
+            },
+            {
+                "name": "T_pal_b00_Lordenfel_Stone_Damaged_01_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Lordenfel\\Textures\\T_pal_b00_Lordenfel_Stone_Damaged_01_N.png"
+            },
+            {
+                "name": "Grass0073_D",
+                "usage": "Top Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\LandscapeAutoMaterial\\Textures\\Tiles\\Grass01\\Grass0073_D.png"
+            },
+            {
+                "name": "vebkaeys_4K_Normal",
+                "usage": "Top Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Field_Asset_CustomLargeCliff\\Texture\\vebkaeys_4K_Normal.png"
+            }
+        ]
+    },
+    "MI_Rock_Formation_3_CliffMI.mat": {
+        "texture_count": 7,
+        "shader_name": "M_PalLit_Top",
+        "textures": [
+            {
+                "name": "T_Rock_Formation_3_CliffMI_D",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Texture/Stage/cliff_rock_stone/SP_BrushUp/T_Rock_Formation_3_CliffMI_D.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_D",
+                "usage": "Detail Diffuse",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_D.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_N",
+                "usage": "Detail Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_N.png"
+            },
+            {
+                "name": "DefaultMaskMap",
+                "usage": "MetallicRoughnessOcclusionSpecularTexture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Material\\DefaultMaskMap.png"
+            },
+            {
+                "name": "T_Rock_Formation_3_CliffMI_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Texture/Stage/cliff_rock_stone/SP_BrushUp/T_Rock_Formation_3_CliffMI_N.png"
+            },
+            {
+                "name": "Grass0073_D",
+                "usage": "Top Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\LandscapeAutoMaterial\\Textures\\Tiles\\Grass01\\Grass0073_D.png"
+            },
+            {
+                "name": "vebkaeys_4K_Normal",
+                "usage": "Top Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Field_Asset_CustomLargeCliff\\Texture\\vebkaeys_4K_Normal.png"
+            }
+        ]
+    },
+    "MI_Rock_Formation_4_CliffMI.mat": {
+        "texture_count": 7,
+        "shader_name": "M_PalLit_Top",
+        "textures": [
+            {
+                "name": "T_Rock_Formation_4_CliffMI_D",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Texture\\Stage\\cliff_rock_stone\\SP_BrushUp\\T_Rock_Formation_4_CliffMI_D.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_D",
+                "usage": "Detail Diffuse",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_D.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_N",
+                "usage": "Detail Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_N.png"
+            },
+            {
+                "name": "DefaultMaskMap",
+                "usage": "MetallicRoughnessOcclusionSpecularTexture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Material\\DefaultMaskMap.png"
+            },
+            {
+                "name": "T_Rock_Formation_4_CliffMI_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Texture\\Stage\\cliff_rock_stone\\SP_BrushUp\\T_Rock_Formation_4_CliffMI_N.png"
+            },
+            {
+                "name": "Grass0073_D",
+                "usage": "Top Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\LandscapeAutoMaterial\\Textures\\Tiles\\Grass01\\Grass0073_D.png"
+            },
+            {
+                "name": "vebkaeys_4K_Normal",
+                "usage": "Top Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Field_Asset_CustomLargeCliff\\Texture\\vebkaeys_4K_Normal.png"
+            }
+        ]
+    },
+    "MI_Rock_Small.mat": {
+        "texture_count": 4,
+        "shader_name": "M_PalLit_Top",
+        "textures": [
+            {
+                "name": "T_pal_b00_Lordenfel_Rock_Surface_01_BC",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Field_Asset_CustomLargeCliff\\Texture\\T_pal_b00_Lordenfel_Rock_Surface_01_BC.png"
+            },
+            {
+                "name": "T_pal_b00_Lordenfel_Stone_Damaged_01_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Lordenfel\\Textures\\T_pal_b00_Lordenfel_Stone_Damaged_01_N.png"
+            },
+            {
+                "name": "Grass0073_D",
+                "usage": "Top Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\LandscapeAutoMaterial\\Textures\\Tiles\\Grass01\\Grass0073_D.png"
+            },
+            {
+                "name": "T_pal_b00_Lordenfel_Moss_01_N",
+                "usage": "Top Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/b00/Lordenfel/Textures/T_pal_b00_Lordenfel_Moss_01_N.png"
+            }
+        ]
+    },
+    "MI_WhaleBone01.mat": {
+        "texture_count": 5,
+        "shader_name": "M_PalLit_Top",
+        "textures": [
+            {
+                "name": "T_WhaleBone01_01_B",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Other/WhaleBone/Material/T_WhaleBone01_01_B.png"
+            },
+            {
+                "name": "T_detailmap02_B",
+                "usage": "Detail Diffuse",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Prop/Common/T_detailmap02_B.png"
+            },
+            {
+                "name": "T_detailmap02_N",
+                "usage": "Detail Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Prop/Common/T_detailmap02_N.png"
+            },
+            {
+                "name": "T_WhaleBone01_01_M",
+                "usage": "MetallicRoughnessOcclusionSpecularTexture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Other/WhaleBone/Material/T_WhaleBone01_01_M.png"
+            },
+            {
+                "name": "T_WhaleBone01_01_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Other/WhaleBone/Material/T_WhaleBone01_01_N.png"
+            }
+        ]
+    },
+    "MI_WhaleBone02.mat": {
+        "texture_count": 5,
+        "shader_name": "M_PalLit_Env",
+        "textures": [
+            {
+                "name": "T_WhaleBone01_02_B",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Other/WhaleBone/Material/T_WhaleBone01_02_B.png"
+            },
+            {
+                "name": "T_detailmap02_B",
+                "usage": "Detail Diffuse",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Prop/Common/T_detailmap02_B.png"
+            },
+            {
+                "name": "T_detailmap02_N",
+                "usage": "Detail Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Prop/Common/T_detailmap02_N.png"
+            },
+            {
+                "name": "T_WhaleBone01_02_M",
+                "usage": "MetallicRoughnessOcclusionSpecularTexture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Other/WhaleBone/Material/T_WhaleBone01_02_M.png"
+            },
+            {
+                "name": "T_WhaleBone01_02_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Other/WhaleBone/Material/T_WhaleBone01_02_N.png"
+            }
+        ]
+    },
+    "MI_WhaleBone03.mat": {
+        "texture_count": 5,
+        "shader_name": "M_PalLit_Env",
+        "textures": [
+            {
+                "name": "T_WhaleBone01_03_B",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Other/WhaleBone/Material/T_WhaleBone01_03_B.png"
+            },
+            {
+                "name": "T_detailmap02_B",
+                "usage": "Detail Diffuse",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Prop/Common/T_detailmap02_B.png"
+            },
+            {
+                "name": "T_detailmap02_N",
+                "usage": "Detail Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Prop/Common/T_detailmap02_N.png"
+            },
+            {
+                "name": "T_WhaleBone01_03_M",
+                "usage": "MetallicRoughnessOcclusionSpecularTexture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Other/WhaleBone/Material/T_WhaleBone01_03_M.png"
+            },
+            {
+                "name": "T_WhaleBone01_03_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Other/WhaleBone/Material/T_WhaleBone01_03_N.png"
+            }
+        ]
+    },
+    "pal_b00_grass_lowGrass_01_02_Mat.mat": {
+        "texture_count": 2,
+        "shader_name": "M_PalLit_Foliage",
+        "textures": [
+            {
+                "name": "T_pal_b00_grass_Field_Asset_springGrass_D",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/b00/Field_Asset/Texture/T_pal_b00_grass_Field_Asset_springGrass_D.png"
+            },
+            {
+                "name": "T_pal_b00_grass_Field_Asset_springGrass_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/b00/Field_Asset/Texture/T_pal_b00_grass_Field_Asset_springGrass_N.png"
+            }
+        ]
+    },
+    "pal_b00_GrassFoliage.mat": {
+        "texture_count": 4,
+        "shader_name": "M_PalLit_Foliage",
+        "textures": [
+            {
+                "name": "T_pal_b00_foliageGrass_01_D",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\grass_bush\\textures\\T_pal_b00_foliageGrass_01_D.png"
+            },
+            {
+                "name": "T_pal_b00_foliageGrass_01_M",
+                "usage": "MetallicRoughnessOcclusionSpecularTexture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\grass_bush\\textures\\T_pal_b00_foliageGrass_01_M.png"
+            },
+            {
+                "name": "T_pal_b00_foliageGrass_01_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\grass_bush\\textures\\T_pal_b00_foliageGrass_01_N.png"
+            },
+            {
+                "name": "Leave1_Sub_tex",
+                "usage": "Subsurface Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\GrassSV_MaterialPack\\Texture\\Leave1_Sub_tex.png"
+            }
+        ]
+    },
+    "pal_b00_tree_Branch_Fir-Tree_Inst.mat": {
+        "texture_count": 2,
+        "shader_name": "M_PalLit_Foliage",
+        "textures": [
+            {
+                "name": "pal_b00_tree_Tree_Bush_Leaves_D",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Texture/Stage/grass_bush/b00/pal_b00_tree_Tree_Bush_Leaves_D.png"
+            },
+            {
+                "name": "pal_b00_tree_Tree_Bush_Leaves_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Texture/Stage/grass_bush/b00/pal_b00_tree_Tree_Bush_Leaves_N.png"
+            }
+        ]
+    },
+    "pal_b00_tree_ivy_Grass_06_M_Inst.mat": {
+        "texture_count": 2,
+        "shader_name": "M_PalLit_Foliage",
+        "textures": [
+            {
+                "name": "pal_b00_tree_ivy_Grass_06_D",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Texture\\Stage\\grass_bush\\b00\\pal_b00_tree_ivy_Grass_06_D.png"
+            },
+            {
+                "name": "pal_b00_tree_ivy_Grass_06_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Texture\\Stage\\grass_bush\\b00\\pal_b00_tree_ivy_Grass_06_N.png"
+            }
+        ]
+    },
+    "SM_MERGED_StaticMeshActor_top.mat": {
+        "texture_count": 3,
+        "shader_name": "M_PalLit_Top",
+        "textures": [
+            {
+                "name": "T_SM_MERGED_StaticMeshActor_33_BaseColor",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\NatureCaveCliff\\Texture\\T_SM_MERGED_StaticMeshActor_33_BaseColor.png"
+            },
+            {
+                "name": "T_SM_MERGED_StaticMeshActor_33_Normal",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\NatureCaveCliff\\Texture\\T_SM_MERGED_StaticMeshActor_33_Normal.png"
+            },
+            {
+                "name": "vebkaeys_4K_Albedo",
+                "usage": "Top Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Field_Asset_CustomLargeCliff\\Texture\\vebkaeys_4K_Albedo.png"
+            }
+        ]
+    }
+}

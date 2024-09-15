@@ -1,0 +1,27 @@
+{
+  "Textures": {
+    "T_RockB_BC": "Pal/Content/Others/Field_Asset/Gladiator_Arena/Textures/T_RockB_BC.T_RockB_BC",
+    "T_RockB_M": "Pal/Content/Others/Field_Asset/Gladiator_Arena/Textures/T_RockB_M.T_RockB_M",
+    "T_RockB_N": "Pal/Content/Others/Field_Asset/Gladiator_Arena/Textures/T_RockB_N.T_RockB_N",
+    "PM_Normals": "Pal/Content/Others/Field_Asset/Gladiator_Arena/Textures/T_RockB_N.T_RockB_N"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {},
+    "Switches": {},
+    "Properties": {
+      "bUsedWithNiagaraMeshParticles": true,
+      "bUsedWithStaticLighting": true,
+      "bCanMaskedBeAssumedOpaque": true,
+      "StateId": "FFC97778-4F0CE371-0AAF1D8C-30C1E3E4"
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

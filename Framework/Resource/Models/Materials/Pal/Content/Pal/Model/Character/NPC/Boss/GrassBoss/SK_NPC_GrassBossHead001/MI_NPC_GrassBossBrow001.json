@@ -1,0 +1,41 @@
+{
+  "Textures": {
+    "Base Texture": "Pal/Content/Pal/Model/Character/NPC/Boss/GrassBoss/SK_NPC_GrassBossHead001/T_NPC_GrassBossBrow001_B.T_NPC_GrassBossBrow001_B",
+    "T_NPC_GrassBossBrow001_B": "Pal/Content/Pal/Model/Character/NPC/Boss/GrassBoss/SK_NPC_GrassBossHead001/T_NPC_GrassBossBrow001_B.T_NPC_GrassBossBrow001_B",
+    "PM_Diffuse": "Engine/Content/EngineResources/Black.Black",
+    "BaseColor Mask": "Engine/Content/EngineResources/Black.Black",
+    "PM_SpecularMasks": "Pal/Content/Pal/Model/Character/NPC/Boss/GrassBoss/SK_NPC_GrassBossHead001/T_NPC_GrassBossBrow001_M.T_NPC_GrassBossBrow001_M",
+    "MetallicRoughnessOcclusionSpecularTexture": "Pal/Content/Pal/Model/Character/NPC/Boss/GrassBoss/SK_NPC_GrassBossHead001/T_NPC_GrassBossBrow001_M.T_NPC_GrassBossBrow001_M",
+    "PM_Normals": "Pal/Content/Pal/Model/Character/NPC/Boss/GrassBoss/SK_NPC_GrassBossHead001/T_NPC_GrassBossBrow001_N.T_NPC_GrassBossBrow001_N",
+    "Normal Map": "Pal/Content/Pal/Model/Character/NPC/Boss/GrassBoss/SK_NPC_GrassBossHead001/T_NPC_GrassBossBrow001_N.T_NPC_GrassBossBrow001_N"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 4,
+    "Colors": {},
+    "Scalars": {
+      "Emissive Texture Intensity": 0.0,
+      "Roughness Add": 0.2,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_ClearCoat",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "SubsurfaceProfile": {
+        "ObjectName": "SubsurfaceProfile'SP_CharacterBodyBase'",
+        "ObjectPath": "Pal/Content/Pal/Material/Character/Common/SP_CharacterBodyBase.0"
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

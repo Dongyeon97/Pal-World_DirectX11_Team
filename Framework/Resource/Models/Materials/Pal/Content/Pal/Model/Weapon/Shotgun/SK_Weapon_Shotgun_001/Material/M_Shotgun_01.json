@@ -1,0 +1,32 @@
+{
+  "Textures": {
+    "Base Color": "Pal/Content/Pal/Model/Weapon/Shotgun/SK_Weapon_Shotgun_001/Texture/T_Weapon_Shotgun_001_BaseColor.T_Weapon_Shotgun_001_BaseColor",
+    "PM_Diffuse": "Pal/Content/Pal/Model/Weapon/Shotgun/SK_Weapon_Shotgun_001/Texture/T_Weapon_Shotgun_001_BaseColor.T_Weapon_Shotgun_001_BaseColor",
+    "T_Weapon_Shotgun_001_BaseColor": "Pal/Content/Pal/Model/Weapon/Shotgun/SK_Weapon_Shotgun_001/Texture/T_Weapon_Shotgun_001_BaseColor.T_Weapon_Shotgun_001_BaseColor",
+    "Masks": "Pal/Content/Pal/Model/Weapon/Shotgun/SK_Weapon_Shotgun_001/Texture/T_Weapon_Shotgun_001_Masks.T_Weapon_Shotgun_001_Masks",
+    "T_Weapon_Shotgun_001_Masks": "Pal/Content/Pal/Model/Weapon/Shotgun/SK_Weapon_Shotgun_001/Texture/T_Weapon_Shotgun_001_Masks.T_Weapon_Shotgun_001_Masks",
+    "PM_Normals": "Pal/Content/Pal/Model/Weapon/Shotgun/SK_Weapon_Shotgun_001/Texture/T_Weapon_Shotgun_001_Normal.T_Weapon_Shotgun_001_Normal",
+    "Normal": "Pal/Content/Pal/Model/Weapon/Shotgun/SK_Weapon_Shotgun_001/Texture/T_Weapon_Shotgun_001_Normal.T_Weapon_Shotgun_001_Normal"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "OpacityMaskClipValue": 0.3333
+      }
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

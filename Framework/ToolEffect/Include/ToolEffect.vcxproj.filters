@@ -1,0 +1,234 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="01. Tool">
+      <UniqueIdentifier>{b7119b28-01fb-4d52-879d-77218e226a36}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. Manager">
+      <UniqueIdentifier>{fa6334e1-90a2-49da-b7ee-40ebf3ed0789}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03. Levels">
+      <UniqueIdentifier>{cb671408-6828-403c-82a5-835e105ce665}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Windows">
+      <UniqueIdentifier>{44c5e6c7-540a-4972-b469-39db19d27e9a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="98. Header">
+      <UniqueIdentifier>{4e825290-18ea-4516-be92-a1c36c7b788a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="98. Header\01. Precompiled">
+      <UniqueIdentifier>{ec8733c2-c4c7-49f2-b5f2-28565f0239a3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="98. Header\02. etc">
+      <UniqueIdentifier>{e09ee84c-28d7-4891-b774-e09bca2e292c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Windows\01. Base">
+      <UniqueIdentifier>{a10e5243-41cf-415e-a73a-7dabae22f352}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Windows\02. Inspector">
+      <UniqueIdentifier>{1bcce902-6902-4d96-a5e3-3523ef397277}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Tool\01. Tool">
+      <UniqueIdentifier>{332bf392-cfa3-4012-9f95-32802aedbbb5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Tool\02. Module">
+      <UniqueIdentifier>{c3fbb3fa-a300-459d-a0a3-f2af1300b540}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="97. ShaderFiles">
+      <UniqueIdentifier>{efa1069d-fcf7-410a-a091-4a559e2a5e33}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05. GameObject">
+      <UniqueIdentifier>{7340b457-8687-4d0c-9f44-1dee5f50f1ad}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05. GameObject\01. FreeCam">
+      <UniqueIdentifier>{2f726a19-fe4d-495c-a8b8-d94efa11d22c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Windows\03. ObjectList">
+      <UniqueIdentifier>{81aa2230-908d-415f-b55d-8087ab10c30c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. Windows\04. EffectGroup">
+      <UniqueIdentifier>{f5ed702a-edfe-47d2-9618-7ec358633090}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05. GameObject\02. EffectObject">
+      <UniqueIdentifier>{cf9b7245-824a-4c20-8f54-1ba10b6b18a2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05. GameObject\02. EffectObject\02. Particle">
+      <UniqueIdentifier>{fe640f03-422d-4959-8d5b-a2f87dddb13b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05. GameObject\02. EffectObject\03. EffectMesh">
+      <UniqueIdentifier>{b9c4d45c-a079-48fb-9c84-7857a8b6421a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05. GameObject\02. EffectObject\01. Base">
+      <UniqueIdentifier>{54b0ebe3-e7fd-4fb5-af1c-6030064bda1f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05. GameObject\02. EffectObject\05. EffectGroup">
+      <UniqueIdentifier>{855f7086-0e1f-41aa-9e34-c316f3cf8ef8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05. GameObject\02. EffectObject\04. InstanceEffectMesh">
+      <UniqueIdentifier>{e555454c-36db-4782-967d-64898ccd3572}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05. GameObject\02. EffectObject\05. EffectGroup\01. Base">
+      <UniqueIdentifier>{bb97892b-28ce-411e-b67f-1b3c8b100d36}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05. GameObject\02. EffectObject\05. EffectGroup\02. ColliderEffect">
+      <UniqueIdentifier>{00426900-25f1-4180-835f-0b99ee5a7bba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="99. Default">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="05. GameObject\01. AnimObject">
+      <UniqueIdentifier>{58383d4a-0f04-4c23-8885-1cb60d865562}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\Public\ToolEffectPCH.h">
+      <Filter>98. Header\01. Precompiled</Filter>
+    </ClInclude>
+    <ClInclude Include="framework.h">
+      <Filter>99. Default</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>99. Default</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>99. Default</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ToolEffectDefine.h">
+      <Filter>98. Header\02. etc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ImguiManager.h">
+      <Filter>02. Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ToolEffectLevel.h">
+      <Filter>03. Levels</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Window.h">
+      <Filter>04. Windows\01. Base</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Inspector.h">
+      <Filter>04. Windows\02. Inspector</Filter>
+    </ClInclude>
+    <ClInclude Include="ToolEffect.h">
+      <Filter>01. Tool\01. Tool</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ToolEffectLoop.h">
+      <Filter>01. Tool\01. Tool</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ToolEffectModule.h">
+      <Filter>01. Tool\02. Module</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\FreeCam.h">
+      <Filter>05. GameObject\01. FreeCam</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>98. Header\01. Precompiled</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ParticleObject.h">
+      <Filter>05. GameObject\02. EffectObject\02. Particle</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\EffectMeshObject.h">
+      <Filter>05. GameObject\02. EffectObject\03. EffectMesh</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ObjectList.h">
+      <Filter>04. Windows\03. ObjectList</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\EffectGroupWindow.h">
+      <Filter>04. Windows\04. EffectGroup</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\EffectBase.h">
+      <Filter>05. GameObject\02. EffectObject\01. Base</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\InstanceEffectMeshObject.h">
+      <Filter>05. GameObject\02. EffectObject\04. InstanceEffectMesh</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\EffectGroup.h">
+      <Filter>05. GameObject\02. EffectObject\05. EffectGroup\01. Base</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ToolAnimObject.h">
+      <Filter>05. GameObject\01. AnimObject</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\Private\ImguiManager.cpp">
+      <Filter>02. Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ToolEffectLevel.cpp">
+      <Filter>03. Levels</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Window.cpp">
+      <Filter>04. Windows\01. Base</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Inspector.cpp">
+      <Filter>04. Windows\02. Inspector</Filter>
+    </ClCompile>
+    <ClCompile Include="ToolEffect.cpp">
+      <Filter>01. Tool\01. Tool</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ToolEffectLoop.cpp">
+      <Filter>01. Tool\01. Tool</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ToolEffectModule.cpp">
+      <Filter>01. Tool\02. Module</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\FreeCam.cpp">
+      <Filter>05. GameObject\01. FreeCam</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp">
+      <Filter>98. Header\01. Precompiled</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ParticleObject.cpp">
+      <Filter>05. GameObject\02. EffectObject\02. Particle</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\EffectMeshObject.cpp">
+      <Filter>05. GameObject\02. EffectObject\03. EffectMesh</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ObjectList.cpp">
+      <Filter>04. Windows\03. ObjectList</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\EffectGroupWindow.cpp">
+      <Filter>04. Windows\04. EffectGroup</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\EffectBase.cpp">
+      <Filter>05. GameObject\02. EffectObject\01. Base</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\InstanceEffectMeshObject.cpp">
+      <Filter>05. GameObject\02. EffectObject\04. InstanceEffectMesh</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\EffectGroup.cpp">
+      <Filter>05. GameObject\02. EffectObject\05. EffectGroup\01. Base</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ToolAnimObject.cpp">
+      <Filter>05. GameObject\01. AnimObject</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="ToolEffect.rc">
+      <Filter>99. Default</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="small.ico">
+      <Filter>99. Default</Filter>
+    </Image>
+    <Image Include="ToolEffect.ico">
+      <Filter>99. Default</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\Resource\Shaders\Shader_Defines.hlsli">
+      <Filter>97. ShaderFiles</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <FxCompile Include="..\..\Resource\Shaders\FX_Instancing_PRULPC.hlsl">
+      <Filter>97. ShaderFiles</Filter>
+    </FxCompile>
+    <FxCompile Include="..\..\Resource\Shaders\FX_EffectMesh_PNT2T.hlsl">
+      <Filter>97. ShaderFiles</Filter>
+    </FxCompile>
+    <FxCompile Include="..\..\Resource\Shaders\FX_MeshInstancing_PNT2TRULPP.hlsl">
+      <Filter>97. ShaderFiles</Filter>
+    </FxCompile>
+  </ItemGroup>
+</Project>

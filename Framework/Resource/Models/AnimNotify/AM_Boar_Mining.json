@@ -1,0 +1,14 @@
+[
+	{
+		"AttachBoneName" : "Socket_Mouth",
+		"Duration" : 0.0,
+		"EffectName" : "Group_Mine",
+		"EndTime" : 0.20808593928813934,
+		"StartTime" : 0.20808593928813934,
+		"Type" : "Effect",
+		"UseFollowBone" : false,
+		"vRelativeLocationX" : 30.000001907348633,
+		"vRelativeLocationY" : 2.0,
+		"vRelativeLocationZ" : 46.0
+	}
+]

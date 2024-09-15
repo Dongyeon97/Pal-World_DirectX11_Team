@@ -1,0 +1,38 @@
+[
+	{
+		"AttachBoneName" : "weapon_r",
+		"Duration" : 0.12801283597946167,
+		"EndTime" : 0.39699143171310425,
+		"OffsetDataArray" : 
+		[
+			{
+				"SphereRadius" : 50.0,
+				"vRelativeLocationX" : 0.0,
+				"vRelativeLocationY" : 0.0,
+				"vRelativeLocationZ" : 119.99999237060547
+			},
+			{
+				"SphereRadius" : 0.0,
+				"vRelativeLocationX" : 0.0,
+				"vRelativeLocationY" : 0.0,
+				"vRelativeLocationZ" : 0.0
+			}
+		],
+		"StartTime" : 0.26897859573364258,
+		"Type" : "Collision"
+	},
+	{
+		"Duration" : 0.0,
+		"EndTime" : 0.30546665191650391,
+		"FunctionName" : "DeclineStamina",
+		"StartTime" : 0.30546665191650391,
+		"Type" : "Function"
+	},
+	{
+		"Duration" : 0.0,
+		"EndTime" : 0.57973331212997437,
+		"FunctionName" : "DeclineStamina",
+		"StartTime" : 0.57973331212997437,
+		"Type" : "Function"
+	}
+]

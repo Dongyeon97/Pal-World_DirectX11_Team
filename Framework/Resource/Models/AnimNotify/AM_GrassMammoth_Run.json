@@ -1,0 +1,64 @@
+[
+	{
+		"AttachBoneName" : "leg_front_03_r",
+		"Duration" : 0.0,
+		"EffectName" : "Group_GreenMoss_Rush_Rock",
+		"EndTime" : 0.080399997532367706,
+		"StartTime" : 0.080399997532367706,
+		"Type" : "Effect",
+		"UseFollowBone" : false,
+		"vRelativeLocationX" : 0.0,
+		"vRelativeLocationY" : 0.0,
+		"vRelativeLocationZ" : 0.0
+	},
+	{
+		"Duration" : 0.0,
+		"EndTime" : 0.078866668045520782,
+		"SoundID" : "Pal_Footstep_Base_L_A_903555371",
+		"StartTime" : 0.078866668045520782,
+		"Type" : "Sound"
+	},
+	{
+		"AttachBoneName" : "leg_front_03_l",
+		"Duration" : 0.0,
+		"EffectName" : "Group_GreenMoss_Rush_Rock",
+		"EndTime" : 0.60673332214355469,
+		"StartTime" : 0.60673332214355469,
+		"Type" : "Effect",
+		"UseFollowBone" : false,
+		"vRelativeLocationX" : 0.0,
+		"vRelativeLocationY" : 0.0,
+		"vRelativeLocationZ" : 0.0
+	},
+	{
+		"AttachBoneName" : "foot_back_01_r",
+		"Duration" : 0.0,
+		"EffectName" : "Group_GreenMoss_Rush_Rock",
+		"EndTime" : 0.56889998912811279,
+		"StartTime" : 0.56889998912811279,
+		"Type" : "Effect",
+		"UseFollowBone" : false,
+		"vRelativeLocationX" : 0.0,
+		"vRelativeLocationY" : 0.0,
+		"vRelativeLocationZ" : 0.0
+	},
+	{
+		"AttachBoneName" : "foot_back_01_l",
+		"Duration" : 0.0,
+		"EffectName" : "Group_GreenMoss_Rush_Rock",
+		"EndTime" : 0.38589999079704285,
+		"StartTime" : 0.38589999079704285,
+		"Type" : "Effect",
+		"UseFollowBone" : false,
+		"vRelativeLocationX" : 0.0,
+		"vRelativeLocationY" : 0.0,
+		"vRelativeLocationZ" : 0.0
+	},
+	{
+		"Duration" : 0.0,
+		"EndTime" : 0.37540000677108765,
+		"SoundID" : "Pal_Footstep_Base_L_C_427393405",
+		"StartTime" : 0.37540000677108765,
+		"Type" : "Sound"
+	}
+]

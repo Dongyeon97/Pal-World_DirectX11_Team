@@ -1,0 +1,251 @@
+[
+  {
+    "Type": "AnimMontage",
+    "Name": "AM_Weapon_AssaultRifle_006_Reload",
+    "Class": "UScriptClass'AnimMontage'",
+    "Properties": {
+      "BlendIn": {
+        "BlendTime": 0.0
+      },
+      "BlendOut": {
+        "BlendTime": 0.0
+      },
+      "CompositeSections": [
+        {
+          "SectionName": "Default",
+          "NextSectionName": "None",
+          "MetaData": [],
+          "LinkedMontage": {
+            "ObjectName": "AnimMontage'AM_Weapon_AssaultRifle_006_Reload'",
+            "ObjectPath": "Pal/Content/Pal/Animation/Weapon/AssaultRifle/SK_Weapon_AssaultRifle_006/AM_Weapon_AssaultRifle_006_Reload.0"
+          },
+          "SlotIndex": 0,
+          "SegmentIndex": 0,
+          "LinkMethod": "EAnimLinkMethod::Absolute",
+          "CachedLinkMethod": "EAnimLinkMethod::Absolute",
+          "SegmentBeginTime": 0.0,
+          "SegmentLength": 1.8333334,
+          "LinkValue": 0.0,
+          "LinkedSequence": {
+            "ObjectName": "AnimSequence'AS_Weapon_AssaultRifle_006_Reload'",
+            "ObjectPath": "Pal/Content/Pal/Animation/Weapon/AssaultRifle/SK_Weapon_AssaultRifle_006/AS_Weapon_AssaultRifle_006_Reload.0"
+          }
+        }
+      ],
+      "SlotAnimTracks": [
+        {
+          "SlotName": "DefaultSlot",
+          "AnimTrack": {
+            "AnimSegments": [
+              {
+                "AnimReference": {
+                  "ObjectName": "AnimSequence'AS_Weapon_AssaultRifle_006_Reload'",
+                  "ObjectPath": "Pal/Content/Pal/Animation/Weapon/AssaultRifle/SK_Weapon_AssaultRifle_006/AS_Weapon_AssaultRifle_006_Reload.0"
+                },
+                "StartPos": 0.0,
+                "AnimStartTime": 0.0,
+                "AnimEndTime": 1.8333334,
+                "AnimPlayRate": 1.0,
+                "LoopingCount": 1
+              }
+            ]
+          }
+        }
+      ],
+      "Notifies": [
+        {
+          "TriggerTimeOffset": 0.0,
+          "EndTriggerTimeOffset": 0.0,
+          "TriggerWeightThreshold": 1E-05,
+          "NotifyName": "AkEvent_C",
+          "Notify": {
+            "ObjectName": "AnimNotify_AkEvent_C'AM_Weapon_AssaultRifle_006_Reload:AnimNotify_AkEvent_C_0'",
+            "ObjectPath": "Pal/Content/Pal/Animation/Weapon/AssaultRifle/SK_Weapon_AssaultRifle_006/AM_Weapon_AssaultRifle_006_Reload.1"
+          },
+          "NotifyStateClass": null,
+          "Duration": 0.0,
+          "EndLink": {
+            "LinkedMontage": null,
+            "SlotIndex": 0,
+            "SegmentIndex": -1,
+            "LinkMethod": "EAnimLinkMethod::Absolute",
+            "CachedLinkMethod": "EAnimLinkMethod::Absolute",
+            "SegmentBeginTime": 0.0,
+            "SegmentLength": 0.0,
+            "LinkValue": 0.0,
+            "LinkedSequence": null
+          },
+          "bConvertedFromBranchingPoint": false,
+          "MontageTickType": "EMontageNotifyTickType::Queued",
+          "NotifyTriggerChance": 1.0,
+          "NotifyFilterType": "ENotifyFilterType::NoFiltering",
+          "NotifyFilterLOD": 0,
+          "bTriggerOnDedicatedServer": true,
+          "bTriggerOnFollower": false,
+          "TrackIndex": 0,
+          "LinkedMontage": {
+            "ObjectName": "AnimMontage'AM_Weapon_AssaultRifle_006_Reload'",
+            "ObjectPath": "Pal/Content/Pal/Animation/Weapon/AssaultRifle/SK_Weapon_AssaultRifle_006/AM_Weapon_AssaultRifle_006_Reload.0"
+          },
+          "SlotIndex": 0,
+          "SegmentIndex": 0,
+          "LinkMethod": "EAnimLinkMethod::Absolute",
+          "CachedLinkMethod": "EAnimLinkMethod::Absolute",
+          "SegmentBeginTime": 0.0,
+          "SegmentLength": 1.8333334,
+          "LinkValue": 0.32628268,
+          "LinkedSequence": {
+            "ObjectName": "AnimSequence'AS_Weapon_AssaultRifle_006_Reload'",
+            "ObjectPath": "Pal/Content/Pal/Animation/Weapon/AssaultRifle/SK_Weapon_AssaultRifle_006/AS_Weapon_AssaultRifle_006_Reload.0"
+          }
+        },
+        {
+          "TriggerTimeOffset": 0.0,
+          "EndTriggerTimeOffset": 0.0,
+          "TriggerWeightThreshold": 1E-05,
+          "NotifyName": "AkEvent_C",
+          "Notify": {
+            "ObjectName": "AnimNotify_AkEvent_C'AM_Weapon_AssaultRifle_006_Reload:AnimNotify_AkEvent_C_1'",
+            "ObjectPath": "Pal/Content/Pal/Animation/Weapon/AssaultRifle/SK_Weapon_AssaultRifle_006/AM_Weapon_AssaultRifle_006_Reload.2"
+          },
+          "NotifyStateClass": null,
+          "Duration": 0.0,
+          "EndLink": {
+            "LinkedMontage": null,
+            "SlotIndex": 0,
+            "SegmentIndex": -1,
+            "LinkMethod": "EAnimLinkMethod::Absolute",
+            "CachedLinkMethod": "EAnimLinkMethod::Absolute",
+            "SegmentBeginTime": 0.0,
+            "SegmentLength": 0.0,
+            "LinkValue": 0.0,
+            "LinkedSequence": null
+          },
+          "bConvertedFromBranchingPoint": false,
+          "MontageTickType": "EMontageNotifyTickType::Queued",
+          "NotifyTriggerChance": 1.0,
+          "NotifyFilterType": "ENotifyFilterType::NoFiltering",
+          "NotifyFilterLOD": 0,
+          "bTriggerOnDedicatedServer": true,
+          "bTriggerOnFollower": false,
+          "TrackIndex": 0,
+          "LinkedMontage": {
+            "ObjectName": "AnimMontage'AM_Weapon_AssaultRifle_006_Reload'",
+            "ObjectPath": "Pal/Content/Pal/Animation/Weapon/AssaultRifle/SK_Weapon_AssaultRifle_006/AM_Weapon_AssaultRifle_006_Reload.0"
+          },
+          "SlotIndex": 0,
+          "SegmentIndex": 0,
+          "LinkMethod": "EAnimLinkMethod::Absolute",
+          "CachedLinkMethod": "EAnimLinkMethod::Absolute",
+          "SegmentBeginTime": 0.0,
+          "SegmentLength": 1.8333334,
+          "LinkValue": 0.86804134,
+          "LinkedSequence": {
+            "ObjectName": "AnimSequence'AS_Weapon_AssaultRifle_006_Reload'",
+            "ObjectPath": "Pal/Content/Pal/Animation/Weapon/AssaultRifle/SK_Weapon_AssaultRifle_006/AS_Weapon_AssaultRifle_006_Reload.0"
+          }
+        },
+        {
+          "TriggerTimeOffset": 0.0,
+          "EndTriggerTimeOffset": 0.0,
+          "TriggerWeightThreshold": 1E-05,
+          "NotifyName": "AkEvent_C",
+          "Notify": {
+            "ObjectName": "AnimNotify_AkEvent_C'AM_Weapon_AssaultRifle_006_Reload:AnimNotify_AkEvent_C_2'",
+            "ObjectPath": "Pal/Content/Pal/Animation/Weapon/AssaultRifle/SK_Weapon_AssaultRifle_006/AM_Weapon_AssaultRifle_006_Reload.3"
+          },
+          "NotifyStateClass": null,
+          "Duration": 0.0,
+          "EndLink": {
+            "LinkedMontage": null,
+            "SlotIndex": 0,
+            "SegmentIndex": -1,
+            "LinkMethod": "EAnimLinkMethod::Absolute",
+            "CachedLinkMethod": "EAnimLinkMethod::Absolute",
+            "SegmentBeginTime": 0.0,
+            "SegmentLength": 0.0,
+            "LinkValue": 0.0,
+            "LinkedSequence": null
+          },
+          "bConvertedFromBranchingPoint": false,
+          "MontageTickType": "EMontageNotifyTickType::Queued",
+          "NotifyTriggerChance": 1.0,
+          "NotifyFilterType": "ENotifyFilterType::NoFiltering",
+          "NotifyFilterLOD": 0,
+          "bTriggerOnDedicatedServer": true,
+          "bTriggerOnFollower": false,
+          "TrackIndex": 0,
+          "LinkedMontage": {
+            "ObjectName": "AnimMontage'AM_Weapon_AssaultRifle_006_Reload'",
+            "ObjectPath": "Pal/Content/Pal/Animation/Weapon/AssaultRifle/SK_Weapon_AssaultRifle_006/AM_Weapon_AssaultRifle_006_Reload.0"
+          },
+          "SlotIndex": 0,
+          "SegmentIndex": 0,
+          "LinkMethod": "EAnimLinkMethod::Absolute",
+          "CachedLinkMethod": "EAnimLinkMethod::Absolute",
+          "SegmentBeginTime": 0.0,
+          "SegmentLength": 1.8333334,
+          "LinkValue": 1.308387,
+          "LinkedSequence": {
+            "ObjectName": "AnimSequence'AS_Weapon_AssaultRifle_006_Reload'",
+            "ObjectPath": "Pal/Content/Pal/Animation/Weapon/AssaultRifle/SK_Weapon_AssaultRifle_006/AS_Weapon_AssaultRifle_006_Reload.0"
+          }
+        }
+      ],
+      "SequenceLength": 1.8333334,
+      "Skeleton": {
+        "ObjectName": "Skeleton'SK_Weapon_AssaultRifle_006_Skeleton'",
+        "ObjectPath": "Pal/Content/Pal/Model/Weapon/AssaultRifle/SK_Weapon_AssaultRifle_006/SK_Weapon_AssaultRifle_006_Skeleton.2"
+      }
+    },
+    "SkeletonGuid": "251012E5-416C6467-EE2AE8A3-04153032"
+  },
+  {
+    "Type": "AnimNotify_AkEvent_C",
+    "Name": "AnimNotify_AkEvent_C_0",
+    "Outer": "AM_Weapon_AssaultRifle_006_Reload",
+    "Class": "BlueprintGeneratedClass'Pal/Plugins/Wwise/Content/AnimNotify_AkEvent.AnimNotify_AkEvent_C'",
+    "Template": {
+      "ObjectName": "AnimNotify_AkEvent_C'Default__AnimNotify_AkEvent_C'",
+      "ObjectPath": "Pal/Plugins/Wwise/Content/AnimNotify_AkEvent.0"
+    },
+    "Properties": {
+      "Event": {
+        "ObjectName": "AkAudioEvent'Reload_LaserRifle1'",
+        "ObjectPath": "Pal/Content/Pal/Sound/Events/SE/Weapon/Gun/LaserRifle/Reload_LaserRifle1.1"
+      }
+    }
+  },
+  {
+    "Type": "AnimNotify_AkEvent_C",
+    "Name": "AnimNotify_AkEvent_C_1",
+    "Outer": "AM_Weapon_AssaultRifle_006_Reload",
+    "Class": "BlueprintGeneratedClass'Pal/Plugins/Wwise/Content/AnimNotify_AkEvent.AnimNotify_AkEvent_C'",
+    "Template": {
+      "ObjectName": "AnimNotify_AkEvent_C'Default__AnimNotify_AkEvent_C'",
+      "ObjectPath": "Pal/Plugins/Wwise/Content/AnimNotify_AkEvent.0"
+    },
+    "Properties": {
+      "Event": {
+        "ObjectName": "AkAudioEvent'Reload_LaserRifle2'",
+        "ObjectPath": "Pal/Content/Pal/Sound/Events/SE/Weapon/Gun/LaserRifle/Reload_LaserRifle2.1"
+      }
+    }
+  },
+  {
+    "Type": "AnimNotify_AkEvent_C",
+    "Name": "AnimNotify_AkEvent_C_2",
+    "Outer": "AM_Weapon_AssaultRifle_006_Reload",
+    "Class": "BlueprintGeneratedClass'Pal/Plugins/Wwise/Content/AnimNotify_AkEvent.AnimNotify_AkEvent_C'",
+    "Template": {
+      "ObjectName": "AnimNotify_AkEvent_C'Default__AnimNotify_AkEvent_C'",
+      "ObjectPath": "Pal/Plugins/Wwise/Content/AnimNotify_AkEvent.0"
+    },
+    "Properties": {
+      "Event": {
+        "ObjectName": "AkAudioEvent'Reload_LaserRifle3'",
+        "ObjectPath": "Pal/Content/Pal/Sound/Events/SE/Weapon/Gun/LaserRifle/Reload_LaserRifle3.1"
+      }
+    }
+  }
+]

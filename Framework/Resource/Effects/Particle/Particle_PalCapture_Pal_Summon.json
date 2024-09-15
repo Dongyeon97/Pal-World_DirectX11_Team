@@ -1,0 +1,162 @@
+{
+    "RenderType": 9,
+    "EffectType": 0,
+    "ParticleType": 1,
+    "Effect Shader Name": "FX_Instancing_PRULPC",
+    "Use Diffuse Texture": false,
+    "Diffuse Texture Name": "",
+    "Use Mask Texture": true,
+    "Mask Texture Name": "T_Circle_01_clamp",
+    "Is Sprite": false,
+    "Sprite Row": 3,
+    "Sprite Col": 3,
+    "Sprite Speed": 0.05000000074505806,
+    "Is Loop": false,
+    "Is Billboard": true,
+    "Is Directional": false,
+    "Is Gravity": false,
+    "Is Glow": false,
+    "Is Bloom": false,
+    "Is AlphaAttenuation": false,
+    "Gravity Value": 9.800000190734863,
+    "Glow Weight": 0.0,
+    "Bloom Weight": 0.0,
+    "AlphaAttenuation Weight": 0.0,
+    "Random Life Time": false,
+    "Life Time": [
+        0.0,
+        1.0
+    ],
+    "Num Instance": 100,
+    "Size": [
+        0.10000000149011612,
+        0.20000000298023224
+    ],
+    "Color1": [
+        0.6617647409439087,
+        0.9403113722801208,
+        1.0,
+        1.0
+    ],
+    "Color2": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+    ],
+    "Color3": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+    ],
+    "Speed": [
+        0.10000000149011612,
+        0.30000001192092896
+    ],
+    "Offset": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "Pivot": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "Range": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "Rotation Per Second": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "Radius": [
+        3.0,
+        3.0
+    ],
+    "Num KeyFrames": 2,
+    "KeyFrames": [
+        {
+            "Index": "KeyFrame0",
+            "Effect Shader Pass Index": 0,
+            "Time": 0.0,
+            "Render Culled": false,
+            "Size Ratio": 1.0,
+            "Size Easing Type": 1,
+            "Size Easing Expo": 2.0,
+            "Speed Ratio": 1.0,
+            "Speed Easing Type": 1,
+            "Speed Easing Expo": 2.0,
+            "Color1": [
+                0.6627451181411743,
+                0.9411764740943909,
+                1.0,
+                1.0
+            ],
+            "Color1 Weight": 0.33329999446868896,
+            "Color1 Easing Type": 1,
+            "Color1 Easing Expo": 2.0,
+            "Color2": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "Color2 Weight": 0.33329999446868896,
+            "Color2 Easing Type": 1,
+            "Color2 Easing Expo": 2.0,
+            "Color3": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "Color3 Weight": 0.33329999446868896,
+            "Color3 Easing Type": 1,
+            "Color3 Easing Expo": 2.0
+        },
+        {
+            "Index": "KeyFrame1",
+            "Effect Shader Pass Index": 0,
+            "Time": 1.0,
+            "Render Culled": false,
+            "Size Ratio": 1.0,
+            "Size Easing Type": 1,
+            "Size Easing Expo": 2.0,
+            "Speed Ratio": 0.0,
+            "Speed Easing Type": 13,
+            "Speed Easing Expo": 2.0,
+            "Color1": [
+                0.6627451181411743,
+                0.9411764740943909,
+                1.0,
+                1.0
+            ],
+            "Color1 Weight": 0.33329999446868896,
+            "Color1 Easing Type": 1,
+            "Color1 Easing Expo": 2.0,
+            "Color2": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "Color2 Weight": 0.33329999446868896,
+            "Color2 Easing Type": 1,
+            "Color2 Easing Expo": 2.0,
+            "Color3": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "Color3 Weight": 0.33329999446868896,
+            "Color3 Easing Type": 1,
+            "Color3 Easing Expo": 2.0
+        }
+    ]
+}

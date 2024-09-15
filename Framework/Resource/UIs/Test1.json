@@ -1,0 +1,133 @@
+{
+    "Child Panel Size": 1,
+    "Panels0": {
+        "Panel Name": "Test1",
+        "Panel Projection Type": 0,
+        "Components Size": 1,
+        "Components0": [
+            {
+                "Component Name": "Button1",
+                "Render Type": 6,
+                "UI Type": 3,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    947.0,
+                    235.0
+                ],
+                "World Position": [
+                    307.0,
+                    125.0,
+                    0.0
+                ],
+                "Scale": [
+                    100.0,
+                    100.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 0,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "T_PalIcon_GrayMask",
+                "IsMask": true,
+                "IsAlpha": false,
+                "IsColor": false,
+                "Static Texture Name": "T_LazyDragon_icon_normal",
+                "Hover Texture Name": "T_Penguin_icon_normal",
+                "Click Texture Name": "T_PinkCat_icon_normal"
+            }
+        ]
+    },
+    "Panels1": {
+        "Panel Name": "Test2",
+        "Panel Projection Type": 0,
+        "Components Size": 2,
+        "Components0": [
+            {
+                "Component Name": "ChildButton1",
+                "Render Type": 6,
+                "UI Type": 3,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    841.0,
+                    565.0
+                ],
+                "World Position": [
+                    201.0,
+                    -205.0,
+                    0.0
+                ],
+                "Scale": [
+                    100.0,
+                    100.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 0,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "T_PalIcon_GrayMask",
+                "IsMask": true,
+                "IsAlpha": false,
+                "IsColor": false,
+                "Static Texture Name": "T_Hedgehog_icon_normal",
+                "Hover Texture Name": "T_SheepBall_icon_normal",
+                "Click Texture Name": "T_PinkCat_icon_normal"
+            }
+        ],
+        "Components1": [
+            {
+                "Component Name": "ChildButton2",
+                "Render Type": 6,
+                "UI Type": 3,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    442.0,
+                    455.0
+                ],
+                "World Position": [
+                    -198.0,
+                    -95.0,
+                    0.0
+                ],
+                "Scale": [
+                    100.0,
+                    100.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 0,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "T_PalIcon_GrayMask",
+                "IsMask": true,
+                "IsAlpha": false,
+                "IsColor": false,
+                "Static Texture Name": "T_Anubis_icon_normal",
+                "Hover Texture Name": "T_Kitsunebi_icon_normal",
+                "Click Texture Name": "T_WeaselDragon_icon_normal"
+            }
+        ]
+    }
+}

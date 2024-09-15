@@ -1,0 +1,37 @@
+{
+  "Textures": {
+    "Base Texture": "Pal/Content/Pal/Model/Prop/Architecture/PalBedPrimitive/T_PalBedPrimitive_Bed_B.T_PalBedPrimitive_Bed_B",
+    "T_PalBedPrimitive_Bed_B": "Pal/Content/Pal/Model/Prop/Architecture/PalBedPrimitive/T_PalBedPrimitive_Bed_B.T_PalBedPrimitive_Bed_B",
+    "PM_SpecularMasks": "Pal/Content/Pal/Model/Prop/Architecture/PalBedPrimitive/T_PalBedPrimitive_Bed_M.T_PalBedPrimitive_Bed_M",
+    "MetallicRoughnessOcclusionSpecularTexture": "Pal/Content/Pal/Model/Prop/Architecture/PalBedPrimitive/T_PalBedPrimitive_Bed_M.T_PalBedPrimitive_Bed_M",
+    "PM_Normals": "Pal/Content/Pal/Model/Prop/Architecture/PalBedPrimitive/T_PalBedPrimitive_Bed_N.T_PalBedPrimitive_Bed_N",
+    "Normal Map": "Pal/Content/Pal/Model/Prop/Architecture/PalBedPrimitive/T_PalBedPrimitive_Bed_N.T_PalBedPrimitive_Bed_N"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 4,
+    "Colors": {},
+    "Scalars": {
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_ClearCoat",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "SubsurfaceProfile": {
+        "ObjectName": "SubsurfaceProfile'SP_CharacterBodyBase'",
+        "ObjectPath": "Pal/Content/Pal/Material/Character/Common/SP_CharacterBodyBase.0"
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

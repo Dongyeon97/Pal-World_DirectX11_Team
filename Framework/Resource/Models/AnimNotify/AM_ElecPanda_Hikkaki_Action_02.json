@@ -1,0 +1,37 @@
+[
+	{
+		"AttachBoneName" : "hand_l",
+		"Duration" : 0.27462488412857056,
+		"EndTime" : 1.1994982957839966,
+		"OffsetDataArray" : 
+		[
+			{
+				"SphereRadius" : 100.0,
+				"vRelativeLocationX" : 75.0,
+				"vRelativeLocationY" : 0.0,
+				"vRelativeLocationZ" : 0.0
+			}
+		],
+		"StartTime" : 0.92487341165542603,
+		"Type" : "Collision"
+	},
+	{
+		"AttachBoneName" : "finger_02_01_l",
+		"Duration" : 0.0,
+		"EffectName" : "Group_ElecPanda_ThunderPillar_ShockWave_NonePillar",
+		"EndTime" : 1.0688332319259644,
+		"StartTime" : 1.0688332319259644,
+		"Type" : "Effect",
+		"UseFollowBone" : true,
+		"vRelativeLocationX" : 0.0,
+		"vRelativeLocationY" : 0.0,
+		"vRelativeLocationZ" : 0.0
+	},
+	{
+		"Duration" : 0.0,
+		"EndTime" : 1.0269333124160767,
+		"SoundID" : "Gorilla_GroundPunch_01_Hit_S_534106019",
+		"StartTime" : 1.0269333124160767,
+		"Type" : "Sound"
+	}
+]

@@ -1,0 +1,44 @@
+{
+  "Textures": {
+    "Base Texture": "Pal/Content/Pal/Model/Character/Monster/WoolFox/T_WoolFox_Eye_B.T_WoolFox_Eye_B",
+    "T_WoolFox_Eye_B": "Pal/Content/Pal/Model/Character/Monster/WoolFox/T_WoolFox_Eye_B.T_WoolFox_Eye_B"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 4,
+    "Colors": {
+      "BaseColor": {
+        "R": 0.5,
+        "G": 0.5,
+        "B": 0.5,
+        "A": 1.0,
+        "Hex": "FFBCBCBC"
+      }
+    },
+    "Scalars": {
+      "Desaturation": 0.0,
+      "Specular": 0.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "bOverride_OpacityMaskClipValue": true,
+        "bOverride_BlendMode": true,
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_ClearCoat",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "SubsurfaceProfile": {
+        "ObjectName": "SubsurfaceProfile'SP_CharacterBodyBase'",
+        "ObjectPath": "Pal/Content/Pal/Material/Character/Common/SP_CharacterBodyBase.0"
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

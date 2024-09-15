@@ -1,0 +1,41 @@
+[
+  {
+    "Type": "AkAssetPlatformData",
+    "Name": "AkAssetPlatformData_0",
+    "Outer": "AKE_MapObject_CapturedCage_Open_Happy",
+    "Class": "UScriptClass'AkAssetPlatformData'"
+  },
+  {
+    "Type": "AkAudioEvent",
+    "Name": "AKE_MapObject_CapturedCage_Open_Happy",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Properties": {
+      "RequiredBank": {
+        "ObjectName": "AkAudioBank'AKB_SE_MapObject'",
+        "ObjectPath": "Pal/Content/Pal/Sound/SoundBank/AKB_SE_MapObject.2"
+      },
+      "PlatformAssetData": {
+        "ObjectName": "AkAssetPlatformData'AKE_MapObject_CapturedCage_Open_Happy:AkAssetPlatformData_0'",
+        "ObjectPath": "Pal/Content/Pal/Sound/Events/SE/MapObject/CapturedCage/AKE_MapObject_CapturedCage_Open_Happy.0"
+      },
+      "ShortID": 1281530471
+    }
+  },
+  {
+    "Type": "AkAudioEventData",
+    "Name": "AkAudioEventData_0",
+    "Outer": "AKE_MapObject_CapturedCage_Open_Happy",
+    "Class": "UScriptClass'AkAudioEventData'",
+    "Properties": {
+      "MaxAttenuationRadius": 4000.0,
+      "MinimumDuration": 1.819979,
+      "MaximumDuration": 1.819979,
+      "MediaList": [
+        {
+          "ObjectName": "AkMediaAsset'62013820'",
+          "ObjectPath": "Pal/Content/Pal/Sound/Media/62013820.0"
+        }
+      ]
+    }
+  }
+]

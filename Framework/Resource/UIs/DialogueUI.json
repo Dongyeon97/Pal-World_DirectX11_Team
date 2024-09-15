@@ -1,0 +1,270 @@
+{
+    "Child Panel Size": 0,
+    "Panels0": {
+        "Panel Name": "DialogueUI",
+        "Panel Projection Type": 0,
+        "Panel Depth": 0,
+        "Panel Pivot Component Name": "BaseImage",
+        "Components Size": 4,
+        "Components0": [
+            {
+                "Component Name": "BaseImage",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    640.0,
+                    360.0
+                ],
+                "World Position": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1280.0,
+                    720.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 0,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": true,
+                "IsColor": false,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": true,
+                "IsInteraction": false,
+                "Image Texture Name": "T_Dialogue_BaseImage",
+                "Image Type": 0
+            }
+        ],
+        "Components1": [
+            {
+                "Component Name": "DialogueText",
+                "Render Type": 6,
+                "UI Type": 4,
+                "ShaderFileName": "",
+                "PassIndex": 0,
+                "Center": [
+                    630.0,
+                    568.0
+                ],
+                "World Position": [
+                    -10.0,
+                    -208.0,
+                    0.0
+                ],
+                "Scale": [
+                    0.3499999940395355,
+                    0.3499999940395355,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 2,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": true,
+                "RelativeCenter": [
+                    -10.0,
+                    208.0
+                ],
+                "IsRelative": true,
+                "IsInteraction": false,
+                "Font File Name": "NotoSansKRMedium30",
+                "Text": "DialogueTextText",
+                "Origin": [
+                    0.0,
+                    0.0
+                ],
+                "Option": 0,
+                "Text Type": 1
+            }
+        ],
+        "Components2": [
+            {
+                "Component Name": "DownArrowAnimation",
+                "Render Type": 6,
+                "UI Type": 1,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 9,
+                "Center": [
+                    1000.0,
+                    674.1318969726563
+                ],
+                "World Position": [
+                    360.0,
+                    -314.13189697265625,
+                    0.0
+                ],
+                "Scale": [
+                    16.0,
+                    8.0,
+                    0.20000000298023224
+                ],
+                "Angle": 180.0,
+                "Depth": 1,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": true,
+                "IsColor": true,
+                "RelativeCenter": [
+                    360.0,
+                    320.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Animation Texture Name": "T_prt_menutab_tri",
+                "EasingType": 2,
+                "Loop": true,
+                "Start Index": 0,
+                "End Index": 1,
+                "KeyFrame Size": 2,
+                "KeyFrames": [
+                    {
+                        "KeyFrame0": [
+                            {
+                                "KeyFrame Name": 0.0,
+                                "KeyFrame Time": 0.0,
+                                "KeyFrame Position": [
+                                    1000.0,
+                                    674.0,
+                                    0.0
+                                ],
+                                "KeyFrame RelativeCenter": [
+                                    0.0,
+                                    0.0
+                                ],
+                                "KeyFrame Scale": [
+                                    16.0,
+                                    8.0,
+                                    0.0
+                                ],
+                                "KeyFrame Angle": 180.0,
+                                "KeyFrame Color": [
+                                    1.0,
+                                    1.0,
+                                    1.0,
+                                    1.0
+                                ],
+                                "KeyFrame Alpha": 1.0,
+                                "KeyFrame Speed": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "KeyFrame1": [
+                            {
+                                "KeyFrame Name": 1.0,
+                                "KeyFrame Time": 1.0,
+                                "KeyFrame Position": [
+                                    1000.0,
+                                    680.0,
+                                    0.0
+                                ],
+                                "KeyFrame RelativeCenter": [
+                                    0.0,
+                                    0.0
+                                ],
+                                "KeyFrame Scale": [
+                                    16.0,
+                                    8.0,
+                                    0.0
+                                ],
+                                "KeyFrame Angle": 180.0,
+                                "KeyFrame Color": [
+                                    1.0,
+                                    1.0,
+                                    1.0,
+                                    1.0
+                                ],
+                                "KeyFrame Alpha": 1.0,
+                                "KeyFrame Speed": 0.0
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "Components3": [
+            {
+                "Component Name": "NameText",
+                "Render Type": 6,
+                "UI Type": 4,
+                "ShaderFileName": "",
+                "PassIndex": 0,
+                "Center": [
+                    450.0,
+                    535.0
+                ],
+                "World Position": [
+                    -190.0,
+                    -175.0,
+                    0.0
+                ],
+                "Scale": [
+                    0.3499999940395355,
+                    0.3499999940395355,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 0,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": true,
+                "RelativeCenter": [
+                    -190.0,
+                    175.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Font File Name": "NotoSansKRMedium30",
+                "Text": "NameText",
+                "Origin": [
+                    0.0,
+                    0.0
+                ],
+                "Option": 0,
+                "Text Type": 0
+            }
+        ]
+    }
+}

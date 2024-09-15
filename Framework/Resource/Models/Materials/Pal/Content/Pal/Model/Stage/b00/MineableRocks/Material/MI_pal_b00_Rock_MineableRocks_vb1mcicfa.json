@@ -1,0 +1,37 @@
+{
+  "Textures": {
+    "Base Texture": "Pal/Content/Pal/Model/Stage/b00/MineableRocks/Texture/T_Nordic_Beach_Boulder_vb1mcicfa_2K_D.T_Nordic_Beach_Boulder_vb1mcicfa_2K_D",
+    "PM_Diffuse": "Pal/Content/Pal/Model/Stage/b00/MineableRocks/Texture/T_Nordic_Beach_Boulder_vb1mcicfa_2K_D.T_Nordic_Beach_Boulder_vb1mcicfa_2K_D",
+    "T_Nordic_Beach_Boulder_vb1mcicfa_2K_D": "Pal/Content/Pal/Model/Stage/b00/MineableRocks/Texture/T_Nordic_Beach_Boulder_vb1mcicfa_2K_D.T_Nordic_Beach_Boulder_vb1mcicfa_2K_D",
+    "PM_Normals": "Pal/Content/Pal/Model/Stage/b00/MineableRocks/Texture/T_Nordic_Beach_Boulder_vb1mcicfa_2K_N.T_Nordic_Beach_Boulder_vb1mcicfa_2K_N",
+    "Normal Map": "Pal/Content/Pal/Model/Stage/b00/MineableRocks/Texture/T_Nordic_Beach_Boulder_vb1mcicfa_2K_N.T_Nordic_Beach_Boulder_vb1mcicfa_2K_N"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 4,
+    "Colors": {},
+    "Scalars": {
+      "Roughness": 0.7,
+      "Specular": 0.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_ClearCoat",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "SubsurfaceProfile": {
+        "ObjectName": "SubsurfaceProfile'SP_CharacterBodyBase'",
+        "ObjectPath": "Pal/Content/Pal/Material/Character/Common/SP_CharacterBodyBase.0"
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

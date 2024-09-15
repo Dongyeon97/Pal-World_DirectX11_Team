@@ -1,0 +1,40 @@
+[
+  {
+    "Type": "AkAssetPlatformData",
+    "Name": "AkAssetPlatformData_0",
+    "Outer": "AKE_Pal_ElectricCharging_01",
+    "Class": "UScriptClass'AkAssetPlatformData'"
+  },
+  {
+    "Type": "AkAudioEvent",
+    "Name": "AKE_Pal_ElectricCharging_01",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Properties": {
+      "RequiredBank": {
+        "ObjectName": "AkAudioBank'AKB_SE_Pal'",
+        "ObjectPath": "Pal/Content/Pal/Sound/SoundBank/AKB_SE_Pal.2"
+      },
+      "PlatformAssetData": {
+        "ObjectName": "AkAssetPlatformData'AKE_Pal_ElectricCharging_01:AkAssetPlatformData_0'",
+        "ObjectPath": "Pal/Content/Pal/Sound/Events/SE/Pal/ELectricCharging/AKE_Pal_ElectricCharging_01.0"
+      },
+      "ShortID": 1765269679
+    }
+  },
+  {
+    "Type": "AkAudioEventData",
+    "Name": "AkAudioEventData_0",
+    "Outer": "AKE_Pal_ElectricCharging_01",
+    "Class": "UScriptClass'AkAudioEventData'",
+    "Properties": {
+      "MaxAttenuationRadius": 6000.0,
+      "IsInfinite": true,
+      "MediaList": [
+        {
+          "ObjectName": "AkMediaAsset'339116080'",
+          "ObjectPath": "Pal/Content/Pal/Sound/Media/339116080.0"
+        }
+      ]
+    }
+  }
+]

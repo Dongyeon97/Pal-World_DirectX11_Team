@@ -1,0 +1,133 @@
+[
+  {
+    "Type": "PhysicsAsset",
+    "Name": "PA_HeadEquip024_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsAsset'",
+    "Properties": {
+      "BoundsBodies": [
+        0,
+        1
+      ],
+      "SkeletalBodySetups": [
+        {
+          "ObjectName": "SkeletalBodySetup'PA_HeadEquip024_PhysicsAsset:SkeletalBodySetup_0'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Player/HeadEquip/HeadEquip024/PA_HeadEquip024_PhysicsAsset.2"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'PA_HeadEquip024_PhysicsAsset:SkeletalBodySetup_1'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Player/HeadEquip/HeadEquip024/PA_HeadEquip024_PhysicsAsset.3"
+        }
+      ],
+      "ConstraintSetup": [
+        {
+          "ObjectName": "PhysicsConstraintTemplate'PA_HeadEquip024_PhysicsAsset:PhysicsConstraintTemplate_0'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Player/HeadEquip/HeadEquip024/PA_HeadEquip024_PhysicsAsset.1"
+        }
+      ],
+      "ThumbnailInfo": null
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_0",
+    "Outer": "PA_HeadEquip024_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "HeadEquip024_17_02",
+        "ConstraintBone1": "HeadEquip024_17_02",
+        "ConstraintBone2": "head",
+        "Pos2": {
+          "X": 11.80585,
+          "Y": -16.831951,
+          "Z": -17.458223
+        },
+        "PriAxis2": {
+          "X": -0.13919443,
+          "Y": -0.7059681,
+          "Z": -0.6944307
+        },
+        "SecAxis2": {
+          "X": 0.040647954,
+          "Y": -0.70473963,
+          "Z": 0.70830065
+        },
+        "ProfileInstance": {
+          "ConeLimit": {
+            "Swing1Motion": "EAngularConstraintMotion::ACM_Limited",
+            "Swing2Motion": "EAngularConstraintMotion::ACM_Limited"
+          },
+          "TwistLimit": {
+            "TwistMotion": "EAngularConstraintMotion::ACM_Limited"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_0",
+    "Outer": "PA_HeadEquip024_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphylElems": [
+          {
+            "Center": {
+              "X": 14.808988,
+              "Y": 6.87443,
+              "Z": 3.3577616
+            },
+            "Rotation": {
+              "Pitch": -1.5902774E-15,
+              "Yaw": -29.161306,
+              "Roll": -57.411224
+            },
+            "Radius": 25.659798,
+            "Length": 26.155247,
+            "RestOffset": 0.0,
+            "Name": "None",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "head",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "D7E0B69A4EA33D8089E49987B625F0FE"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_1",
+    "Outer": "PA_HeadEquip024_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphylElems": [
+          {
+            "Center": {
+              "X": -3.6170712,
+              "Y": 0.7903283,
+              "Z": -1.522195
+            },
+            "Rotation": {
+              "Pitch": 0.0,
+              "Yaw": -178.06052,
+              "Roll": -88.72517
+            },
+            "Radius": 7.6883254,
+            "Length": 21.757252,
+            "RestOffset": 0.0,
+            "Name": "None",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "HeadEquip024_17_02",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "CD84E09B4A35107AC17C7ABB6215F60C"
+  }
+]

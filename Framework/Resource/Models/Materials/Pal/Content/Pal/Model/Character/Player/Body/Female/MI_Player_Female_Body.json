@@ -1,0 +1,43 @@
+{
+  "Textures": {
+    "Base Texture": "Pal/Content/Pal/Model/Character/Player/Body/Female/T_Player_Female_Body_B.T_Player_Female_Body_B",
+    "T_Player_Female_Body_B": "Pal/Content/Pal/Model/Character/Player/Body/Female/T_Player_Female_Body_B.T_Player_Female_Body_B",
+    "PM_SpecularMasks": "Pal/Content/Pal/Model/Character/Player/Body/Female/T_Player_Female_Body_M.T_Player_Female_Body_M",
+    "MetallicRoughnessOcclusionSpecularTexture": "Pal/Content/Pal/Model/Character/Player/Body/Female/T_Player_Female_Body_M.T_Player_Female_Body_M",
+    "PM_Normals": "Pal/Content/Pal/Model/Character/Player/Body/Female/T_Player_Female_Body_Leg_M.T_Player_Female_Body_Leg_M",
+    "Normal Map": "Pal/Content/Pal/Model/Character/Player/Body/Female/T_Player_Female_Body_N.T_Player_Female_Body_N",
+    "Override Normal Map 1": "Pal/Content/Pal/Model/Character/Player/Body/Female/T_Player_Female_Body_max_N.T_Player_Female_Body_max_N",
+    "Override Normal Map 2": "Pal/Content/Pal/Model/Character/Player/Body/Female/T_Player_Female_Body_min_N.T_Player_Female_Body_min_N",
+    "Override Normal Mask 1": "Pal/Content/Pal/Model/Character/Player/Body/Female/T_Player_Female_Body_Torso_M.T_Player_Female_Body_Torso_M",
+    "Override Normal Mask 2": "Pal/Content/Pal/Model/Character/Player/Body/Female/T_Player_Female_Body_Arm_M.T_Player_Female_Body_Arm_M",
+    "Override Normal Mask 3": "Pal/Content/Pal/Model/Character/Player/Body/Female/T_Player_Female_Body_Leg_M.T_Player_Female_Body_Leg_M",
+    "Subsurface Texture": "Pal/Content/Pal/Model/Character/Player/Body/Female/T_Player_Female_Body_SSS.T_Player_Female_Body_SSS",
+    "T_Player_Female_Body_SSS": "Pal/Content/Pal/Model/Character/Player/Body/Female/T_Player_Female_Body_SSS.T_Player_Female_Body_SSS"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 2,
+    "Colors": {},
+    "Scalars": {
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_Subsurface",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "SubsurfaceProfile": {
+        "ObjectName": "SubsurfaceProfile'SP_CharacterBodyBase'",
+        "ObjectPath": "Pal/Content/Pal/Material/Character/Common/SP_CharacterBodyBase.0"
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "Textures": {
+    "T_DarkWood_1K_AO": "Pal/Content/Others/MineableRocks/PickAxeCharachter/PickAxe/Wood/T_DarkWood_1K_AO.T_DarkWood_1K_AO",
+    "T_DarkWood_1K_D": "Pal/Content/Others/MineableRocks/PickAxeCharachter/PickAxe/Wood/T_DarkWood_1K_D.T_DarkWood_1K_D",
+    "T_DarkWood_1K_N": "Pal/Content/Others/MineableRocks/PickAxeCharachter/PickAxe/Wood/T_DarkWood_1K_N.T_DarkWood_1K_N",
+    "T_DarkWood_1K_R": "Pal/Content/Others/MineableRocks/PickAxeCharachter/PickAxe/Wood/T_DarkWood_1K_R.T_DarkWood_1K_R",
+    "PM_Normals": "Pal/Content/Others/MineableRocks/PickAxeCharachter/PickAxe/Wood/T_DarkWood_1K_N.T_DarkWood_1K_N",
+    "PM_Diffuse": "Pal/Content/Others/MineableRocks/PickAxeCharachter/PickAxe/Wood/T_DarkWood_1K_D.T_DarkWood_1K_D"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {},
+    "Switches": {},
+    "Properties": {
+      "bUsedWithSkeletalMesh": true,
+      "bCanMaskedBeAssumedOpaque": true,
+      "StateId": "9C050798-43C96FEE-45C7FA81-CEF5C42C"
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

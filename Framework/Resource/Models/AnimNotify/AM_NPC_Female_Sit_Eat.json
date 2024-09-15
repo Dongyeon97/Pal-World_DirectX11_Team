@@ -1,0 +1,32 @@
+[
+	{
+		"Duration" : 0.0,
+		"EndTime" : 0.73391234874725342,
+		"SoundIDArray" : 
+		[
+			"784692492"
+		],
+		"StartTime" : 0.73391234874725342,
+		"Type" : "Sound"
+	},
+	{
+		"Duration" : 0.0,
+		"EndTime" : 2.7979109287261963,
+		"SoundIDArray" : 
+		[
+			"784692492"
+		],
+		"StartTime" : 2.7979109287261963,
+		"Type" : "Sound"
+	},
+	{
+		"Duration" : 0.0,
+		"EndTime" : 5.9198384284973145,
+		"SoundIDArray" : 
+		[
+			"784692492"
+		],
+		"StartTime" : 5.9198384284973145,
+		"Type" : "Sound"
+	}
+]

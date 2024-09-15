@@ -1,0 +1,669 @@
+{
+    "RenderType": 9,
+    "EffectType": 1,
+    "Model File Path": "../../Resource/Models/Dat/NonAnim/EffectMeshs/Sphere02.dat",
+    "Effect Shader Name": "FX_EffectMesh_PNT2T",
+    "Scale": [
+        5.0,
+        5.0,
+        5.0
+    ],
+    "Rotation": [
+        90.0,
+        0.0,
+        0.0
+    ],
+    "Translation": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "Diffuse Color1": [
+        0.6627451181411743,
+        0.5607843399047852,
+        1.0,
+        1.0
+    ],
+    "Diffuse Color2": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+    ],
+    "Diffuse Color3": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+    ],
+    "Diffuse Texture Name": "",
+    "Noise Texture Name": "",
+    "Mask Texture Name": "Eff_Lightning_38",
+    "Distortion Texture Name": "",
+    "Dissolve Texture Name": "",
+    "Is Sprite": false,
+    "Sprite Row": 1,
+    "Sprite Col": 1,
+    "Sprite Speed": 1.0,
+    "Is Anim": false,
+    "Is Loop": true,
+    "Is UVMove Loop": true,
+    "Is Glow": false,
+    "Is Bloom": false,
+    "Is AlphaAttenuation": false,
+    "Use Diffuse Texture": false,
+    "Use Noise Texture": false,
+    "Use Mask Texture": true,
+    "Use Distortion Texture": false,
+    "Use Dissolve Texture": false,
+    "Distortion Weight": 0.0,
+    "Dissolve Weight": 0.0,
+    "Glow Weight": 0.0,
+    "Bloom Weight": 0.0,
+    "AlphaAttenuation Weight": 0.0,
+    "Life Time": [
+        0.0,
+        10.0
+    ],
+    "UVMove Speed": [
+        0.4000000059604645,
+        -0.4000000059604645
+    ],
+    "Num KeyFrames": 11,
+    "KeyFrames": [
+        {
+            "Index": "KeyFrame0",
+            "Effect Shader Pass Index": 0,
+            "Time": 0.0,
+            "Color1": [
+                0.03529411926865578,
+                0.0,
+                0.062745101749897,
+                1.0
+            ],
+            "Color1 Weight": 0.33329999446868896,
+            "Color1 Easing Type": 3,
+            "Color1 Easing Expo": 2.0,
+            "Color2": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "Color2 Weight": 0.33329999446868896,
+            "Color2 Easing Type": 1,
+            "Color2 Easing Expo": 2.0,
+            "Color3": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "Color3 Weight": 0.33329999446868896,
+            "Color3 Easing Type": 1,
+            "Color3 Easing Expo": 2.0,
+            "Scale": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "Scale Easing Type": 4,
+            "Scale Easing Expo": 2.0,
+            "Rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Rotation Easing Type": 1,
+            "Rotation Easing Expo": 2.0,
+            "Translation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Translation Easing Type": 1,
+            "Translation Easing Expo": 2.0,
+            "Rotate Weight": 0.0
+        },
+        {
+            "Index": "KeyFrame1",
+            "Effect Shader Pass Index": 0,
+            "Time": 1.0,
+            "Color1": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "Color1 Weight": 0.33329999446868896,
+            "Color1 Easing Type": 3,
+            "Color1 Easing Expo": 2.0,
+            "Color2": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "Color2 Weight": 0.33329999446868896,
+            "Color2 Easing Type": 1,
+            "Color2 Easing Expo": 2.0,
+            "Color3": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "Color3 Weight": 0.33329999446868896,
+            "Color3 Easing Type": 1,
+            "Color3 Easing Expo": 2.0,
+            "Scale": [
+                6.5,
+                6.5,
+                6.5
+            ],
+            "Scale Easing Type": 4,
+            "Scale Easing Expo": 2.0,
+            "Rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Rotation Easing Type": 1,
+            "Rotation Easing Expo": 2.0,
+            "Translation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Translation Easing Type": 1,
+            "Translation Easing Expo": 2.0,
+            "Rotate Weight": 0.0
+        },
+        {
+            "Index": "KeyFrame2",
+            "Effect Shader Pass Index": 0,
+            "Time": 2.0,
+            "Color1": [
+                0.03529411926865578,
+                0.0,
+                0.062745101749897,
+                1.0
+            ],
+            "Color1 Weight": 0.33329999446868896,
+            "Color1 Easing Type": 3,
+            "Color1 Easing Expo": 2.0,
+            "Color2": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "Color2 Weight": 0.33329999446868896,
+            "Color2 Easing Type": 1,
+            "Color2 Easing Expo": 2.0,
+            "Color3": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "Color3 Weight": 0.33329999446868896,
+            "Color3 Easing Type": 1,
+            "Color3 Easing Expo": 2.0,
+            "Scale": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "Scale Easing Type": 4,
+            "Scale Easing Expo": 2.0,
+            "Rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Rotation Easing Type": 1,
+            "Rotation Easing Expo": 2.0,
+            "Translation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Translation Easing Type": 1,
+            "Translation Easing Expo": 2.0,
+            "Rotate Weight": 0.0
+        },
+        {
+            "Index": "KeyFrame3",
+            "Effect Shader Pass Index": 0,
+            "Time": 3.0,
+            "Color1": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "Color1 Weight": 0.33329999446868896,
+            "Color1 Easing Type": 3,
+            "Color1 Easing Expo": 2.0,
+            "Color2": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "Color2 Weight": 0.33329999446868896,
+            "Color2 Easing Type": 1,
+            "Color2 Easing Expo": 2.0,
+            "Color3": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "Color3 Weight": 0.33329999446868896,
+            "Color3 Easing Type": 1,
+            "Color3 Easing Expo": 2.0,
+            "Scale": [
+                6.5,
+                6.5,
+                6.5
+            ],
+            "Scale Easing Type": 4,
+            "Scale Easing Expo": 2.0,
+            "Rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Rotation Easing Type": 1,
+            "Rotation Easing Expo": 2.0,
+            "Translation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Translation Easing Type": 1,
+            "Translation Easing Expo": 2.0,
+            "Rotate Weight": 0.0
+        },
+        {
+            "Index": "KeyFrame4",
+            "Effect Shader Pass Index": 0,
+            "Time": 4.0,
+            "Color1": [
+                0.03529411926865578,
+                0.0,
+                0.062745101749897,
+                1.0
+            ],
+            "Color1 Weight": 0.33329999446868896,
+            "Color1 Easing Type": 3,
+            "Color1 Easing Expo": 2.0,
+            "Color2": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "Color2 Weight": 0.33329999446868896,
+            "Color2 Easing Type": 1,
+            "Color2 Easing Expo": 2.0,
+            "Color3": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "Color3 Weight": 0.33329999446868896,
+            "Color3 Easing Type": 1,
+            "Color3 Easing Expo": 2.0,
+            "Scale": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "Scale Easing Type": 4,
+            "Scale Easing Expo": 2.0,
+            "Rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Rotation Easing Type": 1,
+            "Rotation Easing Expo": 2.0,
+            "Translation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Translation Easing Type": 1,
+            "Translation Easing Expo": 2.0,
+            "Rotate Weight": 0.0
+        },
+        {
+            "Index": "KeyFrame5",
+            "Effect Shader Pass Index": 0,
+            "Time": 5.0,
+            "Color1": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "Color1 Weight": 0.33329999446868896,
+            "Color1 Easing Type": 3,
+            "Color1 Easing Expo": 2.0,
+            "Color2": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "Color2 Weight": 0.33329999446868896,
+            "Color2 Easing Type": 1,
+            "Color2 Easing Expo": 2.0,
+            "Color3": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "Color3 Weight": 0.33329999446868896,
+            "Color3 Easing Type": 1,
+            "Color3 Easing Expo": 2.0,
+            "Scale": [
+                6.5,
+                6.5,
+                6.5
+            ],
+            "Scale Easing Type": 4,
+            "Scale Easing Expo": 2.0,
+            "Rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Rotation Easing Type": 1,
+            "Rotation Easing Expo": 2.0,
+            "Translation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Translation Easing Type": 1,
+            "Translation Easing Expo": 2.0,
+            "Rotate Weight": 0.0
+        },
+        {
+            "Index": "KeyFrame6",
+            "Effect Shader Pass Index": 0,
+            "Time": 6.0,
+            "Color1": [
+                0.03529411926865578,
+                0.0,
+                0.062745101749897,
+                1.0
+            ],
+            "Color1 Weight": 0.33329999446868896,
+            "Color1 Easing Type": 3,
+            "Color1 Easing Expo": 2.0,
+            "Color2": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "Color2 Weight": 0.33329999446868896,
+            "Color2 Easing Type": 1,
+            "Color2 Easing Expo": 2.0,
+            "Color3": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "Color3 Weight": 0.33329999446868896,
+            "Color3 Easing Type": 1,
+            "Color3 Easing Expo": 2.0,
+            "Scale": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "Scale Easing Type": 4,
+            "Scale Easing Expo": 2.0,
+            "Rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Rotation Easing Type": 1,
+            "Rotation Easing Expo": 2.0,
+            "Translation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Translation Easing Type": 1,
+            "Translation Easing Expo": 2.0,
+            "Rotate Weight": 0.0
+        },
+        {
+            "Index": "KeyFrame7",
+            "Effect Shader Pass Index": 0,
+            "Time": 7.0,
+            "Color1": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "Color1 Weight": 0.33329999446868896,
+            "Color1 Easing Type": 3,
+            "Color1 Easing Expo": 2.0,
+            "Color2": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "Color2 Weight": 0.33329999446868896,
+            "Color2 Easing Type": 1,
+            "Color2 Easing Expo": 2.0,
+            "Color3": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "Color3 Weight": 0.33329999446868896,
+            "Color3 Easing Type": 1,
+            "Color3 Easing Expo": 2.0,
+            "Scale": [
+                6.5,
+                6.5,
+                6.5
+            ],
+            "Scale Easing Type": 4,
+            "Scale Easing Expo": 2.0,
+            "Rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Rotation Easing Type": 1,
+            "Rotation Easing Expo": 2.0,
+            "Translation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Translation Easing Type": 1,
+            "Translation Easing Expo": 2.0,
+            "Rotate Weight": 0.0
+        },
+        {
+            "Index": "KeyFrame8",
+            "Effect Shader Pass Index": 0,
+            "Time": 8.0,
+            "Color1": [
+                0.03529411926865578,
+                0.0,
+                0.062745101749897,
+                1.0
+            ],
+            "Color1 Weight": 0.33329999446868896,
+            "Color1 Easing Type": 3,
+            "Color1 Easing Expo": 2.0,
+            "Color2": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "Color2 Weight": 0.33329999446868896,
+            "Color2 Easing Type": 1,
+            "Color2 Easing Expo": 2.0,
+            "Color3": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "Color3 Weight": 0.33329999446868896,
+            "Color3 Easing Type": 1,
+            "Color3 Easing Expo": 2.0,
+            "Scale": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "Scale Easing Type": 4,
+            "Scale Easing Expo": 2.0,
+            "Rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Rotation Easing Type": 1,
+            "Rotation Easing Expo": 2.0,
+            "Translation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Translation Easing Type": 1,
+            "Translation Easing Expo": 2.0,
+            "Rotate Weight": 0.0
+        },
+        {
+            "Index": "KeyFrame9",
+            "Effect Shader Pass Index": 0,
+            "Time": 9.0,
+            "Color1": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "Color1 Weight": 0.33329999446868896,
+            "Color1 Easing Type": 3,
+            "Color1 Easing Expo": 2.0,
+            "Color2": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "Color2 Weight": 0.33329999446868896,
+            "Color2 Easing Type": 1,
+            "Color2 Easing Expo": 2.0,
+            "Color3": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "Color3 Weight": 0.33329999446868896,
+            "Color3 Easing Type": 1,
+            "Color3 Easing Expo": 2.0,
+            "Scale": [
+                6.5,
+                6.5,
+                6.5
+            ],
+            "Scale Easing Type": 4,
+            "Scale Easing Expo": 2.0,
+            "Rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Rotation Easing Type": 1,
+            "Rotation Easing Expo": 2.0,
+            "Translation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Translation Easing Type": 1,
+            "Translation Easing Expo": 2.0,
+            "Rotate Weight": 0.0
+        },
+        {
+            "Index": "KeyFrame10",
+            "Effect Shader Pass Index": 0,
+            "Time": 10.0,
+            "Color1": [
+                0.03529411926865578,
+                0.0,
+                0.062745101749897,
+                1.0
+            ],
+            "Color1 Weight": 0.33329999446868896,
+            "Color1 Easing Type": 3,
+            "Color1 Easing Expo": 2.0,
+            "Color2": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "Color2 Weight": 0.33329999446868896,
+            "Color2 Easing Type": 1,
+            "Color2 Easing Expo": 2.0,
+            "Color3": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "Color3 Weight": 0.33329999446868896,
+            "Color3 Easing Type": 1,
+            "Color3 Easing Expo": 2.0,
+            "Scale": [
+                5.0,
+                5.0,
+                5.0
+            ],
+            "Scale Easing Type": 4,
+            "Scale Easing Expo": 2.0,
+            "Rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Rotation Easing Type": 1,
+            "Rotation Easing Expo": 2.0,
+            "Translation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Translation Easing Type": 1,
+            "Translation Easing Expo": 2.0,
+            "Rotate Weight": 0.0
+        }
+    ]
+}

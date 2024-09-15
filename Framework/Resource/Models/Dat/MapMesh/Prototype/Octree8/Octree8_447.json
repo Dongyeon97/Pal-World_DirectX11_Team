@@ -1,0 +1,60 @@
+{
+    "Is Empty?": false,
+    "Tree Count": 1,
+    "Rock Count": 0,
+    "Pal Count": 0,
+    "Trees Information": {
+        "Habitat Type": 0,
+        "Nature Type": 0,
+        "Total Number of Trees": 1,
+        "Individual Information": {
+            "Tree108": [
+                {
+                    "Scale": [
+                        1.0,
+                        0.9306338429450989,
+                        1.0
+                    ]
+                },
+                {
+                    "Rotation": [
+                        0.0,
+                        209.39218139648438,
+                        0.0
+                    ]
+                },
+                {
+                    "Translation": [
+                        -3455.01220703125,
+                        3.2504496574401855,
+                        -2136.29736328125
+                    ]
+                },
+                {
+                    "Center": [
+                        0.0,
+                        4.0,
+                        0.0
+                    ]
+                },
+                {
+                    "Extents": [
+                        0.4000000059604645,
+                        4.0,
+                        0.4000000059604645
+                    ]
+                },
+                {
+                    "Included Octree Node Index": [
+                        4,
+                        4,
+                        7
+                    ]
+                },
+                {
+                    "Model File Path": "../../Resource/Models/Dat/MapMesh/Placeable/Tree/tree8.dat"
+                }
+            ]
+        }
+    }
+}

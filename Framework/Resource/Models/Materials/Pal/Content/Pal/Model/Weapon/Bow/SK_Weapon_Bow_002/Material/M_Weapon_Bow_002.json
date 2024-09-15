@@ -1,0 +1,27 @@
+{
+  "Textures": {
+    "T_Weapon_Bow_002_B": "Pal/Content/Pal/Model/Weapon/Bow/SK_Weapon_Bow_002/Texture/T_Weapon_Bow_002_B.T_Weapon_Bow_002_B",
+    "T_Weapon_Bow_002_M": "Pal/Content/Pal/Model/Weapon/Bow/SK_Weapon_Bow_002/Texture/T_Weapon_Bow_002_M.T_Weapon_Bow_002_M",
+    "T_Weapon_Bow_002_N": "Pal/Content/Pal/Model/Weapon/Bow/SK_Weapon_Bow_002/Texture/T_Weapon_Bow_002_N.T_Weapon_Bow_002_N",
+    "T_Weapon_Bow_002_R": "Pal/Content/Pal/Model/Weapon/Bow/SK_Weapon_Bow_002/Texture/T_Weapon_Bow_002_R.T_Weapon_Bow_002_R",
+    "PM_Normals": "Pal/Content/Pal/Model/Weapon/Bow/SK_Weapon_Bow_002/Texture/T_Weapon_Bow_002_N.T_Weapon_Bow_002_N"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {},
+    "Switches": {},
+    "Properties": {
+      "bUsedWithSkeletalMesh": true,
+      "bCanMaskedBeAssumedOpaque": true,
+      "StateId": "3D46FAB7-40E986CB-3EFD9082-630FFAB8"
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

@@ -1,0 +1,516 @@
+{
+    "M_pa_Boss_MockupEmmisiv.mat": {
+        "texture_count": 2,
+        "shader_name": "M_PalLit_Env",
+        "textures": [
+            {
+                "name": "DefaultBaseTexture",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Material\\DefaultBaseTexture.png"
+            },
+            {
+                "name": "T_pal_boss_building_Emissiv_01_B",
+                "usage": "Emissive Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\Boss\\Textures\\T_pal_boss_building_Emissiv_01_B.png"
+            }
+        ]
+    },
+    "M_pal_boss_building_Block_01.mat": {
+        "texture_count": 3,
+        "shader_name": "M_PalLit_Env",
+        "textures": [
+            {
+                "name": "T_pal_boss_building_Block_01_B",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\Boss\\Textures\\T_pal_boss_building_Block_01_B.png"
+            },
+            {
+                "name": "T_pal_boss_building_Block_01_M",
+                "usage": "MetallicRoughnessOcclusionSpecularTexture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\Boss\\Textures\\T_pal_boss_building_Block_01_M.png"
+            },
+            {
+                "name": "T_pal_boss_building_Block_01_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\Boss\\Textures\\T_pal_boss_building_Block_01_N.png"
+            }
+        ]
+    },
+    "M_pal_boss_building_Bridge_01.mat": {
+        "texture_count": 3,
+        "shader_name": "M_PalLit_Env",
+        "textures": [
+            {
+                "name": "T_pal_boss_building_Bridge_01_B",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\Boss\\Textures\\T_pal_boss_building_Bridge_01_B.png"
+            },
+            {
+                "name": "T_pal_boss_building_Bridge_01_M",
+                "usage": "MetallicRoughnessOcclusionSpecularTexture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\Boss\\Textures\\T_pal_boss_building_Bridge_01_M.png"
+            },
+            {
+                "name": "T_pal_boss_building_Bridge_01_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\Boss\\Textures\\T_pal_boss_building_Bridge_01_N.png"
+            }
+        ]
+    },
+    "M_pal_boss_building_Circle_01.mat": {
+        "texture_count": 3,
+        "shader_name": "M_PalLit_Env",
+        "textures": [
+            {
+                "name": "T_pal_boss_building_Circle_01_B",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\Boss\\Textures\\T_pal_boss_building_Circle_01_B.png"
+            },
+            {
+                "name": "T_pal_boss_building_Circle_01_M",
+                "usage": "MetallicRoughnessOcclusionSpecularTexture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\Boss\\Textures\\T_pal_boss_building_Circle_01_M.png"
+            },
+            {
+                "name": "T_pal_boss_building_Circle_01_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\Boss\\Textures\\T_pal_boss_building_Circle_01_N.png"
+            }
+        ]
+    },
+    "M_pal_boss_building_Circle_02_1.mat": {
+        "texture_count": 3,
+        "shader_name": "M_PalLit_Env",
+        "textures": [
+            {
+                "name": "T_pal_boss_building_Circle_02_B",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\Boss\\Textures\\T_pal_boss_building_Circle_02_B.png"
+            },
+            {
+                "name": "T_pal_boss_building_Circle_02_M",
+                "usage": "MetallicRoughnessOcclusionSpecularTexture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\Boss\\Textures\\T_pal_boss_building_Circle_02_M.png"
+            },
+            {
+                "name": "T_pal_boss_building_Circle_02_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\Boss\\Textures\\T_pal_boss_building_Circle_02_N.png"
+            }
+        ]
+    },
+    "M_pal_boss_building_Fartower_01.mat": {
+        "texture_count": 5,
+        "shader_name": "M_PalLit_Env",
+        "textures": [
+            {
+                "name": "T_pal_boss_building_Fartower_01_B",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\Boss\\Textures\\T_pal_boss_building_Fartower_01_B.png"
+            },
+            {
+                "name": "T_pal_boss_building_Fartower_01_M",
+                "usage": "MetallicRoughnessOcclusionSpecularTexture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\Boss\\Textures\\T_pal_boss_building_Fartower_01_M.png"
+            },
+            {
+                "name": "T_pal_boss_building_Fartower_01_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\Boss\\Textures\\T_pal_boss_building_Fartower_01_N.png"
+            },
+            {
+                "name": "T_pal_b00_Lordenfel_Moss_01_BC",
+                "usage": "G channel Basecolor",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Lordenfel\\Textures\\T_pal_b00_Lordenfel_Moss_01_BC.png"
+            },
+            {
+                "name": "T_pal_b00_Lordenfel_Moss_01_N",
+                "usage": "G channel Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Lordenfel\\Textures\\T_pal_b00_Lordenfel_Moss_01_N.png"
+            }
+        ]
+    },
+    "M_pal_boss_building_Fartower_03.mat": {
+        "texture_count": 5,
+        "shader_name": "M_PalLit_Env",
+        "textures": [
+            {
+                "name": "T_pal_boss_building_Fartower_03_B",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\Boss\\Textures\\T_pal_boss_building_Fartower_03_B.png"
+            },
+            {
+                "name": "T_pal_boss_building_Fartower_03_M",
+                "usage": "MetallicRoughnessOcclusionSpecularTexture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\Boss\\Textures\\T_pal_boss_building_Fartower_03_M.png"
+            },
+            {
+                "name": "T_pal_boss_building_Fartower_03_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\Boss\\Textures\\T_pal_boss_building_Fartower_03_N.png"
+            },
+            {
+                "name": "T_pal_b00_Lordenfel_Moss_01_BC",
+                "usage": "G channel Basecolor",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Lordenfel\\Textures\\T_pal_b00_Lordenfel_Moss_01_BC.png"
+            },
+            {
+                "name": "T_pal_b00_Lordenfel_Moss_01_N",
+                "usage": "G channel Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Lordenfel\\Textures\\T_pal_b00_Lordenfel_Moss_01_N.png"
+            }
+        ]
+    },
+    "M_pal_boss_building_Fartower_05.mat": {
+        "texture_count": 5,
+        "shader_name": "M_PalLit_Env",
+        "textures": [
+            {
+                "name": "T_pal_boss_building_Fartower_05_B",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\Boss\\Textures\\T_pal_boss_building_Fartower_05_B.png"
+            },
+            {
+                "name": "T_pal_boss_building_Fartower_05_M",
+                "usage": "MetallicRoughnessOcclusionSpecularTexture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\Boss\\Textures\\T_pal_boss_building_Fartower_05_M.png"
+            },
+            {
+                "name": "T_pal_boss_building_Fartower_05_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\Boss\\Textures\\T_pal_boss_building_Fartower_05_N.png"
+            },
+            {
+                "name": "T_pal_b00_Lordenfel_Moss_01_BC",
+                "usage": "G channel Basecolor",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Lordenfel\\Textures\\T_pal_b00_Lordenfel_Moss_01_BC.png"
+            },
+            {
+                "name": "T_pal_b00_Lordenfel_Moss_01_N",
+                "usage": "G channel Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Lordenfel\\Textures\\T_pal_b00_Lordenfel_Moss_01_N.png"
+            }
+        ]
+    },
+    "M_pal_boss_building_GateTower_01.mat": {
+        "texture_count": 5,
+        "shader_name": "M_PalLit_Env",
+        "textures": [
+            {
+                "name": "T_pal_boss_building_Gatetower_01_B",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\Boss\\Textures\\T_pal_boss_building_Gatetower_01_B.png"
+            },
+            {
+                "name": "T_pal_boss_building_Gatetower_01_M",
+                "usage": "MetallicRoughnessOcclusionSpecularTexture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\Boss\\Textures\\T_pal_boss_building_Gatetower_01_M.png"
+            },
+            {
+                "name": "T_pal_boss_building_Gatetower_01_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\Boss\\Textures\\T_pal_boss_building_Gatetower_01_N.png"
+            },
+            {
+                "name": "T_pal_b00_Lordenfel_Moss_01_BC",
+                "usage": "G channel Basecolor",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Lordenfel\\Textures\\T_pal_b00_Lordenfel_Moss_01_BC.png"
+            },
+            {
+                "name": "T_pal_b00_Lordenfel_Moss_01_N",
+                "usage": "G channel Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Lordenfel\\Textures\\T_pal_b00_Lordenfel_Moss_01_N.png"
+            }
+        ]
+    },
+    "M_pal_boss_building_GateTower_02.mat": {
+        "texture_count": 5,
+        "shader_name": "M_PalLit_Env",
+        "textures": [
+            {
+                "name": "T_pal_boss_building_Gatetower_02_B",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\Boss\\Textures\\T_pal_boss_building_Gatetower_02_B.png"
+            },
+            {
+                "name": "T_pal_boss_building_Gatetower_02_M",
+                "usage": "MetallicRoughnessOcclusionSpecularTexture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\Boss\\Textures\\T_pal_boss_building_Gatetower_02_M.png"
+            },
+            {
+                "name": "T_pal_boss_building_Gatetower_02_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\Boss\\Textures\\T_pal_boss_building_Gatetower_02_N.png"
+            },
+            {
+                "name": "T_pal_b00_Lordenfel_Moss_01_BC",
+                "usage": "G channel Basecolor",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Lordenfel\\Textures\\T_pal_b00_Lordenfel_Moss_01_BC.png"
+            },
+            {
+                "name": "T_pal_b00_Lordenfel_Moss_01_N",
+                "usage": "G channel Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Lordenfel\\Textures\\T_pal_b00_Lordenfel_Moss_01_N.png"
+            }
+        ]
+    },
+    "M_pal_boss_building_GateTower_03.mat": {
+        "texture_count": 5,
+        "shader_name": "M_PalLit_Env",
+        "textures": [
+            {
+                "name": "T_pal_boss_building_Gatetower_03_B",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\Boss\\Textures\\T_pal_boss_building_Gatetower_03_B.png"
+            },
+            {
+                "name": "T_pal_boss_building_Gatetower_03_M",
+                "usage": "MetallicRoughnessOcclusionSpecularTexture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\Boss\\Textures\\T_pal_boss_building_Gatetower_03_M.png"
+            },
+            {
+                "name": "T_pal_boss_building_Gatetower_03_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\Boss\\Textures\\T_pal_boss_building_Gatetower_03_N.png"
+            },
+            {
+                "name": "T_pal_b00_Lordenfel_Moss_01_BC",
+                "usage": "G channel Basecolor",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Lordenfel\\Textures\\T_pal_b00_Lordenfel_Moss_01_BC.png"
+            },
+            {
+                "name": "T_pal_b00_Lordenfel_Moss_01_N",
+                "usage": "G channel Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Lordenfel\\Textures\\T_pal_b00_Lordenfel_Moss_01_N.png"
+            }
+        ]
+    },
+    "M_pal_boss_building_GateTower_04.mat": {
+        "texture_count": 5,
+        "shader_name": "M_PalLit_Env",
+        "textures": [
+            {
+                "name": "T_pal_boss_building_Gatetower_04_B",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\Boss\\Textures\\T_pal_boss_building_Gatetower_04_B.png"
+            },
+            {
+                "name": "T_pal_boss_building_Gatetower_04_M",
+                "usage": "MetallicRoughnessOcclusionSpecularTexture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\Boss\\Textures\\T_pal_boss_building_Gatetower_04_M.png"
+            },
+            {
+                "name": "T_pal_boss_building_Gatetower_04_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\Boss\\Textures\\T_pal_boss_building_Gatetower_04_N.png"
+            },
+            {
+                "name": "T_pal_b00_Lordenfel_Moss_01_BC",
+                "usage": "G channel Basecolor",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Lordenfel\\Textures\\T_pal_b00_Lordenfel_Moss_01_BC.png"
+            },
+            {
+                "name": "T_pal_b00_Lordenfel_Moss_01_N",
+                "usage": "G channel Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Lordenfel\\Textures\\T_pal_b00_Lordenfel_Moss_01_N.png"
+            }
+        ]
+    },
+    "M_pal_boss_building_GateTower_05.mat": {
+        "texture_count": 5,
+        "shader_name": "M_PalLit_Env",
+        "textures": [
+            {
+                "name": "T_pal_boss_building_Gatetower_05_M",
+                "usage": "MetallicRoughnessOcclusionSpecularTexture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\Boss\\Textures\\T_pal_boss_building_Gatetower_05_M.png"
+            },
+            {
+                "name": "T_pal_boss_building_Gatetower_05_B",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\Boss\\Textures\\T_pal_boss_building_Gatetower_05_B.png"
+            },
+            {
+                "name": "T_pal_boss_building_Gatetower_05_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\Boss\\Textures\\T_pal_boss_building_Gatetower_05_N.png"
+            },
+            {
+                "name": "T_pal_b00_Lordenfel_Moss_01_BC",
+                "usage": "G channel Basecolor",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Lordenfel\\Textures\\T_pal_b00_Lordenfel_Moss_01_BC.png"
+            },
+            {
+                "name": "T_pal_b00_Lordenfel_Moss_01_N",
+                "usage": "G channel Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Lordenfel\\Textures\\T_pal_b00_Lordenfel_Moss_01_N.png"
+            }
+        ]
+    },
+    "M_pal_boss_building_Ground_01.mat": {
+        "texture_count": 7,
+        "shader_name": "M_PalLit_Env",
+        "textures": [
+            {
+                "name": "T_pal_boss_building_Ground_01_B",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\Boss\\Textures\\T_pal_boss_building_Ground_01_B.png"
+            },
+            {
+                "name": "T_pal_boss_building_Ground_01_M",
+                "usage": "MetallicRoughnessOcclusionSpecularTexture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\Boss\\Textures\\T_pal_boss_building_Ground_01_M.png"
+            },
+            {
+                "name": "T_pal_boss_building_Ground_01_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\Boss\\Textures\\T_pal_boss_building_Ground_01_N.png"
+            },
+            {
+                "name": "T_pal_boss_grass_Drygrass_02_B",
+                "usage": "G channel Basecolor",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\Boss\\Textures\\T_pal_boss_grass_Drygrass_02_B.png"
+            },
+            {
+                "name": "T_pal_b00_Lordenfel_Moss_01_N",
+                "usage": "G channel Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Lordenfel\\Textures\\T_pal_b00_Lordenfel_Moss_01_N.png"
+            },
+            {
+                "name": "T_pal_boss_grass_Drygrass_01_B",
+                "usage": "R channel Basecolor",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\Boss\\Textures\\T_pal_boss_grass_Drygrass_01_B.png"
+            },
+            {
+                "name": "T_pal_b00_Lordenfel_Moss_01_N",
+                "usage": "R channel Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Lordenfel\\Textures\\T_pal_b00_Lordenfel_Moss_01_N.png"
+            }
+        ]
+    },
+    "M_pal_boss_building_GroundBridge_01.mat": {
+        "texture_count": 3,
+        "shader_name": "M_PalLit_Env",
+        "textures": [
+            {
+                "name": "T_pal_boss_building_GroundBridge_01_B",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\Boss\\Textures\\T_pal_boss_building_GroundBridge_01_B.png"
+            },
+            {
+                "name": "T_pal_boss_building_GroundBridge_01_M",
+                "usage": "MetallicRoughnessOcclusionSpecularTexture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\Boss\\Textures\\T_pal_boss_building_GroundBridge_01_M.png"
+            },
+            {
+                "name": "T_pal_boss_building_GroundBridge_01_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\Boss\\Textures\\T_pal_boss_building_GroundBridge_01_N.png"
+            }
+        ]
+    },
+    "M_pal_boss_building_Tower_01.mat": {
+        "texture_count": 6,
+        "shader_name": "M_PalLit_Env",
+        "textures": [
+            {
+                "name": "T_pal_boss_building_Tower_01_B",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\Boss\\Textures\\T_pal_boss_building_Tower_01_B.png"
+            },
+            {
+                "name": "T_pal_boss_building_Tower_01_M",
+                "usage": "MetallicRoughnessOcclusionSpecularTexture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\Boss\\Textures\\T_pal_boss_building_Tower_01_M.png"
+            },
+            {
+                "name": "T_pal_boss_building_Tower_01_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\Boss\\Textures\\T_pal_boss_building_Tower_01_N.png"
+            },
+            {
+                "name": "T_pal_boss_grass_Drygrass_02_B",
+                "usage": "G channel Basecolor",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\Boss\\Textures\\T_pal_boss_grass_Drygrass_02_B.png"
+            },
+            {
+                "name": "T_pal_b00_Lordenfel_Moss_01_N",
+                "usage": "G channel Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Lordenfel\\Textures\\T_pal_b00_Lordenfel_Moss_01_N.png"
+            },
+            {
+                "name": "T_pal_boss_grass_Drygrass_01_B",
+                "usage": "R channel Basecolor",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\Boss\\Textures\\T_pal_boss_grass_Drygrass_01_B.png"
+            }
+        ]
+    },
+    "M_pal_boss_building_Tower_02.mat": {
+        "texture_count": 6,
+        "shader_name": "M_PalLit_Env",
+        "textures": [
+            {
+                "name": "T_pal_boss_building_Tower_02_B",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\Boss\\Textures\\T_pal_boss_building_Tower_02_B.png"
+            },
+            {
+                "name": "T_pal_boss_building_Tower_02_M",
+                "usage": "MetallicRoughnessOcclusionSpecularTexture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\Boss\\Textures\\T_pal_boss_building_Tower_02_M.png"
+            },
+            {
+                "name": "T_pal_boss_building_Tower_02_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\Boss\\Textures\\T_pal_boss_building_Tower_02_N.png"
+            },
+            {
+                "name": "T_pal_boss_grass_Drygrass_02_B",
+                "usage": "G channel Basecolor",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\Boss\\Textures\\T_pal_boss_grass_Drygrass_02_B.png"
+            },
+            {
+                "name": "T_pal_b00_Lordenfel_Moss_01_N",
+                "usage": "G channel Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Lordenfel\\Textures\\T_pal_b00_Lordenfel_Moss_01_N.png"
+            },
+            {
+                "name": "T_pal_boss_grass_Drygrass_01_B",
+                "usage": "R channel Basecolor",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\Boss\\Textures\\T_pal_boss_grass_Drygrass_01_B.png"
+            }
+        ]
+    },
+    "M_pal_boss_propsground_Sand_01.mat": {
+        "texture_count": 3,
+        "shader_name": "M_PalLit_Env",
+        "textures": [
+            {
+                "name": "T_ground_sand_02_yellow_BC_H",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\Field_Asset\\Forest_Environment_Set\\Environment\\Landscape\\Textures\\T_ground_sand_02_yellow_BC_H.png"
+            },
+            {
+                "name": "T_ground_sand_02_MT_R_AO",
+                "usage": "MetallicRoughnessOcclusionSpecularTexture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\Field_Asset\\Forest_Environment_Set\\Environment\\Landscape\\Textures\\T_ground_sand_02_MT_R_AO.png"
+            },
+            {
+                "name": "T_ground_sand_02_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\Field_Asset\\Forest_Environment_Set\\Environment\\Landscape\\Textures\\T_ground_sand_02_N.png"
+            }
+        ]
+    },
+    "MI_Skybox_Inst_Alien_01_Animated_3.mat": {
+        "texture_count": 1,
+        "shader_name": "M_Skybox_Main",
+        "textures": [
+            {
+                "name": "T_Sky_Alien_01",
+                "usage": "Sky Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\Elite_AlienSkies\\Textures\\T_Sky_Alien_01.png"
+            }
+        ]
+    }
+}

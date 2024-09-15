@@ -1,0 +1,74 @@
+{
+    "RenderType": 9,
+    "EffectType": 1,
+    "Model File Path": "../../Resource/Models/Dat/NonAnim/EffectMeshs/Hemisphere00.dat",
+    "Effect Shader Name": "FX_EffectMesh_PNT2T",
+    "Scale": [
+        1.0,
+        1.0,
+        1.0
+    ],
+    "Rotation": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "Translation": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "Diffuse Color1": [
+        1.0,
+        0.5755478143692017,
+        0.09803920984268188,
+        1.0
+    ],
+    "Diffuse Color2": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+    ],
+    "Diffuse Color3": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+    ],
+    "Diffuse Texture Name": "T_Fire_2",
+    "Noise Texture Name": "Eff_Noise_11",
+    "Mask Texture Name": "T_Flash09",
+    "Distortion Texture Name": "",
+    "Dissolve Texture Name": "",
+    "Is Sprite": false,
+    "Sprite Row": 1,
+    "Sprite Col": 1,
+    "Sprite Speed": 1.0,
+    "Is Anim": false,
+    "Is Loop": false,
+    "Is UVMove Loop": true,
+    "Is Glow": false,
+    "Is Bloom": false,
+    "Is AlphaAttenuation": false,
+    "Use Diffuse Texture": true,
+    "Use Noise Texture": true,
+    "Use Mask Texture": true,
+    "Use Distortion Texture": false,
+    "Use Dissolve Texture": true,
+    "Distortion Weight": 0.0,
+    "Dissolve Weight": 0.0,
+    "Glow Weight": 0.0,
+    "Bloom Weight": 0.0,
+    "AlphaAttenuation Weight": 0.0,
+    "Life Time": [
+        0.0,
+        0.5
+    ],
+    "UVMove Speed": [
+        0.0,
+        0.5
+    ],
+    "Num KeyFrames": 0,
+    "KeyFrames": []
+}

@@ -1,0 +1,80 @@
+{
+  "Textures": {
+    "MainTex": "Pal/Content/Pal/Effect/Textures/T_Noise50.T_Noise50",
+    "T_Noise50": "Pal/Content/Pal/Effect/Textures/T_Noise50.T_Noise50",
+    "NoiseTex": "Pal/Content/Pal/Effect/Textures/T_Noise50.T_Noise50"
+  },
+  "Parameters": {
+    "BlendMode": 2,
+    "ShadingModel": 0,
+    "Colors": {
+      "Color1": {
+        "R": 200.0,
+        "G": 4.53949,
+        "B": 0.0,
+        "A": 1.0,
+        "Hex": "FFFFFF00"
+      },
+      "Color2": {
+        "R": 50.0,
+        "G": 0.574365,
+        "B": 0.0,
+        "A": 1.0,
+        "Hex": "FFFFC800"
+      },
+      "Color3": {
+        "R": 5.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 1.0,
+        "Hex": "FFFF0000"
+      },
+      "FresnelColor": {
+        "R": 5.0,
+        "G": 0.885765,
+        "B": 0.0,
+        "A": 1.0,
+        "Hex": "FFFFF200"
+      }
+    },
+    "Scalars": {
+      "midPoint": 0.784,
+      "rootColor": 0.2,
+      "alpha": 0.05,
+      "alphaEdge": 0.15,
+      "rootAlpha": 1.0,
+      "OffsetScale": 27.177158,
+      "vertexRoot": 0.5184,
+      "MainUTilling": 1.239024,
+      "MainVTilling": 0.5,
+      "MainUSpeed": 0.2,
+      "MainVSpeed": 0.8,
+      "rgbMax": 1.0,
+      "rgbMin": 0.244,
+      "NoiseUTilling": 1.0,
+      "NoiseUSpeed": -1.0,
+      "NoiseVSpeed": 2.0,
+      "rgbFresnelPower": 5.0,
+      "DistortionScale": 0.6,
+      "fadeAlpha": 0.1,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "bOverride_TwoSided": true,
+        "TwoSided": true,
+        "BlendMode": "EBlendMode::BLEND_Translucent",
+        "ShadingModel": "EMaterialShadingModel::MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": true,
+    "IsNull": false
+  }
+}

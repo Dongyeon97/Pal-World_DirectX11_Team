@@ -1,0 +1,46 @@
+{
+  "Textures": {
+    "Base Texture": "Pal/Content/Pal/Model/Stage/tree/b00/SpeedTree/Texture/Spruce/Bark_Color_tga_Tex.Bark_Color_tga_Tex",
+    "PM_Diffuse": "Pal/Content/Pal/Model/Stage/tree/b00/SpeedTree/Texture/Spruce/Bark_Color_tga_Tex.Bark_Color_tga_Tex",
+    "Bark_Color_tga_Tex": "Pal/Content/Pal/Model/Stage/tree/b00/SpeedTree/Texture/Spruce/Bark_Color_tga_Tex.Bark_Color_tga_Tex",
+    "PM_Normals": "Pal/Content/Pal/Model/Stage/tree/b00/SpeedTree/Texture/Spruce/Bark_Normal_tga_Tex.Bark_Normal_tga_Tex",
+    "Normal Map": "Pal/Content/Pal/Model/Stage/tree/b00/SpeedTree/Texture/Spruce/Bark_Normal_tga_Tex.Bark_Normal_tga_Tex"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 6,
+    "Colors": {
+      "Hue": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      }
+    },
+    "Scalars": {
+      "Contrast": 1.0,
+      "Saturation": 0.0,
+      "Value": 5.8,
+      "Roughness": 0.7,
+      "Specular": 0.3,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "TwoSided": true,
+        "bCastDynamicShadowAsMasked": true,
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_TwoSidedFoliage",
+        "OpacityMaskClipValue": 0.3333
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

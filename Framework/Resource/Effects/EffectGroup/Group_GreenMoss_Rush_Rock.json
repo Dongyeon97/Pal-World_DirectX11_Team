@@ -1,0 +1,131 @@
+{
+  "Effect Group Name": "Group_GreenMoss_Rush_Rock",
+  "Duration": 1.0,
+  "Loop": false,
+  "Is Collider": false,
+  "Collider Type": 5,
+  "Collision Flag": 524289,
+  "Collision Layer": 4194305,
+  "Sphere Collider Radius": 0.0,
+  "Box Collider Extents": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Box Collider LocalPosition": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Box Collider LocalRotate": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Sound Name": "",
+  "Sound Loop": false,
+  "Sound Value": 1.0,
+  "Effects": [
+    {
+      "Effect Name": "Instance Mesh - InstanceMesh_GreenMoss_Rush_Rock",
+      "RenderType": 5,
+      "EffectType": 2,
+      "Model File Path": "../../Resource/Models/Dat/NonAnim/EffectMeshs/IceBlock.dat",
+      "Effect Shader Name": "FX_MeshInstancing_PNT2TRULPP",
+      "Scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Rotation": [
+        90.0,
+        90.0,
+        90.0
+      ],
+      "Translation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Diffuse Color1": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Diffuse Color2": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Diffuse Color3": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Diffuse Texture Name": "T_Rock_2_D",
+      "Noise Texture Name": "",
+      "Mask Texture Name": "",
+      "Distortion Texture Name": "",
+      "Dissolve Texture Name": "",
+      "Is Sprite": false,
+      "Sprite Row": 1,
+      "Sprite Col": 1,
+      "Sprite Speed": 1.0,
+      "Is Anim": false,
+      "Is Loop": false,
+      "Is UVMove Loop": false,
+      "Is Glow": false,
+      "Is Bloom": false,
+      "Is AlphaAttenuation": false,
+      "Use Diffuse Texture": true,
+      "Use Noise Texture": false,
+      "Use Mask Texture": false,
+      "Use Distortion Texture": false,
+      "Use Dissolve Texture": false,
+      "Distortion Weight": 0.0,
+      "Dissolve Weight": 0.0,
+      "Glow Weight": 0.0,
+      "Bloom Weight": 0.0,
+      "AlphaAttenuation Weight": 0.0,
+      "Life Time": [
+        0.0,
+        1.0
+      ],
+      "UVMove Speed": [
+        0.0,
+        0.0
+      ],
+      "Instance Mesh Particle Type": 1,
+      "Num Mesh Instance": 50,
+      "Is Gravity": true,
+      "Gravity Value": 0.10000000149011612,
+      "Size": [
+        0.0010000000474974513,
+        0.004999999888241291
+      ],
+      "Speed": [
+        4.0,
+        6.0
+      ],
+      "Range": [
+        5.0,
+        5.0,
+        5.0
+      ],
+      "Radius": [
+        0.0,
+        0.0
+      ],
+      "Rotation Per Seconds": [
+        360.0,
+        360.0,
+        360.0
+      ],
+      "Num KeyFrames": 0,
+      "KeyFrames": []
+    }
+  ]
+}

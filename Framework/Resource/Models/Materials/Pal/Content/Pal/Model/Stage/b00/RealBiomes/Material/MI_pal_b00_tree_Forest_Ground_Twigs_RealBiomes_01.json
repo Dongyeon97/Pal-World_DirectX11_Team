@@ -1,0 +1,36 @@
+{
+  "Textures": {
+    "Base Texture": "Pal/Content/Pal/Model/Stage/b00/RealBiomes/Texture/T_pal_b00_tree_Forest_Ground_Twigs_RealBiomes_D.T_pal_b00_tree_Forest_Ground_Twigs_RealBiomes_D",
+    "PM_Diffuse": "Pal/Content/Pal/Model/Stage/b00/RealBiomes/Texture/T_pal_b00_tree_Forest_Ground_Twigs_RealBiomes_D.T_pal_b00_tree_Forest_Ground_Twigs_RealBiomes_D",
+    "T_pal_b00_tree_Forest_Ground_Twigs_RealBiomes_D": "Pal/Content/Pal/Model/Stage/b00/RealBiomes/Texture/T_pal_b00_tree_Forest_Ground_Twigs_RealBiomes_D.T_pal_b00_tree_Forest_Ground_Twigs_RealBiomes_D",
+    "PM_Normals": "Pal/Content/Pal/Model/Stage/b00/RealBiomes/Texture/T_pal_b00_tree_Forest_Ground_Twigs_RealBiomes_N.T_pal_b00_tree_Forest_Ground_Twigs_RealBiomes_N",
+    "Normal Map": "Pal/Content/Pal/Model/Stage/b00/RealBiomes/Texture/T_pal_b00_tree_Forest_Ground_Twigs_RealBiomes_N.T_pal_b00_tree_Forest_Ground_Twigs_RealBiomes_N"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 4,
+    "Colors": {},
+    "Scalars": {
+      "Specular": 0.1,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_ClearCoat",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "SubsurfaceProfile": {
+        "ObjectName": "SubsurfaceProfile'SP_CharacterBodyBase'",
+        "ObjectPath": "Pal/Content/Pal/Material/Character/Common/SP_CharacterBodyBase.0"
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

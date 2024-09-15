@@ -1,0 +1,56 @@
+{
+  "Textures": {
+    "Base Texture": "Pal/Content/Pal/Model/Character/Monster/Carbunclo/T_Carbunclo_Body_B.T_Carbunclo_Body_B",
+    "T_Carbunclo_Body_B": "Pal/Content/Pal/Model/Character/Monster/Carbunclo/T_Carbunclo_Body_B.T_Carbunclo_Body_B",
+    "PM_SpecularMasks": "Pal/Content/Pal/Model/Character/Monster/Carbunclo/T_Carbunclo_Body_M.T_Carbunclo_Body_M",
+    "MetallicRoughnessOcclusionSpecularTexture": "Pal/Content/Pal/Model/Character/Monster/Carbunclo/T_Carbunclo_Body_M.T_Carbunclo_Body_M",
+    "PM_Normals": "Pal/Content/Pal/Model/Character/Monster/Carbunclo/T_Carbunclo_Body_N.T_Carbunclo_Body_N",
+    "Normal Map": "Pal/Content/Pal/Model/Character/Monster/Carbunclo/T_Carbunclo_Body_N.T_Carbunclo_Body_N",
+    "Subsurface Texture": "Pal/Content/Pal/Model/Character/Monster/Carbunclo/T_Carbunclo_Body_SSS.T_Carbunclo_Body_SSS",
+    "T_Carbunclo_Body_SSS": "Pal/Content/Pal/Model/Character/Monster/Carbunclo/T_Carbunclo_Body_SSS.T_Carbunclo_Body_SSS"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 2,
+    "Colors": {
+      "Subsurface Color": {
+        "R": 0.876778,
+        "G": 1.0,
+        "B": 0.473958,
+        "A": 1.0,
+        "Hex": "FFF1FFB7"
+      }
+    },
+    "Scalars": {
+      "Contrast": 1.1,
+      "Value": 1.8,
+      "Jewel Opacity": 0.0,
+      "Jewel Refract Color Power": 0.0,
+      "Jewel Refract Color Rate": 0.0,
+      "Jewel Refraction": 4.0,
+      "Roughness Add": 0.2,
+      "Normal Map Intensity": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "bOverride_ShadingModel": true,
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_Subsurface",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "SubsurfaceProfile": {
+        "ObjectName": "SubsurfaceProfile'SP_CharacterBodyBase'",
+        "ObjectPath": "Pal/Content/Pal/Material/Character/Common/SP_CharacterBodyBase.0"
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

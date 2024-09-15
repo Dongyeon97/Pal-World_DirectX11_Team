@@ -1,0 +1,28 @@
+{
+  "Textures": {
+    "T_DarkMetal_1K_D": "Pal/Content/Others/MineableRocks/PickAxeCharachter/PickAxe/Steel/T_DarkMetal_1K_D.T_DarkMetal_1K_D",
+    "T_DarkMetal_1K_M": "Pal/Content/Others/MineableRocks/PickAxeCharachter/PickAxe/Steel/T_DarkMetal_1K_M.T_DarkMetal_1K_M",
+    "T_DarkMetal_1K_N": "Pal/Content/Others/MineableRocks/PickAxeCharachter/PickAxe/Steel/T_DarkMetal_1K_N.T_DarkMetal_1K_N",
+    "T_DarkMetal_1K_R": "Pal/Content/Others/MineableRocks/PickAxeCharachter/PickAxe/Steel/T_DarkMetal_1K_R.T_DarkMetal_1K_R",
+    "PM_Normals": "Pal/Content/Others/MineableRocks/PickAxeCharachter/PickAxe/Steel/T_DarkMetal_1K_N.T_DarkMetal_1K_N",
+    "PM_Diffuse": "Pal/Content/Others/MineableRocks/PickAxeCharachter/PickAxe/Steel/T_DarkMetal_1K_D.T_DarkMetal_1K_D"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {},
+    "Switches": {},
+    "Properties": {
+      "bUsedWithSkeletalMesh": true,
+      "bCanMaskedBeAssumedOpaque": true,
+      "StateId": "AC5BCF61-48040488-5C631AAA-2E58D605"
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

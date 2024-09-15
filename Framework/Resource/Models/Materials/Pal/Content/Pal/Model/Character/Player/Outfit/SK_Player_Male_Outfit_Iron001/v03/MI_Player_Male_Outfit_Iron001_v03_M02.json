@@ -1,0 +1,56 @@
+{
+  "Textures": {
+    "Base Texture": "Pal/Content/Pal/Model/Character/Player/Outfit/SK_Player_Male_Outfit_Iron001/v03/T_Player_Male_Outfit_Iron001_v03_M02_B.T_Player_Male_Outfit_Iron001_v03_M02_B",
+    "T_Player_Male_Outfit_Iron001_v03_M02_B": "Pal/Content/Pal/Model/Character/Player/Outfit/SK_Player_Male_Outfit_Iron001/v03/T_Player_Male_Outfit_Iron001_v03_M02_B.T_Player_Male_Outfit_Iron001_v03_M02_B",
+    "PM_Emissive": "Pal/Content/Pal/Model/Character/Player/Outfit/SK_Player_Female_Outfit_Hunter001/v01/T_Player_Female_Outfit_Hunter001_v01_M02_EM.T_Player_Female_Outfit_Hunter001_v01_M02_EM",
+    "Emissive Texture": "Pal/Content/Pal/Model/Character/Player/Outfit/SK_Player_Female_Outfit_Hunter001/v01/T_Player_Female_Outfit_Hunter001_v01_M02_EM.T_Player_Female_Outfit_Hunter001_v01_M02_EM",
+    "PM_SpecularMasks": "Pal/Content/Pal/Model/Character/Player/Outfit/SK_Player_Male_Outfit_Iron001/v03/T_Player_Male_Outfit_Iron001_v03_M02_M.T_Player_Male_Outfit_Iron001_v03_M02_M",
+    "MetallicRoughnessOcclusionSpecularTexture": "Pal/Content/Pal/Model/Character/Player/Outfit/SK_Player_Male_Outfit_Iron001/v03/T_Player_Male_Outfit_Iron001_v03_M02_M.T_Player_Male_Outfit_Iron001_v03_M02_M",
+    "PM_Normals": "Pal/Content/Pal/Model/Character/Player/Outfit/SK_Player_Male_Outfit_Iron001/v03/T_Player_Male_Outfit_Iron001_v03_M02_N.T_Player_Male_Outfit_Iron001_v03_M02_N",
+    "Normal Map": "Pal/Content/Pal/Model/Character/Player/Outfit/SK_Player_Male_Outfit_Iron001/v03/T_Player_Male_Outfit_Iron001_v03_M02_N.T_Player_Male_Outfit_Iron001_v03_M02_N"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 4,
+    "Colors": {
+      "BaseColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      }
+    },
+    "Scalars": {
+      "Character CameraFade Distance": 30.0,
+      "Emissive Texture Intensity": 1.0,
+      "Jewel Opacity": 1.0,
+      "Jewel Refract Color Power": 0.0,
+      "Jewel Refract Color Rate": 0.056,
+      "Jewel Refraction": 3.448,
+      "Occlusion Add": 1.0,
+      "Roughness Add": 0.2,
+      "Light Affect Emissive Intensity": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_ClearCoat",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "SubsurfaceProfile": {
+        "ObjectName": "SubsurfaceProfile'SP_CharacterBodyBase'",
+        "ObjectPath": "Pal/Content/Pal/Material/Character/Common/SP_CharacterBodyBase.0"
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

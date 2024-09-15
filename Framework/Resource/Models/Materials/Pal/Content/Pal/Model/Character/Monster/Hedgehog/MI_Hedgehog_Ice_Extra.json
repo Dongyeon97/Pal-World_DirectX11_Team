@@ -1,0 +1,57 @@
+{
+  "Textures": {
+    "Base Texture": "Pal/Content/Pal/Model/Character/Monster/Hedgehog/T_Hedgehog_Ice_Extra_B.T_Hedgehog_Ice_Extra_B",
+    "T_Hedgehog_Ice_Extra_B": "Pal/Content/Pal/Model/Character/Monster/Hedgehog/T_Hedgehog_Ice_Extra_B.T_Hedgehog_Ice_Extra_B",
+    "PM_Normals": "Pal/Content/Others/CartoonCrystalShader/Textures/Crystal_MaskMaps/T_CrystalDetailNormal_05_N.T_CrystalDetailNormal_05_N",
+    "Normal Map": "Pal/Content/Others/CartoonCrystalShader/Textures/Crystal_MaskMaps/T_CrystalDetailNormal_05_N.T_CrystalDetailNormal_05_N"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "BaseColor": {
+        "R": 0.343419,
+        "G": 0.980102,
+        "B": 1.0,
+        "A": 2.0,
+        "Hex": "FF9EFDFF"
+      },
+      "Fresnel Emissive Color": {
+        "R": 0.055331,
+        "G": 0.338265,
+        "B": 0.90625,
+        "A": 0.0,
+        "Hex": "429DF5"
+      }
+    },
+    "Scalars": {
+      "Fresnel Exponent": 5.0,
+      "Fresnel Fraction": 0.08,
+      "Jewel Opacity": 1.0,
+      "Jewel Refract Color Power": 0.0,
+      "Jewel Refract Color Rate": 0.0,
+      "Jewel Refraction": 2.176,
+      "Normal Map Intensity": 6.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "bOverride_BlendMode": true,
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "SubsurfaceProfile": {
+        "ObjectName": "SubsurfaceProfile'SP_CharacterBodyBase'",
+        "ObjectPath": "Pal/Content/Pal/Material/Character/Common/SP_CharacterBodyBase.0"
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

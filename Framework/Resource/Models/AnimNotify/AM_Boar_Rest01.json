@@ -1,0 +1,65 @@
+[
+	{
+		"Duration" : 0.0,
+		"EndTime" : 0.41104972362518311,
+		"SoundID" : "",
+		"StartTime" : 0.41104972362518311,
+		"Type" : "Sound"
+	},
+	{
+		"Duration" : 0.0,
+		"EndTime" : 0.15495462715625763,
+		"SoundID" : "",
+		"StartTime" : 0.15495462715625763,
+		"Type" : "Sound"
+	},
+	{
+		"Duration" : 0.0,
+		"EndTime" : 0.30348977446556091,
+		"SoundID" : "",
+		"StartTime" : 0.30348977446556091,
+		"Type" : "Sound"
+	},
+	{
+		"Duration" : 0.0,
+		"EndTime" : 0.52714616060256958,
+		"SoundID" : "",
+		"StartTime" : 0.52714616060256958,
+		"Type" : "Sound"
+	},
+	{
+		"Duration" : 0.0,
+		"EndTime" : 0.61421853303909302,
+		"SoundID" : "",
+		"StartTime" : 0.61421853303909302,
+		"Type" : "Sound"
+	},
+	{
+		"Duration" : 0.0,
+		"EndTime" : 0.70812004804611206,
+		"SoundID" : "",
+		"StartTime" : 0.70812004804611206,
+		"Type" : "Sound"
+	},
+	{
+		"Duration" : 0.0,
+		"EndTime" : 0.81055808067321777,
+		"SoundID" : "",
+		"StartTime" : 0.81055808067321777,
+		"Type" : "Sound"
+	},
+	{
+		"Duration" : 0.0,
+		"EndTime" : 0.91811805963516235,
+		"SoundID" : "",
+		"StartTime" : 0.91811805963516235,
+		"Type" : "Sound"
+	},
+	{
+		"Duration" : 0.0,
+		"EndTime" : 1.0034830570220947,
+		"SoundID" : "",
+		"StartTime" : 1.0034830570220947,
+		"Type" : "Sound"
+	}
+]

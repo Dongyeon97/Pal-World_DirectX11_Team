@@ -1,0 +1,16 @@
+[
+	{
+		"Duration" : 0.0,
+		"EndTime" : 0.086433328688144684,
+		"SoundID" : "Player_Female_CapturePalsphere_Marina_EN_04_810255982",
+		"StartTime" : 0.086433328688144684,
+		"Type" : "Sound"
+	},
+	{
+		"Duration" : 0.0,
+		"EndTime" : 0.12449999898672104,
+		"SoundID" : "AKE_Player_ThrowSphere_312229732",
+		"StartTime" : 0.12449999898672104,
+		"Type" : "Sound"
+	}
+]

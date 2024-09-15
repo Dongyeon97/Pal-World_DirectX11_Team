@@ -1,0 +1,21 @@
+[
+	{
+		"AttachBoneName" : "finger_02_01_r",
+		"Duration" : 0.0,
+		"EffectName" : "Group_Hikaki_HandThunder",
+		"EndTime" : 0.85663330554962158,
+		"StartTime" : 0.85663330554962158,
+		"Type" : "Effect",
+		"UseFollowBone" : true,
+		"vRelativeLocationX" : 0.0,
+		"vRelativeLocationY" : 0.0,
+		"vRelativeLocationZ" : 0.0
+	},
+	{
+		"Duration" : 0.0,
+		"EndTime" : 0.2199999988079071,
+		"SoundID" : "VO_ElecPanda_01_Normal_2_936810202",
+		"StartTime" : 0.2199999988079071,
+		"Type" : "Sound"
+	}
+]

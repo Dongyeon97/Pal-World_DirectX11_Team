@@ -1,0 +1,50 @@
+[
+	{
+		"AttachBoneName" : "hand_r",
+		"Duration" : 0.0,
+		"EffectName" : "Group_PinkCat_Slash_R",
+		"EndTime" : 0.20006750524044037,
+		"StartTime" : 0.20006750524044037,
+		"Type" : "Effect",
+		"UseFollowBone" : false,
+		"vRelativeLocationX" : 0.0,
+		"vRelativeLocationY" : 0.0,
+		"vRelativeLocationZ" : 0.0
+	},
+	{
+		"AttachBoneName" : "hand_l",
+		"Duration" : 0.0,
+		"EffectName" : "Group_PinkCat_Slash_L",
+		"EndTime" : 0.34656667709350586,
+		"StartTime" : 0.34656667709350586,
+		"Type" : "Effect",
+		"UseFollowBone" : false,
+		"vRelativeLocationX" : 0.0,
+		"vRelativeLocationY" : 0.0,
+		"vRelativeLocationZ" : 0.0
+	},
+	{
+		"AttachBoneName" : "root",
+		"Duration" : 0.0,
+		"EffectName" : "Group_PinkCat_Slash_R",
+		"EndTime" : 0.083359591662883759,
+		"StartTime" : 0.083359591662883759,
+		"Type" : "Effect",
+		"UseFollowBone" : false,
+		"vRelativeLocationX" : 0.0,
+		"vRelativeLocationY" : -5510.0,
+		"vRelativeLocationZ" : -5153.0
+	},
+	{
+		"AttachBoneName" : "hand_l",
+		"Duration" : 0.0,
+		"EffectName" : "Group_PinkCat_Slash_L",
+		"EndTime" : 0.3297666609287262,
+		"StartTime" : 0.3297666609287262,
+		"Type" : "Effect",
+		"UseFollowBone" : false,
+		"vRelativeLocationX" : 0.0,
+		"vRelativeLocationY" : 0.0,
+		"vRelativeLocationZ" : 0.0
+	}
+]

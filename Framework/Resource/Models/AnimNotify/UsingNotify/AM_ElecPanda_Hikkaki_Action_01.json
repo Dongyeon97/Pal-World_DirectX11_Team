@@ -1,0 +1,30 @@
+[
+	{
+		"AttachBoneName" : "hand_r",
+		"Duration" : 0.23661303520202637,
+		"EndTime" : 1.0,
+		"OffsetDataArray" : 
+		[
+			{
+				"SphereRadius" : 100.0,
+				"vRelativeLocationX" : -75.0,
+				"vRelativeLocationY" : 0.0,
+				"vRelativeLocationZ" : 0.0
+			}
+		],
+		"StartTime" : 0.76338696479797363,
+		"Type" : "Collision"
+	},
+	{
+		"AttachBoneName" : "finger_02_01_r",
+		"Duration" : 0.0,
+		"EffectName" : "Group_ElecPanda_ThunderPillar_ShockWave_NonePillar",
+		"EndTime" : 0.93576663732528687,
+		"StartTime" : 0.93576663732528687,
+		"Type" : "Effect",
+		"UseFollowBone" : true,
+		"vRelativeLocationX" : 0.0,
+		"vRelativeLocationY" : 0.0,
+		"vRelativeLocationZ" : 0.0
+	}
+]

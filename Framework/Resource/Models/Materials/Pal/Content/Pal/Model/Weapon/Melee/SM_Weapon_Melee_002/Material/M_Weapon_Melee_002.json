@@ -1,0 +1,27 @@
+{
+  "Textures": {
+    "T_Bat_Wood_BC": "Pal/Content/Others/Bat/T_Bat_Wood_BC.T_Bat_Wood_BC",
+    "T_Bat_Wood_N": "Pal/Content/Others/Bat/T_Bat_Wood_N.T_Bat_Wood_N",
+    "T_Bat_Wood_ORM": "Pal/Content/Others/Bat/T_Bat_Wood_ORM.T_Bat_Wood_ORM",
+    "PM_Normals": "Pal/Content/Others/Bat/T_Bat_Wood_N.T_Bat_Wood_N",
+    "PM_SpecularMasks": "Pal/Content/Others/Bat/T_Bat_Wood_ORM.T_Bat_Wood_ORM"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {},
+    "Switches": {},
+    "Properties": {
+      "bUsedWithSkeletalMesh": true,
+      "bCanMaskedBeAssumedOpaque": true,
+      "StateId": "9F3CEF6B-47436B39-CC089499-7F6F077D"
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

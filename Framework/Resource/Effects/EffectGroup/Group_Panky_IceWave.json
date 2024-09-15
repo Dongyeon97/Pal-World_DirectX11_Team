@@ -1,0 +1,480 @@
+{
+  "Effect Group Name": "Group_IceWave",
+  "Duration": 2.5,
+  "Loop": false,
+  "Is Collider": false,
+  "Collider Type": 0,
+  "Collision Flag": 0,
+  "Collision Layer": 256,
+  "Sphere Collider Radius": 0.0,
+  "Box Collider Extents": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Box Collider LocalPosition": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Box Collider LocalRotate": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Sound Name": "",
+  "Sound Loop": false,
+  "Sound Value": 1.0,
+  "Effects": [
+    {
+      "Effect Name": "Effect Mesh - DissolveTest",
+      "RenderType": 9,
+      "EffectType": 1,
+      "Model File Path": "../../Resource/Models/Dat/NonAnim/EffectMeshs/icespikes.dat",
+      "Effect Shader Name": "FX_EffectMesh_PNT2T",
+      "Scale": [
+        0.1,
+        0.1,
+        0.1
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Translation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Diffuse Color1": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Diffuse Color2": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Diffuse Color3": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Diffuse Texture Name": "T_ky_ice02",
+      "Noise Texture Name": "T_Water04",
+      "Mask Texture Name": "",
+      "Distortion Texture Name": "",
+      "Dissolve Texture Name": "Eff_Noise_01",
+      "Is Sprite": false,
+      "Sprite Row": 1,
+      "Sprite Col": 1,
+      "Sprite Speed": 1.0,
+      "Is Anim": false,
+      "Is Loop": false,
+      "Is UVMove Loop": false,
+      "Is Glow": false,
+      "Is Bloom": false,
+      "Is AlphaAttenuation": false,
+      "Use Diffuse Texture": true,
+      "Use Noise Texture": true,
+      "Use Mask Texture": false,
+      "Use Distortion Texture": false,
+      "Use Dissolve Texture": true,
+      "Distortion Weight": 0.0,
+      "Dissolve Weight": 1.0,
+      "Glow Weight": 0.0,
+      "Bloom Weight": 0.0,
+      "AlphaAttenuation Weight": 0.0,
+      "Life Time": [
+        0.0,
+        2.0
+      ],
+      "UVMove Speed": [
+        0.0,
+        0.0
+      ],
+      "Num KeyFrames": 0,
+      "KeyFrames": []
+    },
+    {
+      "Effect Name": "Effect Mesh - DissolveTest1",
+      "RenderType": 9,
+      "EffectType": 1,
+      "Model File Path": "../../Resource/Models/Dat/NonAnim/EffectMeshs/icespikes.dat",
+      "Effect Shader Name": "FX_EffectMesh_PNT2T",
+      "Scale": [
+        0.12,
+        0.12,
+        0.21
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Translation": [
+        0.0,
+        0.0,
+        2.0
+      ],
+      "Diffuse Color1": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Diffuse Color2": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Diffuse Color3": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Diffuse Texture Name": "T_ky_ice02",
+      "Noise Texture Name": "T_Water04",
+      "Mask Texture Name": "",
+      "Distortion Texture Name": "",
+      "Dissolve Texture Name": "Eff_Noise_01",
+      "Is Sprite": false,
+      "Sprite Row": 1,
+      "Sprite Col": 1,
+      "Sprite Speed": 1.0,
+      "Is Anim": false,
+      "Is Loop": false,
+      "Is UVMove Loop": false,
+      "Is Glow": false,
+      "Is Bloom": false,
+      "Is AlphaAttenuation": false,
+      "Use Diffuse Texture": true,
+      "Use Noise Texture": true,
+      "Use Mask Texture": false,
+      "Use Distortion Texture": false,
+      "Use Dissolve Texture": true,
+      "Distortion Weight": 0.0,
+      "Dissolve Weight": 1.0,
+      "Glow Weight": 0.0,
+      "Bloom Weight": 0.0,
+      "AlphaAttenuation Weight": 0.0,
+      "Life Time": [
+        0.10000000149011612,
+        2.0999999046325684
+      ],
+      "UVMove Speed": [
+        0.0,
+        0.0
+      ],
+      "Num KeyFrames": 0,
+      "KeyFrames": []
+    },
+    {
+      "Effect Name": "Effect Mesh - DissolveTest3",
+      "RenderType": 9,
+      "EffectType": 1,
+      "Model File Path": "../../Resource/Models/Dat/NonAnim/EffectMeshs/icespikes.dat",
+      "Effect Shader Name": "FX_EffectMesh_PNT2T",
+      "Scale": [
+        0.14,
+        0.14,
+        0.14
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Translation": [
+        0.0,
+        0.0,
+        4.0
+      ],
+      "Diffuse Color1": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Diffuse Color2": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Diffuse Color3": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Diffuse Texture Name": "T_ky_ice02",
+      "Noise Texture Name": "T_Water04",
+      "Mask Texture Name": "",
+      "Distortion Texture Name": "",
+      "Dissolve Texture Name": "Eff_Noise_01",
+      "Is Sprite": false,
+      "Sprite Row": 1,
+      "Sprite Col": 1,
+      "Sprite Speed": 1.0,
+      "Is Anim": false,
+      "Is Loop": false,
+      "Is UVMove Loop": false,
+      "Is Glow": false,
+      "Is Bloom": false,
+      "Is AlphaAttenuation": false,
+      "Use Diffuse Texture": true,
+      "Use Noise Texture": true,
+      "Use Mask Texture": false,
+      "Use Distortion Texture": false,
+      "Use Dissolve Texture": true,
+      "Distortion Weight": 0.0,
+      "Dissolve Weight": 1.0,
+      "Glow Weight": 0.0,
+      "Bloom Weight": 0.0,
+      "AlphaAttenuation Weight": 0.0,
+      "Life Time": [
+        0.20000000298023224,
+        2.200000047683716
+      ],
+      "UVMove Speed": [
+        0.0,
+        0.0
+      ],
+      "Num KeyFrames": 0,
+      "KeyFrames": []
+    },
+    {
+      "Effect Name": "Effect Mesh - DissolveTest5",
+      "RenderType": 9,
+      "EffectType": 1,
+      "Model File Path": "../../Resource/Models/Dat/NonAnim/EffectMeshs/icespikes.dat",
+      "Effect Shader Name": "FX_EffectMesh_PNT2T",
+      "Scale": [
+        0.16,
+        0.16,
+        0.16
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Translation": [
+        0.0,
+        0.0,
+        6.0
+      ],
+      "Diffuse Color1": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Diffuse Color2": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Diffuse Color3": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Diffuse Texture Name": "T_ky_ice02",
+      "Noise Texture Name": "T_Water04",
+      "Mask Texture Name": "",
+      "Distortion Texture Name": "",
+      "Dissolve Texture Name": "Eff_Noise_01",
+      "Is Sprite": false,
+      "Sprite Row": 1,
+      "Sprite Col": 1,
+      "Sprite Speed": 1.0,
+      "Is Anim": false,
+      "Is Loop": false,
+      "Is UVMove Loop": false,
+      "Is Glow": false,
+      "Is Bloom": false,
+      "Is AlphaAttenuation": false,
+      "Use Diffuse Texture": true,
+      "Use Noise Texture": true,
+      "Use Mask Texture": false,
+      "Use Distortion Texture": false,
+      "Use Dissolve Texture": true,
+      "Distortion Weight": 0.0,
+      "Dissolve Weight": 1.0,
+      "Glow Weight": 0.0,
+      "Bloom Weight": 0.0,
+      "AlphaAttenuation Weight": 0.0,
+      "Life Time": [
+        0.30000001192092896,
+        2.299999952316284
+      ],
+      "UVMove Speed": [
+        0.0,
+        0.0
+      ],
+      "Num KeyFrames": 0,
+      "KeyFrames": []
+    },
+    {
+      "Effect Name": "Effect Mesh - DissolveTest6",
+      "RenderType": 9,
+      "EffectType": 1,
+      "Model File Path": "../../Resource/Models/Dat/NonAnim/EffectMeshs/icespikes.dat",
+      "Effect Shader Name": "FX_EffectMesh_PNT2T",
+      "Scale": [
+        0.18,
+        0.18,
+        0.18
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Translation": [
+        0.0,
+        0.0,
+        8.0
+      ],
+      "Diffuse Color1": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Diffuse Color2": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Diffuse Color3": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Diffuse Texture Name": "T_ky_ice02",
+      "Noise Texture Name": "T_Water04",
+      "Mask Texture Name": "",
+      "Distortion Texture Name": "",
+      "Dissolve Texture Name": "Eff_Noise_01",
+      "Is Sprite": false,
+      "Sprite Row": 1,
+      "Sprite Col": 1,
+      "Sprite Speed": 1.0,
+      "Is Anim": false,
+      "Is Loop": false,
+      "Is UVMove Loop": false,
+      "Is Glow": false,
+      "Is Bloom": false,
+      "Is AlphaAttenuation": false,
+      "Use Diffuse Texture": true,
+      "Use Noise Texture": true,
+      "Use Mask Texture": false,
+      "Use Distortion Texture": false,
+      "Use Dissolve Texture": true,
+      "Distortion Weight": 0.0,
+      "Dissolve Weight": 1.0,
+      "Glow Weight": 0.0,
+      "Bloom Weight": 0.0,
+      "AlphaAttenuation Weight": 0.0,
+      "Life Time": [
+        0.4000000059604645,
+        2.4000000953674316
+      ],
+      "UVMove Speed": [
+        0.0,
+        0.0
+      ],
+      "Num KeyFrames": 0,
+      "KeyFrames": []
+    },
+    {
+      "Effect Name": "Effect Mesh - DissolveTest7",
+      "RenderType": 9,
+      "EffectType": 1,
+      "Model File Path": "../../Resource/Models/Dat/NonAnim/EffectMeshs/icespikes.dat",
+      "Effect Shader Name": "FX_EffectMesh_PNT2T",
+      "Scale": [
+        0.2,
+        0.2,
+        0.2
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Translation": [
+        0.0,
+        0.0,
+        10.0
+      ],
+      "Diffuse Color1": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Diffuse Color2": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Diffuse Color3": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Diffuse Texture Name": "T_ky_ice02",
+      "Noise Texture Name": "T_Water04",
+      "Mask Texture Name": "",
+      "Distortion Texture Name": "",
+      "Dissolve Texture Name": "Eff_Noise_01",
+      "Is Sprite": false,
+      "Sprite Row": 1,
+      "Sprite Col": 1,
+      "Sprite Speed": 1.0,
+      "Is Anim": false,
+      "Is Loop": false,
+      "Is UVMove Loop": false,
+      "Is Glow": false,
+      "Is Bloom": false,
+      "Is AlphaAttenuation": false,
+      "Use Diffuse Texture": true,
+      "Use Noise Texture": true,
+      "Use Mask Texture": false,
+      "Use Distortion Texture": false,
+      "Use Dissolve Texture": true,
+      "Distortion Weight": 0.0,
+      "Dissolve Weight": 1.0,
+      "Glow Weight": 0.0,
+      "Bloom Weight": 0.0,
+      "AlphaAttenuation Weight": 0.0,
+      "Life Time": [
+        0.5,
+        2.5
+      ],
+      "UVMove Speed": [
+        0.0,
+        0.0
+      ],
+      "Num KeyFrames": 0,
+      "KeyFrames": []
+    }
+  ]
+}

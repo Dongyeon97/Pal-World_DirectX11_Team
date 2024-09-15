@@ -1,0 +1,39 @@
+[
+  {
+    "Type": "AkAssetPlatformData",
+    "Name": "AkAssetPlatformData_0",
+    "Outer": "AKE_Dungeon_01",
+    "Class": "UScriptClass'AkAssetPlatformData'"
+  },
+  {
+    "Type": "AkAudioEvent",
+    "Name": "AKE_Dungeon_01",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Properties": {
+      "RequiredBank": {
+        "ObjectName": "AkAudioBank'AKB_Ambience'",
+        "ObjectPath": "Pal/Content/Pal/Sound/SoundBank/AKB_Ambience.2"
+      },
+      "PlatformAssetData": {
+        "ObjectName": "AkAssetPlatformData'AKE_Dungeon_01:AkAssetPlatformData_0'",
+        "ObjectPath": "Pal/Content/Pal/Sound/Events/Ambience/Environment/AKE_Dungeon_01.0"
+      },
+      "ShortID": 334418973
+    }
+  },
+  {
+    "Type": "AkAudioEventData",
+    "Name": "AkAudioEventData_0",
+    "Outer": "AKE_Dungeon_01",
+    "Class": "UScriptClass'AkAudioEventData'",
+    "Properties": {
+      "IsInfinite": true,
+      "MediaList": [
+        {
+          "ObjectName": "AkMediaAsset'890540175'",
+          "ObjectPath": "Pal/Content/Pal/Sound/Media/890540175.0"
+        }
+      ]
+    }
+  }
+]

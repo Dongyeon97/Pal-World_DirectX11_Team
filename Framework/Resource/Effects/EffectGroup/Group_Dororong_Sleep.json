@@ -1,0 +1,193 @@
+{
+  "Effect Group Name": "Group_Dororong_Sleep",
+  "Duration": 5.0,
+  "Loop": false,
+  "Is Collider": false,
+  "Collider Type": 0,
+  "Collision Flag": 0,
+  "Collision Layer": 256,
+  "Sphere Collider Radius": 0.0,
+  "Box Collider Extents": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Box Collider LocalPosition": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Box Collider LocalRotate": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Sound Name": "",
+  "Sound Loop": false,
+  "Sound Value": 1.0,
+  "Effects": [
+    {
+      "Effect Name": "Particle - Particle_Dororong_Sleep",
+      "RenderType": 5,
+      "EffectType": 0,
+      "ParticleType": 1,
+      "Effect Shader Name": "FX_Instancing_PRULPC",
+      "Use Diffuse Texture": true,
+      "Diffuse Texture Name": "Eff_Sc_Matcap_03_Rain",
+      "Use Mask Texture": false,
+      "Mask Texture Name": "",
+      "Is Sprite": false,
+      "Sprite Row": 1,
+      "Sprite Col": 1,
+      "Sprite Speed": 1.0,
+      "Is Loop": true,
+      "Is Billboard": true,
+      "Is Directional": false,
+      "Is Gravity": true,
+      "Is Glow": false,
+      "Is Bloom": false,
+      "Is AlphaAttenuation": false,
+      "Gravity Value": -0.009999999776482582,
+      "Glow Weight": 0.0,
+      "Bloom Weight": 0.0,
+      "AlphaAttenuation Weight": 0.0,
+      "Random Life Time": true,
+      "Life Time": [
+        0.0,
+        5.0
+      ],
+      "Num Instance": 4,
+      "Size": [
+        0.1,
+        0.5
+      ],
+      "Color1": [
+        1.0,
+        1.0,
+        1.0,
+        0.6745098233222961
+      ],
+      "Color2": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Color3": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Speed": [
+        1.0,
+        2.0
+      ],
+      "Offset": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Pivot": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Range": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Rotation Per Second": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Radius": [
+        0.5,
+        0.5
+      ],
+      "Num KeyFrames": 2,
+      "KeyFrames": [
+        {
+          "Index": "KeyFrame0",
+          "Effect Shader Pass Index": 0,
+          "Time": 0.0,
+          "Render Culled": false,
+          "Size Ratio": 1.0,
+          "Size Easing Type": 1,
+          "Size Easing Expo": 2.0,
+          "Speed Ratio": 1.0,
+          "Speed Easing Type": 1,
+          "Speed Easing Expo": 2.0,
+          "Color1": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Color1 Weight": 0.33329999446868896,
+          "Color1 Easing Type": 1,
+          "Color1 Easing Expo": 2.0,
+          "Color2": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Color2 Weight": 0.33329999446868896,
+          "Color2 Easing Type": 1,
+          "Color2 Easing Expo": 2.0,
+          "Color3": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Color3 Weight": 0.33329999446868896,
+          "Color3 Easing Type": 1,
+          "Color3 Easing Expo": 2.0
+        },
+        {
+          "Index": "KeyFrame1",
+          "Effect Shader Pass Index": 0,
+          "Time": 5.0,
+          "Render Culled": false,
+          "Size Ratio": 1.0,
+          "Size Easing Type": 1,
+          "Size Easing Expo": 2.0,
+          "Speed Ratio": -1.0,
+          "Speed Easing Type": 1,
+          "Speed Easing Expo": 2.0,
+          "Color1": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Color1 Weight": 0.33329999446868896,
+          "Color1 Easing Type": 1,
+          "Color1 Easing Expo": 2.0,
+          "Color2": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Color2 Weight": 0.33329999446868896,
+          "Color2 Easing Type": 1,
+          "Color2 Easing Expo": 2.0,
+          "Color3": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Color3 Weight": 0.33329999446868896,
+          "Color3 Easing Type": 1,
+          "Color3 Easing Expo": 2.0
+        }
+      ]
+    }
+  ]
+}

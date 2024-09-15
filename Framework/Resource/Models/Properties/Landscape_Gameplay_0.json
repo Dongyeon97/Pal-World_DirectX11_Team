@@ -1,0 +1,183 @@
+{
+  "MI_PalLit_AutoLandscape0.mat": {
+    "texture_count": 35,
+    "shader_name": "M_PalLit_AutoLandscape.mat",
+    "textures": [
+      {
+        "name": "Grass0072_D",
+        "usage": "Color GrassA",
+        "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\LandscapeAutoMaterial\\Textures\\Tiles\\Grass01\\Grass0072_D.png"
+      },
+      {
+        "name": "Grass0072_N",
+        "usage": "Normal GrassA",
+        "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\LandscapeAutoMaterial\\Textures\\Tiles\\Grass01\\Grass0072_N.png"
+      },
+      {
+        "name": "GrassMap_009",
+        "usage": "GrassA Color Variation",
+        "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Material\\Nature\\NewLandscape\\Textures\\VariationTextureSamplle\\GrassMap_009.png"
+      },
+      {
+        "name": "Grass0072_B_D",
+        "usage": "Color GrassB",
+        "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\LandscapeAutoMaterial\\Textures\\Tiles\\Grass01\\Grass0072_B_D.png"
+      },
+      {
+        "name": "Grass0072_C_D",
+        "usage": "Color LongGrass",
+        "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\LandscapeAutoMaterial\\Textures\\Tiles\\Grass01\\Grass0072_C_D.png"
+      },
+      {
+        "name": "T_pal_b00_Lordenfel_Rocky_Ground_02_BC_2",
+        "usage": "Color DirtAndRock",
+        "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Lordenfel\\Textures\\T_pal_b00_Lordenfel_Rocky_Ground_02_BC_2.png"
+      },
+      {
+        "name": "T_pal_b00_Lordenfel_Rocky_Ground_02_N_2",
+        "usage": "Normal DirtAndRock",
+        "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Lordenfel\\Textures\\T_pal_b00_Lordenfel_Rocky_Ground_02_N_2.png"
+      },
+      {
+        "name": "T_Cave_Rock_tkhgcesg_2K_D_02",
+        "usage": "Color Cliff",
+        "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Cave_Rock_tkhgcesg\\T_Cave_Rock_tkhgcesg_2K_D_02.png"
+      },
+      {
+        "name": "vi1qbermw_4K_RSAO",
+        "usage": "Mask Cliff",
+        "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Texture\\Stage\\Landscape\\vi1qbermw_4K_RSAO.png"
+      },
+      {
+        "name": "T_Jagged_Rock_vlzkba1fw_2K_N",
+        "usage": "Normal Cliff",
+        "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Jagged_Rock_vlzkba1fw\\T_Jagged_Rock_vlzkba1fw_2K_N.png"
+      },
+      {
+        "name": "Sand_D",
+        "usage": "Color SandA",
+        "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\Field_Asset\\RedDesertPack\\textures\\Landscape\\Sand_D.png"
+      },
+      {
+        "name": "Sand_N",
+        "usage": "Normal SandA",
+        "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\Field_Asset\\RedDesertPack\\textures\\Landscape\\Sand_N.png"
+      },
+      {
+        "name": "Sand2_D",
+        "usage": "Color SandB",
+        "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\Field_Asset\\RedDesertPack\\textures\\Landscape\\Sand2_D.png"
+      },
+      {
+        "name": "Sand2_N",
+        "usage": "Normal SandB",
+        "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\Field_Asset\\RedDesertPack\\textures\\Landscape\\Sand2_N.png"
+      },
+      {
+        "name": "Sand4_D",
+        "usage": "Color SandC",
+        "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\Field_Asset\\RedDesertPack\\textures\\Landscape\\Sand4_D.png"
+      },
+      {
+        "name": "TexturesCom_Rock_CliffSnow2_1K_normal",
+        "usage": "Normal SandC",
+        "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\Field_Asset\\RedDesertPack\\textures\\Landscape\\TexturesCom_Rock_CliffSnow2_1K_normal.png"
+      },
+      {
+        "name": "T_Soil_Dirt_pkbhw0_2K_D",
+        "usage": "Color NaturalRoadPath",
+        "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Soil_Dirt_pkbhw0\\T_Soil_Dirt_pkbhw0_2K_D.png"
+      },
+      {
+        "name": "TexturesCom_Sand_Muddy4_3x3_1K_normal",
+        "usage": "Normal NaturalRoadPath",
+        "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\Field_Asset\\RedDesertPack\\textures\\Landscape\\TexturesCom_Sand_Muddy4_3x3_1K_normal.png"
+      },
+      {
+        "name": "T_Dry_Fallen_Leaves_veslfckbw_2K_D_yellow",
+        "usage": "Color DirtDry",
+        "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Dry_Fallen_Leaves_veslfckbw\\T_Dry_Fallen_Leaves_veslfckbw_2K_D_yellow.png"
+      },
+      {
+        "name": "T_Dry_Fallen_Leaves_veslfckbw_2K_N",
+        "usage": "Normal DirtDry",
+        "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Dry_Fallen_Leaves_veslfckbw\\T_Dry_Fallen_Leaves_veslfckbw_2K_N.png"
+      },
+      {
+        "name": "T_pal_b00_SoilHardened_D",
+        "usage": "Color DirtWet",
+        "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Texture\\Stage\\Landscape\\T_pal_b00_SoilHardened_D.png"
+      },
+      {
+        "name": "T_pal_b00_SoilHardened_N",
+        "usage": "Normal DirtWet",
+        "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Texture\\Stage\\Landscape\\T_pal_b00_SoilHardened_N.png"
+      },
+      {
+        "name": "T_pal_b00_Ground_Stone_D",
+        "usage": "Color RiverBed",
+        "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Texture\\Stage\\Landscape\\T_pal_b00_Ground_Stone_D.png"
+      },
+      {
+        "name": "T_pal_b00_Ground_Stone_RSAO",
+        "usage": "Mask RiverBed",
+        "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Texture\\Stage\\Landscape\\T_pal_b00_Ground_Stone_RSAO.png"
+      },
+      {
+        "name": "T_pal_b00_Ground_Stone_N",
+        "usage": "Normal RiverBed",
+        "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Texture\\Stage\\Landscape\\T_pal_b00_Ground_Stone_N.png"
+      },
+      {
+        "name": "T_pal_b00_SandBeach_D",
+        "usage": "Color CoastBeach",
+        "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Texture\\Stage\\Landscape\\T_pal_b00_SandBeach_D.png"
+      },
+      {
+        "name": "T_pal_b00_SandBeach_RSAO",
+        "usage": "Mask CoastBeach",
+        "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Texture\\Stage\\Landscape\\T_pal_b00_SandBeach_RSAO.png"
+      },
+      {
+        "name": "T_pal_b00_SandBeach_N",
+        "usage": "Normal CoastBeach",
+        "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Texture\\Stage\\Landscape\\T_pal_b00_SandBeach_N.png"
+      },
+      {
+        "name": "TexturesCom_LeavesDead0072_5_L",
+        "usage": "Color CoastRock",
+        "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\LandscapeAutoMaterial\\Textures\\Tiles\\Grass01\\TexturesCom_LeavesDead0072_5_L.png"
+      },
+      {
+        "name": "DefaultRSAO",
+        "usage": "Mask CoastRock",
+        "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Texture\\Stage\\Landscape\\DefaultRSAO.png"
+      },
+      {
+        "name": "normals",
+        "usage": "Normal CoastRock",
+        "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\LandscapeAutoMaterial\\Textures\\Tiles\\Grass01\\normals.png"
+      },
+      {
+        "name": "Grass0072_D",
+        "usage": "Color ForestMoss",
+        "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\LandscapeAutoMaterial\\Textures\\Tiles\\Grass01\\Grass0072_D.png"
+      },
+      {
+        "name": "Grass0072_N",
+        "usage": "Normal ForestMoss",
+        "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\LandscapeAutoMaterial\\Textures\\Tiles\\Grass01\\Grass0072_N.png"
+      },
+      {
+        "name": "T_Dry_Fallen_Leaves_veslfckbw_2K_D_Red",
+        "usage": "Color ForestDeadBranches",
+        "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Dry_Fallen_Leaves_veslfckbw\\T_Dry_Fallen_Leaves_veslfckbw_2K_D_Red.png"
+      },
+      {
+        "name": "T_Dry_Fallen_Leaves_veslfckbw_2K_N",
+        "usage": "Normal ForestDeadBranches",
+        "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Dry_Fallen_Leaves_veslfckbw\\T_Dry_Fallen_Leaves_veslfckbw_2K_N.png"
+      }
+    ]
+  }
+}

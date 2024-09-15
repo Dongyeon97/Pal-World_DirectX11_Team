@@ -1,0 +1,29 @@
+{
+  "Textures": {
+    "BlendFunc_DefBase": "Engine/Content/EngineMaterials/BlendFunc_DefBase.BlendFunc_DefBase",
+    "BlendFunc_DefBlend": "Engine/Content/EngineMaterials/BlendFunc_DefBlend.BlendFunc_DefBlend",
+    "T_rope_BaseColor": "Pal/Content/Others/Medieval_House/textures/building_textures/base_textures/rope/T_rope_BaseColor.T_rope_BaseColor",
+    "T_rope_Normal": "Pal/Content/Others/Medieval_House/textures/building_textures/base_textures/rope/T_rope_Normal.T_rope_Normal",
+    "PM_Normals": "Pal/Content/Others/Medieval_House/textures/building_textures/base_textures/rope/T_rope_Normal.T_rope_Normal",
+    "PM_Diffuse": "Pal/Content/Others/Medieval_House/textures/building_textures/base_textures/rope/T_rope_BaseColor.T_rope_BaseColor"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {},
+    "Switches": {},
+    "Properties": {
+      "bUsedWithSkeletalMesh": true,
+      "bUsedWithStaticLighting": true,
+      "bCanMaskedBeAssumedOpaque": true,
+      "StateId": "230D7E21-44CB3770-D081A2A3-4193E970"
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

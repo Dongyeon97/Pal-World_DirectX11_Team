@@ -1,0 +1,190 @@
+[
+  {
+    "Type": "AnimMontage",
+    "Name": "AM_Player_Female_Reload_GrenadeLauncher",
+    "Class": "UScriptClass'AnimMontage'",
+    "Properties": {
+      "BlendIn": {
+        "BlendTime": 0.1
+      },
+      "BlendOut": {
+        "BlendTime": 0.1,
+        "BlendOption": "EAlphaBlendOption::Cubic"
+      },
+      "CompositeSections": [
+        {
+          "SectionName": "Default",
+          "NextSectionName": "None",
+          "MetaData": [],
+          "LinkedMontage": {
+            "ObjectName": "AnimMontage'AM_Player_Female_Reload_GrenadeLauncher'",
+            "ObjectPath": "Pal/Content/Pal/Animation/Character/Player/Female/GrenadeLauncher/AM_Player_Female_Reload_GrenadeLauncher.0"
+          },
+          "SlotIndex": 0,
+          "SegmentIndex": 0,
+          "LinkMethod": "EAnimLinkMethod::Absolute",
+          "CachedLinkMethod": "EAnimLinkMethod::Absolute",
+          "SegmentBeginTime": 0.0,
+          "SegmentLength": 2.5,
+          "LinkValue": 0.0,
+          "LinkedSequence": {
+            "ObjectName": "AnimSequence'AS_Player_Female_Reload_GrenadeLauncher'",
+            "ObjectPath": "Pal/Content/Pal/Animation/Character/Player/Female/GrenadeLauncher/AS_Player_Female_Reload_GrenadeLauncher.0"
+          }
+        }
+      ],
+      "SlotAnimTracks": [
+        {
+          "SlotName": "UpperSlot",
+          "AnimTrack": {
+            "AnimSegments": [
+              {
+                "AnimReference": {
+                  "ObjectName": "AnimSequence'AS_Player_Female_Reload_GrenadeLauncher'",
+                  "ObjectPath": "Pal/Content/Pal/Animation/Character/Player/Female/GrenadeLauncher/AS_Player_Female_Reload_GrenadeLauncher.0"
+                },
+                "StartPos": 0.0,
+                "AnimStartTime": 0.0,
+                "AnimEndTime": 2.5,
+                "AnimPlayRate": 1.0,
+                "LoopingCount": 1
+              }
+            ]
+          }
+        }
+      ],
+      "BranchingPointMarkers": [
+        {
+          "NotifyIndex": 1,
+          "TriggerTime": 1.7259365,
+          "NotifyEventType": "EAnimNotifyEventType::Begin"
+        }
+      ],
+      "Notifies": [
+        {
+          "TriggerTimeOffset": -0.0001,
+          "EndTriggerTimeOffset": 0.0,
+          "TriggerWeightThreshold": 1E-05,
+          "NotifyName": "PalWeaponControl",
+          "Notify": null,
+          "NotifyStateClass": {
+            "ObjectName": "PalAnimNotifyState_WeaponControl'AM_Player_Female_Reload_GrenadeLauncher:PalAnimNotifyState_WeaponControl_0'",
+            "ObjectPath": "Pal/Content/Pal/Animation/Character/Player/Female/GrenadeLauncher/AM_Player_Female_Reload_GrenadeLauncher.2"
+          },
+          "Duration": 2.461059,
+          "EndLink": {
+            "LinkedMontage": {
+              "ObjectName": "AnimMontage'AM_Player_Female_Reload_GrenadeLauncher'",
+              "ObjectPath": "Pal/Content/Pal/Animation/Character/Player/Female/GrenadeLauncher/AM_Player_Female_Reload_GrenadeLauncher.0"
+            },
+            "SlotIndex": 0,
+            "SegmentIndex": 0,
+            "LinkMethod": "EAnimLinkMethod::Absolute",
+            "CachedLinkMethod": "EAnimLinkMethod::Absolute",
+            "SegmentBeginTime": 0.0,
+            "SegmentLength": 2.5,
+            "LinkValue": 2.461059,
+            "LinkedSequence": {
+              "ObjectName": "AnimSequence'AS_Player_Female_Reload_GrenadeLauncher'",
+              "ObjectPath": "Pal/Content/Pal/Animation/Character/Player/Female/GrenadeLauncher/AS_Player_Female_Reload_GrenadeLauncher.0"
+            }
+          },
+          "bConvertedFromBranchingPoint": false,
+          "MontageTickType": "EMontageNotifyTickType::Queued",
+          "NotifyTriggerChance": 1.0,
+          "NotifyFilterType": "ENotifyFilterType::NoFiltering",
+          "NotifyFilterLOD": 0,
+          "bTriggerOnDedicatedServer": true,
+          "bTriggerOnFollower": false,
+          "TrackIndex": 1,
+          "LinkedMontage": {
+            "ObjectName": "AnimMontage'AM_Player_Female_Reload_GrenadeLauncher'",
+            "ObjectPath": "Pal/Content/Pal/Animation/Character/Player/Female/GrenadeLauncher/AM_Player_Female_Reload_GrenadeLauncher.0"
+          },
+          "SlotIndex": 0,
+          "SegmentIndex": 0,
+          "LinkMethod": "EAnimLinkMethod::Absolute",
+          "CachedLinkMethod": "EAnimLinkMethod::Absolute",
+          "SegmentBeginTime": 0.0,
+          "SegmentLength": 2.5,
+          "LinkValue": 0.0,
+          "LinkedSequence": {
+            "ObjectName": "AnimSequence'AS_Player_Female_Reload_GrenadeLauncher'",
+            "ObjectPath": "Pal/Content/Pal/Animation/Character/Player/Female/GrenadeLauncher/AS_Player_Female_Reload_GrenadeLauncher.0"
+          }
+        },
+        {
+          "TriggerTimeOffset": 0.0,
+          "EndTriggerTimeOffset": 0.0,
+          "TriggerWeightThreshold": 1E-05,
+          "NotifyName": "PlayMontageNotify",
+          "Notify": {
+            "ObjectName": "AnimNotify_PlayMontageNotify'AM_Player_Female_Reload_GrenadeLauncher:AnimNotify_PlayMontageNotify_0'",
+            "ObjectPath": "Pal/Content/Pal/Animation/Character/Player/Female/GrenadeLauncher/AM_Player_Female_Reload_GrenadeLauncher.1"
+          },
+          "NotifyStateClass": null,
+          "Duration": 0.0,
+          "EndLink": {
+            "LinkedMontage": null,
+            "SlotIndex": 0,
+            "SegmentIndex": -1,
+            "LinkMethod": "EAnimLinkMethod::Absolute",
+            "CachedLinkMethod": "EAnimLinkMethod::Absolute",
+            "SegmentBeginTime": 0.0,
+            "SegmentLength": 0.0,
+            "LinkValue": 1.1871257,
+            "LinkedSequence": null
+          },
+          "bConvertedFromBranchingPoint": false,
+          "MontageTickType": "EMontageNotifyTickType::Queued",
+          "NotifyTriggerChance": 1.0,
+          "NotifyFilterType": "ENotifyFilterType::NoFiltering",
+          "NotifyFilterLOD": 0,
+          "bTriggerOnDedicatedServer": true,
+          "bTriggerOnFollower": false,
+          "TrackIndex": 0,
+          "LinkedMontage": {
+            "ObjectName": "AnimMontage'AM_Player_Female_Reload_GrenadeLauncher'",
+            "ObjectPath": "Pal/Content/Pal/Animation/Character/Player/Female/GrenadeLauncher/AM_Player_Female_Reload_GrenadeLauncher.0"
+          },
+          "SlotIndex": 0,
+          "SegmentIndex": 0,
+          "LinkMethod": "EAnimLinkMethod::Absolute",
+          "CachedLinkMethod": "EAnimLinkMethod::Absolute",
+          "SegmentBeginTime": 0.0,
+          "SegmentLength": 2.5,
+          "LinkValue": 1.7259365,
+          "LinkedSequence": {
+            "ObjectName": "AnimSequence'AS_Player_Female_Reload_GrenadeLauncher'",
+            "ObjectPath": "Pal/Content/Pal/Animation/Character/Player/Female/GrenadeLauncher/AS_Player_Female_Reload_GrenadeLauncher.0"
+          }
+        }
+      ],
+      "SequenceLength": 2.5,
+      "Skeleton": {
+        "ObjectName": "Skeleton'SK_PalHuman_Skeleton'",
+        "ObjectPath": "Pal/Content/Pal/Model/Character/Skeleton/Human/SK_PalHuman_Skeleton.22"
+      }
+    },
+    "SkeletonGuid": "7EFC891B-47F3A977-D4AA04AD-A96AC3AE"
+  },
+  {
+    "Type": "AnimNotify_PlayMontageNotify",
+    "Name": "AnimNotify_PlayMontageNotify_0",
+    "Outer": "AM_Player_Female_Reload_GrenadeLauncher",
+    "Class": "UScriptClass'AnimNotify_PlayMontageNotify'",
+    "Properties": {
+      "NotifyName": "ReloadBullet"
+    }
+  },
+  {
+    "Type": "PalAnimNotifyState_WeaponControl",
+    "Name": "PalAnimNotifyState_WeaponControl_0",
+    "Outer": "AM_Player_Female_Reload_GrenadeLauncher",
+    "Class": "UScriptClass'PalAnimNotifyState_WeaponControl'",
+    "Properties": {
+      "bIsDisableShoot": true,
+      "bIsDisableAttachLeftHand": true
+    }
+  }
+]

@@ -1,0 +1,43 @@
+{
+  "Textures": {
+    "Base Texture": "Pal/Content/Pal/Model/Other/PalBox/old/T_PalBox_Pillar_BaseColor.T_PalBox_Pillar_BaseColor",
+    "PM_Diffuse": "Pal/Content/Pal/Model/Other/PalBox/old/T_PalBox_Pillar_BaseColor.T_PalBox_Pillar_BaseColor",
+    "T_PalBox_Pillar_BaseColor": "Pal/Content/Pal/Model/Other/PalBox/old/T_PalBox_Pillar_BaseColor.T_PalBox_Pillar_BaseColor",
+    "PM_Emissive": "Pal/Content/Pal/Model/Other/PalBox/old/T_PalBox_Pillar_Emissive.T_PalBox_Pillar_Emissive",
+    "Emissive Texture": "Pal/Content/Pal/Model/Other/PalBox/old/T_PalBox_Pillar_Emissive.T_PalBox_Pillar_Emissive",
+    "OcclusionRoughnessMetallicTexture": "Pal/Content/Pal/Model/Other/PalBox/old/T_PalBox_Pillar_MRSMap.T_PalBox_Pillar_MRSMap",
+    "PM_SpecularMasks": "Pal/Content/Pal/Model/Other/PalBox/old/T_PalBox_Pillar_MRSMap.T_PalBox_Pillar_MRSMap",
+    "T_PalBox_Pillar_MRSMap": "Pal/Content/Pal/Model/Other/PalBox/old/T_PalBox_Pillar_MRSMap.T_PalBox_Pillar_MRSMap",
+    "PM_Normals": "Pal/Content/Pal/Model/Other/PalBox/old/T_PalBox_Pillar_Normal.T_PalBox_Pillar_Normal",
+    "Normal Map": "Pal/Content/Pal/Model/Other/PalBox/old/T_PalBox_Pillar_Normal.T_PalBox_Pillar_Normal"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "Emissive Intensity": 9.841024,
+      "Metallic": 1.0,
+      "Roughness": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "bOverride_ShadingModel": true,
+        "OpacityMaskClipValue": 0.3333
+      },
+      "SubsurfaceProfile": {
+        "ObjectName": "SubsurfaceProfile'SP_CharacterBodyBase'",
+        "ObjectPath": "Pal/Content/Pal/Material/Character/Common/SP_CharacterBodyBase.0"
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

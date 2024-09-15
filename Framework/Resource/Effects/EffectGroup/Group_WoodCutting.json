@@ -1,0 +1,232 @@
+{
+  "Effect Group Name": "Group_WoodCutting",
+  "Duration": 1.0,
+  "Loop": false,
+  "Is Collider": false,
+  "Collider Type": 0,
+  "Collision Flag": 0,
+  "Collision Layer": 256,
+  "Sphere Collider Radius": 0.0,
+  "Box Collider Extents": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Box Collider LocalPosition": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Box Collider LocalRotate": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Sound Name": "",
+  "Sound Loop": false,
+  "Sound Value": 1.0,
+  "Effects": [
+    {
+      "Effect Name": "Instance Mesh - InstanceMesh_Branch",
+      "RenderType": 5,
+      "EffectType": 2,
+      "Model File Path": "../../Resource/Models/Dat/NonAnim/EffectMeshs/Branch.dat",
+      "Effect Shader Name": "FX_MeshInstancing_PNT2TRULPP",
+      "Scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Translation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Diffuse Color1": [
+        0.21078431606292725,
+        0.12617884576320648,
+        0.03099769726395607,
+        1.0
+      ],
+      "Diffuse Color2": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Diffuse Color3": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Diffuse Texture Name": "T_pal_b03_tree_africanVegetationPlam_02_D",
+      "Noise Texture Name": "",
+      "Mask Texture Name": "T_ky_crack06",
+      "Distortion Texture Name": "",
+      "Dissolve Texture Name": "",
+      "Is Sprite": false,
+      "Sprite Row": 1,
+      "Sprite Col": 1,
+      "Sprite Speed": 1.0,
+      "Is Anim": false,
+      "Is Loop": false,
+      "Is UVMove Loop": false,
+      "Is Glow": false,
+      "Is Bloom": false,
+      "Is AlphaAttenuation": false,
+      "Use Diffuse Texture": true,
+      "Use Noise Texture": false,
+      "Use Mask Texture": false,
+      "Use Distortion Texture": false,
+      "Use Dissolve Texture": false,
+      "Distortion Weight": 0.0,
+      "Dissolve Weight": 0.0,
+      "Glow Weight": 0.0,
+      "Bloom Weight": 0.0,
+      "AlphaAttenuation Weight": 0.0,
+      "Life Time": [
+        0.0,
+        1.0
+      ],
+      "UVMove Speed": [
+        0.0,
+        0.0
+      ],
+      "Instance Mesh Particle Type": 1,
+      "Num Mesh Instance": 30,
+      "Is Gravity": true,
+      "Gravity Value": 2.0,
+      "Size": [
+        0.005,
+        0.025
+      ],
+      "Speed": [
+        5.0,
+        7.5
+      ],
+      "Range": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Radius": [
+        1.0,
+        2.0
+      ],
+      "Rotation Per Seconds": [
+        210.0,
+        210.0,
+        210.0
+      ],
+      "Num KeyFrames": 0,
+      "KeyFrames": []
+    },
+    {
+      "Effect Name": "Instance Mesh - InstanceMesh_Leaf",
+      "RenderType": 9,
+      "EffectType": 2,
+      "Model File Path": "../../Resource/Models/Dat/NonAnim/EffectMeshs/Leaf01.dat",
+      "Effect Shader Name": "FX_MeshInstancing_PNT2TRULPP",
+      "Scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Translation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Diffuse Color1": [
+        0.05978187546133995,
+        0.2598039507865906,
+        0.03311227262020111,
+        1.0
+      ],
+      "Diffuse Color2": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Diffuse Color3": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Diffuse Texture Name": "iceImage",
+      "Noise Texture Name": "",
+      "Mask Texture Name": "T_ky_crack06",
+      "Distortion Texture Name": "",
+      "Dissolve Texture Name": "",
+      "Is Sprite": false,
+      "Sprite Row": 1,
+      "Sprite Col": 1,
+      "Sprite Speed": 1.0,
+      "Is Anim": false,
+      "Is Loop": false,
+      "Is UVMove Loop": false,
+      "Is Glow": false,
+      "Is Bloom": false,
+      "Is AlphaAttenuation": false,
+      "Use Diffuse Texture": false,
+      "Use Noise Texture": false,
+      "Use Mask Texture": true,
+      "Use Distortion Texture": false,
+      "Use Dissolve Texture": false,
+      "Distortion Weight": 0.0,
+      "Dissolve Weight": 0.0,
+      "Glow Weight": 0.0,
+      "Bloom Weight": 0.0,
+      "AlphaAttenuation Weight": 0.0,
+      "Life Time": [
+        0.0,
+        1.0
+      ],
+      "UVMove Speed": [
+        0.0,
+        0.0
+      ],
+      "Instance Mesh Particle Type": 1,
+      "Num Mesh Instance": 50,
+      "Is Gravity": true,
+      "Gravity Value": 2.0,
+      "Size": [
+        10.0,
+        20.0
+      ],
+      "Speed": [
+        2.5,
+        7.5
+      ],
+      "Range": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Radius": [
+        1.0,
+        1.0
+      ],
+      "Rotation Per Seconds": [
+        180.0,
+        60.0,
+        180.0
+      ],
+      "Num KeyFrames": 0,
+      "KeyFrames": []
+    }
+  ]
+}

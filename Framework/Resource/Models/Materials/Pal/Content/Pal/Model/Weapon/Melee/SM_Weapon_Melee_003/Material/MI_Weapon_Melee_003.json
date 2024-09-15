@@ -1,0 +1,35 @@
+{
+  "Textures": {
+    "PM_SpecularMasks": "Pal/Content/Others/Legendary_Forge/Textures/T_swords/T_swords_AORM.T_swords_AORM",
+    "AORM": "Pal/Content/Others/Legendary_Forge/Textures/T_swords/T_swords_AORM.T_swords_AORM",
+    "Color": "Pal/Content/Others/Legendary_Forge/Textures/T_swords/T_swords_D.T_swords_D",
+    "PM_Diffuse": "Pal/Content/Others/Legendary_Forge/Textures/T_swords/T_swords_D.T_swords_D",
+    "T_swords_D": "Pal/Content/Others/Legendary_Forge/Textures/T_swords/T_swords_D.T_swords_D",
+    "PM_Normals": "Pal/Content/Others/Legendary_Forge/Textures/T_swords/T_swords_N.T_swords_N",
+    "Normal": "Pal/Content/Others/Legendary_Forge/Textures/T_swords/T_swords_N.T_swords_N"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "Emisssive_intensity": 0.0,
+      "Metallic": 0.0,
+      "Roughness": 0.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "OpacityMaskClipValue": 0.3333
+      }
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

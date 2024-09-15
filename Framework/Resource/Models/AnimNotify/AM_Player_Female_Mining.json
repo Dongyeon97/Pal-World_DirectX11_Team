@@ -1,0 +1,21 @@
+[
+	{
+		"AttachBoneName" : "root",
+		"Duration" : 0.0,
+		"EffectName" : "Group_Mine",
+		"EndTime" : 0.80523329973220825,
+		"StartTime" : 0.80523329973220825,
+		"Type" : "Effect",
+		"UseFollowBone" : false,
+		"vRelativeLocationX" : 9.9999990463256836,
+		"vRelativeLocationY" : -131.0,
+		"vRelativeLocationZ" : -45.999996185302734
+	},
+	{
+		"Duration" : 0.0,
+		"EndTime" : 0.81386667490005493,
+		"SoundID" : "Mining_01_Attack_B_368403224",
+		"StartTime" : 0.81386667490005493,
+		"Type" : "Sound"
+	}
+]

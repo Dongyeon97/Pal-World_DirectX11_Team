@@ -1,0 +1,62 @@
+[
+	{
+		"AttachBoneName" : "hand_r",
+		"Duration" : 0.12203136086463928,
+		"EndTime" : 0.5513153076171875,
+		"OffsetDataArray" : 
+		[
+			{
+				"SphereRadius" : 75.0,
+				"vRelativeLocationX" : -25.0,
+				"vRelativeLocationY" : 0.0,
+				"vRelativeLocationZ" : -25.0
+			}
+		],
+		"StartTime" : 0.42928394675254822,
+		"Type" : "Collision"
+	},
+	{
+		"Duration" : 0.0,
+		"EndTime" : 0.43053334951400757,
+		"FunctionName" : "DeclineStamina",
+		"StartTime" : 0.43053334951400757,
+		"Type" : "Function"
+	},
+	{
+		"AttachBoneName" : "hand_l",
+		"Duration" : 0.13260829448699951,
+		"EndTime" : 1.2552127838134766,
+		"OffsetDataArray" : 
+		[
+			{
+				"SphereRadius" : 79.999992370605469,
+				"vRelativeLocationX" : -25.0,
+				"vRelativeLocationY" : 0.0,
+				"vRelativeLocationZ" : 25.0
+			}
+		],
+		"StartTime" : 1.1226044893264771,
+		"Type" : "Collision"
+	},
+	{
+		"Duration" : 0.0,
+		"EndTime" : 1.1167333126068115,
+		"FunctionName" : "DeclineStamina",
+		"StartTime" : 1.1167333126068115,
+		"Type" : "Function"
+	},
+	{
+		"Duration" : 0.0,
+		"EndTime" : 0.44006666541099548,
+		"SoundID" : "Punch_01_Clothes_A_510075709",
+		"StartTime" : 0.44006666541099548,
+		"Type" : "Sound"
+	},
+	{
+		"Duration" : 0.0,
+		"EndTime" : 1.0812333822250366,
+		"SoundID" : "Punch_01_Clothes_A_510075709",
+		"StartTime" : 1.0812333822250366,
+		"Type" : "Sound"
+	}
+]

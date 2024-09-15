@@ -1,0 +1,35 @@
+{
+  "Textures": {
+    "Difuse texture": "Pal/Content/Others/-Animations/MEDIEVAL_CAMP/TEXTURES/WEAPON/SPEAR/T_Spear_D.T_Spear_D",
+    "PM_Diffuse": "Pal/Content/Others/-Animations/MEDIEVAL_CAMP/TEXTURES/WEAPON/SPEAR/T_Spear_D.T_Spear_D",
+    "T_Spear_D": "Pal/Content/Others/-Animations/MEDIEVAL_CAMP/TEXTURES/WEAPON/SPEAR/T_Spear_D.T_Spear_D",
+    "PM_SpecularMasks": "Pal/Content/Others/-Animations/MEDIEVAL_CAMP/TEXTURES/WEAPON/SPEAR/T_Spear_ORM.T_Spear_ORM",
+    "ORM map (AO Rough Metalic)": "Pal/Content/Others/-Animations/MEDIEVAL_CAMP/TEXTURES/WEAPON/SPEAR/T_Spear_ORM.T_Spear_ORM",
+    "PM_Normals": "Pal/Content/Others/-Animations/MEDIEVAL_CAMP/TEXTURES/WEAPON/SPEAR/T_Spear_N.T_Spear_N",
+    "Base Normal": "Pal/Content/Others/-Animations/MEDIEVAL_CAMP/TEXTURES/WEAPON/SPEAR/T_Spear_N.T_Spear_N"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "Brightness": 0.5,
+      "Metallic Intensity": 1.0,
+      "Base Normal Intesity": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

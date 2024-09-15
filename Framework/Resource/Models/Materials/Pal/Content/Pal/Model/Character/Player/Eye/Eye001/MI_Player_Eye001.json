@@ -1,0 +1,47 @@
+{
+  "Textures": {
+    "PM_Diffuse": "Pal/Content/Pal/Model/Character/Player/Eye/Eye001/T_Player_Eye001_CM.T_Player_Eye001_CM",
+    "BaseColor Mask": "Pal/Content/Pal/Model/Character/Player/Eye/Eye001/T_Player_Eye001_CM.T_Player_Eye001_CM",
+    "Eye Cornea Texture": "Pal/Content/Pal/Model/Character/Player/Eye/Eye001/T_Player_Eye001_Cornea.T_Player_Eye001_Cornea",
+    "T_Player_Eye001_Cornea": "Pal/Content/Pal/Model/Character/Player/Eye/Eye001/T_Player_Eye001_Cornea.T_Player_Eye001_Cornea",
+    "Eye Highlight Texture": "Pal/Content/Pal/Model/Character/Player/Eye/Eye001/T_Player_Eye001_Highlight.T_Player_Eye001_Highlight",
+    "T_Player_Eye001_Highlight": "Pal/Content/Pal/Model/Character/Player/Eye/Eye001/T_Player_Eye001_Highlight.T_Player_Eye001_Highlight",
+    "Eye Pupil Texture": "Pal/Content/Pal/Model/Character/Player/Eye/Eye001/T_Player_Eye001_Pupil.T_Player_Eye001_Pupil",
+    "T_Player_Eye001_Pupil": "Pal/Content/Pal/Model/Character/Player/Eye/Eye001/T_Player_Eye001_Pupil.T_Player_Eye001_Pupil",
+    "Eye White Texture": "Pal/Content/Pal/Model/Character/Player/Eye/Eye001/T_Player_Eye001_White.T_Player_Eye001_White",
+    "T_Player_Eye001_White": "Pal/Content/Pal/Model/Character/Player/Eye/Eye001/T_Player_Eye001_White.T_Player_Eye001_White"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 9,
+    "Colors": {},
+    "Scalars": {
+      "Character CameraFade Distance": 30.0,
+      "Jewel Opacity": 0.0,
+      "Jewel Refract Color Power": 4.416,
+      "Jewel Refract Color Rate": 0.0,
+      "Jewel Refraction": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "bOverride_ShadingModel": true,
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_Eye",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "SubsurfaceProfile": {
+        "ObjectName": "SubsurfaceProfile'SP_CharacterBodyBase'",
+        "ObjectPath": "Pal/Content/Pal/Material/Character/Common/SP_CharacterBodyBase.0"
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

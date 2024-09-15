@@ -1,0 +1,70 @@
+{
+    "Is Empty?": false,
+    "Tree Count": 1,
+    "Rock Count": 0,
+    "Branch Count": 0,
+    "Stone Count": 0,
+    "Pal Count": 0,
+    "Architecture Count": 0,
+    "SpotLight Count": 0,
+    "PointLight Count": 0,
+    "DirectionalLight Count": 0,
+    "Camera Count": 0,
+    "Trees Information": {
+        "Habitat Type": 0,
+        "Nature Type": 0,
+        "Is Trigger": false,
+        "Collider Type": 2,
+        "CurHp": 100.0,
+        "Total Number of Trees": 1,
+        "Individual Information": {
+            "Tree0": [
+                {
+                    "Scale": [
+                        1.0,
+                        1.4391494989395142,
+                        1.0
+                    ]
+                },
+                {
+                    "Rotation": [
+                        0.0,
+                        98.199951171875,
+                        0.0
+                    ]
+                },
+                {
+                    "Translation": [
+                        -3844.833740234375,
+                        -16.396291732788086,
+                        -2308.80029296875
+                    ]
+                },
+                {
+                    "Center": [
+                        0.0,
+                        2.0,
+                        0.0
+                    ]
+                },
+                {
+                    "Extents": [
+                        0.3499999940395355,
+                        3.0,
+                        0.3499999940395355
+                    ]
+                },
+                {
+                    "Included Octree Node Index": [
+                        0,
+                        1,
+                        2
+                    ]
+                },
+                {
+                    "Model File Path": "../../Resource/Models/Dat/MapMesh/Placeable/Tree/tree11.dat"
+                }
+            ]
+        }
+    }
+}

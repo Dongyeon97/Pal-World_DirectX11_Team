@@ -1,0 +1,65 @@
+{
+  "Textures": {
+    "Base Texture": "Pal/Content/Pal/Model/Other/Tower/Texture/T_tower_partsH_B.T_tower_partsH_B",
+    "T_tower_partsH_B": "Pal/Content/Pal/Model/Other/Tower/Texture/T_tower_partsH_B.T_tower_partsH_B",
+    "PM_Diffuse": "Pal/Content/Pal/Model/Prop/Common/T_detailmap02_B.T_detailmap02_B",
+    "Detail Diffuse": "Pal/Content/Pal/Model/Prop/Common/T_detailmap02_B.T_detailmap02_B",
+    "PM_Normals": "Pal/Content/Pal/Model/Other/Tower/Texture/T_tower_partsH_N.T_tower_partsH_N",
+    "Detail Normal": "Pal/Content/Pal/Model/Prop/Common/T_detailmap02_N.T_detailmap02_N",
+    "PM_Emissive": "Pal/Content/Pal/Model/Other/Tower/Texture/T_tower_partsH_E.T_tower_partsH_E",
+    "Emissive Texture": "Pal/Content/Pal/Model/Other/Tower/Texture/T_tower_partsH_E.T_tower_partsH_E",
+    "PM_SpecularMasks": "Pal/Content/Pal/Model/Other/Tower/Texture/T_tower_partsH_M.T_tower_partsH_M",
+    "MetallicRoughnessOcclusionSpecularTexture": "Pal/Content/Pal/Model/Other/Tower/Texture/T_tower_partsH_M.T_tower_partsH_M",
+    "Normal Map": "Pal/Content/Pal/Model/Other/Tower/Texture/T_tower_partsH_N.T_tower_partsH_N"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 2,
+    "Colors": {
+      "DetailNormal UV Scale": {
+        "R": 5.0,
+        "G": 5.0,
+        "B": 0.0,
+        "A": 0.0,
+        "Hex": "FFFF00"
+      },
+      "Hue": {
+        "R": 0.767351,
+        "G": 0.770833,
+        "B": 0.662435,
+        "A": 1.0,
+        "Hex": "FFE3E4D5"
+      }
+    },
+    "Scalars": {
+      "Diffuse Blend": 0.5,
+      "Normal Blend": 0.5,
+      "Emissive Texture Intensity": 0.1,
+      "Saturation": 0.224,
+      "Value": 1.2,
+      "Occlusion Mul": 0.5,
+      "Top Noise Strength": 0.0,
+      "Top Rate": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "DitheredLODTransition": true,
+        "ShadingModel": "EMaterialShadingModel::MSM_Subsurface",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "SubsurfaceProfile": {
+        "ObjectName": "SubsurfaceProfile'SP_CharacterBodyBase'",
+        "ObjectPath": "Pal/Content/Pal/Material/Character/Common/SP_CharacterBodyBase.0"
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

@@ -1,0 +1,74 @@
+{
+    "RenderType": 9,
+    "EffectType": 1,
+    "Model File Path": "../../Resource/Models/Dat/NonAnim/EffectMeshs/Thunder02.dat",
+    "Effect Shader Name": "FX_EffectMesh_PNT2T",
+    "Scale": [
+        1.5,
+        1.5,
+        1.5
+    ],
+    "Rotation": [
+        0.0,
+        90.0,
+        0.0
+    ],
+    "Translation": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "Diffuse Color1": [
+        1.0,
+        1.0,
+        0.5882353186607361,
+        1.0
+    ],
+    "Diffuse Color2": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+    ],
+    "Diffuse Color3": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+    ],
+    "Diffuse Texture Name": "",
+    "Noise Texture Name": "Eff_Noise_25",
+    "Mask Texture Name": "T_Lightning07",
+    "Distortion Texture Name": "",
+    "Dissolve Texture Name": "Eff_Noise_01",
+    "Is Sprite": false,
+    "Sprite Row": 1,
+    "Sprite Col": 1,
+    "Sprite Speed": 1.0,
+    "Is Anim": false,
+    "Is Loop": false,
+    "Is UVMove Loop": false,
+    "Is Glow": false,
+    "Is Bloom": false,
+    "Is AlphaAttenuation": false,
+    "Use Diffuse Texture": false,
+    "Use Noise Texture": true,
+    "Use Mask Texture": true,
+    "Use Distortion Texture": false,
+    "Use Dissolve Texture": true,
+    "Distortion Weight": 0.0,
+    "Dissolve Weight": 0.0,
+    "Glow Weight": 0.0,
+    "Bloom Weight": 0.0,
+    "AlphaAttenuation Weight": 0.0,
+    "Life Time": [
+        0.0,
+        0.5
+    ],
+    "UVMove Speed": [
+        0.0,
+        0.0
+    ],
+    "Num KeyFrames": 0,
+    "KeyFrames": []
+}

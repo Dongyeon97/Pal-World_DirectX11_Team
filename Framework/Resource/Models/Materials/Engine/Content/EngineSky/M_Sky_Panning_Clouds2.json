@@ -1,0 +1,29 @@
+{
+  "Textures": {
+    "T_Sky_Blue": "Engine/Content/EngineSky/T_Sky_Blue.T_Sky_Blue",
+    "T_Sky_Clouds_M": "Engine/Content/EngineSky/T_Sky_Clouds_M.T_Sky_Clouds_M",
+    "T_Sky_Stars": "Engine/Content/EngineSky/T_Sky_Stars.T_Sky_Stars"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {},
+    "Switches": {},
+    "Properties": {
+      "ShadingModels": {
+        "ShadingModelField": 1
+      },
+      "bUsedWithStaticLighting": true,
+      "bFullyRough": true,
+      "bCanMaskedBeAssumedOpaque": true,
+      "StateId": "B0E02226-42FE75CD-0CA656BA-90E9D914"
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

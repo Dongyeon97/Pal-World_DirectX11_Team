@@ -1,0 +1,40 @@
+{
+  "Textures": {
+    "PM_Normals": "Pal/Content/Pal/Model/Weapon/Handgun/SM_Weapon_Handgun_002/Texture/T_Weapon_Handgun_002_N.T_Weapon_Handgun_002_N",
+    "Normal Map": "Pal/Content/Pal/Model/Weapon/Handgun/SM_Weapon_Handgun_002/Texture/T_Weapon_Handgun_002_N.T_Weapon_Handgun_002_N",
+    "Base Texture": "Pal/Content/Pal/Model/Weapon/Handgun/SM_Weapon_Handgun_002/Texture/T_Weapon_Handgun_002_B.T_Weapon_Handgun_002_B",
+    "T_Weapon_Handgun_002_B": "Pal/Content/Pal/Model/Weapon/Handgun/SM_Weapon_Handgun_002/Texture/T_Weapon_Handgun_002_B.T_Weapon_Handgun_002_B"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "BaseColor": {
+        "R": 0.760417,
+        "G": 0.760417,
+        "B": 0.760417,
+        "A": 0.0,
+        "Hex": "E2E2E2"
+      }
+    },
+    "Scalars": {
+      "Metallic": 1.0,
+      "Roughness": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "OpacityMaskClipValue": 0.3333
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

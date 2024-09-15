@@ -1,0 +1,38 @@
+{
+  "Textures": {
+    "Base Texture": "Pal/Content/Pal/Model/Character/Player/Head/Head008/T_Player_Head008_B.T_Player_Head008_B",
+    "T_Player_Head008_B": "Pal/Content/Pal/Model/Character/Player/Head/Head008/T_Player_Head008_B.T_Player_Head008_B",
+    "PM_SpecularMasks": "Pal/Content/Pal/Model/Character/Player/Head/Head008/T_Player_Head008_M.T_Player_Head008_M",
+    "MetallicRoughnessOcclusionSpecularTexture": "Pal/Content/Pal/Model/Character/Player/Head/Head008/T_Player_Head008_M.T_Player_Head008_M",
+    "PM_Normals": "Pal/Content/Pal/Model/Character/Player/Head/Head002/T_Player_Head002_min_N.T_Player_Head002_min_N",
+    "Normal Map": "Pal/Content/Pal/Model/Character/Player/Head/Head008/T_Player_Head008_N.T_Player_Head008_N",
+    "Override Normal Map 1": "Pal/Content/Pal/Model/Character/Player/Head/Head002/T_Player_Head002_max_N.T_Player_Head002_max_N",
+    "Override Normal Map 2": "Pal/Content/Pal/Model/Character/Player/Head/Head002/T_Player_Head002_min_N.T_Player_Head002_min_N"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 2,
+    "Colors": {},
+    "Scalars": {
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_Subsurface",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "SubsurfaceProfile": {
+        "ObjectName": "SubsurfaceProfile'SP_CharacterBodyBase'",
+        "ObjectPath": "Pal/Content/Pal/Material/Character/Common/SP_CharacterBodyBase.0"
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

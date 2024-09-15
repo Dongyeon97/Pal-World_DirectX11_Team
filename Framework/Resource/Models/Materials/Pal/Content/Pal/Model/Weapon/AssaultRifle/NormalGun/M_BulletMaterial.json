@@ -1,0 +1,24 @@
+{
+  "Textures": {},
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {},
+    "Switches": {},
+    "Properties": {
+      "ShadingModels": {
+        "ShadingModelField": 1
+      },
+      "bUsedWithNanite": true,
+      "bCanMaskedBeAssumedOpaque": true,
+      "StateId": "B8D7D12F-4AD0CAC9-485EF28E-FDAFC2D7"
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": true
+  }
+}

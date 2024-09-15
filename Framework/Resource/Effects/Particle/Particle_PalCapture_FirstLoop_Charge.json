@@ -1,0 +1,83 @@
+{
+    "RenderType": 9,
+    "EffectType": 0,
+    "ParticleType": 3,
+    "Effect Shader Name": "FX_Instancing_PRULPC",
+    "Use Diffuse Texture": false,
+    "Diffuse Texture Name": "",
+    "Use Mask Texture": true,
+    "Mask Texture Name": "FX_BI_HitGlow_08",
+    "Is Sprite": false,
+    "Sprite Row": 3,
+    "Sprite Col": 3,
+    "Sprite Speed": 0.05000000074505806,
+    "Is Loop": false,
+    "Is Billboard": true,
+    "Is Directional": true,
+    "Is Gravity": false,
+    "Is Glow": false,
+    "Is Bloom": false,
+    "Is AlphaAttenuation": false,
+    "Gravity Value": 9.800000190734863,
+    "Glow Weight": 0.0,
+    "Bloom Weight": 0.0,
+    "AlphaAttenuation Weight": 0.0,
+    "Random Life Time": false,
+    "Life Time": [
+        0.0,
+        0.25
+    ],
+    "Num Instance": 30,
+    "Size": [
+        0.4000000059604645,
+        0.4000000059604645
+    ],
+    "Color1": [
+        0.6029411554336548,
+        0.9416090250015259,
+        1.0,
+        1.0
+    ],
+    "Color2": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+    ],
+    "Color3": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+    ],
+    "Speed": [
+        3.0,
+        3.0
+    ],
+    "Offset": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "Pivot": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "Range": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "Rotation Per Second": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "Radius": [
+        2.0,
+        2.0
+    ],
+    "Num KeyFrames": 0,
+    "KeyFrames": []
+}

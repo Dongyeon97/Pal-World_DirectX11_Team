@@ -1,0 +1,56 @@
+{
+    "Is Empty?": false,
+    "Tree Count": 0,
+    "Rock Count": 1,
+    "Pal Count": 0,
+    "Rocks Information": {
+        "Habitat Type": 0,
+        "Nature Type": 0,
+        "Total Number of Rocks": 1,
+        "Individual Information": {
+            "Rock80": [
+                {
+                    "Scale": [
+                        0.053101733326911926,
+                        0.1322999894618988,
+                        0.1323000192642212
+                    ]
+                },
+                {
+                    "Rotation": [
+                        -0.0,
+                        -33.7552490234375,
+                        0.0
+                    ]
+                },
+                {
+                    "Translation": [
+                        -3312.235595703125,
+                        -16.369338989257813,
+                        -2496.102783203125
+                    ]
+                },
+                {
+                    "Center": [
+                        0.0,
+                        2.0,
+                        0.0
+                    ]
+                },
+                {
+                    "Radius": 2.0
+                },
+                {
+                    "Included Octree Node Index": [
+                        6,
+                        3,
+                        4
+                    ]
+                },
+                {
+                    "Model File Path": "../../Resource/Models/Dat/MapMesh/Placeable/Rock/SM_pal_b00_rock_MineableRocks.dat"
+                }
+            ]
+        }
+    }
+}

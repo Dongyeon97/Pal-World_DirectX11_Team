@@ -1,0 +1,290 @@
+{
+    "Child Panel Size": 2,
+    "Panels0": {
+        "Panel Name": "BaseHUD",
+        "Panel Projection Type": 0,
+        "Panel Depth": 0,
+        "Components Size": 0
+    },
+    "Panels1": {
+        "Panel Name": "Hp",
+        "Panel Projection Type": 0,
+        "Panel Depth": 0,
+        "Components Size": 6,
+        "Components0": [
+            {
+                "Component Name": "HpBackGroundImgae",
+                "Render Type": 6,
+                "UI Type": 5,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 3,
+                "Center": [
+                    109.0,
+                    663.0
+                ],
+                "World Position": [
+                    -531.0,
+                    -303.0,
+                    0.0
+                ],
+                "Scale": [
+                    150.0,
+                    12.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 2,
+                "Ratio": 1.0,
+                "Color": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "Alpha": 0.5,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": true,
+                "IsColor": true,
+                "Progress Texture Name": "T_gauge_HP_base"
+            }
+        ],
+        "Components1": [
+            {
+                "Component Name": "HpHeartImage",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    21.0,
+                    662.0
+                ],
+                "World Position": [
+                    -619.0,
+                    -302.0,
+                    0.0
+                ],
+                "Scale": [
+                    15.0,
+                    15.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 0,
+                "Ratio": 1.0,
+                "Color": [
+                    0.3164557218551636,
+                    1.0,
+                    0.48950469493865967,
+                    1.0
+                ],
+                "Alpha": 0.4000000059604645,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": false,
+                "Image Texture Name": "T_gauge_icon_HP",
+                "Image Type": 0
+            }
+        ],
+        "Components2": [
+            {
+                "Component Name": "HpMealImage",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    21.0,
+                    681.0
+                ],
+                "World Position": [
+                    -619.0,
+                    -321.0,
+                    0.0
+                ],
+                "Scale": [
+                    15.0,
+                    15.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 0,
+                "Ratio": 1.0,
+                "Color": [
+                    0.3164557218551636,
+                    1.0,
+                    0.48950469493865967,
+                    1.0
+                ],
+                "Alpha": 0.4000000059604645,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": false,
+                "Image Texture Name": "T_gauge_icon_hunger",
+                "Image Type": 0
+            }
+        ],
+        "Components3": [
+            {
+                "Component Name": "HpProgress",
+                "Render Type": 6,
+                "UI Type": 5,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 3,
+                "Center": [
+                    109.0,
+                    648.0
+                ],
+                "World Position": [
+                    -531.0,
+                    -288.0,
+                    0.0
+                ],
+                "Scale": [
+                    150.0,
+                    7.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 0,
+                "Ratio": 1.0,
+                "Color": [
+                    0.18987339735031128,
+                    0.7026118040084839,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": true,
+                "Progress Texture Name": "T_gauge_shield_base_1"
+            }
+        ],
+        "Components4": [
+            {
+                "Component Name": "MealProgress",
+                "Render Type": 6,
+                "UI Type": 5,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 3,
+                "Center": [
+                    109.0,
+                    680.0
+                ],
+                "World Position": [
+                    -531.0,
+                    -320.0,
+                    0.0
+                ],
+                "Scale": [
+                    150.0,
+                    5.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 0,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    0.6329113841056824,
+                    0.0,
+                    1.0
+                ],
+                "Alpha": 0.4000000059604645,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": true,
+                "Progress Texture Name": "T_gauge_HP_base"
+            }
+        ],
+        "Components5": [
+            {
+                "Component Name": "RealHPProgress",
+                "Render Type": 6,
+                "UI Type": 5,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 3,
+                "Center": [
+                    109.0,
+                    663.0
+                ],
+                "World Position": [
+                    -531.0,
+                    -303.0,
+                    0.0
+                ],
+                "Scale": [
+                    150.0,
+                    11.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 1,
+                "Ratio": 1.0,
+                "Color": [
+                    0.37510013580322266,
+                    1.0,
+                    0.3417721390724182,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": true,
+                "Progress Texture Name": "T_gauge_HP_base"
+            }
+        ]
+    },
+    "Panels2": {
+        "Panel Name": "Aim",
+        "Panel Projection Type": 0,
+        "Panel Depth": 0,
+        "Components Size": 1,
+        "Components0": [
+            {
+                "Component Name": "AimImage",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    640.0,
+                    360.0
+                ],
+                "World Position": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    20.0,
+                    20.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 0,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 0.699999988079071,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": true,
+                "IsColor": false,
+                "Image Texture Name": "T_aim_test",
+                "Image Type": 0
+            }
+        ]
+    }
+}

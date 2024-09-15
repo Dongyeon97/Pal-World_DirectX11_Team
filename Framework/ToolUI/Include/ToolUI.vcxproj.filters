@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="01. ToolUI">
+      <UniqueIdentifier>{0e7a4497-fc3a-49ac-b620-de485f978a6d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="99. Header">
+      <UniqueIdentifier>{2ac0247c-9d0b-4f74-a68b-3b4c914fd858}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="99. Header\01. Precompiled">
+      <UniqueIdentifier>{a5170fa1-ca00-4e6b-a1ea-7bb8c6cbd20c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. ToolUI\01. ToolUI">
+      <UniqueIdentifier>{388a9851-43e0-480f-bcc9-8f9476ee9d7c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="99. Header\02. etc">
+      <UniqueIdentifier>{b6d5441b-c8f4-4d7e-879d-d60de9bf41ac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. ToolUI\02. Module">
+      <UniqueIdentifier>{4f914219-877f-4461-9177-aeff64febdd6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. Manager">
+      <UniqueIdentifier>{3d822439-d164-4329-b888-f3da351aad2a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. Manager\01. IMGUIManager">
+      <UniqueIdentifier>{602b26bf-ad28-401a-97d5-148f31cc1eb2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. Manager\02. ToolUIManager">
+      <UniqueIdentifier>{a3776b5c-5bb7-4aca-a33e-af19f5ab5b5e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="98. Shaders">
+      <UniqueIdentifier>{0bc84db1-3cf3-4b74-80d6-dfb5de397e02}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. ToolUI\03. LevelOverrides">
+      <UniqueIdentifier>{28e1bbe4-0d2a-40fe-b72f-ba027e68f591}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03. GameObject">
+      <UniqueIdentifier>{627daad9-17cb-4d75-a090-26cd335ff1aa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03. GameObject\01. ToolUIPanel">
+      <UniqueIdentifier>{a5ff2071-ac08-43db-98af-fa88ed538a42}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03. Level Overrides">
+      <UniqueIdentifier>{f5cdeecf-2ad0-4826-afb7-b2dc53458c35}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ToolUI.h">
+      <Filter>01. ToolUI\01. ToolUI</Filter>
+    </ClInclude>
+    <ClInclude Include="framework.h">
+      <Filter>99. Header\02. etc</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>99. Header\02. etc</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>99. Header\02. etc</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>99. Header\01. Precompiled</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ToolUIPCH.h">
+      <Filter>99. Header\01. Precompiled</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ToolUIDefine.h">
+      <Filter>99. Header\02. etc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ToolUIEnum.h">
+      <Filter>99. Header\02. etc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ToolUIStruct.h">
+      <Filter>99. Header\02. etc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ToolUILoop.h">
+      <Filter>01. ToolUI\01. ToolUI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ToolUIModule.h">
+      <Filter>01. ToolUI\02. Module</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\IMGUIManager.h">
+      <Filter>02. Manager\01. IMGUIManager</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ToolUIPanel.h">
+      <Filter>03. GameObject\01. ToolUIPanel</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ToolUILevel.h">
+      <Filter>03. Level Overrides</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ToolUIManager.h">
+      <Filter>02. Manager\02. ToolUIManager</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ToolUI.cpp">
+      <Filter>01. ToolUI\01. ToolUI</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp">
+      <Filter>99. Header\01. Precompiled</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ToolUILoop.cpp">
+      <Filter>01. ToolUI\01. ToolUI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ToolUIModule.cpp">
+      <Filter>01. ToolUI\02. Module</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\IMGUIManager.cpp">
+      <Filter>02. Manager\01. IMGUIManager</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ToolUIPanel.cpp">
+      <Filter>03. GameObject\01. ToolUIPanel</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ToolUIManager.cpp">
+      <Filter>02. Manager\02. ToolUIManager</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ToolUILevel.cpp">
+      <Filter>03. Level Overrides</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="ToolUI.rc">
+      <Filter>리소스 파일</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="small.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="ToolUI.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\Resource\Shaders\Shader_Defines.hlsli">
+      <Filter>98. Shaders</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <FxCompile Include="..\..\Resource\Shaders\FX_UIOrthogonal_PS.hlsl">
+      <Filter>98. Shaders</Filter>
+    </FxCompile>
+  </ItemGroup>
+</Project>

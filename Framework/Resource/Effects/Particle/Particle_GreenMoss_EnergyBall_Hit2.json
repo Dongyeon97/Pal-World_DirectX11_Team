@@ -1,0 +1,83 @@
+{
+    "RenderType": 9,
+    "EffectType": 0,
+    "ParticleType": 1,
+    "Effect Shader Name": "FX_Instancing_PRULPC",
+    "Use Diffuse Texture": false,
+    "Diffuse Texture Name": "",
+    "Use Mask Texture": true,
+    "Mask Texture Name": "KakaoTalk_20240427_141756747_09",
+    "Is Sprite": false,
+    "Sprite Row": 1,
+    "Sprite Col": 1,
+    "Sprite Speed": 1.0,
+    "Is Loop": false,
+    "Is Billboard": true,
+    "Is Directional": true,
+    "Is Gravity": true,
+    "Is Glow": false,
+    "Is Bloom": false,
+    "Is AlphaAttenuation": false,
+    "Gravity Value": -0.15000000596046448,
+    "Glow Weight": 0.0,
+    "Bloom Weight": 0.0,
+    "AlphaAttenuation Weight": 0.0,
+    "Random Life Time": true,
+    "Life Time": [
+        0.0,
+        1.0
+    ],
+    "Num Instance": 50,
+    "Size": [
+        0.10000000149011612,
+        0.30000001192092896
+    ],
+    "Color1": [
+        1.0,
+        0.5372549295425415,
+        0.13725490868091583,
+        1.0
+    ],
+    "Color2": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+    ],
+    "Color3": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+    ],
+    "Speed": [
+        5.0,
+        10.0
+    ],
+    "Offset": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "Pivot": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "Range": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "Rotation Per Second": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "Radius": [
+        0.0010000000474974513,
+        0.0010000000474974513
+    ],
+    "Num KeyFrames": 0,
+    "KeyFrames": []
+}

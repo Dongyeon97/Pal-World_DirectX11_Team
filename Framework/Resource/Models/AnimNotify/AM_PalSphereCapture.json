@@ -1,0 +1,14 @@
+[
+	{
+		"AttachBoneName" : "root",
+		"Duration" : 0.0,
+		"EffectName" : "Group_PalCapture_FirstLoop",
+		"EndTime" : 1.4779000282287598,
+		"StartTime" : 1.4779000282287598,
+		"Type" : "Effect",
+		"UseFollowBone" : false,
+		"vRelativeLocationX" : 0.0,
+		"vRelativeLocationY" : 0.0,
+		"vRelativeLocationZ" : 0.0
+	}
+]

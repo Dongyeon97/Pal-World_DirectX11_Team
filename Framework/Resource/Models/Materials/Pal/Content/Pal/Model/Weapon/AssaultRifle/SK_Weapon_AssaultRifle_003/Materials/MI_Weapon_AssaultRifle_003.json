@@ -1,0 +1,50 @@
+{
+  "Textures": {
+    "PM_Diffuse": "Pal/Content/Pal/Model/Weapon/AssaultRifle/SK_Weapon_AssaultRifle_003/Textures/T_Weapon_AssaultRifle_003_B.T_Weapon_AssaultRifle_003_B",
+    "Albedo": "Pal/Content/Pal/Model/Weapon/AssaultRifle/SK_Weapon_AssaultRifle_003/Textures/T_Weapon_AssaultRifle_003_B.T_Weapon_AssaultRifle_003_B",
+    "PM_Normals": "Pal/Content/Pal/Model/Weapon/AssaultRifle/SK_Weapon_AssaultRifle_003/Textures/T_Weapon_AssaultRifle_003_N.T_Weapon_AssaultRifle_003_N",
+    "Normal": "Pal/Content/Pal/Model/Weapon/AssaultRifle/SK_Weapon_AssaultRifle_003/Textures/T_Weapon_AssaultRifle_003_N.T_Weapon_AssaultRifle_003_N",
+    "PM_SpecularMasks": "Pal/Content/Pal/Model/Weapon/AssaultRifle/SK_Weapon_AssaultRifle_003/Textures/T_Weapon_AssaultRifle_003_M.T_Weapon_AssaultRifle_003_M",
+    "RMA": "Pal/Content/Pal/Model/Weapon/AssaultRifle/SK_Weapon_AssaultRifle_003/Textures/T_Weapon_AssaultRifle_003_M.T_Weapon_AssaultRifle_003_M",
+    "PM_Emissive": "Pal/Content/Others/FPSWestern_VOL2/Textures/TX_Fill_01a_ALB.TX_Fill_01a_ALB",
+    "Emissive": "Pal/Content/Others/FPSWestern_VOL2/Textures/TX_Fill_01a_ALB.TX_Fill_01a_ALB"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Albedo Color Tint": {
+        "R": 2.0,
+        "G": 2.0,
+        "B": 2.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "Emissive Color Multi": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 1.0,
+        "Hex": "FF000000"
+      }
+    },
+    "Scalars": {
+      "Roughness Multi": 0.444861,
+      "Roughness Power": 1.080329,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      }
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": true,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

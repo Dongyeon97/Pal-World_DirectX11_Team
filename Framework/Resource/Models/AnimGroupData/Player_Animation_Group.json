@@ -1,0 +1,29 @@
+[
+	{
+		"GroupName": "Move",
+		"MemberAnimation": [
+			"AS_Player_Female_Crouch_Walk",
+			"AS_Player_Female_Sprint",
+			"AS_Player_Female_JogRight_Aim_Melee",
+			"AS_Player_Female_JogLeft_Aim_Melee",
+			"AS_Player_Female_Jog_None",
+			"AS_Player_Female_Sprint_Melee",
+			"AS_Player_Female_Jog_Melee",
+			"AS_Player_Female_Sprint_Bow",
+			"AS_Player_Female_Jog_Bow",
+			"AS_Player_Female_Sprint_AssaultRifle",
+			"AS_Player_Female_Jog_AssaultRifle",
+			"AS_Player_Female_Jog_Spear",
+			"AS_Player_Female_Sprint_Throw",
+			"AS_Player_Female_Jog_Throw",
+			"AS_Player_Female_Sprint_RocketLauncher",
+			"AS_Player_Female_Jog_RocketLauncher"
+		]
+	},
+	{
+		"GroupName": "attack",
+		"MemberAnimation": [
+
+		]
+	}
+]

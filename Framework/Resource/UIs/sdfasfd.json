@@ -1,0 +1,61 @@
+{
+    "Child Panel Size": 0,
+    "Panels0": {
+        "Panel Name": "sdfasfd",
+        "Panel Projection Type": 0,
+        "Panel Depth": 0,
+        "Panel Pivot Component Name": "",
+        "Components Size": 1,
+        "Components0": [
+            {
+                "Component Name": "sdfsadfd",
+                "Render Type": 6,
+                "UI Type": 8,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 6,
+                "Center": [
+                    640.0,
+                    360.0
+                ],
+                "World Position": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    300.0,
+                    100.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 0,
+                "Ratio": 1.0,
+                "Color": [
+                    0.9409282803535461,
+                    0.023820988833904266,
+                    0.023820988833904266,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": true,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Progress Texture Name": "T_gauge_HP_base",
+                "Other Ratio": 0.5,
+                "Other Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            }
+        ]
+    }
+}

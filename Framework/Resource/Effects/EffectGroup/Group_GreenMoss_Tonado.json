@@ -1,0 +1,1736 @@
+{
+  "Effect Group Name": "Group_GreenMoss_Tonado",
+  "Duration": 7.5,
+  "Loop": false,
+  "Is Collider": true,
+  "Collider Type": 1,
+  "Collision Flag": 28682,
+  "Collision Layer": 1024,
+  "Sphere Collider Radius": 0.0,
+  "Box Collider Extents": [
+    2.5,
+    5.0,
+    2.5
+  ],
+  "Box Collider LocalPosition": [
+    0.0,
+    2.5,
+    0.0
+  ],
+  "Box Collider LocalRotate": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Sound Name": "GrassTornade_02_Loop_935535799",
+  "Sound Loop": true,
+  "Sound Value": 1.0,
+  "Effects": [
+    {
+      "Effect Name": "Effect Mesh - Effect Mesh - Effect Mesh - GreenMoss_Tonado1",
+      "RenderType": 9,
+      "EffectType": 1,
+      "Model File Path": "../../Resource/Models/Dat/NonAnim/EffectMeshs/Tornado_inner.dat",
+      "Effect Shader Name": "FX_EffectMesh_PNT2T",
+      "Scale": [
+        5.0,
+        5.0,
+        5.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Translation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Diffuse Color1": [
+        0.7471673488616943,
+        0.9803921580314636,
+        0.6199538707733154,
+        1.0
+      ],
+      "Diffuse Color2": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Diffuse Color3": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Diffuse Texture Name": "",
+      "Noise Texture Name": "",
+      "Mask Texture Name": "Pattern_Non_Direction_0404",
+      "Distortion Texture Name": "",
+      "Dissolve Texture Name": "",
+      "Is Sprite": false,
+      "Sprite Row": 1,
+      "Sprite Col": 1,
+      "Sprite Speed": 1.0,
+      "Is Anim": false,
+      "Is Loop": false,
+      "Is UVMove Loop": true,
+      "Is Glow": false,
+      "Is Bloom": false,
+      "Is AlphaAttenuation": false,
+      "Use Diffuse Texture": false,
+      "Use Noise Texture": false,
+      "Use Mask Texture": true,
+      "Use Distortion Texture": false,
+      "Use Dissolve Texture": false,
+      "Distortion Weight": 0.0,
+      "Dissolve Weight": 0.0,
+      "Glow Weight": 0.0,
+      "Bloom Weight": 0.0,
+      "AlphaAttenuation Weight": 0.0,
+      "Life Time": [
+        0.0,
+        7.5
+      ],
+      "UVMove Speed": [
+        -0.5,
+        0.75
+      ],
+      "Num KeyFrames": 2,
+      "KeyFrames": [
+        {
+          "Index": "KeyFrame0",
+          "Effect Shader Pass Index": 0,
+          "Time": 0.0,
+          "Render Culled": false,
+          "Color1": [
+            0.7490196228027344,
+            0.9803921580314636,
+            0.6196078658103943,
+            1.0
+          ],
+          "Color1 Weight": 0.33329999446868896,
+          "Color1 Easing Type": 1,
+          "Color1 Easing Expo": 2.0,
+          "Color2": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Color2 Weight": 0.33329999446868896,
+          "Color2 Easing Type": 1,
+          "Color2 Easing Expo": 2.0,
+          "Color3": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Color3 Weight": 0.33329999446868896,
+          "Color3 Easing Type": 1,
+          "Color3 Easing Expo": 2.0,
+          "Scale": [
+            0.0010000000474974513,
+            0.0010000000474974513,
+            0.0010000000474974513
+          ],
+          "Scale Easing Type": 12,
+          "Scale Easing Expo": 2.0,
+          "Rotation": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "Rotation Easing Type": 1,
+          "Rotation Easing Expo": 2.0,
+          "Translation": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "Translation Easing Type": 1,
+          "Translation Easing Expo": 2.0,
+          "Rotate Weight": 0.0
+        },
+        {
+          "Index": "KeyFrame1",
+          "Effect Shader Pass Index": 0,
+          "Time": 7.5,
+          "Render Culled": false,
+          "Color1": [
+            0.7490196228027344,
+            0.9803921580314636,
+            0.6196078658103943,
+            1.0
+          ],
+          "Color1 Weight": 0.33329999446868896,
+          "Color1 Easing Type": 1,
+          "Color1 Easing Expo": 2.0,
+          "Color2": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Color2 Weight": 0.33329999446868896,
+          "Color2 Easing Type": 1,
+          "Color2 Easing Expo": 2.0,
+          "Color3": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Color3 Weight": 0.33329999446868896,
+          "Color3 Easing Type": 1,
+          "Color3 Easing Expo": 2.0,
+          "Scale": [
+            5.0,
+            5.0,
+            5.0
+          ],
+          "Scale Easing Type": 12,
+          "Scale Easing Expo": 2.0,
+          "Rotation": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "Rotation Easing Type": 1,
+          "Rotation Easing Expo": 2.0,
+          "Translation": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "Translation Easing Type": 1,
+          "Translation Easing Expo": 2.0,
+          "Rotate Weight": 0.0
+        }
+      ]
+    },
+    {
+      "Effect Name": "Effect Mesh - Effect Mesh - Effect Mesh - GreenMoss_Tonado2",
+      "RenderType": 5,
+      "EffectType": 1,
+      "Model File Path": "../../Resource/Models/Dat/NonAnim/EffectMeshs/Tornado_inner.dat",
+      "Effect Shader Name": "FX_EffectMesh_PNT2T",
+      "Scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Translation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Diffuse Color1": [
+        0.7958760261535645,
+        0.9215686321258545,
+        0.7273164391517639,
+        1.0
+      ],
+      "Diffuse Color2": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Diffuse Color3": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Diffuse Texture Name": "",
+      "Noise Texture Name": "",
+      "Mask Texture Name": "Pattern_Non_Direction_0404",
+      "Distortion Texture Name": "",
+      "Dissolve Texture Name": "",
+      "Is Sprite": false,
+      "Sprite Row": 1,
+      "Sprite Col": 1,
+      "Sprite Speed": 1.0,
+      "Is Anim": false,
+      "Is Loop": false,
+      "Is UVMove Loop": true,
+      "Is Glow": false,
+      "Is Bloom": false,
+      "Is AlphaAttenuation": false,
+      "Use Diffuse Texture": false,
+      "Use Noise Texture": false,
+      "Use Mask Texture": true,
+      "Use Distortion Texture": false,
+      "Use Dissolve Texture": false,
+      "Distortion Weight": 0.0,
+      "Dissolve Weight": 0.0,
+      "Glow Weight": 0.0,
+      "Bloom Weight": 0.0,
+      "AlphaAttenuation Weight": 0.0,
+      "Life Time": [
+        0.10000000149011612,
+        7.5
+      ],
+      "UVMove Speed": [
+        -1.0,
+        0.75
+      ],
+      "Num KeyFrames": 2,
+      "KeyFrames": [
+        {
+          "Index": "KeyFrame0",
+          "Effect Shader Pass Index": 0,
+          "Time": 0.0,
+          "Render Culled": false,
+          "Color1": [
+            0.7960784435272217,
+            0.9215686321258545,
+            0.7254902124404907,
+            1.0
+          ],
+          "Color1 Weight": 0.33329999446868896,
+          "Color1 Easing Type": 1,
+          "Color1 Easing Expo": 2.0,
+          "Color2": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Color2 Weight": 0.33329999446868896,
+          "Color2 Easing Type": 1,
+          "Color2 Easing Expo": 2.0,
+          "Color3": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Color3 Weight": 0.33329999446868896,
+          "Color3 Easing Type": 1,
+          "Color3 Easing Expo": 2.0,
+          "Scale": [
+            0.0010000000474974513,
+            0.0010000000474974513,
+            0.0010000000474974513
+          ],
+          "Scale Easing Type": 12,
+          "Scale Easing Expo": 2.0,
+          "Rotation": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "Rotation Easing Type": 1,
+          "Rotation Easing Expo": 2.0,
+          "Translation": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "Translation Easing Type": 1,
+          "Translation Easing Expo": 2.0,
+          "Rotate Weight": 0.0
+        },
+        {
+          "Index": "KeyFrame1",
+          "Effect Shader Pass Index": 0,
+          "Time": 7.5,
+          "Render Culled": false,
+          "Color1": [
+            0.7960784435272217,
+            0.9215686321258545,
+            0.7254902124404907,
+            1.0
+          ],
+          "Color1 Weight": 0.33329999446868896,
+          "Color1 Easing Type": 1,
+          "Color1 Easing Expo": 2.0,
+          "Color2": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Color2 Weight": 0.33329999446868896,
+          "Color2 Easing Type": 1,
+          "Color2 Easing Expo": 2.0,
+          "Color3": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Color3 Weight": 0.33329999446868896,
+          "Color3 Easing Type": 1,
+          "Color3 Easing Expo": 2.0,
+          "Scale": [
+            5.0,
+            5.0,
+            5.0
+          ],
+          "Scale Easing Type": 12,
+          "Scale Easing Expo": 2.0,
+          "Rotation": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "Rotation Easing Type": 1,
+          "Rotation Easing Expo": 2.0,
+          "Translation": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "Translation Easing Type": 1,
+          "Translation Easing Expo": 2.0,
+          "Rotate Weight": 0.0
+        }
+      ]
+    },
+    {
+      "Effect Name": "Effect Mesh - Effect Mesh - Effect Mesh - GreenMoss_Tonado3",
+      "RenderType": 9,
+      "EffectType": 1,
+      "Model File Path": "../../Resource/Models/Dat/NonAnim/EffectMeshs/Tornado.dat",
+      "Effect Shader Name": "FX_EffectMesh_PNT2T",
+      "Scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Translation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Diffuse Color1": [
+        0.7471673488616943,
+        0.9803921580314636,
+        0.6199538707733154,
+        1.0
+      ],
+      "Diffuse Color2": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Diffuse Color3": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Diffuse Texture Name": "",
+      "Noise Texture Name": "",
+      "Mask Texture Name": "Pattern_Non_Direction_0404",
+      "Distortion Texture Name": "",
+      "Dissolve Texture Name": "",
+      "Is Sprite": false,
+      "Sprite Row": 1,
+      "Sprite Col": 1,
+      "Sprite Speed": 1.0,
+      "Is Anim": false,
+      "Is Loop": false,
+      "Is UVMove Loop": true,
+      "Is Glow": false,
+      "Is Bloom": false,
+      "Is AlphaAttenuation": false,
+      "Use Diffuse Texture": false,
+      "Use Noise Texture": false,
+      "Use Mask Texture": true,
+      "Use Distortion Texture": false,
+      "Use Dissolve Texture": false,
+      "Distortion Weight": 0.0,
+      "Dissolve Weight": 0.0,
+      "Glow Weight": 0.0,
+      "Bloom Weight": 0.0,
+      "AlphaAttenuation Weight": 0.0,
+      "Life Time": [
+        0.20000000298023224,
+        7.5
+      ],
+      "UVMove Speed": [
+        -0.5,
+        0.75
+      ],
+      "Num KeyFrames": 2,
+      "KeyFrames": [
+        {
+          "Index": "KeyFrame0",
+          "Effect Shader Pass Index": 0,
+          "Time": 0.0,
+          "Render Culled": false,
+          "Color1": [
+            0.7490196228027344,
+            0.9803921580314636,
+            0.6196078658103943,
+            1.0
+          ],
+          "Color1 Weight": 0.33329999446868896,
+          "Color1 Easing Type": 1,
+          "Color1 Easing Expo": 2.0,
+          "Color2": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Color2 Weight": 0.33329999446868896,
+          "Color2 Easing Type": 1,
+          "Color2 Easing Expo": 2.0,
+          "Color3": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Color3 Weight": 0.33329999446868896,
+          "Color3 Easing Type": 1,
+          "Color3 Easing Expo": 2.0,
+          "Scale": [
+            0.0010000000474974513,
+            0.0010000000474974513,
+            0.0010000000474974513
+          ],
+          "Scale Easing Type": 12,
+          "Scale Easing Expo": 2.0,
+          "Rotation": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "Rotation Easing Type": 1,
+          "Rotation Easing Expo": 2.0,
+          "Translation": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "Translation Easing Type": 1,
+          "Translation Easing Expo": 2.0,
+          "Rotate Weight": 0.0
+        },
+        {
+          "Index": "KeyFrame1",
+          "Effect Shader Pass Index": 0,
+          "Time": 7.5,
+          "Render Culled": false,
+          "Color1": [
+            0.7490196228027344,
+            0.9803921580314636,
+            0.6196078658103943,
+            1.0
+          ],
+          "Color1 Weight": 0.33329999446868896,
+          "Color1 Easing Type": 1,
+          "Color1 Easing Expo": 2.0,
+          "Color2": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Color2 Weight": 0.33329999446868896,
+          "Color2 Easing Type": 1,
+          "Color2 Easing Expo": 2.0,
+          "Color3": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Color3 Weight": 0.33329999446868896,
+          "Color3 Easing Type": 1,
+          "Color3 Easing Expo": 2.0,
+          "Scale": [
+            5.0,
+            5.0,
+            5.0
+          ],
+          "Scale Easing Type": 12,
+          "Scale Easing Expo": 2.0,
+          "Rotation": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "Rotation Easing Type": 1,
+          "Rotation Easing Expo": 2.0,
+          "Translation": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "Translation Easing Type": 1,
+          "Translation Easing Expo": 2.0,
+          "Rotate Weight": 0.0
+        }
+      ]
+    },
+    {
+      "Effect Name": "Effect Mesh - Effect Mesh - Effect Mesh - GreenMoss_Tonado4",
+      "RenderType": 5,
+      "EffectType": 1,
+      "Model File Path": "../../Resource/Models/Dat/NonAnim/EffectMeshs/Tornado.dat",
+      "Effect Shader Name": "FX_EffectMesh_PNT2T",
+      "Scale": [
+        1.100000023841858,
+        1.100000023841858,
+        1.100000023841858
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Translation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Diffuse Color1": [
+        1.0,
+        1.0,
+        1.0,
+        0.19607843458652496
+      ],
+      "Diffuse Color2": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Diffuse Color3": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Diffuse Texture Name": "",
+      "Noise Texture Name": "",
+      "Mask Texture Name": "Pattern_Non_Direction_0404",
+      "Distortion Texture Name": "",
+      "Dissolve Texture Name": "",
+      "Is Sprite": false,
+      "Sprite Row": 1,
+      "Sprite Col": 1,
+      "Sprite Speed": 1.0,
+      "Is Anim": false,
+      "Is Loop": false,
+      "Is UVMove Loop": true,
+      "Is Glow": false,
+      "Is Bloom": false,
+      "Is AlphaAttenuation": false,
+      "Use Diffuse Texture": false,
+      "Use Noise Texture": false,
+      "Use Mask Texture": true,
+      "Use Distortion Texture": false,
+      "Use Dissolve Texture": false,
+      "Distortion Weight": 0.0,
+      "Dissolve Weight": 0.0,
+      "Glow Weight": 0.0,
+      "Bloom Weight": 0.0,
+      "AlphaAttenuation Weight": 0.0,
+      "Life Time": [
+        0.20000000298023224,
+        7.5
+      ],
+      "UVMove Speed": [
+        -0.5,
+        0.75
+      ],
+      "Num KeyFrames": 2,
+      "KeyFrames": [
+        {
+          "Index": "KeyFrame0",
+          "Effect Shader Pass Index": 0,
+          "Time": 0.0,
+          "Render Culled": false,
+          "Color1": [
+            1.0,
+            1.0,
+            1.0,
+            0.19607843458652496
+          ],
+          "Color1 Weight": 0.33329999446868896,
+          "Color1 Easing Type": 1,
+          "Color1 Easing Expo": 2.0,
+          "Color2": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Color2 Weight": 0.33329999446868896,
+          "Color2 Easing Type": 1,
+          "Color2 Easing Expo": 2.0,
+          "Color3": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Color3 Weight": 0.33329999446868896,
+          "Color3 Easing Type": 1,
+          "Color3 Easing Expo": 2.0,
+          "Scale": [
+            0.0010000000474974513,
+            0.0010000000474974513,
+            0.0010000000474974513
+          ],
+          "Scale Easing Type": 12,
+          "Scale Easing Expo": 2.0,
+          "Rotation": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "Rotation Easing Type": 1,
+          "Rotation Easing Expo": 2.0,
+          "Translation": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "Translation Easing Type": 1,
+          "Translation Easing Expo": 2.0,
+          "Rotate Weight": 0.0
+        },
+        {
+          "Index": "KeyFrame1",
+          "Effect Shader Pass Index": 0,
+          "Time": 7.5,
+          "Render Culled": false,
+          "Color1": [
+            1.0,
+            1.0,
+            1.0,
+            0.19607843458652496
+          ],
+          "Color1 Weight": 0.33329999446868896,
+          "Color1 Easing Type": 1,
+          "Color1 Easing Expo": 2.0,
+          "Color2": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Color2 Weight": 0.33329999446868896,
+          "Color2 Easing Type": 1,
+          "Color2 Easing Expo": 2.0,
+          "Color3": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Color3 Weight": 0.33329999446868896,
+          "Color3 Easing Type": 1,
+          "Color3 Easing Expo": 2.0,
+          "Scale": [
+            5.5,
+            5.0,
+            5.5
+          ],
+          "Scale Easing Type": 12,
+          "Scale Easing Expo": 2.0,
+          "Rotation": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "Rotation Easing Type": 1,
+          "Rotation Easing Expo": 2.0,
+          "Translation": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "Translation Easing Type": 1,
+          "Translation Easing Expo": 2.0,
+          "Rotate Weight": 0.0
+        }
+      ]
+    },
+    {
+      "Effect Name": "Effect Mesh - Effect Mesh - Effect Mesh - GreenMoss_Tonado5",
+      "RenderType": 9,
+      "EffectType": 1,
+      "Model File Path": "../../Resource/Models/Dat/NonAnim/EffectMeshs/Tornado_inner.dat",
+      "Effect Shader Name": "FX_EffectMesh_PNT2T",
+      "Scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Translation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Diffuse Color1": [
+        0.7471673488616943,
+        0.9803921580314636,
+        0.6199538707733154,
+        1.0
+      ],
+      "Diffuse Color2": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Diffuse Color3": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Diffuse Texture Name": "",
+      "Noise Texture Name": "",
+      "Mask Texture Name": "Andrius_Attack_Turn",
+      "Distortion Texture Name": "",
+      "Dissolve Texture Name": "",
+      "Is Sprite": false,
+      "Sprite Row": 1,
+      "Sprite Col": 1,
+      "Sprite Speed": 1.0,
+      "Is Anim": false,
+      "Is Loop": false,
+      "Is UVMove Loop": true,
+      "Is Glow": false,
+      "Is Bloom": false,
+      "Is AlphaAttenuation": false,
+      "Use Diffuse Texture": false,
+      "Use Noise Texture": false,
+      "Use Mask Texture": true,
+      "Use Distortion Texture": false,
+      "Use Dissolve Texture": false,
+      "Distortion Weight": 0.0,
+      "Dissolve Weight": 0.0,
+      "Glow Weight": 0.0,
+      "Bloom Weight": 0.0,
+      "AlphaAttenuation Weight": 0.0,
+      "Life Time": [
+        0.0,
+        7.5
+      ],
+      "UVMove Speed": [
+        -1.0,
+        0.75
+      ],
+      "Num KeyFrames": 2,
+      "KeyFrames": [
+        {
+          "Index": "KeyFrame0",
+          "Effect Shader Pass Index": 0,
+          "Time": 0.0,
+          "Render Culled": false,
+          "Color1": [
+            0.7490196228027344,
+            0.9803921580314636,
+            0.6196078658103943,
+            1.0
+          ],
+          "Color1 Weight": 0.33329999446868896,
+          "Color1 Easing Type": 1,
+          "Color1 Easing Expo": 2.0,
+          "Color2": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Color2 Weight": 0.33329999446868896,
+          "Color2 Easing Type": 1,
+          "Color2 Easing Expo": 2.0,
+          "Color3": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Color3 Weight": 0.33329999446868896,
+          "Color3 Easing Type": 1,
+          "Color3 Easing Expo": 2.0,
+          "Scale": [
+            0.0010000000474974513,
+            0.0010000000474974513,
+            0.0010000000474974513
+          ],
+          "Scale Easing Type": 12,
+          "Scale Easing Expo": 2.0,
+          "Rotation": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "Rotation Easing Type": 1,
+          "Rotation Easing Expo": 2.0,
+          "Translation": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "Translation Easing Type": 1,
+          "Translation Easing Expo": 2.0,
+          "Rotate Weight": 0.0
+        },
+        {
+          "Index": "KeyFrame1",
+          "Effect Shader Pass Index": 0,
+          "Time": 7.5,
+          "Render Culled": false,
+          "Color1": [
+            0.7490196228027344,
+            0.9803921580314636,
+            0.6196078658103943,
+            1.0
+          ],
+          "Color1 Weight": 0.33329999446868896,
+          "Color1 Easing Type": 1,
+          "Color1 Easing Expo": 2.0,
+          "Color2": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Color2 Weight": 0.33329999446868896,
+          "Color2 Easing Type": 1,
+          "Color2 Easing Expo": 2.0,
+          "Color3": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Color3 Weight": 0.33329999446868896,
+          "Color3 Easing Type": 1,
+          "Color3 Easing Expo": 2.0,
+          "Scale": [
+            6.5,
+            5.0,
+            6.5
+          ],
+          "Scale Easing Type": 12,
+          "Scale Easing Expo": 2.0,
+          "Rotation": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "Rotation Easing Type": 1,
+          "Rotation Easing Expo": 2.0,
+          "Translation": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "Translation Easing Type": 1,
+          "Translation Easing Expo": 2.0,
+          "Rotate Weight": 0.0
+        }
+      ]
+    },
+    {
+      "Effect Name": "Effect Mesh - Effect Mesh - Effect Mesh - GreenMoss_Tonado6",
+      "RenderType": 9,
+      "EffectType": 1,
+      "Model File Path": "../../Resource/Models/Dat/NonAnim/EffectMeshs/Cylinder07.dat",
+      "Effect Shader Name": "FX_EffectMesh_PNT2T",
+      "Scale": [
+        1.0,
+        0.4000000059604645,
+        1.0
+      ],
+      "Rotation": [
+        0.0,
+        180.0,
+        0.0
+      ],
+      "Translation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Diffuse Color1": [
+        0.8096885681152344,
+        1.0,
+        0.7058823108673096,
+        1.0
+      ],
+      "Diffuse Color2": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Diffuse Color3": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Diffuse Texture Name": "",
+      "Noise Texture Name": "",
+      "Mask Texture Name": "Pattern_Non_Direction_0404",
+      "Distortion Texture Name": "",
+      "Dissolve Texture Name": "",
+      "Is Sprite": false,
+      "Sprite Row": 1,
+      "Sprite Col": 1,
+      "Sprite Speed": 1.0,
+      "Is Anim": false,
+      "Is Loop": false,
+      "Is UVMove Loop": true,
+      "Is Glow": false,
+      "Is Bloom": false,
+      "Is AlphaAttenuation": false,
+      "Use Diffuse Texture": false,
+      "Use Noise Texture": false,
+      "Use Mask Texture": true,
+      "Use Distortion Texture": false,
+      "Use Dissolve Texture": false,
+      "Distortion Weight": 0.0,
+      "Dissolve Weight": 0.0,
+      "Glow Weight": 0.0,
+      "Bloom Weight": 0.0,
+      "AlphaAttenuation Weight": 0.0,
+      "Life Time": [
+        0.0,
+        7.5
+      ],
+      "UVMove Speed": [
+        -0.5,
+        0.75
+      ],
+      "Num KeyFrames": 2,
+      "KeyFrames": [
+        {
+          "Index": "KeyFrame0",
+          "Effect Shader Pass Index": 0,
+          "Time": 0.0,
+          "Render Culled": false,
+          "Color1": [
+            0.8078431487083435,
+            1.0,
+            0.7058823704719543,
+            1.0
+          ],
+          "Color1 Weight": 0.33329999446868896,
+          "Color1 Easing Type": 1,
+          "Color1 Easing Expo": 2.0,
+          "Color2": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Color2 Weight": 0.33329999446868896,
+          "Color2 Easing Type": 1,
+          "Color2 Easing Expo": 2.0,
+          "Color3": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Color3 Weight": 0.33329999446868896,
+          "Color3 Easing Type": 1,
+          "Color3 Easing Expo": 2.0,
+          "Scale": [
+            0.0010000000474974513,
+            0.0010000000474974513,
+            0.0010000000474974513
+          ],
+          "Scale Easing Type": 1,
+          "Scale Easing Expo": 2.0,
+          "Rotation": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "Rotation Easing Type": 1,
+          "Rotation Easing Expo": 2.0,
+          "Translation": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "Translation Easing Type": 1,
+          "Translation Easing Expo": 2.0,
+          "Rotate Weight": 0.0
+        },
+        {
+          "Index": "KeyFrame1",
+          "Effect Shader Pass Index": 0,
+          "Time": 7.5,
+          "Render Culled": false,
+          "Color1": [
+            0.8078431487083435,
+            1.0,
+            0.7058823704719543,
+            1.0
+          ],
+          "Color1 Weight": 0.33329999446868896,
+          "Color1 Easing Type": 1,
+          "Color1 Easing Expo": 2.0,
+          "Color2": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Color2 Weight": 0.33329999446868896,
+          "Color2 Easing Type": 1,
+          "Color2 Easing Expo": 2.0,
+          "Color3": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Color3 Weight": 0.33329999446868896,
+          "Color3 Easing Type": 1,
+          "Color3 Easing Expo": 2.0,
+          "Scale": [
+            5.0,
+            2.0,
+            5.0
+          ],
+          "Scale Easing Type": 12,
+          "Scale Easing Expo": 2.0,
+          "Rotation": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "Rotation Easing Type": 1,
+          "Rotation Easing Expo": 2.0,
+          "Translation": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "Translation Easing Type": 1,
+          "Translation Easing Expo": 2.0,
+          "Rotate Weight": 0.0
+        }
+      ]
+    },
+    {
+      "Effect Name": "Effect Mesh - Effect Mesh - Effect Mesh - GreenMoss_Tonado7",
+      "RenderType": 9,
+      "EffectType": 1,
+      "Model File Path": "../../Resource/Models/Dat/NonAnim/EffectMeshs/Cylinder07.dat",
+      "Effect Shader Name": "FX_EffectMesh_PNT2T",
+      "Scale": [
+        1.0,
+        0.4000000059604645,
+        1.0
+      ],
+      "Rotation": [
+        0.0,
+        270.0,
+        0.0
+      ],
+      "Translation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Diffuse Color1": [
+        0.8096885681152344,
+        1.0,
+        0.7058823108673096,
+        1.0
+      ],
+      "Diffuse Color2": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Diffuse Color3": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Diffuse Texture Name": "",
+      "Noise Texture Name": "",
+      "Mask Texture Name": "Pattern_Non_Direction_0404",
+      "Distortion Texture Name": "",
+      "Dissolve Texture Name": "",
+      "Is Sprite": false,
+      "Sprite Row": 1,
+      "Sprite Col": 1,
+      "Sprite Speed": 1.0,
+      "Is Anim": false,
+      "Is Loop": false,
+      "Is UVMove Loop": true,
+      "Is Glow": false,
+      "Is Bloom": false,
+      "Is AlphaAttenuation": false,
+      "Use Diffuse Texture": false,
+      "Use Noise Texture": false,
+      "Use Mask Texture": true,
+      "Use Distortion Texture": false,
+      "Use Dissolve Texture": false,
+      "Distortion Weight": 0.0,
+      "Dissolve Weight": 0.0,
+      "Glow Weight": 0.0,
+      "Bloom Weight": 0.0,
+      "AlphaAttenuation Weight": 0.0,
+      "Life Time": [
+        0.0,
+        7.5
+      ],
+      "UVMove Speed": [
+        -0.5,
+        0.75
+      ],
+      "Num KeyFrames": 2,
+      "KeyFrames": [
+        {
+          "Index": "KeyFrame0",
+          "Effect Shader Pass Index": 0,
+          "Time": 0.0,
+          "Render Culled": false,
+          "Color1": [
+            0.8078431487083435,
+            1.0,
+            0.7058823704719543,
+            1.0
+          ],
+          "Color1 Weight": 0.33329999446868896,
+          "Color1 Easing Type": 1,
+          "Color1 Easing Expo": 2.0,
+          "Color2": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Color2 Weight": 0.33329999446868896,
+          "Color2 Easing Type": 1,
+          "Color2 Easing Expo": 2.0,
+          "Color3": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Color3 Weight": 0.33329999446868896,
+          "Color3 Easing Type": 1,
+          "Color3 Easing Expo": 2.0,
+          "Scale": [
+            0.0010000000474974513,
+            0.0010000000474974513,
+            0.0010000000474974513
+          ],
+          "Scale Easing Type": 1,
+          "Scale Easing Expo": 2.0,
+          "Rotation": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "Rotation Easing Type": 1,
+          "Rotation Easing Expo": 2.0,
+          "Translation": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "Translation Easing Type": 1,
+          "Translation Easing Expo": 2.0,
+          "Rotate Weight": 0.0
+        },
+        {
+          "Index": "KeyFrame1",
+          "Effect Shader Pass Index": 0,
+          "Time": 7.5,
+          "Render Culled": false,
+          "Color1": [
+            0.8078431487083435,
+            1.0,
+            0.7058823704719543,
+            1.0
+          ],
+          "Color1 Weight": 0.33329999446868896,
+          "Color1 Easing Type": 1,
+          "Color1 Easing Expo": 2.0,
+          "Color2": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Color2 Weight": 0.33329999446868896,
+          "Color2 Easing Type": 1,
+          "Color2 Easing Expo": 2.0,
+          "Color3": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Color3 Weight": 0.33329999446868896,
+          "Color3 Easing Type": 1,
+          "Color3 Easing Expo": 2.0,
+          "Scale": [
+            5.0,
+            2.0,
+            5.0
+          ],
+          "Scale Easing Type": 12,
+          "Scale Easing Expo": 2.0,
+          "Rotation": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "Rotation Easing Type": 1,
+          "Rotation Easing Expo": 2.0,
+          "Translation": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "Translation Easing Type": 1,
+          "Translation Easing Expo": 2.0,
+          "Rotate Weight": 0.0
+        }
+      ]
+    },
+    {
+      "Effect Name": "Particle - Particle - Particle_GreenMoss_Tonado",
+      "RenderType": 9,
+      "EffectType": 0,
+      "ParticleType": 7,
+      "Effect Shader Name": "FX_Instancing_PRULPC",
+      "Use Diffuse Texture": false,
+      "Diffuse Texture Name": "",
+      "Use Mask Texture": true,
+      "Mask Texture Name": "Fx_Glow_03",
+      "Is Sprite": false,
+      "Sprite Row": 1,
+      "Sprite Col": 1,
+      "Sprite Speed": 1.0,
+      "Is Loop": true,
+      "Is Billboard": true,
+      "Is Directional": false,
+      "Is Gravity": false,
+      "Is Glow": false,
+      "Is Bloom": false,
+      "Is AlphaAttenuation": false,
+      "Gravity Value": 9.800000190734863,
+      "Glow Weight": 0.0,
+      "Bloom Weight": 0.0,
+      "AlphaAttenuation Weight": 0.0,
+      "Random Life Time": false,
+      "Life Time": [
+        0.0,
+        7.5
+      ],
+      "Num Instance": 30,
+      "Size": [
+        0.10000000149011612,
+        0.30000001192092896
+      ],
+      "Color1": [
+        0.35870814323425293,
+        1.0,
+        0.3186274766921997,
+        1.0
+      ],
+      "Color2": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Color3": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Speed": [
+        10.0,
+        25.0
+      ],
+      "Offset": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Pivot": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Range": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Rotation Per Second": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Radius": [
+        3.0,
+        5.0
+      ],
+      "Num KeyFrames": 3,
+      "KeyFrames": [
+        {
+          "Index": "KeyFrame0",
+          "Effect Shader Pass Index": 0,
+          "Time": 0.0,
+          "Render Culled": true,
+          "Size Ratio": 1.0,
+          "Size Easing Type": 1,
+          "Size Easing Expo": 2.0,
+          "Speed Ratio": 1.0,
+          "Speed Easing Type": 1,
+          "Speed Easing Expo": 2.0,
+          "Color1": [
+            0.35686275362968445,
+            1.0,
+            0.3176470696926117,
+            1.0
+          ],
+          "Color1 Weight": 0.33329999446868896,
+          "Color1 Easing Type": 1,
+          "Color1 Easing Expo": 2.0,
+          "Color2": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Color2 Weight": 0.33329999446868896,
+          "Color2 Easing Type": 1,
+          "Color2 Easing Expo": 2.0,
+          "Color3": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Color3 Weight": 0.33329999446868896,
+          "Color3 Easing Type": 1,
+          "Color3 Easing Expo": 2.0
+        },
+        {
+          "Index": "KeyFrame1",
+          "Effect Shader Pass Index": 0,
+          "Time": 1.0,
+          "Render Culled": false,
+          "Size Ratio": 1.0,
+          "Size Easing Type": 1,
+          "Size Easing Expo": 2.0,
+          "Speed Ratio": 1.0,
+          "Speed Easing Type": 1,
+          "Speed Easing Expo": 2.0,
+          "Color1": [
+            0.35686275362968445,
+            1.0,
+            0.3176470696926117,
+            1.0
+          ],
+          "Color1 Weight": 0.33329999446868896,
+          "Color1 Easing Type": 1,
+          "Color1 Easing Expo": 2.0,
+          "Color2": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Color2 Weight": 0.33329999446868896,
+          "Color2 Easing Type": 1,
+          "Color2 Easing Expo": 2.0,
+          "Color3": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Color3 Weight": 0.33329999446868896,
+          "Color3 Easing Type": 1,
+          "Color3 Easing Expo": 2.0
+        },
+        {
+          "Index": "KeyFrame2",
+          "Effect Shader Pass Index": 0,
+          "Time": 7.5,
+          "Render Culled": false,
+          "Size Ratio": 1.0,
+          "Size Easing Type": 1,
+          "Size Easing Expo": 2.0,
+          "Speed Ratio": 1.0,
+          "Speed Easing Type": 1,
+          "Speed Easing Expo": 2.0,
+          "Color1": [
+            0.35686275362968445,
+            1.0,
+            0.3176470696926117,
+            1.0
+          ],
+          "Color1 Weight": 0.33329999446868896,
+          "Color1 Easing Type": 1,
+          "Color1 Easing Expo": 2.0,
+          "Color2": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Color2 Weight": 0.33329999446868896,
+          "Color2 Easing Type": 1,
+          "Color2 Easing Expo": 2.0,
+          "Color3": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Color3 Weight": 0.33329999446868896,
+          "Color3 Easing Type": 1,
+          "Color3 Easing Expo": 2.0
+        }
+      ]
+    },
+    {
+      "Effect Name": "Particle - Particle_GreenMoss_Tonado2",
+      "RenderType": 5,
+      "EffectType": 0,
+      "ParticleType": 7,
+      "Effect Shader Name": "FX_Instancing_PRULPC",
+      "Use Diffuse Texture": false,
+      "Diffuse Texture Name": "",
+      "Use Mask Texture": true,
+      "Mask Texture Name": "T_Leaf01",
+      "Is Sprite": false,
+      "Sprite Row": 1,
+      "Sprite Col": 1,
+      "Sprite Speed": 1.0,
+      "Is Loop": true,
+      "Is Billboard": true,
+      "Is Directional": true,
+      "Is Gravity": false,
+      "Is Glow": false,
+      "Is Bloom": false,
+      "Is AlphaAttenuation": false,
+      "Gravity Value": 9.800000190734863,
+      "Glow Weight": 0.0,
+      "Bloom Weight": 0.0,
+      "AlphaAttenuation Weight": 0.0,
+      "Random Life Time": false,
+      "Life Time": [
+        0.0,
+        7.5
+      ],
+      "Num Instance": 30,
+      "Size": [
+        0.10000000149011612,
+        0.30000001192092896
+      ],
+      "Color1": [
+        0.12693636119365692,
+        0.7696078419685364,
+        0.08676952123641968,
+        1.0
+      ],
+      "Color2": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Color3": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Speed": [
+        10.0,
+        25.0
+      ],
+      "Offset": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Pivot": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Range": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Rotation Per Second": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Radius": [
+        3.0,
+        5.0
+      ],
+      "Num KeyFrames": 3,
+      "KeyFrames": [
+        {
+          "Index": "KeyFrame0",
+          "Effect Shader Pass Index": 0,
+          "Time": 0.0,
+          "Render Culled": true,
+          "Size Ratio": 1.0,
+          "Size Easing Type": 1,
+          "Size Easing Expo": 2.0,
+          "Speed Ratio": 1.0,
+          "Speed Easing Type": 1,
+          "Speed Easing Expo": 2.0,
+          "Color1": [
+            0.12693636119365692,
+            0.7696078419685364,
+            0.08676952123641968,
+            1.0
+          ],
+          "Color1 Weight": 0.33329999446868896,
+          "Color1 Easing Type": 1,
+          "Color1 Easing Expo": 2.0,
+          "Color2": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Color2 Weight": 0.33329999446868896,
+          "Color2 Easing Type": 1,
+          "Color2 Easing Expo": 2.0,
+          "Color3": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Color3 Weight": 0.33329999446868896,
+          "Color3 Easing Type": 1,
+          "Color3 Easing Expo": 2.0
+        },
+        {
+          "Index": "KeyFrame1",
+          "Effect Shader Pass Index": 0,
+          "Time": 1.0,
+          "Render Culled": false,
+          "Size Ratio": 1.0,
+          "Size Easing Type": 1,
+          "Size Easing Expo": 2.0,
+          "Speed Ratio": 1.0,
+          "Speed Easing Type": 1,
+          "Speed Easing Expo": 2.0,
+          "Color1": [
+            0.12693636119365692,
+            0.7696078419685364,
+            0.08676952123641968,
+            1.0
+          ],
+          "Color1 Weight": 0.33329999446868896,
+          "Color1 Easing Type": 1,
+          "Color1 Easing Expo": 2.0,
+          "Color2": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Color2 Weight": 0.33329999446868896,
+          "Color2 Easing Type": 1,
+          "Color2 Easing Expo": 2.0,
+          "Color3": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Color3 Weight": 0.33329999446868896,
+          "Color3 Easing Type": 1,
+          "Color3 Easing Expo": 2.0
+        },
+        {
+          "Index": "KeyFrame2",
+          "Effect Shader Pass Index": 0,
+          "Time": 7.5,
+          "Render Culled": false,
+          "Size Ratio": 1.0,
+          "Size Easing Type": 1,
+          "Size Easing Expo": 2.0,
+          "Speed Ratio": 1.0,
+          "Speed Easing Type": 1,
+          "Speed Easing Expo": 2.0,
+          "Color1": [
+            0.12693636119365692,
+            0.7696078419685364,
+            0.08676952123641968,
+            1.0
+          ],
+          "Color1 Weight": 0.33329999446868896,
+          "Color1 Easing Type": 1,
+          "Color1 Easing Expo": 2.0,
+          "Color2": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Color2 Weight": 0.33329999446868896,
+          "Color2 Easing Type": 1,
+          "Color2 Easing Expo": 2.0,
+          "Color3": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Color3 Weight": 0.33329999446868896,
+          "Color3 Easing Type": 1,
+          "Color3 Easing Expo": 2.0
+        }
+      ]
+    }
+  ]
+}

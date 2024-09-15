@@ -1,0 +1,114 @@
+{
+  "Effect Group Name": "Group_Dororong_Stun",
+  "Duration": 3.0,
+  "Loop": false,
+  "Is Collider": false,
+  "Collider Type": 5,
+  "Collision Flag": 548865,
+  "Collision Layer": 1048577,
+  "Sphere Collider Radius": 0.0,
+  "Box Collider Extents": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Box Collider LocalPosition": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Box Collider LocalRotate": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Sound Name": "",
+  "Sound Loop": false,
+  "Sound Value": 1.0,
+  "Effects": [
+    {
+      "Effect Name": "Particle - Particle_Dororong_Stun",
+      "RenderType": 9,
+      "EffectType": 0,
+      "ParticleType": 5,
+      "Effect Shader Name": "FX_Instancing_PRULPC",
+      "Use Diffuse Texture": false,
+      "Diffuse Texture Name": "",
+      "Use Mask Texture": true,
+      "Mask Texture Name": "T_Star_02",
+      "Is Sprite": false,
+      "Sprite Row": 1,
+      "Sprite Col": 1,
+      "Sprite Speed": 1.0,
+      "Is Loop": false,
+      "Is Billboard": true,
+      "Is Directional": false,
+      "Is Gravity": false,
+      "Is Glow": false,
+      "Is Bloom": false,
+      "Is AlphaAttenuation": false,
+      "Gravity Value": 9.800000190734863,
+      "Glow Weight": 0.0,
+      "Bloom Weight": 0.0,
+      "AlphaAttenuation Weight": 0.0,
+      "Random Life Time": false,
+      "Life Time": [
+        0.0,
+        3.0
+      ],
+      "Num Instance": 5,
+      "Size": [
+        0.5,
+        0.5
+      ],
+      "Color1": [
+        1.0,
+        0.9705882668495178,
+        0.0,
+        1.0
+      ],
+      "Color2": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Color3": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Speed": [
+        5.0,
+        5.0
+      ],
+      "Offset": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Pivot": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Range": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Rotation Per Second": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Radius": [
+        1.0,
+        1.0
+      ],
+      "Num KeyFrames": 0,
+      "KeyFrames": []
+    }
+  ]
+}

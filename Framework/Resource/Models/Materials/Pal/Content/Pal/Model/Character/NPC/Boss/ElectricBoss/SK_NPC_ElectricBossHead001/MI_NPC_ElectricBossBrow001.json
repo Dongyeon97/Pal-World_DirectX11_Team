@@ -1,0 +1,49 @@
+{
+  "Textures": {
+    "Base Texture": "Pal/Content/Pal/Model/Character/NPC/Boss/ElectricBoss/SK_NPC_ElectricBossHead001/T_NPC_ElectricBossBrow001_B.T_NPC_ElectricBossBrow001_B",
+    "T_NPC_ElectricBossBrow001_B": "Pal/Content/Pal/Model/Character/NPC/Boss/ElectricBoss/SK_NPC_ElectricBossHead001/T_NPC_ElectricBossBrow001_B.T_NPC_ElectricBossBrow001_B",
+    "PM_Diffuse": "Pal/Content/Pal/Model/Character/Player/Body/Female/T_white_B.T_white_B",
+    "BaseColor Mask": "Pal/Content/Pal/Model/Character/Player/Body/Female/T_white_B.T_white_B",
+    "PM_SpecularMasks": "Pal/Content/Pal/Model/Character/NPC/Boss/ElectricBoss/SK_NPC_ElectricBossHead001/T_NPC_ElectricBossBrow001_M.T_NPC_ElectricBossBrow001_M",
+    "MetallicRoughnessOcclusionSpecularTexture": "Pal/Content/Pal/Model/Character/NPC/Boss/ElectricBoss/SK_NPC_ElectricBossHead001/T_NPC_ElectricBossBrow001_M.T_NPC_ElectricBossBrow001_M",
+    "PM_Normals": "Pal/Content/Pal/Model/Character/NPC/Boss/ElectricBoss/SK_NPC_ElectricBossHead001/T_NPC_ElectricBossBrow001_N.T_NPC_ElectricBossBrow001_N",
+    "Normal Map": "Pal/Content/Pal/Model/Character/NPC/Boss/ElectricBoss/SK_NPC_ElectricBossHead001/T_NPC_ElectricBossBrow001_N.T_NPC_ElectricBossBrow001_N"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 4,
+    "Colors": {
+      "BaseColor": {
+        "R": 0.651042,
+        "G": 0.460068,
+        "B": 0.512599,
+        "A": 1.0,
+        "Hex": "FFD3B5BE"
+      }
+    },
+    "Scalars": {
+      "Emissive Texture Intensity": 0.0,
+      "Roughness Add": 0.2,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_ClearCoat",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "SubsurfaceProfile": {
+        "ObjectName": "SubsurfaceProfile'SP_CharacterBodyBase'",
+        "ObjectPath": "Pal/Content/Pal/Material/Character/Common/SP_CharacterBodyBase.0"
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

@@ -1,0 +1,476 @@
+{
+    "Is Empty?": false,
+    "Tree Count": 7,
+    "Rock Count": 2,
+    "Pal Count": 3,
+    "Trees Information": {
+        "Habitat Type": 0,
+        "Nature Type": 0,
+        "Total Number of Trees": 7,
+        "Individual Information": {
+            "Tree109": [
+                {
+                    "Scale": [
+                        1.0,
+                        1.4943429231643677,
+                        1.0
+                    ]
+                },
+                {
+                    "Rotation": [
+                        0.0,
+                        198.43495178222656,
+                        0.0
+                    ]
+                },
+                {
+                    "Translation": [
+                        -3357.47119140625,
+                        -17.03011703491211,
+                        -2431.640869140625
+                    ]
+                },
+                {
+                    "Center": [
+                        0.0,
+                        0.5,
+                        0.0
+                    ]
+                },
+                {
+                    "Extents": [
+                        0.4000000059604645,
+                        3.0,
+                        0.4000000059604645
+                    ]
+                },
+                {
+                    "Included Octree Node Index": [
+                        5,
+                        3,
+                        4
+                    ]
+                },
+                {
+                    "Model File Path": "../../Resource/Models/Dat/MapMesh/Placeable/Tree/tree6.dat"
+                }
+            ],
+            "Tree110": [
+                {
+                    "Scale": [
+                        1.0,
+                        1.4737563133239746,
+                        1.0
+                    ]
+                },
+                {
+                    "Rotation": [
+                        0.0,
+                        29.776329040527344,
+                        0.0
+                    ]
+                },
+                {
+                    "Translation": [
+                        -3371.29541015625,
+                        -11.175187110900879,
+                        -2448.421142578125
+                    ]
+                },
+                {
+                    "Center": [
+                        0.0,
+                        0.5,
+                        0.0
+                    ]
+                },
+                {
+                    "Extents": [
+                        0.4000000059604645,
+                        3.0,
+                        0.4000000059604645
+                    ]
+                },
+                {
+                    "Included Octree Node Index": [
+                        5,
+                        3,
+                        4
+                    ]
+                },
+                {
+                    "Model File Path": "../../Resource/Models/Dat/MapMesh/Placeable/Tree/tree6.dat"
+                }
+            ],
+            "Tree111": [
+                {
+                    "Scale": [
+                        1.0,
+                        1.0217207670211792,
+                        1.0
+                    ]
+                },
+                {
+                    "Rotation": [
+                        0.0,
+                        238.4215087890625,
+                        0.0
+                    ]
+                },
+                {
+                    "Translation": [
+                        -3379.8115234375,
+                        -10.905770301818848,
+                        -2444.6787109375
+                    ]
+                },
+                {
+                    "Center": [
+                        0.0,
+                        0.5,
+                        0.0
+                    ]
+                },
+                {
+                    "Extents": [
+                        0.4000000059604645,
+                        3.0,
+                        0.4000000059604645
+                    ]
+                },
+                {
+                    "Included Octree Node Index": [
+                        5,
+                        3,
+                        4
+                    ]
+                },
+                {
+                    "Model File Path": "../../Resource/Models/Dat/MapMesh/Placeable/Tree/tree6.dat"
+                }
+            ],
+            "Tree112": [
+                {
+                    "Scale": [
+                        1.0,
+                        0.9519956111907959,
+                        1.0
+                    ]
+                },
+                {
+                    "Rotation": [
+                        0.0,
+                        177.34864807128906,
+                        0.0
+                    ]
+                },
+                {
+                    "Translation": [
+                        -3381.09326171875,
+                        -10.408584594726563,
+                        -2456.765625
+                    ]
+                },
+                {
+                    "Center": [
+                        0.0,
+                        0.5,
+                        0.0
+                    ]
+                },
+                {
+                    "Extents": [
+                        0.4000000059604645,
+                        3.0,
+                        0.4000000059604645
+                    ]
+                },
+                {
+                    "Included Octree Node Index": [
+                        5,
+                        3,
+                        4
+                    ]
+                },
+                {
+                    "Model File Path": "../../Resource/Models/Dat/MapMesh/Placeable/Tree/tree6.dat"
+                }
+            ],
+            "Tree113": [
+                {
+                    "Scale": [
+                        1.0,
+                        1.1517078876495361,
+                        1.0
+                    ]
+                },
+                {
+                    "Rotation": [
+                        0.0,
+                        237.4456787109375,
+                        0.0
+                    ]
+                },
+                {
+                    "Translation": [
+                        -3364.646728515625,
+                        -11.539376258850098,
+                        -2441.549072265625
+                    ]
+                },
+                {
+                    "Center": [
+                        0.0,
+                        0.5,
+                        0.0
+                    ]
+                },
+                {
+                    "Extents": [
+                        0.4000000059604645,
+                        3.0,
+                        0.4000000059604645
+                    ]
+                },
+                {
+                    "Included Octree Node Index": [
+                        5,
+                        3,
+                        4
+                    ]
+                },
+                {
+                    "Model File Path": "../../Resource/Models/Dat/MapMesh/Placeable/Tree/tree6.dat"
+                }
+            ],
+            "Tree114": [
+                {
+                    "Scale": [
+                        1.0,
+                        1.0373988151550293,
+                        1.0
+                    ]
+                },
+                {
+                    "Rotation": [
+                        0.0,
+                        160.8614501953125,
+                        0.0
+                    ]
+                },
+                {
+                    "Translation": [
+                        -3369.7578125,
+                        -11.124480247497559,
+                        -2433.541259765625
+                    ]
+                },
+                {
+                    "Center": [
+                        0.0,
+                        0.5,
+                        0.0
+                    ]
+                },
+                {
+                    "Extents": [
+                        0.4000000059604645,
+                        3.0,
+                        0.4000000059604645
+                    ]
+                },
+                {
+                    "Included Octree Node Index": [
+                        5,
+                        3,
+                        4
+                    ]
+                },
+                {
+                    "Model File Path": "../../Resource/Models/Dat/MapMesh/Placeable/Tree/tree6.dat"
+                }
+            ],
+            "Tree115": [
+                {
+                    "Scale": [
+                        1.0,
+                        0.9185259938240051,
+                        1.0
+                    ]
+                },
+                {
+                    "Rotation": [
+                        0.0,
+                        344.185546875,
+                        0.0
+                    ]
+                },
+                {
+                    "Translation": [
+                        -3377.027099609375,
+                        -10.804574966430664,
+                        -2425.82861328125
+                    ]
+                },
+                {
+                    "Center": [
+                        0.0,
+                        0.5,
+                        0.0
+                    ]
+                },
+                {
+                    "Extents": [
+                        0.4000000059604645,
+                        3.0,
+                        0.4000000059604645
+                    ]
+                },
+                {
+                    "Included Octree Node Index": [
+                        5,
+                        3,
+                        4
+                    ]
+                },
+                {
+                    "Model File Path": "../../Resource/Models/Dat/MapMesh/Placeable/Tree/tree6.dat"
+                }
+            ]
+        }
+    },
+    "Rocks Information": {
+        "Habitat Type": 0,
+        "Nature Type": 0,
+        "Total Number of Rocks": 2,
+        "Individual Information": {
+            "Rock54": [
+                {
+                    "Scale": [
+                        0.046532753854990005,
+                        0.10599997639656067,
+                        0.10600002110004425
+                    ]
+                },
+                {
+                    "Rotation": [
+                        -29.585683822631836,
+                        0.0,
+                        -0.0
+                    ]
+                },
+                {
+                    "Translation": [
+                        -3322.311279296875,
+                        -14.98886775970459,
+                        -2479.598388671875
+                    ]
+                },
+                {
+                    "Center": [
+                        0.0,
+                        2.0,
+                        0.0
+                    ]
+                },
+                {
+                    "Radius": 2.0
+                },
+                {
+                    "Included Octree Node Index": [
+                        5,
+                        3,
+                        4
+                    ]
+                },
+                {
+                    "Model File Path": "../../Resource/Models/Dat/MapMesh/Placeable/Rock/SM_pal_b00_rock_MineableRocks.dat"
+                }
+            ],
+            "Rock55": [
+                {
+                    "Scale": [
+                        0.05619833618402481,
+                        0.06499999761581421,
+                        0.12762849032878876
+                    ]
+                },
+                {
+                    "Rotation": [
+                        -0.0,
+                        0.0,
+                        -0.0
+                    ]
+                },
+                {
+                    "Translation": [
+                        -3367.7802734375,
+                        -4.2866291999816895,
+                        -2471.845703125
+                    ]
+                },
+                {
+                    "Center": [
+                        0.0,
+                        2.0,
+                        0.0
+                    ]
+                },
+                {
+                    "Radius": 2.0
+                },
+                {
+                    "Included Octree Node Index": [
+                        5,
+                        3,
+                        4
+                    ]
+                },
+                {
+                    "Model File Path": "../../Resource/Models/Dat/MapMesh/Placeable/Rock/SM_pal_b00_rock_MineableRocks.dat"
+                }
+            ]
+        }
+    },
+    "Pals Information": {
+        "Total Number of Pals": 3,
+        "Individual Information": {
+            "Pal32": [
+                {
+                    "Translation": [
+                        -3398.496826171875,
+                        -6.358797073364258,
+                        -2441.130615234375
+                    ]
+                },
+                {
+                    "Monster Type": 0
+                }
+            ],
+            "Pal33": [
+                {
+                    "Translation": [
+                        -3422.7998046875,
+                        -3.9650158882141113,
+                        -2445.35986328125
+                    ]
+                },
+                {
+                    "Monster Type": 0
+                }
+            ],
+            "Pal34": [
+                {
+                    "Translation": [
+                        -3402.234130859375,
+                        -2.808664083480835,
+                        -2456.143310546875
+                    ]
+                },
+                {
+                    "Monster Type": 0
+                }
+            ]
+        }
+    }
+}

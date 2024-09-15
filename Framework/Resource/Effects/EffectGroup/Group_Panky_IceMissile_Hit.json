@@ -1,0 +1,450 @@
+{
+  "Effect Group Name": "Group_Panky_IceMissile_Hit",
+  "Duration": 2.0,
+  "Loop": false,
+  "Is Collider": false,
+  "Collider Type": 5,
+  "Collision Flag": 61443,
+  "Collision Layer": 262145,
+  "Sphere Collider Radius": 0.0,
+  "Box Collider Extents": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Box Collider LocalPosition": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Box Collider LocalRotate": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Sound Name": "AKE_General_Hit_IceMissile_1_487888281",
+  "Sound Loop": false,
+  "Sound Value": 1.0,
+  "Effects": [
+    {
+      "Effect Name": "Particle - q",
+      "RenderType": 9,
+      "EffectType": 0,
+      "ParticleType": 1,
+      "Effect Shader Name": "FX_Instancing_PRULPC",
+      "Use Diffuse Texture": true,
+      "Diffuse Texture Name": "T_ky_ice02",
+      "Use Mask Texture": true,
+      "Mask Texture Name": "KakaoTalk_20240427_141808928",
+      "Is Sprite": false,
+      "Sprite Row": 1,
+      "Sprite Col": 1,
+      "Sprite Speed": 1.0,
+      "Is Loop": false,
+      "Is Billboard": true,
+      "Is Directional": true,
+      "Is Gravity": true,
+      "Is Glow": false,
+      "Is Bloom": false,
+      "Is AlphaAttenuation": false,
+      "Gravity Value": 0.4,
+      "Glow Weight": 0.0,
+      "Bloom Weight": 0.0,
+      "AlphaAttenuation Weight": 0.0,
+      "Random Life Time": true,
+      "Life Time": [
+        0.0,
+        0.5
+      ],
+      "Num Instance": 30,
+      "Size": [
+        0.2,
+        0.3
+      ],
+      "Color1": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Color2": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Color3": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Speed": [
+        2.0,
+        2.5
+      ],
+      "Offset": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Pivot": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Range": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Rotation Per Second": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Radius": [
+        0.0010000000474974513,
+        0.0010000000474974513
+      ],
+      "Num KeyFrames": 0,
+      "KeyFrames": []
+    },
+    {
+      "Effect Name": "Particle - qwe",
+      "RenderType": 9,
+      "EffectType": 0,
+      "ParticleType": 1,
+      "Effect Shader Name": "FX_Instancing_PRULPC",
+      "Use Diffuse Texture": false,
+      "Diffuse Texture Name": "T_ky_ice02",
+      "Use Mask Texture": true,
+      "Mask Texture Name": "KakaoTalk_20240427_132746855",
+      "Is Sprite": false,
+      "Sprite Row": 1,
+      "Sprite Col": 1,
+      "Sprite Speed": 1.0,
+      "Is Loop": false,
+      "Is Billboard": true,
+      "Is Directional": true,
+      "Is Gravity": true,
+      "Is Glow": false,
+      "Is Bloom": false,
+      "Is AlphaAttenuation": false,
+      "Gravity Value": 0.4,
+      "Glow Weight": 0.0,
+      "Bloom Weight": 0.0,
+      "AlphaAttenuation Weight": 0.0,
+      "Random Life Time": true,
+      "Life Time": [
+        0.0,
+        0.5
+      ],
+      "Num Instance": 5,
+      "Size": [
+        0.2,
+        0.3
+      ],
+      "Color1": [
+        0.6960784196853638,
+        0.8659169673919678,
+        1.0,
+        1.0
+      ],
+      "Color2": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Color3": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Speed": [
+        2.0,
+        2.5
+      ],
+      "Offset": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Pivot": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Range": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Rotation Per Second": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Radius": [
+        0.0010000000474974513,
+        0.0010000000474974513
+      ],
+      "Num KeyFrames": 0,
+      "KeyFrames": []
+    },
+    {
+      "Effect Name": "Particle - qwer",
+      "RenderType": 9,
+      "EffectType": 0,
+      "ParticleType": 1,
+      "Effect Shader Name": "FX_Instancing_PRULPC",
+      "Use Diffuse Texture": false,
+      "Diffuse Texture Name": "T_ky_ice02",
+      "Use Mask Texture": true,
+      "Mask Texture Name": "KakaoTalk_20240427_132746855_01",
+      "Is Sprite": false,
+      "Sprite Row": 1,
+      "Sprite Col": 1,
+      "Sprite Speed": 1.0,
+      "Is Loop": false,
+      "Is Billboard": true,
+      "Is Directional": true,
+      "Is Gravity": true,
+      "Is Glow": false,
+      "Is Bloom": false,
+      "Is AlphaAttenuation": false,
+      "Gravity Value": 0.4,
+      "Glow Weight": 0.0,
+      "Bloom Weight": 0.0,
+      "AlphaAttenuation Weight": 0.0,
+      "Random Life Time": true,
+      "Life Time": [
+        0.0,
+        0.5
+      ],
+      "Num Instance": 5,
+      "Size": [
+        0.2,
+        0.3
+      ],
+      "Color1": [
+        0.6960784196853638,
+        0.8659169673919678,
+        1.0,
+        1.0
+      ],
+      "Color2": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Color3": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Speed": [
+        2.0,
+        2.5
+      ],
+      "Offset": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Pivot": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Range": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Rotation Per Second": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Radius": [
+        0.0010000000474974513,
+        0.0010000000474974513
+      ],
+      "Num KeyFrames": 0,
+      "KeyFrames": []
+    },
+    {
+      "Effect Name": "Particle - qwert",
+      "RenderType": 9,
+      "EffectType": 0,
+      "ParticleType": 1,
+      "Effect Shader Name": "FX_Instancing_PRULPC",
+      "Use Diffuse Texture": false,
+      "Diffuse Texture Name": "T_ky_ice02",
+      "Use Mask Texture": true,
+      "Mask Texture Name": "KakaoTalk_20240427_132746855_02",
+      "Is Sprite": false,
+      "Sprite Row": 1,
+      "Sprite Col": 1,
+      "Sprite Speed": 1.0,
+      "Is Loop": false,
+      "Is Billboard": true,
+      "Is Directional": true,
+      "Is Gravity": true,
+      "Is Glow": false,
+      "Is Bloom": false,
+      "Is AlphaAttenuation": false,
+      "Gravity Value": 0.4,
+      "Glow Weight": 0.0,
+      "Bloom Weight": 0.0,
+      "AlphaAttenuation Weight": 0.0,
+      "Random Life Time": true,
+      "Life Time": [
+        0.0,
+        0.5
+      ],
+      "Num Instance": 5,
+      "Size": [
+        0.2,
+        0.3
+      ],
+      "Color1": [
+        0.6960784196853638,
+        0.8659169673919678,
+        1.0,
+        1.0
+      ],
+      "Color2": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Color3": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Speed": [
+        2.0,
+        2.5
+      ],
+      "Offset": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Pivot": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Range": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Rotation Per Second": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Radius": [
+        0.0010000000474974513,
+        0.0010000000474974513
+      ],
+      "Num KeyFrames": 0,
+      "KeyFrames": []
+    },
+    {
+      "Effect Name": "Particle - qwerty",
+      "RenderType": 9,
+      "EffectType": 0,
+      "ParticleType": 1,
+      "Effect Shader Name": "FX_Instancing_PRULPC",
+      "Use Diffuse Texture": false,
+      "Diffuse Texture Name": "T_ky_ice02",
+      "Use Mask Texture": true,
+      "Mask Texture Name": "KakaoTalk_20240427_132746855_03",
+      "Is Sprite": false,
+      "Sprite Row": 1,
+      "Sprite Col": 1,
+      "Sprite Speed": 1.0,
+      "Is Loop": false,
+      "Is Billboard": true,
+      "Is Directional": true,
+      "Is Gravity": true,
+      "Is Glow": false,
+      "Is Bloom": false,
+      "Is AlphaAttenuation": false,
+      "Gravity Value": 0.4,
+      "Glow Weight": 0.0,
+      "Bloom Weight": 0.0,
+      "AlphaAttenuation Weight": 0.0,
+      "Random Life Time": true,
+      "Life Time": [
+        0.0,
+        0.5
+      ],
+      "Num Instance": 5,
+      "Size": [
+        0.2,
+        0.3
+      ],
+      "Color1": [
+        0.6960784196853638,
+        0.8659169673919678,
+        1.0,
+        1.0
+      ],
+      "Color2": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Color3": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Speed": [
+        2.0,
+        2.5
+      ],
+      "Offset": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Pivot": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Range": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Rotation Per Second": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Radius": [
+        0.0010000000474974513,
+        0.0010000000474974513
+      ],
+      "Num KeyFrames": 0,
+      "KeyFrames": []
+    }
+  ]
+}

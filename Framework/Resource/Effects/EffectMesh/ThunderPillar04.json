@@ -1,0 +1,183 @@
+{
+    "RenderType": 9,
+    "EffectType": 1,
+    "Model File Path": "../../Resource/Models/Dat/NonAnim/EffectMeshs/Thunder09.dat",
+    "Effect Shader Name": "FX_EffectMesh_PNT2T",
+    "Scale": [
+        1.5,
+        1.5,
+        1.5
+    ],
+    "Rotation": [
+        0.0,
+        90.0,
+        0.0
+    ],
+    "Translation": [
+        0.0,
+        10.0,
+        0.0
+    ],
+    "Diffuse Color1": [
+        1.0,
+        1.0,
+        0.5882353186607361,
+        1.0
+    ],
+    "Diffuse Color2": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+    ],
+    "Diffuse Color3": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+    ],
+    "Diffuse Texture Name": "",
+    "Noise Texture Name": "Eff_Noise_25",
+    "Mask Texture Name": "Pattern_Non_Direction_0404",
+    "Distortion Texture Name": "",
+    "Dissolve Texture Name": "Eff_Noise_01",
+    "Is Sprite": false,
+    "Sprite Row": 1,
+    "Sprite Col": 1,
+    "Sprite Speed": 1.0,
+    "Is Anim": false,
+    "Is Loop": false,
+    "Is UVMove Loop": true,
+    "Is Glow": false,
+    "Is Bloom": false,
+    "Is AlphaAttenuation": false,
+    "Use Diffuse Texture": false,
+    "Use Noise Texture": true,
+    "Use Mask Texture": true,
+    "Use Distortion Texture": false,
+    "Use Dissolve Texture": true,
+    "Distortion Weight": 0.0,
+    "Dissolve Weight": 0.0,
+    "Glow Weight": 0.0,
+    "Bloom Weight": 0.0,
+    "AlphaAttenuation Weight": 0.0,
+    "Life Time": [
+        0.0,
+        0.20000000298023224
+    ],
+    "UVMove Speed": [
+        0.0,
+        5.0
+    ],
+    "Num KeyFrames": 2,
+    "KeyFrames": [
+      {
+        "Index": "KeyFrame0",
+        "Effect Shader Pass Index": 0,
+        "Time": 0.0,
+        "Color1": [
+          1.0,
+          1.0,
+          0.5882353186607361,
+          1.0
+        ],
+        "Color1 Weight": 0.33329999446868896,
+        "Color1 Easing Type": 1,
+        "Color1 Easing Expo": 2.0,
+        "Color2": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Color2 Weight": 0.33329999446868896,
+        "Color2 Easing Type": 1,
+        "Color2 Easing Expo": 2.0,
+        "Color3": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Color3 Weight": 0.33329999446868896,
+        "Color3 Easing Type": 1,
+        "Color3 Easing Expo": 2.0,
+        "Scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Scale Easing Type": 1,
+        "Scale Easing Expo": 2.0,
+        "Rotation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Rotation Easing Type": 1,
+        "Rotation Easing Expo": 2.0,
+        "Translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translation Easing Type": 1,
+        "Translation Easing Expo": 2.0,
+        "Rotate Weight": 0.0
+      },
+      {
+        "Index": "KeyFrame1",
+        "Effect Shader Pass Index": 0,
+        "Time": 0.20000000298023224,
+        "Color1": [
+          0.4431372582912445,
+          0.9019607901573181,
+          1.0,
+          1.0
+        ],
+        "Color1 Weight": 0.33329999446868896,
+        "Color1 Easing Type": 12,
+        "Color1 Easing Expo": 2.0,
+        "Color2": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Color2 Weight": 0.33329999446868896,
+        "Color2 Easing Type": 1,
+        "Color2 Easing Expo": 2.0,
+        "Color3": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Color3 Weight": 0.33329999446868896,
+        "Color3 Easing Type": 1,
+        "Color3 Easing Expo": 2.0,
+        "Scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Scale Easing Type": 1,
+        "Scale Easing Expo": 2.0,
+        "Rotation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Rotation Easing Type": 1,
+        "Rotation Easing Expo": 2.0,
+        "Translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translation Easing Type": 1,
+        "Translation Easing Expo": 2.0,
+        "Rotate Weight": 0.0
+      }
+    ]
+}

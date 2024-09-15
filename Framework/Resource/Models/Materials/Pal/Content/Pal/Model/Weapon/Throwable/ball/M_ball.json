@@ -1,0 +1,26 @@
+{
+  "Textures": {
+    "M_ball2_ball_AlbedoTransparency": "Pal/Content/Pal/Model/Weapon/Throwable/ball/M_ball2_ball_AlbedoTransparency.M_ball2_ball_AlbedoTransparency",
+    "M_ball2_ball_Emission": "Pal/Content/Pal/Model/Weapon/Throwable/ball/M_ball2_ball_Emission.M_ball2_ball_Emission",
+    "PM_Diffuse": "Pal/Content/Pal/Model/Weapon/Throwable/ball/M_ball2_ball_AlbedoTransparency.M_ball2_ball_AlbedoTransparency",
+    "PM_Emissive": "Pal/Content/Pal/Model/Weapon/Throwable/ball/M_ball2_ball_Emission.M_ball2_ball_Emission"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {},
+    "Switches": {},
+    "Properties": {
+      "bUsedWithNanite": true,
+      "bCanMaskedBeAssumedOpaque": true,
+      "StateId": "4D0E9003-41897344-AC0C849C-8CD23682"
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

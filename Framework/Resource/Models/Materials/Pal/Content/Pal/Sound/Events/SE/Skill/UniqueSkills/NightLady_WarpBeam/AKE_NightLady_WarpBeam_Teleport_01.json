@@ -1,0 +1,45 @@
+[
+  {
+    "Type": "AkAssetPlatformData",
+    "Name": "AkAssetPlatformData_0",
+    "Outer": "AKE_NightLady_WarpBeam_Teleport_01",
+    "Class": "UScriptClass'AkAssetPlatformData'"
+  },
+  {
+    "Type": "AkAudioEvent",
+    "Name": "AKE_NightLady_WarpBeam_Teleport_01",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Properties": {
+      "RequiredBank": {
+        "ObjectName": "AkAudioBank'AKB_SE_Skill'",
+        "ObjectPath": "Pal/Content/Pal/Sound/SoundBank/AKB_SE_Skill.2"
+      },
+      "PlatformAssetData": {
+        "ObjectName": "AkAssetPlatformData'AKE_NightLady_WarpBeam_Teleport_01:AkAssetPlatformData_0'",
+        "ObjectPath": "Pal/Content/Pal/Sound/Events/SE/Skill/UniqueSkills/NightLady_WarpBeam/AKE_NightLady_WarpBeam_Teleport_01.0"
+      },
+      "ShortID": 1985565835
+    }
+  },
+  {
+    "Type": "AkAudioEventData",
+    "Name": "AkAudioEventData_0",
+    "Outer": "AKE_NightLady_WarpBeam_Teleport_01",
+    "Class": "UScriptClass'AkAudioEventData'",
+    "Properties": {
+      "MaxAttenuationRadius": 8000.0,
+      "MinimumDuration": 0.97,
+      "MaximumDuration": 0.98,
+      "MediaList": [
+        {
+          "ObjectName": "AkMediaAsset'399387562'",
+          "ObjectPath": "Pal/Content/Pal/Sound/Media/399387562.0"
+        },
+        {
+          "ObjectName": "AkMediaAsset'1016068131'",
+          "ObjectPath": "Pal/Content/Pal/Sound/Media/1016068131.0"
+        }
+      ]
+    }
+  }
+]

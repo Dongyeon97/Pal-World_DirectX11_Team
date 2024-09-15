@@ -1,0 +1,16 @@
+[
+	{
+		"Duration" : 0.0,
+		"EndTime" : 1.6075999736785889,
+		"SoundID" : "AKE_Weapon_AssultRifle_Equip_Gun_111832450",
+		"StartTime" : 1.6075999736785889,
+		"Type" : "Sound"
+	},
+	{
+		"Duration" : 0.0,
+		"EndTime" : 1.0389000177383423,
+		"SoundID" : "AKE_Weapon_AssultRifle_Equip_Gun_111832450",
+		"StartTime" : 1.0389000177383423,
+		"Type" : "Sound"
+	}
+]

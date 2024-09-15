@@ -1,0 +1,63 @@
+{
+  "Textures": {
+    "MainTex": "Pal/Content/Others/ProjectilesVol2/Textures/T_Noise50.T_Noise50",
+    "T_Noise50": "Pal/Content/Others/ProjectilesVol2/Textures/T_Noise50.T_Noise50"
+  },
+  "Parameters": {
+    "BlendMode": 2,
+    "ShadingModel": 0,
+    "Colors": {
+      "Color1": {
+        "R": 40.0,
+        "G": 0.229493,
+        "B": 0.0,
+        "A": 1.0,
+        "Hex": "FFFF8400"
+      },
+      "Color2": {
+        "R": 1.0,
+        "G": 0.2,
+        "B": 0.0,
+        "A": 1.0,
+        "Hex": "FFFF7C00"
+      },
+      "Color3": {
+        "R": 1.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 1.0,
+        "Hex": "FFFF0000"
+      }
+    },
+    "Scalars": {
+      "midPoint": 0.6,
+      "rootColor": 0.4,
+      "alpha": 0.06,
+      "alphaEdge": 0.08,
+      "rootAlpha": 1.0,
+      "OffsetScale": 60.0,
+      "vertexRoot": 0.94,
+      "MainUTilling": 4.0,
+      "MainVTilling": 2.0,
+      "MainUSpeed": 0.2,
+      "MainVSpeed": 0.7,
+      "rgbMax": 0.924819,
+      "NoiseUTilling": 2.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Translucent",
+        "ShadingModel": "EMaterialShadingModel::MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": true,
+    "IsNull": false
+  }
+}

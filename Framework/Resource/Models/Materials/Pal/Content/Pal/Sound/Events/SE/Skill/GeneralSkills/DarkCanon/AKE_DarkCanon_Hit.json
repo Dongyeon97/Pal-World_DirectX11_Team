@@ -1,0 +1,41 @@
+[
+  {
+    "Type": "AkAssetPlatformData",
+    "Name": "AkAssetPlatformData_0",
+    "Outer": "AKE_DarkCanon_Hit",
+    "Class": "UScriptClass'AkAssetPlatformData'"
+  },
+  {
+    "Type": "AkAudioEvent",
+    "Name": "AKE_DarkCanon_Hit",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Properties": {
+      "RequiredBank": {
+        "ObjectName": "AkAudioBank'AKB_SE_Skill'",
+        "ObjectPath": "Pal/Content/Pal/Sound/SoundBank/AKB_SE_Skill.2"
+      },
+      "PlatformAssetData": {
+        "ObjectName": "AkAssetPlatformData'AKE_DarkCanon_Hit:AkAssetPlatformData_0'",
+        "ObjectPath": "Pal/Content/Pal/Sound/Events/SE/Skill/GeneralSkills/DarkCanon/AKE_DarkCanon_Hit.0"
+      },
+      "ShortID": 153720940
+    }
+  },
+  {
+    "Type": "AkAudioEventData",
+    "Name": "AkAudioEventData_0",
+    "Outer": "AKE_DarkCanon_Hit",
+    "Class": "UScriptClass'AkAudioEventData'",
+    "Properties": {
+      "MaxAttenuationRadius": 8000.0,
+      "MinimumDuration": 1.366667,
+      "MaximumDuration": 1.366667,
+      "MediaList": [
+        {
+          "ObjectName": "AkMediaAsset'732694646'",
+          "ObjectPath": "Pal/Content/Pal/Sound/Media/732694646.0"
+        }
+      ]
+    }
+  }
+]

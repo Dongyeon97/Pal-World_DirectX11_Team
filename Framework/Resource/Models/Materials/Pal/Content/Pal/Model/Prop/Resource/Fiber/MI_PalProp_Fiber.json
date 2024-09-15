@@ -1,0 +1,60 @@
+{
+  "Textures": {
+    "Base Texture": "Pal/Content/Pal/Model/Prop/Resource/Fiber/T_Fiber_B.T_Fiber_B",
+    "T_Fiber_B": "Pal/Content/Pal/Model/Prop/Resource/Fiber/T_Fiber_B.T_Fiber_B",
+    "PM_Normals": "Pal/Content/Pal/Model/Prop/Resource/Fiber/T_Fiber_N.T_Fiber_N",
+    "Normal Map": "Pal/Content/Pal/Model/Prop/Resource/Fiber/T_Fiber_N.T_Fiber_N",
+    "Subsurface Texture": "Pal/Content/Pal/Model/Prop/Resource/Feces/T_Feces_B.T_Feces_B",
+    "T_Feces_B": "Pal/Content/Pal/Model/Prop/Resource/Feces/T_Feces_B.T_Feces_B"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 2,
+    "Colors": {
+      "BaseColor": {
+        "R": 0.5,
+        "G": 0.5,
+        "B": 0.5,
+        "A": 1.0,
+        "Hex": "FFBCBCBC"
+      },
+      "Subsurface Color": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 0.0,
+        "Hex": "FFFFFF"
+      }
+    },
+    "Scalars": {
+      "Value": 0.5,
+      "Roughness": 0.7,
+      "Normal Map Intensity": 3.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "bOverride_OpacityMaskClipValue": true,
+        "bOverride_BlendMode": true,
+        "bOverride_ShadingModel": true,
+        "bOverride_TwoSided": true,
+        "TwoSided": true,
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_Subsurface",
+        "OpacityMaskClipValue": 0.7
+      },
+      "SubsurfaceProfile": {
+        "ObjectName": "SubsurfaceProfile'SP_CharacterBodyBase'",
+        "ObjectPath": "Pal/Content/Pal/Material/Character/Common/SP_CharacterBodyBase.0"
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

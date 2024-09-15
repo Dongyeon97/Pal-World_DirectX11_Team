@@ -1,0 +1,29 @@
+{
+  "Textures": {
+    "Tex_MissileLauncher_Diff": "Pal/Content/Others/MissileTurret/MissileTurret/TurretMesh/Textures/Tex_MissileLauncher_Diff.Tex_MissileLauncher_Diff",
+    "Tex_MissileLauncher_Emissive": "Pal/Content/Others/MissileTurret/MissileTurret/TurretMesh/Textures/Tex_MissileLauncher_Emissive.Tex_MissileLauncher_Emissive",
+    "Tex_MissileLauncher_Met_Rough_AO": "Pal/Content/Others/MissileTurret/MissileTurret/TurretMesh/Textures/Tex_MissileLauncher_Met_Rough_AO.Tex_MissileLauncher_Met_Rough_AO",
+    "Tex_MissileLauncher_Normal": "Pal/Content/Others/MissileTurret/MissileTurret/TurretMesh/Textures/Tex_MissileLauncher_Normal.Tex_MissileLauncher_Normal",
+    "Tex_MissileLauncher_Spec": "Pal/Content/Others/MissileTurret/MissileTurret/TurretMesh/Textures/Tex_MissileLauncher_Spec.Tex_MissileLauncher_Spec",
+    "PM_Diffuse": "Pal/Content/Others/MissileTurret/MissileTurret/TurretMesh/Textures/Tex_MissileLauncher_Diff.Tex_MissileLauncher_Diff",
+    "PM_Normals": "Pal/Content/Others/MissileTurret/MissileTurret/TurretMesh/Textures/Tex_MissileLauncher_Normal.Tex_MissileLauncher_Normal",
+    "PM_Emissive": "Pal/Content/Others/MissileTurret/MissileTurret/TurretMesh/Textures/Tex_MissileLauncher_Emissive.Tex_MissileLauncher_Emissive"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {},
+    "Switches": {},
+    "Properties": {
+      "bUsedWithSkeletalMesh": true,
+      "StateId": "562DEC6A-47DD043C-B39436A1-F41BD624"
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

@@ -1,0 +1,28 @@
+[
+	{
+		"AttachBoneName" : "leg_front_03_l",
+		"Duration" : 0.0,
+		"EffectName" : "Group_GreenMoss_Stomp",
+		"EndTime" : 1.8414000272750854,
+		"StartTime" : 1.8414000272750854,
+		"Type" : "Effect",
+		"UseFollowBone" : false,
+		"vRelativeLocationX" : 0.0,
+		"vRelativeLocationY" : -38.0,
+		"vRelativeLocationZ" : -97.0
+	},
+	{
+		"Duration" : 0.0,
+		"EndTime" : 0.0,
+		"SoundID" : "Earthquake_01_Set_177068792",
+		"StartTime" : 0.0,
+		"Type" : "Sound"
+	},
+	{
+		"Duration" : 0.0,
+		"EndTime" : 1.6882332563400269,
+		"SoundID" : "Earthquake_01_Hit_737422574",
+		"StartTime" : 1.6882332563400269,
+		"Type" : "Sound"
+	}
+]

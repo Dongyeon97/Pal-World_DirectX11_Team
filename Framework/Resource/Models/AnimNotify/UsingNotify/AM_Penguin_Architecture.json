@@ -1,0 +1,14 @@
+[
+	{
+		"AttachBoneName" : "root",
+		"Duration" : 0.0,
+		"EffectName" : "Group_Build_Particle",
+		"EndTime" : 0.23337759077548981,
+		"StartTime" : 0.23337759077548981,
+		"Type" : "Effect",
+		"UseFollowBone" : false,
+		"vRelativeLocationX" : -11.0,
+		"vRelativeLocationY" : -66.999992370605469,
+		"vRelativeLocationZ" : -19.0
+	}
+]

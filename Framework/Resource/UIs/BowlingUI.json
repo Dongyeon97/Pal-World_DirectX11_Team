@@ -1,0 +1,1124 @@
+{
+    "Child Panel Size": 0,
+    "Panels0": {
+        "Panel Name": "BowlingUI",
+        "Panel Projection Type": 0,
+        "Panel Depth": 20,
+        "Panel Pivot Component Name": "BaseImage",
+        "Components Size": 16,
+        "Components0": [
+            {
+                "Component Name": "BaseImage",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    640.0,
+                    360.0
+                ],
+                "World Position": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1280.0,
+                    720.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 0,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": true,
+                "IsColor": false,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": true,
+                "IsInteraction": false,
+                "Image Texture Name": "T_MiniGame_BaseImage1",
+                "Image Type": 0
+            }
+        ],
+        "Components1": [
+            {
+                "Component Name": "NPCAnimation",
+                "Render Type": 6,
+                "UI Type": 1,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 5,
+                "Center": [
+                    1175.0,
+                    170.0
+                ],
+                "World Position": [
+                    535.0,
+                    190.0,
+                    0.0
+                ],
+                "Scale": [
+                    187.0,
+                    72.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 1,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 0.6000000238418579,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": true,
+                "IsColor": false,
+                "RelativeCenter": [
+                    535.0,
+                    -190.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Animation Texture Name": "T_MiniGame_NPCImage",
+                "EasingType": 12,
+                "Loop": false,
+                "Start Index": 2,
+                "End Index": 3,
+                "KeyFrame Size": 5,
+                "KeyFrames": [
+                    {
+                        "KeyFrame0": [
+                            {
+                                "KeyFrame Name": 0.0,
+                                "KeyFrame Time": 0.0,
+                                "KeyFrame Position": [
+                                    1175.0,
+                                    170.0,
+                                    0.0
+                                ],
+                                "KeyFrame RelativeCenter": [
+                                    0.0,
+                                    0.0
+                                ],
+                                "KeyFrame Scale": [
+                                    187.0,
+                                    72.0,
+                                    1.0
+                                ],
+                                "KeyFrame Angle": 0.0,
+                                "KeyFrame Color": [
+                                    1.0,
+                                    1.0,
+                                    1.0,
+                                    1.0
+                                ],
+                                "KeyFrame Alpha": 0.6000000238418579,
+                                "KeyFrame Speed": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "KeyFrame1": [
+                            {
+                                "KeyFrame Name": 1.5,
+                                "KeyFrame Time": 1.5,
+                                "KeyFrame Position": [
+                                    1160.0,
+                                    175.0,
+                                    0.0
+                                ],
+                                "KeyFrame RelativeCenter": [
+                                    520.0,
+                                    -185.0
+                                ],
+                                "KeyFrame Scale": [
+                                    225.0,
+                                    86.0,
+                                    1.0
+                                ],
+                                "KeyFrame Angle": 0.0,
+                                "KeyFrame Color": [
+                                    1.0,
+                                    1.0,
+                                    1.0,
+                                    1.0
+                                ],
+                                "KeyFrame Alpha": 1.0,
+                                "KeyFrame Speed": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "KeyFrame2": [
+                            {
+                                "KeyFrame Name": 3.0,
+                                "KeyFrame Time": 3.0,
+                                "KeyFrame Position": [
+                                    1175.0,
+                                    170.0,
+                                    0.0
+                                ],
+                                "KeyFrame RelativeCenter": [
+                                    0.0,
+                                    0.0
+                                ],
+                                "KeyFrame Scale": [
+                                    187.0,
+                                    72.0,
+                                    1.0
+                                ],
+                                "KeyFrame Angle": 0.0,
+                                "KeyFrame Color": [
+                                    1.0,
+                                    1.0,
+                                    1.0,
+                                    1.0
+                                ],
+                                "KeyFrame Alpha": 0.6000000238418579,
+                                "KeyFrame Speed": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "KeyFrame3": [
+                            {
+                                "KeyFrame Name": 3.0999999046325684,
+                                "KeyFrame Time": 3.0999999046325684,
+                                "KeyFrame Position": [
+                                    1175.0,
+                                    170.0,
+                                    0.0
+                                ],
+                                "KeyFrame RelativeCenter": [
+                                    0.0,
+                                    0.0
+                                ],
+                                "KeyFrame Scale": [
+                                    187.0,
+                                    72.0,
+                                    1.0
+                                ],
+                                "KeyFrame Angle": 0.0,
+                                "KeyFrame Color": [
+                                    1.0,
+                                    1.0,
+                                    1.0,
+                                    1.0
+                                ],
+                                "KeyFrame Alpha": 0.6000000238418579,
+                                "KeyFrame Speed": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "KeyFrame4": [
+                            {
+                                "KeyFrame Name": 3.200000047683716,
+                                "KeyFrame Time": 3.200000047683716,
+                                "KeyFrame Position": [
+                                    1160.0,
+                                    175.0,
+                                    0.0
+                                ],
+                                "KeyFrame RelativeCenter": [
+                                    0.0,
+                                    0.0
+                                ],
+                                "KeyFrame Scale": [
+                                    225.0,
+                                    86.0,
+                                    1.0
+                                ],
+                                "KeyFrame Angle": 0.0,
+                                "KeyFrame Color": [
+                                    1.0,
+                                    1.0,
+                                    1.0,
+                                    1.0
+                                ],
+                                "KeyFrame Alpha": 1.0,
+                                "KeyFrame Speed": 0.0
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "Components2": [
+            {
+                "Component Name": "NPCTurn0_0Text",
+                "Render Type": 6,
+                "UI Type": 4,
+                "ShaderFileName": "",
+                "PassIndex": 0,
+                "Center": [
+                    965.0,
+                    57.0
+                ],
+                "World Position": [
+                    325.0,
+                    303.0,
+                    0.0
+                ],
+                "Scale": [
+                    0.699999988079071,
+                    0.699999988079071,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 1,
+                "Ratio": 1.0,
+                "Color": [
+                    0.6666666269302368,
+                    0.9789029955863953,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": true,
+                "RelativeCenter": [
+                    325.0,
+                    -303.0
+                ],
+                "IsRelative": true,
+                "IsInteraction": false,
+                "Font File Name": "OxaniumMedium30",
+                "Text": "00",
+                "Origin": [
+                    0.0,
+                    0.0
+                ],
+                "Option": 0,
+                "Text Type": 1
+            }
+        ],
+        "Components3": [
+            {
+                "Component Name": "NPCTurn0_1Text",
+                "Render Type": 6,
+                "UI Type": 4,
+                "ShaderFileName": "",
+                "PassIndex": 0,
+                "Center": [
+                    1013.0,
+                    57.0
+                ],
+                "World Position": [
+                    373.0,
+                    303.0,
+                    0.0
+                ],
+                "Scale": [
+                    0.699999988079071,
+                    0.699999988079071,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 1,
+                "Ratio": 1.0,
+                "Color": [
+                    0.6666666269302368,
+                    0.9789029955863953,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": true,
+                "RelativeCenter": [
+                    373.0,
+                    -303.0
+                ],
+                "IsRelative": true,
+                "IsInteraction": false,
+                "Font File Name": "OxaniumMedium30",
+                "Text": "00",
+                "Origin": [
+                    0.0,
+                    0.0
+                ],
+                "Option": 0,
+                "Text Type": 1
+            }
+        ],
+        "Components4": [
+            {
+                "Component Name": "NPCTurn1_0Text",
+                "Render Type": 6,
+                "UI Type": 4,
+                "ShaderFileName": "",
+                "PassIndex": 0,
+                "Center": [
+                    1064.0,
+                    57.0
+                ],
+                "World Position": [
+                    424.0,
+                    303.0,
+                    0.0
+                ],
+                "Scale": [
+                    0.699999988079071,
+                    0.699999988079071,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 1,
+                "Ratio": 1.0,
+                "Color": [
+                    0.6666666269302368,
+                    0.9789029955863953,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": true,
+                "RelativeCenter": [
+                    424.0,
+                    -303.0
+                ],
+                "IsRelative": true,
+                "IsInteraction": false,
+                "Font File Name": "OxaniumMedium30",
+                "Text": "00",
+                "Origin": [
+                    0.0,
+                    0.0
+                ],
+                "Option": 0,
+                "Text Type": 1
+            }
+        ],
+        "Components5": [
+            {
+                "Component Name": "NPCTurn1_1Text",
+                "Render Type": 6,
+                "UI Type": 4,
+                "ShaderFileName": "",
+                "PassIndex": 0,
+                "Center": [
+                    1116.0,
+                    57.0
+                ],
+                "World Position": [
+                    476.0,
+                    303.0,
+                    0.0
+                ],
+                "Scale": [
+                    0.699999988079071,
+                    0.699999988079071,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 1,
+                "Ratio": 1.0,
+                "Color": [
+                    0.6666666269302368,
+                    0.9789029955863953,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": true,
+                "RelativeCenter": [
+                    476.0,
+                    -303.0
+                ],
+                "IsRelative": true,
+                "IsInteraction": false,
+                "Font File Name": "OxaniumMedium30",
+                "Text": "00",
+                "Origin": [
+                    0.0,
+                    0.0
+                ],
+                "Option": 0,
+                "Text Type": 1
+            }
+        ],
+        "Components6": [
+            {
+                "Component Name": "NPCTurn2_0Text",
+                "Render Type": 6,
+                "UI Type": 4,
+                "ShaderFileName": "",
+                "PassIndex": 0,
+                "Center": [
+                    1168.0,
+                    57.0
+                ],
+                "World Position": [
+                    528.0,
+                    303.0,
+                    0.0
+                ],
+                "Scale": [
+                    0.699999988079071,
+                    0.699999988079071,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 1,
+                "Ratio": 1.0,
+                "Color": [
+                    0.6666666269302368,
+                    0.9789029955863953,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": true,
+                "RelativeCenter": [
+                    528.0,
+                    -303.0
+                ],
+                "IsRelative": true,
+                "IsInteraction": false,
+                "Font File Name": "OxaniumMedium30",
+                "Text": "00",
+                "Origin": [
+                    0.0,
+                    0.0
+                ],
+                "Option": 0,
+                "Text Type": 1
+            }
+        ],
+        "Components7": [
+            {
+                "Component Name": "NPCTurn2_1Text",
+                "Render Type": 6,
+                "UI Type": 4,
+                "ShaderFileName": "",
+                "PassIndex": 0,
+                "Center": [
+                    1218.0,
+                    57.0
+                ],
+                "World Position": [
+                    578.0,
+                    303.0,
+                    0.0
+                ],
+                "Scale": [
+                    0.699999988079071,
+                    0.699999988079071,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 1,
+                "Ratio": 1.0,
+                "Color": [
+                    0.6666666269302368,
+                    0.9789029955863953,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": true,
+                "RelativeCenter": [
+                    578.0,
+                    -303.0
+                ],
+                "IsRelative": true,
+                "IsInteraction": false,
+                "Font File Name": "OxaniumMedium30",
+                "Text": "00",
+                "Origin": [
+                    0.0,
+                    0.0
+                ],
+                "Option": 0,
+                "Text Type": 1
+            }
+        ],
+        "Components8": [
+            {
+                "Component Name": "PlayerAnimation",
+                "Render Type": 6,
+                "UI Type": 1,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 5,
+                "Center": [
+                    110.0,
+                    170.0
+                ],
+                "World Position": [
+                    -530.0,
+                    190.0,
+                    0.0
+                ],
+                "Scale": [
+                    187.0,
+                    72.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 1,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 0.6000000238418579,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": true,
+                "IsColor": false,
+                "RelativeCenter": [
+                    -530.0,
+                    -190.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Animation Texture Name": "T_MiniGame_PlayerImage",
+                "EasingType": 12,
+                "Loop": false,
+                "Start Index": 2,
+                "End Index": 3,
+                "KeyFrame Size": 5,
+                "KeyFrames": [
+                    {
+                        "KeyFrame0": [
+                            {
+                                "KeyFrame Name": 0.0,
+                                "KeyFrame Time": 0.0,
+                                "KeyFrame Position": [
+                                    110.0,
+                                    170.0,
+                                    0.0
+                                ],
+                                "KeyFrame RelativeCenter": [
+                                    0.0,
+                                    0.0
+                                ],
+                                "KeyFrame Scale": [
+                                    187.0,
+                                    72.0,
+                                    1.0
+                                ],
+                                "KeyFrame Angle": 0.0,
+                                "KeyFrame Color": [
+                                    1.0,
+                                    1.0,
+                                    1.0,
+                                    1.0
+                                ],
+                                "KeyFrame Alpha": 0.6000000238418579,
+                                "KeyFrame Speed": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "KeyFrame1": [
+                            {
+                                "KeyFrame Name": 1.5,
+                                "KeyFrame Time": 1.5,
+                                "KeyFrame Position": [
+                                    122.0,
+                                    175.0,
+                                    0.0
+                                ],
+                                "KeyFrame RelativeCenter": [
+                                    -518.0,
+                                    -185.0
+                                ],
+                                "KeyFrame Scale": [
+                                    225.0,
+                                    86.0,
+                                    1.0
+                                ],
+                                "KeyFrame Angle": 0.0,
+                                "KeyFrame Color": [
+                                    1.0,
+                                    1.0,
+                                    1.0,
+                                    1.0
+                                ],
+                                "KeyFrame Alpha": 1.0,
+                                "KeyFrame Speed": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "KeyFrame2": [
+                            {
+                                "KeyFrame Name": 3.0,
+                                "KeyFrame Time": 3.0,
+                                "KeyFrame Position": [
+                                    110.0,
+                                    170.0,
+                                    0.0
+                                ],
+                                "KeyFrame RelativeCenter": [
+                                    0.0,
+                                    0.0
+                                ],
+                                "KeyFrame Scale": [
+                                    187.0,
+                                    72.0,
+                                    1.0
+                                ],
+                                "KeyFrame Angle": 0.0,
+                                "KeyFrame Color": [
+                                    1.0,
+                                    1.0,
+                                    1.0,
+                                    1.0
+                                ],
+                                "KeyFrame Alpha": 0.6000000238418579,
+                                "KeyFrame Speed": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "KeyFrame3": [
+                            {
+                                "KeyFrame Name": 3.0999999046325684,
+                                "KeyFrame Time": 3.0999999046325684,
+                                "KeyFrame Position": [
+                                    110.0,
+                                    170.0,
+                                    0.0
+                                ],
+                                "KeyFrame RelativeCenter": [
+                                    0.0,
+                                    0.0
+                                ],
+                                "KeyFrame Scale": [
+                                    187.0,
+                                    72.0,
+                                    1.0
+                                ],
+                                "KeyFrame Angle": 0.0,
+                                "KeyFrame Color": [
+                                    1.0,
+                                    1.0,
+                                    1.0,
+                                    1.0
+                                ],
+                                "KeyFrame Alpha": 0.6000000238418579,
+                                "KeyFrame Speed": 0.0
+                            }
+                        ]
+                    },
+                    {
+                        "KeyFrame4": [
+                            {
+                                "KeyFrame Name": 3.200000047683716,
+                                "KeyFrame Time": 3.200000047683716,
+                                "KeyFrame Position": [
+                                    122.0,
+                                    175.0,
+                                    0.0
+                                ],
+                                "KeyFrame RelativeCenter": [
+                                    0.0,
+                                    0.0
+                                ],
+                                "KeyFrame Scale": [
+                                    225.0,
+                                    86.0,
+                                    1.0
+                                ],
+                                "KeyFrame Angle": 0.0,
+                                "KeyFrame Color": [
+                                    1.0,
+                                    1.0,
+                                    1.0,
+                                    1.0
+                                ],
+                                "KeyFrame Alpha": 1.0,
+                                "KeyFrame Speed": 0.0
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "Components9": [
+            {
+                "Component Name": "RoundImage",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    642.0,
+                    70.0
+                ],
+                "World Position": [
+                    2.0,
+                    290.0,
+                    0.0
+                ],
+                "Scale": [
+                    104.0,
+                    35.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 1,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": true,
+                "IsColor": false,
+                "RelativeCenter": [
+                    2.0,
+                    -290.0
+                ],
+                "IsRelative": true,
+                "IsInteraction": false,
+                "Image Texture Name": "T_MiniGame_Round1Image",
+                "Image Type": 0
+            }
+        ],
+        "Components10": [
+            {
+                "Component Name": "Turn0_0Text",
+                "Render Type": 6,
+                "UI Type": 4,
+                "ShaderFileName": "",
+                "PassIndex": 0,
+                "Center": [
+                    51.0,
+                    57.0
+                ],
+                "World Position": [
+                    -589.0,
+                    303.0,
+                    0.0
+                ],
+                "Scale": [
+                    0.699999988079071,
+                    0.699999988079071,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 1,
+                "Ratio": 1.0,
+                "Color": [
+                    0.6666666269302368,
+                    0.9789029955863953,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": true,
+                "RelativeCenter": [
+                    -589.0,
+                    -303.0
+                ],
+                "IsRelative": true,
+                "IsInteraction": false,
+                "Font File Name": "OxaniumMedium30",
+                "Text": "00",
+                "Origin": [
+                    0.0,
+                    0.0
+                ],
+                "Option": 0,
+                "Text Type": 1
+            }
+        ],
+        "Components11": [
+            {
+                "Component Name": "Turn0_1Text",
+                "Render Type": 6,
+                "UI Type": 4,
+                "ShaderFileName": "",
+                "PassIndex": 0,
+                "Center": [
+                    100.0,
+                    57.0
+                ],
+                "World Position": [
+                    -540.0,
+                    303.0,
+                    0.0
+                ],
+                "Scale": [
+                    0.699999988079071,
+                    0.699999988079071,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 1,
+                "Ratio": 1.0,
+                "Color": [
+                    0.6666666269302368,
+                    0.9789029955863953,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": true,
+                "RelativeCenter": [
+                    -540.0,
+                    -303.0
+                ],
+                "IsRelative": true,
+                "IsInteraction": false,
+                "Font File Name": "OxaniumMedium30",
+                "Text": "00",
+                "Origin": [
+                    0.0,
+                    0.0
+                ],
+                "Option": 0,
+                "Text Type": 1
+            }
+        ],
+        "Components12": [
+            {
+                "Component Name": "Turn1_0Text",
+                "Render Type": 6,
+                "UI Type": 4,
+                "ShaderFileName": "",
+                "PassIndex": 0,
+                "Center": [
+                    151.0,
+                    57.0
+                ],
+                "World Position": [
+                    -489.0,
+                    303.0,
+                    0.0
+                ],
+                "Scale": [
+                    0.699999988079071,
+                    0.699999988079071,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 1,
+                "Ratio": 1.0,
+                "Color": [
+                    0.6666666269302368,
+                    0.9789029955863953,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": true,
+                "RelativeCenter": [
+                    -489.0,
+                    -303.0
+                ],
+                "IsRelative": true,
+                "IsInteraction": false,
+                "Font File Name": "OxaniumMedium30",
+                "Text": "00",
+                "Origin": [
+                    0.0,
+                    0.0
+                ],
+                "Option": 0,
+                "Text Type": 1
+            }
+        ],
+        "Components13": [
+            {
+                "Component Name": "Turn1_1Text",
+                "Render Type": 6,
+                "UI Type": 4,
+                "ShaderFileName": "",
+                "PassIndex": 0,
+                "Center": [
+                    204.0,
+                    57.0
+                ],
+                "World Position": [
+                    -436.0,
+                    303.0,
+                    0.0
+                ],
+                "Scale": [
+                    0.699999988079071,
+                    0.699999988079071,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 1,
+                "Ratio": 1.0,
+                "Color": [
+                    0.6666666269302368,
+                    0.9789029955863953,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": true,
+                "RelativeCenter": [
+                    -436.0,
+                    -303.0
+                ],
+                "IsRelative": true,
+                "IsInteraction": false,
+                "Font File Name": "OxaniumMedium30",
+                "Text": "00",
+                "Origin": [
+                    0.0,
+                    0.0
+                ],
+                "Option": 0,
+                "Text Type": 1
+            }
+        ],
+        "Components14": [
+            {
+                "Component Name": "Turn2_0Text",
+                "Render Type": 6,
+                "UI Type": 4,
+                "ShaderFileName": "",
+                "PassIndex": 0,
+                "Center": [
+                    255.0,
+                    57.0
+                ],
+                "World Position": [
+                    -385.0,
+                    303.0,
+                    0.0
+                ],
+                "Scale": [
+                    0.699999988079071,
+                    0.699999988079071,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 1,
+                "Ratio": 1.0,
+                "Color": [
+                    0.6666666269302368,
+                    0.9789029955863953,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": true,
+                "RelativeCenter": [
+                    -385.0,
+                    -303.0
+                ],
+                "IsRelative": true,
+                "IsInteraction": false,
+                "Font File Name": "OxaniumMedium30",
+                "Text": "00",
+                "Origin": [
+                    0.0,
+                    0.0
+                ],
+                "Option": 0,
+                "Text Type": 1
+            }
+        ],
+        "Components15": [
+            {
+                "Component Name": "Turn2_1Text",
+                "Render Type": 6,
+                "UI Type": 4,
+                "ShaderFileName": "",
+                "PassIndex": 0,
+                "Center": [
+                    305.0,
+                    57.0
+                ],
+                "World Position": [
+                    -335.0,
+                    303.0,
+                    0.0
+                ],
+                "Scale": [
+                    0.699999988079071,
+                    0.699999988079071,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 1,
+                "Ratio": 1.0,
+                "Color": [
+                    0.6666666269302368,
+                    0.9789029955863953,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": true,
+                "RelativeCenter": [
+                    -335.0,
+                    -303.0
+                ],
+                "IsRelative": true,
+                "IsInteraction": false,
+                "Font File Name": "OxaniumMedium30",
+                "Text": "00",
+                "Origin": [
+                    0.0,
+                    0.0
+                ],
+                "Option": 0,
+                "Text Type": 1
+            }
+        ]
+    }
+}

@@ -1,0 +1,18 @@
+[
+	{
+		"AttachBoneName" : "pelvis",
+		"Duration" : 0.33333298563957214,
+		"EndTime" : 0.33333298563957214,
+		"OffsetDataArray" : 
+		[
+			{
+				"SphereRadius" : 0.0,
+				"vRelativeLocationX" : 0.0,
+				"vRelativeLocationY" : 0.0,
+				"vRelativeLocationZ" : 10.0
+			}
+		],
+		"StartTime" : 0.0,
+		"Type" : "Collision"
+	}
+]

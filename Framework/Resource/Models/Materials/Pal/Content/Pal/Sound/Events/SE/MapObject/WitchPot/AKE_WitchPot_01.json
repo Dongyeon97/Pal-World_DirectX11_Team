@@ -1,0 +1,40 @@
+[
+  {
+    "Type": "AkAssetPlatformData",
+    "Name": "AkAssetPlatformData_0",
+    "Outer": "AKE_WitchPot_01",
+    "Class": "UScriptClass'AkAssetPlatformData'"
+  },
+  {
+    "Type": "AkAudioEvent",
+    "Name": "AKE_WitchPot_01",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Properties": {
+      "RequiredBank": {
+        "ObjectName": "AkAudioBank'AKB_SE_MapObject'",
+        "ObjectPath": "Pal/Content/Pal/Sound/SoundBank/AKB_SE_MapObject.2"
+      },
+      "PlatformAssetData": {
+        "ObjectName": "AkAssetPlatformData'AKE_WitchPot_01:AkAssetPlatformData_0'",
+        "ObjectPath": "Pal/Content/Pal/Sound/Events/SE/MapObject/WitchPot/AKE_WitchPot_01.0"
+      },
+      "ShortID": 2090149431
+    }
+  },
+  {
+    "Type": "AkAudioEventData",
+    "Name": "AkAudioEventData_0",
+    "Outer": "AKE_WitchPot_01",
+    "Class": "UScriptClass'AkAudioEventData'",
+    "Properties": {
+      "MaxAttenuationRadius": 2000.0,
+      "IsInfinite": true,
+      "MediaList": [
+        {
+          "ObjectName": "AkMediaAsset'784606235'",
+          "ObjectPath": "Pal/Content/Pal/Sound/Media/784606235.0"
+        }
+      ]
+    }
+  }
+]

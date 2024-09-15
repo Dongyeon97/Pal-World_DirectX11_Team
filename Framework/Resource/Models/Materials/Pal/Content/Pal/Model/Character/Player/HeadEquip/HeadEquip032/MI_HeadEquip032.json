@@ -1,0 +1,50 @@
+{
+  "Textures": {
+    "Base Texture": "Pal/Content/Pal/Model/Character/Player/HeadEquip/HeadEquip032/T_HeadEquip032_B.T_HeadEquip032_B",
+    "T_HeadEquip032_B": "Pal/Content/Pal/Model/Character/Player/HeadEquip/HeadEquip032/T_HeadEquip032_B.T_HeadEquip032_B",
+    "PM_SpecularMasks": "Pal/Content/Pal/Model/Character/Player/HeadEquip/HeadEquip032/T_HeadEquip032_M.T_HeadEquip032_M",
+    "MetallicRoughnessOcclusionSpecularTexture": "Pal/Content/Pal/Model/Character/Player/HeadEquip/HeadEquip032/T_HeadEquip032_M.T_HeadEquip032_M",
+    "PM_Normals": "Pal/Content/Pal/Model/Character/Player/HeadEquip/HeadEquip032/T_HeadEquip032_N.T_HeadEquip032_N",
+    "Normal Map": "Pal/Content/Pal/Model/Character/Player/HeadEquip/HeadEquip032/T_HeadEquip032_N.T_HeadEquip032_N",
+    "Subsurface Texture": "Pal/Content/Pal/Model/Character/Player/HeadEquip/HeadEquip032/T_HeadEquip032_SSS.T_HeadEquip032_SSS",
+    "T_HeadEquip032_SSS": "Pal/Content/Pal/Model/Character/Player/HeadEquip/HeadEquip032/T_HeadEquip032_SSS.T_HeadEquip032_SSS"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 2,
+    "Colors": {
+      "Subsurface Color": {
+        "R": 0.659729,
+        "G": 0.259757,
+        "B": 1.0,
+        "A": 0.0,
+        "Hex": "D58BFF"
+      }
+    },
+    "Scalars": {
+      "Character CameraFade Distance": 30.0,
+      "Roughness Add": 0.2,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "bOverride_ShadingModel": true,
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_Subsurface",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "SubsurfaceProfile": {
+        "ObjectName": "SubsurfaceProfile'SP_CharacterBodyBase'",
+        "ObjectPath": "Pal/Content/Pal/Material/Character/Common/SP_CharacterBodyBase.0"
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

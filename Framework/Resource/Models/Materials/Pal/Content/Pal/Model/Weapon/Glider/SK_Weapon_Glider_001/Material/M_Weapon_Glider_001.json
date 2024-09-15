@@ -1,0 +1,25 @@
+{
+  "Textures": {
+    "T_Weapon_Glider_001_B": "Pal/Content/Pal/Model/Weapon/Glider/SK_Weapon_Glider_001/Texture/T_Weapon_Glider_001_B.T_Weapon_Glider_001_B",
+    "PM_Diffuse": "Pal/Content/Pal/Model/Weapon/Glider/SK_Weapon_Glider_001/Texture/T_Weapon_Glider_001_B.T_Weapon_Glider_001_B"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {},
+    "Switches": {},
+    "Properties": {
+      "TwoSided": true,
+      "bUsedWithSkeletalMesh": true,
+      "bCanMaskedBeAssumedOpaque": true,
+      "StateId": "51814B83-432DFE1E-785A6891-F55BCFD5"
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

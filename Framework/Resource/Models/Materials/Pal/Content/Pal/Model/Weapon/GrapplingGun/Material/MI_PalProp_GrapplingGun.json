@@ -1,0 +1,42 @@
+{
+  "Textures": {
+    "Base Texture": "Pal/Content/Pal/Model/Weapon/GrapplingGun/Material/T_GrapplingGun_B.T_GrapplingGun_B",
+    "T_GrapplingGun_B": "Pal/Content/Pal/Model/Weapon/GrapplingGun/Material/T_GrapplingGun_B.T_GrapplingGun_B",
+    "PM_Emissive": "Pal/Content/Pal/Model/Weapon/GrapplingGun/Material/T_GrapplingGun_E.T_GrapplingGun_E",
+    "Emissive Texture": "Pal/Content/Pal/Model/Weapon/GrapplingGun/Material/T_GrapplingGun_E.T_GrapplingGun_E",
+    "PM_SpecularMasks": "Pal/Content/Pal/Model/Weapon/GrapplingGun/Material/T_GrapplingGun_M.T_GrapplingGun_M",
+    "MetallicRoughnessOcclusionSpecularTexture": "Pal/Content/Pal/Model/Weapon/GrapplingGun/Material/T_GrapplingGun_M.T_GrapplingGun_M",
+    "PM_Normals": "Pal/Content/Pal/Model/Weapon/GrapplingGun/Material/T_GrapplingGun_N.T_GrapplingGun_N",
+    "Normal Map": "Pal/Content/Pal/Model/Weapon/GrapplingGun/Material/T_GrapplingGun_N.T_GrapplingGun_N"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "Emissive Texture Intensity": 3.0,
+      "Value": 0.5,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "bOverride_OpacityMaskClipValue": true,
+        "bOverride_BlendMode": true,
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "OpacityMaskClipValue": 0.5
+      },
+      "SubsurfaceProfile": {
+        "ObjectName": "SubsurfaceProfile'SP_CharacterBodyBase'",
+        "ObjectPath": "Pal/Content/Pal/Material/Character/Common/SP_CharacterBodyBase.0"
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

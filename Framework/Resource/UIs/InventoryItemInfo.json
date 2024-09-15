@@ -1,0 +1,304 @@
+{
+    "Child Panel Size": 0,
+    "Panels0": {
+        "Panel Name": "InventoryItemInfo",
+        "Panel Projection Type": 0,
+        "Panel Depth": 23,
+        "Panel Pivot Component Name": "base_item_info",
+        "Components Size": 6,
+        "Components0": [
+            {
+                "Component Name": "base_item_info",
+                "Render Type": 24,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    640.0,
+                    360.0
+                ],
+                "World Position": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    219.0,
+                    175.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 24,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": false,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": true,
+                "IsInteraction": false,
+                "Image Texture Name": "T_Inventory_item_info",
+                "Image Type": 0
+            }
+        ],
+        "Components1": [
+            {
+                "Component Name": "item_explanation_00",
+                "Render Type": 24,
+                "UI Type": 4,
+                "ShaderFileName": "",
+                "PassIndex": 0,
+                "Center": [
+                    542.0,
+                    384.0
+                ],
+                "World Position": [
+                    -98.0,
+                    -24.0,
+                    0.0
+                ],
+                "Scale": [
+                    0.3499999940395355,
+                    0.3499999940395355,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 25,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": true,
+                "RelativeCenter": [
+                    -98.0,
+                    24.0
+                ],
+                "IsRelative": true,
+                "IsInteraction": false,
+                "Font File Name": "NotoSansKRRegular30",
+                "Text": "This isdsafasdf",
+                "Origin": [
+                    0.0,
+                    0.0
+                ],
+                "Option": 0,
+                "Text Type": 0
+            }
+        ],
+        "Components2": [
+            {
+                "Component Name": "item_icon_00",
+                "Render Type": 24,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    582.0,
+                    344.0
+                ],
+                "World Position": [
+                    -58.0,
+                    16.0,
+                    0.0
+                ],
+                "Scale": [
+                    70.0,
+                    70.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 25,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": false,
+                "RelativeCenter": [
+                    -58.0,
+                    -16.0
+                ],
+                "IsRelative": true,
+                "IsInteraction": false,
+                "Image Texture Name": "T_Inventory_item_slot_none",
+                "Image Type": 0
+            }
+        ],
+        "Components3": [
+            {
+                "Component Name": "item_name_00",
+                "Render Type": 24,
+                "UI Type": 4,
+                "ShaderFileName": "",
+                "PassIndex": 0,
+                "Center": [
+                    541.0,
+                    273.0
+                ],
+                "World Position": [
+                    -99.0,
+                    87.0,
+                    0.0
+                ],
+                "Scale": [
+                    0.5,
+                    0.5,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 25,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": true,
+                "RelativeCenter": [
+                    -99.0,
+                    -87.0
+                ],
+                "IsRelative": true,
+                "IsInteraction": false,
+                "Font File Name": "NotoSansKRRegular30",
+                "Text": "Awwsad",
+                "Origin": [
+                    0.0,
+                    0.0
+                ],
+                "Option": 0,
+                "Text Type": 0
+            }
+        ],
+        "Components4": [
+            {
+                "Component Name": "item_total_num_00",
+                "Render Type": 24,
+                "UI Type": 4,
+                "ShaderFileName": "",
+                "PassIndex": 0,
+                "Center": [
+                    737.0,
+                    367.0
+                ],
+                "World Position": [
+                    97.0,
+                    -7.0,
+                    0.0
+                ],
+                "Scale": [
+                    0.3100000023841858,
+                    0.3100000023841858,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 25,
+                "Ratio": 1.0,
+                "Color": [
+                    0.7426160573959351,
+                    0.7426160573959351,
+                    0.7426160573959351,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": true,
+                "RelativeCenter": [
+                    97.0,
+                    7.0
+                ],
+                "IsRelative": true,
+                "IsInteraction": false,
+                "Font File Name": "OxaniumRegular30",
+                "Text": "100",
+                "Origin": [
+                    0.0,
+                    0.0
+                ],
+                "Option": 0,
+                "Text Type": 2
+            }
+        ],
+        "Components5": [
+            {
+                "Component Name": "item_weight_num_00",
+                "Render Type": 24,
+                "UI Type": 4,
+                "ShaderFileName": "",
+                "PassIndex": 0,
+                "Center": [
+                    731.0,
+                    429.0
+                ],
+                "World Position": [
+                    91.0,
+                    -69.0,
+                    0.0
+                ],
+                "Scale": [
+                    0.3100000023841858,
+                    0.3100000023841858,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 25,
+                "Ratio": 1.0,
+                "Color": [
+                    0.7679324746131897,
+                    0.7679324746131897,
+                    0.7679324746131897,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": true,
+                "RelativeCenter": [
+                    91.0,
+                    69.0
+                ],
+                "IsRelative": true,
+                "IsInteraction": false,
+                "Font File Name": "OxaniumRegular30",
+                "Text": "100",
+                "Origin": [
+                    0.0,
+                    0.0
+                ],
+                "Option": 0,
+                "Text Type": 2
+            }
+        ]
+    }
+}

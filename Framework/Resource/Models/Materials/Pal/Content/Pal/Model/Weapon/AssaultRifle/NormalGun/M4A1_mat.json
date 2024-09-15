@@ -1,0 +1,20 @@
+{
+  "Textures": {},
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {},
+    "Switches": {},
+    "Properties": {
+      "bCanMaskedBeAssumedOpaque": true,
+      "StateId": "8B3782C8-4E6EAF26-DE0844BF-ED501385"
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": true
+  }
+}

@@ -1,0 +1,14 @@
+[
+	{
+		"AttachBoneName" : "leg_front_03_l",
+		"Duration" : 0.0,
+		"EffectName" : "Group_GreenMoss_Stomp",
+		"EndTime" : 1.8414000272750854,
+		"StartTime" : 1.8414000272750854,
+		"Type" : "Effect",
+		"UseFollowBone" : false,
+		"vRelativeLocationX" : 0.0,
+		"vRelativeLocationY" : -38.0,
+		"vRelativeLocationZ" : -97.0
+	}
+]

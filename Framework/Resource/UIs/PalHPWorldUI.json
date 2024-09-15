@@ -1,0 +1,343 @@
+{
+    "Child Panel Size": 0,
+    "Panels0": {
+        "Panel Name": "PalHPWorldUI",
+        "Panel Projection Type": 1,
+        "Panel Depth": 0,
+        "Panel Pivot Component Name": "BaseImage",
+        "Components Size": 7,
+        "Components0": [
+            {
+                "Component Name": "BaseImage",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    640.0,
+                    360.0
+                ],
+                "World Position": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    105.0,
+                    35.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 1,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": true,
+                "IsColor": false,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": true,
+                "IsInteraction": false,
+                "Image Texture Name": "T_enemy_base_line",
+                "Image Type": 0
+            }
+        ],
+        "Components1": [
+            {
+                "Component Name": "ElementImage",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    587.0,
+                    354.0
+                ],
+                "World Position": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    20.0,
+                    20.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 2,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": true,
+                "IsColor": false,
+                "RelativeCenter": [
+                    -53.0,
+                    -6.0
+                ],
+                "IsRelative": true,
+                "IsInteraction": false,
+                "Image Texture Name": "T_Icon_element_s_00",
+                "Image Type": 0
+            }
+        ],
+        "Components2": [
+            {
+                "Component Name": "HPBackImage",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    654.0,
+                    358.0
+                ],
+                "World Position": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    60.0,
+                    2.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 2,
+                "Ratio": 1.0,
+                "Color": [
+                    0.15189874172210693,
+                    0.15189874172210693,
+                    0.15189874172210693,
+                    1.0
+                ],
+                "Alpha": 0.6000000238418579,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": true,
+                "IsColor": true,
+                "RelativeCenter": [
+                    14.0,
+                    -2.0
+                ],
+                "IsRelative": true,
+                "IsInteraction": false,
+                "Image Texture Name": "T_gauge_HP_base",
+                "Image Type": 0
+            }
+        ],
+        "Components3": [
+            {
+                "Component Name": "HPProgressBar",
+                "Render Type": 6,
+                "UI Type": 8,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 6,
+                "Center": [
+                    654.0,
+                    358.0
+                ],
+                "World Position": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    60.0,
+                    2.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 3,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": true,
+                "IsColor": true,
+                "RelativeCenter": [
+                    14.0,
+                    -2.0
+                ],
+                "IsRelative": true,
+                "IsInteraction": false,
+                "Progress Texture Name": "T_gauge_HP_base",
+                "Other Ratio": 1.0,
+                "Other Color": [
+                    1.0,
+                    0.9663515090942383,
+                    0.11392402648925781,
+                    1.0
+                ]
+            }
+        ],
+        "Components4": [
+            {
+                "Component Name": "LevelText",
+                "Render Type": 6,
+                "UI Type": 4,
+                "ShaderFileName": "",
+                "PassIndex": 0,
+                "Center": [
+                    611.0,
+                    347.0
+                ],
+                "World Position": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    0.27000001072883606,
+                    0.27000001072883606,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 2,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": true,
+                "RelativeCenter": [
+                    -29.0,
+                    -13.0
+                ],
+                "IsRelative": true,
+                "IsInteraction": false,
+                "Font File Name": "OxaniumMedium30",
+                "Text": "11",
+                "Origin": [
+                    0.0,
+                    0.0
+                ],
+                "Option": 0,
+                "Text Type": 1
+            }
+        ],
+        "Components5": [
+            {
+                "Component Name": "NameBackImage",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    650.0,
+                    353.0
+                ],
+                "World Position": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    95.0,
+                    18.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 0,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    0.07172995805740356,
+                    0.07172995805740356,
+                    1.0
+                ],
+                "Alpha": 0.30000001192092896,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": true,
+                "IsColor": true,
+                "RelativeCenter": [
+                    10.0,
+                    -7.0
+                ],
+                "IsRelative": true,
+                "IsInteraction": false,
+                "Image Texture Name": "T_prt_smes_base_R",
+                "Image Type": 0
+            }
+        ],
+        "Components6": [
+            {
+                "Component Name": "NameText",
+                "Render Type": 6,
+                "UI Type": 4,
+                "ShaderFileName": "",
+                "PassIndex": 0,
+                "Center": [
+                    624.0,
+                    342.5
+                ],
+                "World Position": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    0.25,
+                    0.25,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 2,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": true,
+                "RelativeCenter": [
+                    -16.0,
+                    -17.5
+                ],
+                "IsRelative": true,
+                "IsInteraction": false,
+                "Font File Name": "NotoSansKRMedium30",
+                "Text": "Name",
+                "Origin": [
+                    0.0,
+                    0.0
+                ],
+                "Option": 0,
+                "Text Type": 0
+            }
+        ]
+    }
+}

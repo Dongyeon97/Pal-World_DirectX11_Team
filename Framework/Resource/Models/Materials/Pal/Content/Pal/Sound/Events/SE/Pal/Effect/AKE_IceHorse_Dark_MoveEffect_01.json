@@ -1,0 +1,40 @@
+[
+  {
+    "Type": "AkAssetPlatformData",
+    "Name": "AkAssetPlatformData_0",
+    "Outer": "AKE_IceHorse_Dark_MoveEffect_01",
+    "Class": "UScriptClass'AkAssetPlatformData'"
+  },
+  {
+    "Type": "AkAudioEvent",
+    "Name": "AKE_IceHorse_Dark_MoveEffect_01",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Properties": {
+      "RequiredBank": {
+        "ObjectName": "AkAudioBank'AKB_SE_Pal'",
+        "ObjectPath": "Pal/Content/Pal/Sound/SoundBank/AKB_SE_Pal.2"
+      },
+      "PlatformAssetData": {
+        "ObjectName": "AkAssetPlatformData'AKE_IceHorse_Dark_MoveEffect_01:AkAssetPlatformData_0'",
+        "ObjectPath": "Pal/Content/Pal/Sound/Events/SE/Pal/Effect/AKE_IceHorse_Dark_MoveEffect_01.0"
+      },
+      "ShortID": 680391327
+    }
+  },
+  {
+    "Type": "AkAudioEventData",
+    "Name": "AkAudioEventData_0",
+    "Outer": "AKE_IceHorse_Dark_MoveEffect_01",
+    "Class": "UScriptClass'AkAudioEventData'",
+    "Properties": {
+      "MaxAttenuationRadius": 2000.0,
+      "IsInfinite": true,
+      "MediaList": [
+        {
+          "ObjectName": "AkMediaAsset'231101548'",
+          "ObjectPath": "Pal/Content/Pal/Sound/Media/231101548.0"
+        }
+      ]
+    }
+  }
+]

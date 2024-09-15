@@ -1,0 +1,722 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <VCProjectVersion>17.0</VCProjectVersion>
+    <Keyword>Win32Proj</Keyword>
+    <ProjectGuid>{56d81cb5-71f2-4b26-a676-8015c807ffda}</ProjectGuid>
+    <RootNamespace>Client</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <OutDir>$(SolutionDir)Client\Binary\</OutDir>
+    <IntDir>$(SolutionDir)Client\Intermediate\</IntDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <OutDir>$(SolutionDir)Client\Binary\</OutDir>
+    <IntDir>$(SolutionDir)Client\Intermediate\</IntDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <OutDir>$(SolutionDir)Client\Binary\debug\</OutDir>
+    <IntDir>$(SolutionDir)Client\Intermediate\</IntDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <OutDir>$(SolutionDir)Client\Binary\release\</OutDir>
+    <IntDir>$(SolutionDir)Client\Intermediate\</IntDir>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>stdcpp20</LanguageStandard>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <PrecompiledHeaderFile>pch.h</PrecompiledHeaderFile>
+      <AdditionalIncludeDirectories>../Include/;../Public/;../../Import/Engine/Header/;../../Import/ThirdParty/DirectXTK/Header/;../../Import/ThirdParty/FMOD/Header/;../../Import/ThirdParty/Json/Header/;../../Import/ThirdParty/Effects11/Header/;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalLibraryDirectories>../../Import/Engine/Library/;../../Import/ThirdParty/DirectXTK/Library/;../../Import/ThirdParty/FMOD/Library/;../../Import/ThirdParty/Json/Library/;../../Import/ThirdParty/Effects11/Library/;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>stdcpp20</LanguageStandard>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <PrecompiledHeaderFile>pch.h</PrecompiledHeaderFile>
+      <AdditionalIncludeDirectories>../Include/;../Public/;../../Import/Engine/Header/;../../Import/ThirdParty/DirectXTK/Header/;../../Import/ThirdParty/FMOD/Header/;../../Import/ThirdParty/Json/Header/;../../Import/ThirdParty/Effects11/Header/;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalLibraryDirectories>../../Import/Engine/Library/;../../Import/ThirdParty/DirectXTK/Library/;../../Import/ThirdParty/FMOD/Library/;../../Import/ThirdParty/Json/Library/;../../Import/ThirdParty/Effects11/Library/;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>_DEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>stdcpp20</LanguageStandard>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <PrecompiledHeaderFile>pch.h</PrecompiledHeaderFile>
+      <AdditionalIncludeDirectories>../Include/;../Public/;../../Import/Engine/Header/;../../Import/ThirdParty/Json/Header/;../../Import/ThirdParty/DirectXTK/Header/;../../Import/ThirdParty/FMOD/Header/;../../Import/ThirdParty/Effects11/Header/;../../Import/ThirdParty/PhysX/Header/;../../Import/ThirdParty/RapidJSON/Header/;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalLibraryDirectories>../../Import/Engine/Library/debug/;../../Import/ThirdParty/DirectXTK/Library/;../../Import/ThirdParty/FMOD/Library/;../../Import/ThirdParty/Json/Library/;../../Import/ThirdParty/Effects11/Library/;../../Import/ThirdParty/Assimp/Library/;../../Import/ThirdParty/PhysX/Library/;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalDependencies>Engine.lib;fmod64_vc.lib;jsoncppd.lib;Effects11d.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+    <FxCompile>
+      <ShaderType>Effect</ShaderType>
+    </FxCompile>
+    <FxCompile>
+      <ShaderModel>5.0</ShaderModel>
+      <EntryPointName />
+    </FxCompile>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>NDEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>stdcpp20</LanguageStandard>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <PrecompiledHeaderFile>pch.h</PrecompiledHeaderFile>
+      <AdditionalIncludeDirectories>../Include/;../Public/;../../Import/Engine/Header/;../../Import/ThirdParty/DirectXTK/Header/;../../Import/ThirdParty/FMOD/Header/;../../Import/ThirdParty/Json/Header/;../../Import/ThirdParty/Effects11/Header/;../../Import/ThirdParty/PhysX/Header/;../../Import/ThirdParty/RapidJSON/Header/;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <Optimization>Disabled</Optimization>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalLibraryDirectories>../../Import/Engine/Library/release/;../../Import/ThirdParty/DirectXTK/Library/;../../Import/ThirdParty/FMOD/Library/;../../Import/ThirdParty/Json/Library/;../../Import/ThirdParty/Effects11/Library/;../../Import/ThirdParty/Assimp/Library/;../../Import/ThirdParty/PhysX/Library/;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalDependencies>Engine.lib;fmod64_vc.lib;jsoncpp.lib;Effects11.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClInclude Include="..\Public\AnimationEnum.h" />
+    <ClInclude Include="..\Public\BerryGoat.h" />
+    <ClInclude Include="..\Public\Boar.h" />
+    <ClInclude Include="..\Public\Bowl.h" />
+    <ClInclude Include="..\Public\BowlingCamera.h" />
+    <ClInclude Include="..\Public\BowlingFloorObject.h" />
+    <ClInclude Include="..\Public\BowlingPin.h" />
+    <ClInclude Include="..\Public\BowlingPinAppearParticle.h" />
+    <ClInclude Include="..\Public\BowlingSystem.h" />
+    <ClInclude Include="..\Public\BossRoom.h" />
+    <ClInclude Include="..\Public\BowlingTrigger.h" />
+    <ClInclude Include="..\Public\BuildStartParticle.h" />
+    <ClInclude Include="..\Public\DamageFontObject.h" />
+    <ClInclude Include="..\Public\GoldCoin.h" />
+    <ClInclude Include="..\Public\CustomizeLevel.h" />
+    <ClInclude Include="..\Public\DecoratorSkillType.h" />
+    <ClInclude Include="..\public\FSMNode_JetDragonIdle.h" />
+    <ClInclude Include="..\public\FSMNode_JetDragonMove.h" />
+    <ClInclude Include="..\public\FSMNode_Player_Riding.h" />
+    <ClInclude Include="..\public\FSMNode_Riding.h" />
+    <ClInclude Include="..\public\FSMNode_WindDeerIdle.h" />
+    <ClInclude Include="..\public\FSMNode_WindDeerJump.h" />
+    <ClInclude Include="..\public\FSMNode_WindDeerMove.h" />
+    <ClInclude Include="..\Public\CollectingCoinSystem.h" />
+    <ClInclude Include="..\Public\GrassMammoth.h" />
+    <ClInclude Include="..\Public\HedgeHogIce.h" />
+    <ClInclude Include="..\Public\IronChest.h" />
+    <ClInclude Include="..\Public\KitchenMedieval.h" />
+    <ClInclude Include="..\Public\MarkerObject.h" />
+    <ClInclude Include="..\public\NonInteractionNPC.h" />
+    <ClInclude Include="..\public\Npc_Quest02.h" />
+    <ClInclude Include="..\public\Npc_Quest03.h" />
+    <ClInclude Include="..\public\Npc_Quest04.h" />
+    <ClInclude Include="..\public\Npc_Quest05.h" />
+    <ClInclude Include="..\public\Npc_Quest06.h" />
+    <ClInclude Include="..\Public\PalDeadParticle.h" />
+    <ClInclude Include="..\Public\PalInteractionSystem.h" />
+    <ClInclude Include="..\Public\LumberYard.h" />
+    <ClInclude Include="..\Public\LumberYardPrefab.h" />
+    <ClInclude Include="..\Public\PalRetrieveTrail.h" />
+    <ClInclude Include="..\Public\PalSummonParticle.h" />
+    <ClInclude Include="..\Public\Pulverizer.h" />
+    <ClInclude Include="..\public\JetDragon.h" />
+    <ClInclude Include="..\Public\RedRazor.h" />
+    <ClInclude Include="..\public\RidingObject.h" />
+    <ClInclude Include="..\public\RidingPalSphere.h" />
+    <ClInclude Include="..\Public\TaskBoarAttackLoop.h" />
+    <ClInclude Include="..\Public\TaskElecPandaAttackLoop.h" />
+    <ClInclude Include="..\Public\StonePit.h" />
+    <ClInclude Include="..\Public\StonePitPrefab.h" />
+    <ClInclude Include="..\Public\TaskGrassMammothAttackLoop.h" />
+    <ClInclude Include="..\public\Npc.h" />
+    <ClInclude Include="..\public\PartnerPalsphere.h" />
+    <ClInclude Include="..\Public\Architecture.h" />
+    <ClInclude Include="..\Public\ArchitecturePrefab.h" />
+    <ClInclude Include="..\Public\ArchitectureSystem.h" />
+    <ClInclude Include="..\Public\Armor.h" />
+    <ClInclude Include="..\Public\Arrow.h" />
+    <ClInclude Include="..\Public\ClientDataSheet.h" />
+    <ClInclude Include="..\Public\CombatSystem.h" />
+    <ClInclude Include="..\Public\DecoratorBBBool.h" />
+    <ClInclude Include="..\Public\DecoratorHunger.h" />
+    <ClInclude Include="..\Public\DecoratorPartnerSkill.h" />
+    <ClInclude Include="..\Public\Kitsunebi.h" />
+    <ClInclude Include="..\Public\PoolManager.h" />
+    <ClInclude Include="..\Public\ProductionSystem.h" />
+    <ClInclude Include="..\Public\ProjectileEffectGroup.h" />
+    <ClInclude Include="..\public\QuestSystem.h" />
+    <ClInclude Include="..\Public\TaskBerryGoatAttackLoop.h" />
+    <ClInclude Include="..\Public\TaskChickenPalAttackLoop.h" />
+    <ClInclude Include="..\Public\TaskDreamDemonAttackLoop.h" />
+    <ClInclude Include="..\Public\TaskFluffyShield.h" />
+    <ClInclude Include="..\public\InventoryCustomObject.h" />
+    <ClInclude Include="..\Public\TaskHedgeHogAttackLoop.h" />
+    <ClInclude Include="..\Public\TaskHoldPosition.h" />
+    <ClInclude Include="..\Public\TaskHuggyFire.h" />
+    <ClInclude Include="..\Public\TaskJoltBomb.h" />
+    <ClInclude Include="..\Public\TaskJumpEnd.h" />
+    <ClInclude Include="..\Public\TaskJumpLoop.h" />
+    <ClInclude Include="..\Public\TaskKitsunebiAttackLoop.h" />
+    <ClInclude Include="..\Public\TaskNotice.h" />
+    <ClInclude Include="..\Public\TaskPenguinAttackLoop.h" />
+    <ClInclude Include="..\Public\TaskPengulletCannon.h" />
+    <ClInclude Include="..\Public\TaskSheepBallAttackLoop.h" />
+    <ClInclude Include="..\public\CustomizeObject.h" />
+    <ClInclude Include="..\Public\TaskTurn.h" />
+    <ClInclude Include="..\Public\TaskWithdraw.h" />
+    <ClInclude Include="..\Public\Torch.h" />
+    <ClInclude Include="..\public\Tower.h" />
+    <ClInclude Include="..\Public\TowerLevel.h" />
+    <ClInclude Include="..\public\Npc_Quest01.h" />
+    <ClInclude Include="..\Public\TreasureBox.h" />
+    <ClInclude Include="..\public\TriggerObject.h" />
+    <ClInclude Include="..\Public\BerryFarm.h" />
+    <ClInclude Include="..\Public\BlastFurnace.h" />
+    <ClInclude Include="..\Public\Campfire.h">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClInclude>
+    <ClInclude Include="..\Public\ContainerSystem.h" />
+    <ClInclude Include="..\Public\ChickenPal.h" />
+    <ClInclude Include="..\Public\DecoratorDay.h" />
+    <ClInclude Include="..\Public\DecoratorInteracted.h" />
+    <ClInclude Include="..\Public\DecoratorNear.h" />
+    <ClInclude Include="..\Public\DecoratorNight.h" />
+    <ClInclude Include="..\Public\DecoratorSleep.h" />
+    <ClInclude Include="..\Public\Door.h" />
+    <ClInclude Include="..\Public\DreamDemon.h" />
+    <ClInclude Include="..\Public\EffectBase.h" />
+    <ClInclude Include="..\Public\EffectGroup.h" />
+    <ClInclude Include="..\Public\EffectManager.h" />
+    <ClInclude Include="..\Public\EffectMeshObject.h" />
+    <ClInclude Include="..\Public\FeedingBox.h" />
+    <ClInclude Include="..\Public\Factory.h" />
+    <ClInclude Include="..\Public\HabitatCache.h" />
+    <ClInclude Include="..\Public\Branch.h" />
+    <ClInclude Include="..\Public\HedgeHog.h" />
+    <ClInclude Include="..\Public\HumanBed.h" />
+    <ClInclude Include="..\public\PalSphere.h" />
+    <ClInclude Include="..\Public\InstanceEffectMeshObject.h" />
+    <ClInclude Include="..\Public\MerchantSystem.h" />
+    <ClInclude Include="..\Public\PalBed.h" />
+    <ClInclude Include="..\Public\PalBoxSystem.h" />
+    <ClInclude Include="..\Public\ParticleObject.h" />
+    <ClInclude Include="..\Public\Penguin.h" />
+    <ClInclude Include="..\Public\PinkCat.h" />
+    <ClInclude Include="..\public\ProjectilePool.h" />
+    <ClInclude Include="..\Public\Ranch.h" />
+    <ClInclude Include="..\Public\Rock.h" />
+    <ClInclude Include="..\public\FSMNode_Player_Climb.h" />
+    <ClInclude Include="..\public\FSMNode_Player_Jump.h" />
+    <ClInclude Include="..\Public\SampleCapsuleCollisionObject.h" />
+    <ClInclude Include="..\Public\PalBox.h" />
+    <ClInclude Include="..\Public\RepairBench.h" />
+    <ClInclude Include="..\Public\SphereTable.h">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</ExcludedFromBuild>
+    </ClInclude>
+    <ClInclude Include="..\Public\Stone.h" />
+    <ClInclude Include="..\Public\BuildManager.h" />
+    <ClInclude Include="..\public\FSMNode_Player.h" />
+    <ClInclude Include="..\public\FSMNode_Player_Emote.h" />
+    <ClInclude Include="..\public\FSMNode_Player_Roll.h" />
+    <ClInclude Include="..\public\FSMNode_Player_Interact.h" />
+    <ClInclude Include="..\Public\Housing.h" />
+    <ClInclude Include="..\Public\HousingPrefab.h" />
+    <ClInclude Include="..\Public\HousingLump.h" />
+    <ClInclude Include="..\Public\OctreeNode.h" />
+    <ClInclude Include="..\public\PlayerControllerComponent.h" />
+    <ClInclude Include="..\Public\QuadtreeNode.h" />
+    <ClInclude Include="..\Public\TaskAttackEnd.h" />
+    <ClInclude Include="..\Public\TaskAttackLoop.h" />
+    <ClInclude Include="..\Public\TaskAttackStart.h" />
+    <ClInclude Include="..\Public\TaskCaptured.h" />
+    <ClInclude Include="..\Public\TaskChase.h" />
+    <ClInclude Include="..\Public\TaskDamaged.h" />
+    <ClInclude Include="..\Public\TaskDead.h" />
+    <ClInclude Include="..\Public\TaskEmote.h" />
+    <ClInclude Include="..\Public\TaskEncount.h" />
+    <ClInclude Include="..\Public\TaskFollow.h" />
+    <ClInclude Include="..\Public\TaskIdle.h" />
+    <ClInclude Include="..\Public\TaskLookAt.h" />
+    <ClInclude Include="..\Public\TaskMove.h" />
+    <ClInclude Include="..\Public\TaskNear.h" />
+    <ClInclude Include="..\Public\TaskReact.h" />
+    <ClInclude Include="..\Public\TaskRest.h" />
+    <ClInclude Include="..\Public\TaskRunaway.h" />
+    <ClInclude Include="..\Public\TaskSleepEnd.h" />
+    <ClInclude Include="..\Public\TaskSleepLoop.h" />
+    <ClInclude Include="..\Public\TaskSleepStart.h" />
+    <ClInclude Include="..\Public\TaskToDo.h" />
+    <ClInclude Include="..\Public\ToDoSystem.h" />
+    <ClInclude Include="..\public\Projectile.h" />
+    <ClInclude Include="..\Public\Tree.h" />
+    <ClInclude Include="..\Public\SheepBall.h" />
+    <ClInclude Include="..\Public\TreeManager.h" />
+    <ClInclude Include="..\Public\Frustum.h" />
+    <ClInclude Include="..\public\FSMNode_Player_Attack.h" />
+    <ClInclude Include="..\public\FSMNode_Player_Idle.h" />
+    <ClInclude Include="..\public\FSMNode_Player_Move.h" />
+    <ClInclude Include="..\Public\AsyncManager.h" />
+    <ClInclude Include="..\Public\EnvMesh.h" />
+    <ClInclude Include="..\Public\Landscape.h" />
+    <ClInclude Include="..\Public\OpenLevelEvent.h" />
+    <ClInclude Include="..\Public\Ingredient.h" />
+    <ClInclude Include="..\Public\Mineral.h" />
+    <ClInclude Include="..\Public\LogoLevel.h" />
+    <ClInclude Include="..\Public\LoadLevel.h" />
+    <ClInclude Include="..\Public\PersistentLevel.h" />
+    <ClInclude Include="..\Public\IslandLevel.h" />
+    <ClInclude Include="..\Public\SampleBoxCollisionObject.h" />
+    <ClInclude Include="..\Public\SampleBoxTriggerObject.h" />
+    <ClInclude Include="..\public\SampleLevel.h" />
+    <ClInclude Include="..\Public\ClientDefine.h" />
+    <ClInclude Include="..\Public\ClientEnum.h" />
+    <ClInclude Include="..\Public\ClientLoop.h" />
+    <ClInclude Include="..\Public\ClientModule.h" />
+    <ClInclude Include="..\Public\ClientPCH.h" />
+    <ClInclude Include="..\Public\ClientStruct.h" />
+    <ClInclude Include="..\Public\Creature.h" />
+    <ClInclude Include="..\Public\ElecPanda.h" />
+    <ClInclude Include="..\Public\GameManager.h" />
+    <ClInclude Include="..\Public\InventorySystem.h" />
+    <ClInclude Include="..\Public\Item.h" />
+    <ClInclude Include="..\Public\Monster.h" />
+    <ClInclude Include="..\Public\Nature.h" />
+    <ClInclude Include="..\Public\Habitat.h" />
+    <ClInclude Include="..\Public\Player.h" />
+    <ClInclude Include="..\Public\TechTreeSystem.h" />
+    <ClInclude Include="..\Public\EnvCollision.h" />
+    <ClInclude Include="..\public\NotifyManager.h" />
+    <ClInclude Include="..\Public\UIManager.h" />
+    <ClInclude Include="..\Public\Weapon.h" />
+    <ClInclude Include="..\Public\Chest.h" />
+    <ClInclude Include="..\Public\WeaponWorkBench.h" />
+    <ClInclude Include="..\Public\WheatFarm.h">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</ExcludedFromBuild>
+    </ClInclude>
+    <ClInclude Include="..\public\WindDeer.h" />
+    <ClInclude Include="..\Public\ChestBoxSystem.h" />
+    <ClInclude Include="..\Public\WoolFox.h" />
+    <ClInclude Include="..\Public\WorkBench.h" />
+    <ClInclude Include="..\Public\Xenogrif.h" />
+    <ClInclude Include="Client.h" />
+    <ClInclude Include="framework.h" />
+    <ClInclude Include="pch.h" />
+    <ClInclude Include="Resource.h" />
+    <ClInclude Include="targetver.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\Private\BerryGoat.cpp" />
+    <ClCompile Include="..\Private\Boar.cpp" />
+    <ClCompile Include="..\Private\Bowl.cpp" />
+    <ClCompile Include="..\Private\BowlingCamera.cpp" />
+    <ClCompile Include="..\Private\BowlingFloorObject.cpp" />
+    <ClCompile Include="..\Private\BowlingPin.cpp" />
+    <ClCompile Include="..\Private\BowlingPinAppearParticle.cpp" />
+    <ClCompile Include="..\Private\BowlingSystem.cpp" />
+    <ClCompile Include="..\Private\BossRoom.cpp" />
+    <ClCompile Include="..\Private\BowlingTrigger.cpp" />
+    <ClCompile Include="..\Private\BuildStartParticle.cpp" />
+    <ClCompile Include="..\Private\DamageFontObject.cpp" />
+    <ClCompile Include="..\Private\GoldCoin.cpp" />
+    <ClCompile Include="..\Private\CustomizeLevel.cpp" />
+    <ClCompile Include="..\Private\DecoratorSkillType.cpp" />
+    <ClCompile Include="..\private\FSMNode_JetDragonIdle.cpp" />
+    <ClCompile Include="..\private\FSMNode_JetDragonMove.cpp" />
+    <ClCompile Include="..\private\FSMNode_Player_Riding.cpp" />
+    <ClCompile Include="..\private\FSMNode_Riding.cpp" />
+    <ClCompile Include="..\private\FSMNode_WindDeerIdle.cpp" />
+    <ClCompile Include="..\private\FSMNode_WindDeerJump.cpp" />
+    <ClCompile Include="..\private\FSMNode_WindDeerMove.cpp" />
+    <ClCompile Include="..\Private\CollectingCoinSystem.cpp" />
+    <ClCompile Include="..\Private\GrassMammoth.cpp" />
+    <ClCompile Include="..\Private\HedgeHogIce.cpp" />
+    <ClCompile Include="..\Private\IronChest.cpp" />
+    <ClCompile Include="..\Private\KitchenMedieval.cpp" />
+    <ClCompile Include="..\Private\LumberYard.cpp" />
+    <ClCompile Include="..\Private\LumberYardPrefab.cpp" />
+    <ClCompile Include="..\Private\MarkerObject.cpp" />
+    <ClCompile Include="..\private\NonInteractionNPC.cpp" />
+    <ClCompile Include="..\private\Npc_Quest02.cpp" />
+    <ClCompile Include="..\private\Npc_Quest03.cpp" />
+    <ClCompile Include="..\private\Npc_Quest04.cpp" />
+    <ClCompile Include="..\private\Npc_Quest05.cpp" />
+    <ClCompile Include="..\private\Npc_Quest06.cpp" />
+    <ClCompile Include="..\Private\PalDeadParticle.cpp" />
+    <ClCompile Include="..\Private\PalInteractionSystem.cpp" />
+    <ClCompile Include="..\Private\PalRetrieveTrail.cpp" />
+    <ClCompile Include="..\Private\PalSummonParticle.cpp" />
+    <ClCompile Include="..\Private\Pulverizer.cpp" />
+    <ClCompile Include="..\private\JetDragon.cpp" />
+    <ClCompile Include="..\Private\RedRazor.cpp" />
+    <ClCompile Include="..\private\RidingObject.cpp" />
+    <ClCompile Include="..\private\RidingPalSphere.cpp" />
+    <ClCompile Include="..\Private\TaskBoarAttackLoop.cpp" />
+    <ClCompile Include="..\Private\TaskElecPandaAttackLoop.cpp" />
+    <ClCompile Include="..\Private\StonePit.cpp" />
+    <ClCompile Include="..\Private\StonePitPrefab.cpp" />
+    <ClCompile Include="..\Private\TaskGrassMammothAttackLoop.cpp" />
+    <ClCompile Include="..\private\Npc.cpp" />
+    <ClCompile Include="..\private\PartnerPalsphere.cpp" />
+    <ClCompile Include="..\Private\Architecture.cpp" />
+    <ClCompile Include="..\Private\ArchitecturePrefab.cpp" />
+    <ClCompile Include="..\Private\ArchitectureSystem.cpp" />
+    <ClCompile Include="..\Private\Armor.cpp" />
+    <ClCompile Include="..\Private\Arrow.cpp" />
+    <ClCompile Include="..\Private\CombatSystem.cpp" />
+    <ClCompile Include="..\Private\DecoratorBBBool.cpp" />
+    <ClCompile Include="..\Private\DecoratorHunger.cpp" />
+    <ClCompile Include="..\Private\DecoratorPartnerSkill.cpp" />
+    <ClCompile Include="..\Private\Kitsunebi.cpp" />
+    <ClCompile Include="..\Private\PoolManager.cpp" />
+    <ClCompile Include="..\Private\ProductionSystem.cpp" />
+    <ClCompile Include="..\Private\ProjectileEffectGroup.cpp" />
+    <ClCompile Include="..\private\QuestSystem.cpp" />
+    <ClCompile Include="..\Private\TaskBerryGoatAttackLoop.cpp" />
+    <ClCompile Include="..\Private\TaskChickenPalAttackLoop.cpp" />
+    <ClCompile Include="..\Private\TaskDreamDemonAttackLoop.cpp" />
+    <ClCompile Include="..\Private\TaskFluffyShield.cpp" />
+    <ClCompile Include="..\private\InventoryCustomObject.cpp" />
+    <ClCompile Include="..\Private\TaskHedgeHogAttackLoop.cpp" />
+    <ClCompile Include="..\Private\TaskHoldPosition.cpp" />
+    <ClCompile Include="..\Private\TaskHuggyFire.cpp" />
+    <ClCompile Include="..\Private\TaskJoltBomb.cpp" />
+    <ClCompile Include="..\Private\TaskJumpEnd.cpp" />
+    <ClCompile Include="..\Private\TaskJumpLoop.cpp" />
+    <ClCompile Include="..\Private\TaskKitsunebiAttackLoop.cpp" />
+    <ClCompile Include="..\Private\TaskNotice.cpp" />
+    <ClCompile Include="..\Private\TaskPenguinAttackLoop.cpp" />
+    <ClCompile Include="..\Private\TaskPengulletCannon.cpp" />
+    <ClCompile Include="..\Private\TaskSheepBallAttackLoop.cpp" />
+    <ClCompile Include="..\Private\CustomizeObject.cpp" />
+    <ClCompile Include="..\Private\TaskTurn.cpp" />
+    <ClCompile Include="..\Private\TaskWithdraw.cpp" />
+    <ClCompile Include="..\Private\Torch.cpp" />
+    <ClCompile Include="..\private\Tower.cpp" />
+    <ClCompile Include="..\Private\TowerLevel.cpp" />
+    <ClCompile Include="..\Private\TreasureBox.cpp" />
+    <ClCompile Include="..\private\Npc_Quest01.cpp" />
+    <ClCompile Include="..\private\TriggerObject.cpp" />
+    <ClCompile Include="..\Private\BerryFarm.cpp" />
+    <ClCompile Include="..\Private\BlastFurnace.cpp" />
+    <ClCompile Include="..\Private\Campfire.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="..\Private\ContainerSystem.cpp" />
+    <ClCompile Include="..\Private\ChickenPal.cpp" />
+    <ClCompile Include="..\Private\DecoratorDay.cpp" />
+    <ClCompile Include="..\Private\DecoratorInteracted.cpp" />
+    <ClCompile Include="..\Private\DecoratorNear.cpp" />
+    <ClCompile Include="..\Private\DecoratorNight.cpp" />
+    <ClCompile Include="..\Private\DecoratorSleep.cpp" />
+    <ClCompile Include="..\Private\Door.cpp" />
+    <ClCompile Include="..\Private\DreamDemon.cpp" />
+    <ClCompile Include="..\Private\EffectBase.cpp" />
+    <ClCompile Include="..\Private\EffectGroup.cpp" />
+    <ClCompile Include="..\Private\EffectManager.cpp" />
+    <ClCompile Include="..\Private\EffectMeshObject.cpp" />
+    <ClCompile Include="..\Private\FeedingBox.cpp" />
+    <ClCompile Include="..\Private\Factory.cpp" />
+    <ClCompile Include="..\Private\HabitatCache.cpp" />
+    <ClCompile Include="..\Private\BuildManager.cpp" />
+    <ClCompile Include="..\Private\Branch.cpp" />
+    <ClCompile Include="..\private\FSMNode_Player_Climb.cpp" />
+    <ClCompile Include="..\private\FSMNode_Player_Jump.cpp" />
+    <ClCompile Include="..\Private\HedgeHog.cpp" />
+    <ClCompile Include="..\Private\HumanBed.cpp" />
+    <ClCompile Include="..\private\PalSphere.cpp" />
+    <ClCompile Include="..\Private\InstanceEffectMeshObject.cpp" />
+    <ClCompile Include="..\Private\MerchantSystem.cpp" />
+    <ClCompile Include="..\Private\PalBed.cpp" />
+    <ClCompile Include="..\Private\PalBoxSystem.cpp" />
+    <ClCompile Include="..\Private\ParticleObject.cpp" />
+    <ClCompile Include="..\Private\Penguin.cpp" />
+    <ClCompile Include="..\Private\PinkCat.cpp" />
+    <ClCompile Include="..\private\ProjectilePool.cpp" />
+    <ClCompile Include="..\Private\Ranch.cpp" />
+    <ClCompile Include="..\Private\Rock.cpp" />
+    <ClCompile Include="..\Private\SampleCapsuleCollisionObject.cpp" />
+    <ClCompile Include="..\Private\PalBox.cpp" />
+    <ClCompile Include="..\Private\RepairBench.cpp" />
+    <ClCompile Include="..\Private\SphereTable.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="..\Private\Stone.cpp" />
+    <ClCompile Include="..\private\FSMNode_Player_Emote.cpp" />
+    <ClCompile Include="..\private\FSMNode_Player_Roll.cpp" />
+    <ClCompile Include="..\private\FSMNode_Player_Interact.cpp" />
+    <ClCompile Include="..\Private\Housing.cpp" />
+    <ClCompile Include="..\Private\HousingPrefab.cpp" />
+    <ClCompile Include="..\Private\HousingLump.cpp" />
+    <ClCompile Include="..\Private\OctreeNode.cpp" />
+    <ClCompile Include="..\private\PlayerControllerComponent.cpp" />
+    <ClCompile Include="..\Private\QuadtreeNode.cpp" />
+    <ClCompile Include="..\Private\TaskAttackEnd.cpp" />
+    <ClCompile Include="..\Private\TaskAttackLoop.cpp" />
+    <ClCompile Include="..\Private\TaskAttackStart.cpp" />
+    <ClCompile Include="..\Private\TaskCaptured.cpp" />
+    <ClCompile Include="..\Private\TaskChase.cpp" />
+    <ClCompile Include="..\Private\TaskDamaged.cpp" />
+    <ClCompile Include="..\Private\TaskDead.cpp" />
+    <ClCompile Include="..\Private\TaskEmote.cpp" />
+    <ClCompile Include="..\Private\TaskEncount.cpp" />
+    <ClCompile Include="..\Private\TaskFollow.cpp" />
+    <ClCompile Include="..\Private\TaskIdle.cpp" />
+    <ClCompile Include="..\Private\TaskLookAt.cpp" />
+    <ClCompile Include="..\Private\TaskMove.cpp" />
+    <ClCompile Include="..\Private\TaskNear.cpp" />
+    <ClCompile Include="..\Private\TaskReact.cpp" />
+    <ClCompile Include="..\Private\TaskRest.cpp" />
+    <ClCompile Include="..\Private\TaskRunaway.cpp" />
+    <ClCompile Include="..\Private\TaskSleepEnd.cpp" />
+    <ClCompile Include="..\Private\TaskSleepLoop.cpp" />
+    <ClCompile Include="..\Private\TaskSleepStart.cpp" />
+    <ClCompile Include="..\Private\TaskToDo.cpp" />
+    <ClCompile Include="..\Private\ToDoSystem.cpp" />
+    <ClCompile Include="..\private\Projectile.cpp" />
+    <ClCompile Include="..\Private\Tree.cpp" />
+    <ClCompile Include="..\Private\SheepBall.cpp" />
+    <ClCompile Include="..\Private\TreeManager.cpp" />
+    <ClCompile Include="..\Private\Frustum.cpp" />
+    <ClCompile Include="..\private\FSMNode_Player.cpp" />
+    <ClCompile Include="..\private\FSMNode_Player_Attack.cpp" />
+    <ClCompile Include="..\private\FSMNode_Player_Idle.cpp" />
+    <ClCompile Include="..\private\FSMNode_Player_Move.cpp" />
+    <ClCompile Include="..\Private\AsyncManager.cpp" />
+    <ClCompile Include="..\Private\EnvMesh.cpp" />
+    <ClCompile Include="..\Private\Landscape.cpp" />
+    <ClCompile Include="..\Private\OpenLevelEvent.cpp" />
+    <ClCompile Include="..\Private\Ingredient.cpp" />
+    <ClCompile Include="..\Private\Mineral.cpp" />
+    <ClCompile Include="..\Private\LogoLevel.cpp" />
+    <ClCompile Include="..\Private\LoadLevel.cpp" />
+    <ClCompile Include="..\Private\PersistentLevel.cpp" />
+    <ClCompile Include="..\Private\IslandLevel.cpp" />
+    <ClCompile Include="..\Private\SampleBoxCollisionObject.cpp" />
+    <ClCompile Include="..\Private\SampleBoxTriggerObject.cpp" />
+    <ClCompile Include="..\private\SampleLevel.cpp" />
+    <ClCompile Include="..\Private\ClientLoop.cpp" />
+    <ClCompile Include="..\Private\ClientModule.cpp" />
+    <ClCompile Include="..\Private\Creature.cpp" />
+    <ClCompile Include="..\Private\ElecPanda.cpp" />
+    <ClCompile Include="..\Private\GameManager.cpp" />
+    <ClCompile Include="..\Private\InventorySystem.cpp" />
+    <ClCompile Include="..\Private\Item.cpp" />
+    <ClCompile Include="..\Private\Monster.cpp" />
+    <ClCompile Include="..\Private\Nature.cpp" />
+    <ClCompile Include="..\Private\Habitat.cpp" />
+    <ClCompile Include="..\Private\Player.cpp" />
+    <ClCompile Include="..\Private\TechTreeSystem.cpp" />
+    <ClCompile Include="..\Private\EnvCollision.cpp" />
+    <ClCompile Include="..\private\NotifyManager.cpp" />
+    <ClCompile Include="..\Private\UIManager.cpp" />
+    <ClCompile Include="..\Private\Weapon.cpp" />
+    <ClCompile Include="..\Private\Chest.cpp" />
+    <ClCompile Include="..\Private\WeaponWorkBench.cpp" />
+    <ClCompile Include="..\Private\WheatFarm.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="..\private\WindDeer.cpp" />
+    <ClCompile Include="..\Private\ChestBoxSystem.cpp" />
+    <ClCompile Include="..\Private\WoolFox.cpp" />
+    <ClCompile Include="..\Private\WorkBench.cpp" />
+    <ClCompile Include="..\Private\Xenogrif.cpp" />
+    <ClCompile Include="Client.cpp" />
+    <ClCompile Include="pch.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Create</PrecompiledHeader>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Client.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Client.ico" />
+    <Image Include="small.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <FxCompile Include="..\..\Resource\Shaders\FX_Architecture_PNT2T.hlsl">
+      <ShaderType Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Effect</ShaderType>
+      <ShaderModel Condition="'$(Configuration)|$(Platform)'=='Release|x64'">5.0</ShaderModel>
+    </FxCompile>
+    <FxCompile Include="..\..\Resource\Shaders\FX_DefaultAnim_PNT2TBIBW.hlsl">
+      <ShaderType Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Effect</ShaderType>
+      <ShaderModel Condition="'$(Configuration)|$(Platform)'=='Release|x64'">5.0</ShaderModel>
+    </FxCompile>
+    <FxCompile Include="..\..\Resource\Shaders\FX_DefaultInstance_PNT2TRULP.hlsl">
+      <ShaderType Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Effect</ShaderType>
+      <ShaderModel Condition="'$(Configuration)|$(Platform)'=='Release|x64'">5.0</ShaderModel>
+    </FxCompile>
+    <FxCompile Include="..\..\Resource\Shaders\FX_DefaultNonAnim_PNT2T.hlsl">
+      <ShaderType Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Effect</ShaderType>
+      <ShaderModel Condition="'$(Configuration)|$(Platform)'=='Release|x64'">5.0</ShaderModel>
+    </FxCompile>
+    <FxCompile Include="..\..\Resource\Shaders\FX_EffectMesh_PNT2T.hlsl">
+      <ShaderType Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Effect</ShaderType>
+      <ShaderModel Condition="'$(Configuration)|$(Platform)'=='Release|x64'">5.0</ShaderModel>
+    </FxCompile>
+    <FxCompile Include="..\..\Resource\Shaders\FX_Effect_PT2.hlsl">
+      <ShaderType Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Effect</ShaderType>
+      <ShaderModel Condition="'$(Configuration)|$(Platform)'=='Release|x64'">5.0</ShaderModel>
+    </FxCompile>
+    <FxCompile Include="..\..\Resource\Shaders\FX_ExternInstance_PNT2TRULP.hlsl">
+      <ShaderType Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Effect</ShaderType>
+      <ShaderModel Condition="'$(Configuration)|$(Platform)'=='Release|x64'">5.0</ShaderModel>
+    </FxCompile>
+    <FxCompile Include="..\..\Resource\Shaders\FX_ExternNonAnim_PNT2T.hlsl">
+      <ShaderType Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Effect</ShaderType>
+      <ShaderModel Condition="'$(Configuration)|$(Platform)'=='Release|x64'">5.0</ShaderModel>
+    </FxCompile>
+    <FxCompile Include="..\..\Resource\Shaders\FX_Instancing_PRULPC.hlsl">
+      <ShaderType Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Effect</ShaderType>
+      <ShaderModel Condition="'$(Configuration)|$(Platform)'=='Release|x64'">5.0</ShaderModel>
+    </FxCompile>
+    <FxCompile Include="..\..\Resource\Shaders\FX_Landscape_PNT2T2T.hlsl">
+      <ShaderType Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Effect</ShaderType>
+      <ShaderModel Condition="'$(Configuration)|$(Platform)'=='Release|x64'">5.0</ShaderModel>
+    </FxCompile>
+    <FxCompile Include="..\..\Resource\Shaders\FX_MeshInstancing_PNT2TRULPP.hlsl">
+      <ShaderType Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Effect</ShaderType>
+      <ShaderModel Condition="'$(Configuration)|$(Platform)'=='Release|x64'">5.0</ShaderModel>
+    </FxCompile>
+    <FxCompile Include="..\..\Resource\Shaders\FX_MonsterFace_PNT2TBIBW.hlsl">
+      <ShaderType Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Effect</ShaderType>
+      <ShaderModel Condition="'$(Configuration)|$(Platform)'=='Release|x64'">5.0</ShaderModel>
+    </FxCompile>
+    <FxCompile Include="..\..\Resource\Shaders\FX_MonsterKitsunebiFire_PNT2TBIBW.hlsl">
+      <ShaderType Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Effect</ShaderType>
+      <ShaderModel Condition="'$(Configuration)|$(Platform)'=='Release|x64'">5.0</ShaderModel>
+    </FxCompile>
+    <FxCompile Include="..\..\Resource\Shaders\FX_PalLitTopInstance_PNT2TRULP.hlsl">
+      <ShaderType Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Effect</ShaderType>
+      <ShaderModel Condition="'$(Configuration)|$(Platform)'=='Release|x64'">5.0</ShaderModel>
+    </FxCompile>
+    <FxCompile Include="..\..\Resource\Shaders\FX_PalLitTopNonAnim_PNT2T.hlsl">
+      <ShaderType Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Effect</ShaderType>
+      <ShaderModel Condition="'$(Configuration)|$(Platform)'=='Release|x64'">5.0</ShaderModel>
+    </FxCompile>
+    <FxCompile Include="..\..\Resource\Shaders\FX_PBR_PT2.hlsl">
+      <ShaderType Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Effect</ShaderType>
+      <ShaderModel Condition="'$(Configuration)|$(Platform)'=='Release|x64'">5.0</ShaderModel>
+    </FxCompile>
+    <FxCompile Include="..\..\Resource\Shaders\FX_PlayerEye_PNT2TBIBW.hlsl">
+      <ShaderType Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Effect</ShaderType>
+      <ShaderModel Condition="'$(Configuration)|$(Platform)'=='Release|x64'">5.0</ShaderModel>
+    </FxCompile>
+    <FxCompile Include="..\..\Resource\Shaders\FX_SkyDome_PNT2T.hlsl">
+      <ShaderType Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Effect</ShaderType>
+      <ShaderModel Condition="'$(Configuration)|$(Platform)'=='Release|x64'">5.0</ShaderModel>
+    </FxCompile>
+    <FxCompile Include="..\..\Resource\Shaders\FX_Trail_PT2.hlsl">
+      <ShaderType Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Effect</ShaderType>
+      <ShaderModel Condition="'$(Configuration)|$(Platform)'=='Release|x64'">5.0</ShaderModel>
+    </FxCompile>
+    <FxCompile Include="..\..\Resource\Shaders\FX_UIOrthogonal_PS.hlsl">
+      <ShaderType Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Effect</ShaderType>
+      <ShaderModel Condition="'$(Configuration)|$(Platform)'=='Release|x64'">5.0</ShaderModel>
+    </FxCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\Resource\Shaders\Shader_Defines.hlsli" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

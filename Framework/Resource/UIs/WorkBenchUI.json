@@ -1,0 +1,3532 @@
+{
+    "Child Panel Size": 2,
+    "Panels0": {
+        "Panel Name": "WorkBenchUI",
+        "Panel Projection Type": 0,
+        "Panel Depth": 22,
+        "Panel Pivot Component Name": "BaseImage",
+        "Components Size": 5,
+        "Components0": [
+            {
+                "Component Name": "BaseImage",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    640.0,
+                    360.0
+                ],
+                "World Position": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1280.0,
+                    720.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 0,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 0.699999988079071,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": true,
+                "IsColor": false,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": true,
+                "IsInteraction": false,
+                "Image Texture Name": "T_WorkBench_BaseImage",
+                "Image Type": 0
+            }
+        ],
+        "Components1": [
+            {
+                "Component Name": "CloseButton",
+                "Render Type": 6,
+                "UI Type": 3,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    992.0,
+                    93.0
+                ],
+                "World Position": [
+                    352.0,
+                    267.0,
+                    0.0
+                ],
+                "Scale": [
+                    28.0,
+                    28.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 5,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": true,
+                "IsColor": false,
+                "RelativeCenter": [
+                    352.0,
+                    -267.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Static Texture Name": "T_Close_ButtonStaticImage",
+                "Hover Texture Name": "T_Close_ButtonHoverImage",
+                "Click Texture Name": "T_Close_ButtonStaticImage"
+            }
+        ],
+        "Components2": [
+            {
+                "Component Name": "HoverImage",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    360.0,
+                    163.0
+                ],
+                "World Position": [
+                    -280.0,
+                    197.0,
+                    0.0
+                ],
+                "Scale": [
+                    72.0,
+                    72.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 6,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": true,
+                "IsColor": false,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Image Texture Name": "T_WorkBench_Item_HoverImage",
+                "Image Type": 0
+            }
+        ],
+        "Components3": [
+            {
+                "Component Name": "LayerImage",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    640.0,
+                    360.0
+                ],
+                "World Position": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1280.0,
+                    720.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 1,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": true,
+                "IsColor": false,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": true,
+                "IsInteraction": false,
+                "Image Texture Name": "T_WorkBench_LayerImage",
+                "Image Type": 0
+            }
+        ],
+        "Components4": [
+            {
+                "Component Name": "SelectImage",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    360.0,
+                    163.0
+                ],
+                "World Position": [
+                    -280.0,
+                    197.0,
+                    0.0
+                ],
+                "Scale": [
+                    60.0,
+                    60.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 5,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 0.699999988079071,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": true,
+                "IsColor": false,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Image Texture Name": "T_WorkBench_Item_SelectImage",
+                "Image Type": 0
+            }
+        ]
+    },
+  "Panels1": {
+    "Panel Name": "ChildProductionPanel",
+    "Panel Projection Type": 0,
+    "Panel Depth": 22,
+    "Panel Pivot Component Name": "BaseImage",
+    "Components Size": 31,
+    "Components0": [
+      {
+        "Component Name": "ChildLayerImage",
+        "Render Type": 6,
+        "UI Type": 0,
+        "ShaderFileName": "FX_UIOrthogonal_PS",
+        "PassIndex": 0,
+        "Center": [
+          831.0,
+          372.0
+        ],
+        "World Position": [
+          191.0,
+          -12.0,
+          0.0
+        ],
+        "Scale": [
+          252.0,
+          480.0,
+          1.0
+        ],
+        "Angle": 0.0,
+        "Depth": 2,
+        "Ratio": 1.0,
+        "Color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Alpha": 1.0,
+        "Mask Texture Name": "",
+        "IsMask": false,
+        "IsAlpha": true,
+        "IsColor": false,
+        "RelativeCenter": [
+          191.0,
+          12.0
+        ],
+        "IsRelative": true,
+        "IsInteraction": false,
+        "Image Texture Name": "T_WorkBench_Child_LayerImage",
+        "Image Type": 0
+      }
+    ],
+    "Components1": [
+      {
+        "Component Name": "MineralBaseImage0",
+        "Render Type": 6,
+        "UI Type": 0,
+        "ShaderFileName": "FX_UIOrthogonal_PS",
+        "PassIndex": 0,
+        "Center": [
+          831.0,
+          331.0
+        ],
+        "World Position": [
+          191.0,
+          29.0,
+          0.0
+        ],
+        "Scale": [
+          251.0,
+          26.0,
+          1.0
+        ],
+        "Angle": 0.0,
+        "Depth": 2,
+        "Ratio": 1.0,
+        "Color": [
+          0.7383966445922852,
+          0.7383966445922852,
+          0.7383966445922852,
+          1.0
+        ],
+        "Alpha": 0.20000000298023224,
+        "Mask Texture Name": "",
+        "IsMask": false,
+        "IsAlpha": true,
+        "IsColor": true,
+        "RelativeCenter": [
+          191.0,
+          -29.0
+        ],
+        "IsRelative": true,
+        "IsInteraction": false,
+        "Image Texture Name": "T_WorkBench_Child_Item_BaseImage",
+        "Image Type": 0
+      }
+    ],
+    "Components2": [
+      {
+        "Component Name": "MineralBaseImage1",
+        "Render Type": 6,
+        "UI Type": 0,
+        "ShaderFileName": "FX_UIOrthogonal_PS",
+        "PassIndex": 0,
+        "Center": [
+          831.0,
+          360.0
+        ],
+        "World Position": [
+          191.0,
+          0.0,
+          0.0
+        ],
+        "Scale": [
+          251.0,
+          26.0,
+          1.0
+        ],
+        "Angle": 0.0,
+        "Depth": 2,
+        "Ratio": 1.0,
+        "Color": [
+          0.7383966445922852,
+          0.7383966445922852,
+          0.7383966445922852,
+          1.0
+        ],
+        "Alpha": 0.20000000298023224,
+        "Mask Texture Name": "",
+        "IsMask": false,
+        "IsAlpha": true,
+        "IsColor": true,
+        "RelativeCenter": [
+          191.0,
+          0.0
+        ],
+        "IsRelative": true,
+        "IsInteraction": false,
+        "Image Texture Name": "T_WorkBench_Child_Item_BaseImage",
+        "Image Type": 0
+      }
+    ],
+    "Components3": [
+      {
+        "Component Name": "MineralBaseImage2",
+        "Render Type": 6,
+        "UI Type": 0,
+        "ShaderFileName": "FX_UIOrthogonal_PS",
+        "PassIndex": 0,
+        "Center": [
+          831.0,
+          389.0
+        ],
+        "World Position": [
+          191.0,
+          -29.0,
+          0.0
+        ],
+        "Scale": [
+          251.0,
+          26.0,
+          1.0
+        ],
+        "Angle": 0.0,
+        "Depth": 2,
+        "Ratio": 1.0,
+        "Color": [
+          0.7383966445922852,
+          0.7383966445922852,
+          0.7383966445922852,
+          1.0
+        ],
+        "Alpha": 0.20000000298023224,
+        "Mask Texture Name": "",
+        "IsMask": false,
+        "IsAlpha": true,
+        "IsColor": true,
+        "RelativeCenter": [
+          191.0,
+          29.0
+        ],
+        "IsRelative": true,
+        "IsInteraction": false,
+        "Image Texture Name": "T_WorkBench_Child_Item_BaseImage",
+        "Image Type": 0
+      }
+    ],
+    "Components4": [
+      {
+        "Component Name": "MineralBaseImage3",
+        "Render Type": 6,
+        "UI Type": 0,
+        "ShaderFileName": "FX_UIOrthogonal_PS",
+        "PassIndex": 0,
+        "Center": [
+          831.0,
+          418.0
+        ],
+        "World Position": [
+          191.0,
+          -58.0,
+          0.0
+        ],
+        "Scale": [
+          251.0,
+          26.0,
+          1.0
+        ],
+        "Angle": 0.0,
+        "Depth": 2,
+        "Ratio": 1.0,
+        "Color": [
+          0.7383966445922852,
+          0.7383966445922852,
+          0.7383966445922852,
+          1.0
+        ],
+        "Alpha": 0.20000000298023224,
+        "Mask Texture Name": "",
+        "IsMask": false,
+        "IsAlpha": true,
+        "IsColor": true,
+        "RelativeCenter": [
+          191.0,
+          58.0
+        ],
+        "IsRelative": true,
+        "IsInteraction": false,
+        "Image Texture Name": "T_WorkBench_Child_Item_BaseImage",
+        "Image Type": 0
+      }
+    ],
+    "Components5": [
+      {
+        "Component Name": "MineralItemCurText0",
+        "Render Type": 6,
+        "UI Type": 4,
+        "ShaderFileName": "",
+        "PassIndex": 0,
+        "Center": [
+          920.0,
+          325.0
+        ],
+        "World Position": [
+          280.0,
+          35.0,
+          0.0
+        ],
+        "Scale": [
+          0.3199999928474426,
+          1.0,
+          1.0
+        ],
+        "Angle": 0.0,
+        "Depth": 4,
+        "Ratio": 1.0,
+        "Color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Alpha": 1.0,
+        "Mask Texture Name": "",
+        "IsMask": false,
+        "IsAlpha": false,
+        "IsColor": true,
+        "RelativeCenter": [
+          0.0,
+          0.0
+        ],
+        "IsRelative": false,
+        "IsInteraction": false,
+        "Font File Name": "OxaniumRegular30",
+        "Text": "000",
+        "Origin": [
+          0.0,
+          0.0
+        ],
+        "Option": 0,
+        "Text Type": 2
+      }
+    ],
+    "Components6": [
+      {
+        "Component Name": "MineralItemCurText1",
+        "Render Type": 6,
+        "UI Type": 4,
+        "ShaderFileName": "",
+        "PassIndex": 0,
+        "Center": [
+          920.0,
+          354.0
+        ],
+        "World Position": [
+          280.0,
+          6.0,
+          0.0
+        ],
+        "Scale": [
+          0.3199999928474426,
+          1.0,
+          1.0
+        ],
+        "Angle": 0.0,
+        "Depth": 4,
+        "Ratio": 1.0,
+        "Color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Alpha": 1.0,
+        "Mask Texture Name": "",
+        "IsMask": false,
+        "IsAlpha": false,
+        "IsColor": true,
+        "RelativeCenter": [
+          0.0,
+          0.0
+        ],
+        "IsRelative": false,
+        "IsInteraction": false,
+        "Font File Name": "OxaniumRegular30",
+        "Text": "000",
+        "Origin": [
+          0.0,
+          0.0
+        ],
+        "Option": 0,
+        "Text Type": 2
+      }
+    ],
+    "Components7": [
+      {
+        "Component Name": "MineralItemCurText2",
+        "Render Type": 6,
+        "UI Type": 4,
+        "ShaderFileName": "",
+        "PassIndex": 0,
+        "Center": [
+          920.0,
+          383.0
+        ],
+        "World Position": [
+          280.0,
+          -23.0,
+          0.0
+        ],
+        "Scale": [
+          0.3199999928474426,
+          1.0,
+          1.0
+        ],
+        "Angle": 0.0,
+        "Depth": 4,
+        "Ratio": 1.0,
+        "Color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Alpha": 1.0,
+        "Mask Texture Name": "",
+        "IsMask": false,
+        "IsAlpha": false,
+        "IsColor": true,
+        "RelativeCenter": [
+          0.0,
+          0.0
+        ],
+        "IsRelative": false,
+        "IsInteraction": false,
+        "Font File Name": "OxaniumRegular30",
+        "Text": "000",
+        "Origin": [
+          0.0,
+          0.0
+        ],
+        "Option": 0,
+        "Text Type": 2
+      }
+    ],
+    "Components8": [
+      {
+        "Component Name": "MineralItemCurText3",
+        "Render Type": 6,
+        "UI Type": 4,
+        "ShaderFileName": "",
+        "PassIndex": 0,
+        "Center": [
+          920.0,
+          412.0
+        ],
+        "World Position": [
+          280.0,
+          -52.0,
+          0.0
+        ],
+        "Scale": [
+          0.3199999928474426,
+          1.0,
+          1.0
+        ],
+        "Angle": 0.0,
+        "Depth": 4,
+        "Ratio": 1.0,
+        "Color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Alpha": 1.0,
+        "Mask Texture Name": "",
+        "IsMask": false,
+        "IsAlpha": false,
+        "IsColor": true,
+        "RelativeCenter": [
+          0.0,
+          0.0
+        ],
+        "IsRelative": false,
+        "IsInteraction": false,
+        "Font File Name": "OxaniumRegular30",
+        "Text": "000",
+        "Origin": [
+          0.0,
+          0.0
+        ],
+        "Option": 0,
+        "Text Type": 2
+      }
+    ],
+    "Components9": [
+      {
+        "Component Name": "MineralItemImage0",
+        "Render Type": 6,
+        "UI Type": 0,
+        "ShaderFileName": "FX_UIOrthogonal_PS",
+        "PassIndex": 0,
+        "Center": [
+          725.0,
+          331.0
+        ],
+        "World Position": [
+          85.0,
+          29.0,
+          0.0
+        ],
+        "Scale": [
+          25.0,
+          25.0,
+          1.0
+        ],
+        "Angle": 0.0,
+        "Depth": 4,
+        "Ratio": 1.0,
+        "Color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Alpha": 1.0,
+        "Mask Texture Name": "",
+        "IsMask": false,
+        "IsAlpha": true,
+        "IsColor": false,
+        "RelativeCenter": [
+          85.0,
+          -29.0
+        ],
+        "IsRelative": true,
+        "IsInteraction": false,
+        "Image Texture Name": "T_itemicon_Material_Wood",
+        "Image Type": 0
+      }
+    ],
+    "Components10": [
+      {
+        "Component Name": "MineralItemImage1",
+        "Render Type": 6,
+        "UI Type": 0,
+        "ShaderFileName": "FX_UIOrthogonal_PS",
+        "PassIndex": 0,
+        "Center": [
+          725.0,
+          360.0
+        ],
+        "World Position": [
+          85.0,
+          0.0,
+          0.0
+        ],
+        "Scale": [
+          25.0,
+          25.0,
+          1.0
+        ],
+        "Angle": 0.0,
+        "Depth": 4,
+        "Ratio": 1.0,
+        "Color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Alpha": 1.0,
+        "Mask Texture Name": "",
+        "IsMask": false,
+        "IsAlpha": true,
+        "IsColor": false,
+        "RelativeCenter": [
+          85.0,
+          0.0
+        ],
+        "IsRelative": true,
+        "IsInteraction": false,
+        "Image Texture Name": "T_itemicon_Material_Wood",
+        "Image Type": 0
+      }
+    ],
+    "Components11": [
+      {
+        "Component Name": "MineralItemImage2",
+        "Render Type": 6,
+        "UI Type": 0,
+        "ShaderFileName": "FX_UIOrthogonal_PS",
+        "PassIndex": 0,
+        "Center": [
+          725.0,
+          389.0
+        ],
+        "World Position": [
+          85.0,
+          -29.0,
+          0.0
+        ],
+        "Scale": [
+          25.0,
+          25.0,
+          1.0
+        ],
+        "Angle": 0.0,
+        "Depth": 4,
+        "Ratio": 1.0,
+        "Color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Alpha": 1.0,
+        "Mask Texture Name": "",
+        "IsMask": false,
+        "IsAlpha": true,
+        "IsColor": false,
+        "RelativeCenter": [
+          85.0,
+          29.0
+        ],
+        "IsRelative": true,
+        "IsInteraction": false,
+        "Image Texture Name": "T_itemicon_Material_Wood",
+        "Image Type": 0
+      }
+    ],
+    "Components12": [
+      {
+        "Component Name": "MineralItemImage3",
+        "Render Type": 6,
+        "UI Type": 0,
+        "ShaderFileName": "FX_UIOrthogonal_PS",
+        "PassIndex": 0,
+        "Center": [
+          725.0,
+          418.0
+        ],
+        "World Position": [
+          85.0,
+          -58.0,
+          0.0
+        ],
+        "Scale": [
+          25.0,
+          25.0,
+          1.0
+        ],
+        "Angle": 0.0,
+        "Depth": 4,
+        "Ratio": 1.0,
+        "Color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Alpha": 1.0,
+        "Mask Texture Name": "",
+        "IsMask": false,
+        "IsAlpha": true,
+        "IsColor": false,
+        "RelativeCenter": [
+          85.0,
+          58.0
+        ],
+        "IsRelative": true,
+        "IsInteraction": false,
+        "Image Texture Name": "T_itemicon_Material_Wood",
+        "Image Type": 0
+      }
+    ],
+    "Components13": [
+      {
+        "Component Name": "MineralItemMaxText0",
+        "Render Type": 6,
+        "UI Type": 4,
+        "ShaderFileName": "",
+        "PassIndex": 0,
+        "Center": [
+          922.0,
+          325.0
+        ],
+        "World Position": [
+          282.0,
+          35.0,
+          0.0
+        ],
+        "Scale": [
+          0.3199999928474426,
+          1.0,
+          1.0
+        ],
+        "Angle": 0.0,
+        "Depth": 4,
+        "Ratio": 1.0,
+        "Color": [
+          0.7594936490058899,
+          0.7594936490058899,
+          0.7594936490058899,
+          1.0
+        ],
+        "Alpha": 1.0,
+        "Mask Texture Name": "",
+        "IsMask": false,
+        "IsAlpha": false,
+        "IsColor": true,
+        "RelativeCenter": [
+          0.0,
+          0.0
+        ],
+        "IsRelative": false,
+        "IsInteraction": false,
+        "Font File Name": "OxaniumRegular30",
+        "Text": "/000",
+        "Origin": [
+          0.0,
+          0.0
+        ],
+        "Option": 0,
+        "Text Type": 0
+      }
+    ],
+    "Components14": [
+      {
+        "Component Name": "MineralItemMaxText1",
+        "Render Type": 6,
+        "UI Type": 4,
+        "ShaderFileName": "",
+        "PassIndex": 0,
+        "Center": [
+          922.0,
+          354.0
+        ],
+        "World Position": [
+          282.0,
+          6.0,
+          0.0
+        ],
+        "Scale": [
+          0.3199999928474426,
+          1.0,
+          1.0
+        ],
+        "Angle": 0.0,
+        "Depth": 4,
+        "Ratio": 1.0,
+        "Color": [
+          0.7594936490058899,
+          0.7594936490058899,
+          0.7594936490058899,
+          1.0
+        ],
+        "Alpha": 1.0,
+        "Mask Texture Name": "",
+        "IsMask": false,
+        "IsAlpha": false,
+        "IsColor": true,
+        "RelativeCenter": [
+          0.0,
+          0.0
+        ],
+        "IsRelative": false,
+        "IsInteraction": false,
+        "Font File Name": "OxaniumRegular30",
+        "Text": "/000",
+        "Origin": [
+          0.0,
+          0.0
+        ],
+        "Option": 0,
+        "Text Type": 0
+      }
+    ],
+    "Components15": [
+      {
+        "Component Name": "MineralItemMaxText2",
+        "Render Type": 6,
+        "UI Type": 4,
+        "ShaderFileName": "",
+        "PassIndex": 0,
+        "Center": [
+          922.0,
+          383.0
+        ],
+        "World Position": [
+          282.0,
+          -23.0,
+          0.0
+        ],
+        "Scale": [
+          0.3199999928474426,
+          1.0,
+          1.0
+        ],
+        "Angle": 0.0,
+        "Depth": 4,
+        "Ratio": 1.0,
+        "Color": [
+          0.7594936490058899,
+          0.7594936490058899,
+          0.7594936490058899,
+          1.0
+        ],
+        "Alpha": 1.0,
+        "Mask Texture Name": "",
+        "IsMask": false,
+        "IsAlpha": false,
+        "IsColor": true,
+        "RelativeCenter": [
+          0.0,
+          0.0
+        ],
+        "IsRelative": false,
+        "IsInteraction": false,
+        "Font File Name": "OxaniumRegular30",
+        "Text": "/000",
+        "Origin": [
+          0.0,
+          0.0
+        ],
+        "Option": 0,
+        "Text Type": 0
+      }
+    ],
+    "Components16": [
+      {
+        "Component Name": "MineralItemMaxText3",
+        "Render Type": 6,
+        "UI Type": 4,
+        "ShaderFileName": "",
+        "PassIndex": 0,
+        "Center": [
+          922.0,
+          412.0
+        ],
+        "World Position": [
+          282.0,
+          -52.0,
+          0.0
+        ],
+        "Scale": [
+          0.3199999928474426,
+          1.0,
+          1.0
+        ],
+        "Angle": 0.0,
+        "Depth": 4,
+        "Ratio": 1.0,
+        "Color": [
+          0.7594936490058899,
+          0.7594936490058899,
+          0.7594936490058899,
+          1.0
+        ],
+        "Alpha": 1.0,
+        "Mask Texture Name": "",
+        "IsMask": false,
+        "IsAlpha": false,
+        "IsColor": true,
+        "RelativeCenter": [
+          0.0,
+          0.0
+        ],
+        "IsRelative": false,
+        "IsInteraction": false,
+        "Font File Name": "OxaniumRegular30",
+        "Text": "/000",
+        "Origin": [
+          0.0,
+          0.0
+        ],
+        "Option": 0,
+        "Text Type": 0
+      }
+    ],
+    "Components17": [
+      {
+        "Component Name": "MineralItemNameText0",
+        "Render Type": 6,
+        "UI Type": 4,
+        "ShaderFileName": "",
+        "PassIndex": 0,
+        "Center": [
+          750.0,
+          322.0
+        ],
+        "World Position": [
+          110.0,
+          38.0,
+          0.0
+        ],
+        "Scale": [
+          0.30000001192092896,
+          1.0,
+          1.0
+        ],
+        "Angle": 0.0,
+        "Depth": 4,
+        "Ratio": 1.0,
+        "Color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Alpha": 1.0,
+        "Mask Texture Name": "",
+        "IsMask": false,
+        "IsAlpha": false,
+        "IsColor": true,
+        "RelativeCenter": [
+          0.0,
+          0.0
+        ],
+        "IsRelative": false,
+        "IsInteraction": false,
+        "Font File Name": "NotoSansKRMedium30",
+        "Text": "wood",
+        "Origin": [
+          0.0,
+          0.0
+        ],
+        "Option": 0,
+        "Text Type": 0
+      }
+    ],
+    "Components18": [
+      {
+        "Component Name": "MineralItemNameText1",
+        "Render Type": 6,
+        "UI Type": 4,
+        "ShaderFileName": "",
+        "PassIndex": 0,
+        "Center": [
+          750.0,
+          351.0
+        ],
+        "World Position": [
+          110.0,
+          9.0,
+          0.0
+        ],
+        "Scale": [
+          0.30000001192092896,
+          1.0,
+          1.0
+        ],
+        "Angle": 0.0,
+        "Depth": 4,
+        "Ratio": 1.0,
+        "Color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Alpha": 1.0,
+        "Mask Texture Name": "",
+        "IsMask": false,
+        "IsAlpha": false,
+        "IsColor": true,
+        "RelativeCenter": [
+          0.0,
+          0.0
+        ],
+        "IsRelative": false,
+        "IsInteraction": false,
+        "Font File Name": "NotoSansKRMedium30",
+        "Text": "wood",
+        "Origin": [
+          0.0,
+          0.0
+        ],
+        "Option": 0,
+        "Text Type": 0
+      }
+    ],
+    "Components19": [
+      {
+        "Component Name": "MineralItemNameText2",
+        "Render Type": 6,
+        "UI Type": 4,
+        "ShaderFileName": "",
+        "PassIndex": 0,
+        "Center": [
+          750.0,
+          380.0
+        ],
+        "World Position": [
+          110.0,
+          -20.0,
+          0.0
+        ],
+        "Scale": [
+          0.30000001192092896,
+          1.0,
+          1.0
+        ],
+        "Angle": 0.0,
+        "Depth": 4,
+        "Ratio": 1.0,
+        "Color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Alpha": 1.0,
+        "Mask Texture Name": "",
+        "IsMask": false,
+        "IsAlpha": false,
+        "IsColor": true,
+        "RelativeCenter": [
+          0.0,
+          0.0
+        ],
+        "IsRelative": false,
+        "IsInteraction": false,
+        "Font File Name": "NotoSansKRMedium30",
+        "Text": "wood",
+        "Origin": [
+          0.0,
+          0.0
+        ],
+        "Option": 0,
+        "Text Type": 0
+      }
+    ],
+    "Components20": [
+      {
+        "Component Name": "MineralItemNameText3",
+        "Render Type": 6,
+        "UI Type": 4,
+        "ShaderFileName": "",
+        "PassIndex": 0,
+        "Center": [
+          750.0,
+          408.0
+        ],
+        "World Position": [
+          110.0,
+          -48.0,
+          0.0
+        ],
+        "Scale": [
+          0.30000001192092896,
+          1.0,
+          1.0
+        ],
+        "Angle": 0.0,
+        "Depth": 4,
+        "Ratio": 1.0,
+        "Color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Alpha": 1.0,
+        "Mask Texture Name": "",
+        "IsMask": false,
+        "IsAlpha": false,
+        "IsColor": true,
+        "RelativeCenter": [
+          0.0,
+          0.0
+        ],
+        "IsRelative": false,
+        "IsInteraction": false,
+        "Font File Name": "NotoSansKRMedium30",
+        "Text": "wood",
+        "Origin": [
+          0.0,
+          0.0
+        ],
+        "Option": 0,
+        "Text Type": 0
+      }
+    ],
+    "Components21": [
+      {
+        "Component Name": "MineralLayerImage0",
+        "Render Type": 6,
+        "UI Type": 0,
+        "ShaderFileName": "FX_UIOrthogonal_PS",
+        "PassIndex": 0,
+        "Center": [
+          830.0,
+          331.0
+        ],
+        "World Position": [
+          190.0,
+          29.0,
+          0.0
+        ],
+        "Scale": [
+          252.0,
+          26.0,
+          1.0
+        ],
+        "Angle": 0.0,
+        "Depth": 3,
+        "Ratio": 1.0,
+        "Color": [
+          0.7383966445922852,
+          0.7383966445922852,
+          0.7383966445922852,
+          1.0
+        ],
+        "Alpha": 1.0,
+        "Mask Texture Name": "",
+        "IsMask": false,
+        "IsAlpha": true,
+        "IsColor": false,
+        "RelativeCenter": [
+          190.0,
+          -29.0
+        ],
+        "IsRelative": true,
+        "IsInteraction": false,
+        "Image Texture Name": "T_WorkBench_Child_Item_LayerImage",
+        "Image Type": 0
+      }
+    ],
+    "Components22": [
+      {
+        "Component Name": "MineralLayerImage1",
+        "Render Type": 6,
+        "UI Type": 0,
+        "ShaderFileName": "FX_UIOrthogonal_PS",
+        "PassIndex": 0,
+        "Center": [
+          830.0,
+          360.0
+        ],
+        "World Position": [
+          190.0,
+          0.0,
+          0.0
+        ],
+        "Scale": [
+          252.0,
+          26.0,
+          1.0
+        ],
+        "Angle": 0.0,
+        "Depth": 3,
+        "Ratio": 1.0,
+        "Color": [
+          0.7383966445922852,
+          0.7383966445922852,
+          0.7383966445922852,
+          1.0
+        ],
+        "Alpha": 1.0,
+        "Mask Texture Name": "",
+        "IsMask": false,
+        "IsAlpha": true,
+        "IsColor": false,
+        "RelativeCenter": [
+          190.0,
+          0.0
+        ],
+        "IsRelative": true,
+        "IsInteraction": false,
+        "Image Texture Name": "T_WorkBench_Child_Item_LayerImage",
+        "Image Type": 0
+      }
+    ],
+    "Components23": [
+      {
+        "Component Name": "MineralLayerImage2",
+        "Render Type": 6,
+        "UI Type": 0,
+        "ShaderFileName": "FX_UIOrthogonal_PS",
+        "PassIndex": 0,
+        "Center": [
+          830.0,
+          389.0
+        ],
+        "World Position": [
+          190.0,
+          -29.0,
+          0.0
+        ],
+        "Scale": [
+          252.0,
+          26.0,
+          1.0
+        ],
+        "Angle": 0.0,
+        "Depth": 3,
+        "Ratio": 1.0,
+        "Color": [
+          0.7383966445922852,
+          0.7383966445922852,
+          0.7383966445922852,
+          1.0
+        ],
+        "Alpha": 1.0,
+        "Mask Texture Name": "",
+        "IsMask": false,
+        "IsAlpha": true,
+        "IsColor": false,
+        "RelativeCenter": [
+          190.0,
+          29.0
+        ],
+        "IsRelative": true,
+        "IsInteraction": false,
+        "Image Texture Name": "T_WorkBench_Child_Item_LayerImage",
+        "Image Type": 0
+      }
+    ],
+    "Components24": [
+      {
+        "Component Name": "MineralLayerImage3",
+        "Render Type": 6,
+        "UI Type": 0,
+        "ShaderFileName": "FX_UIOrthogonal_PS",
+        "PassIndex": 0,
+        "Center": [
+          830.0,
+          418.0
+        ],
+        "World Position": [
+          190.0,
+          -58.0,
+          0.0
+        ],
+        "Scale": [
+          252.0,
+          26.0,
+          1.0
+        ],
+        "Angle": 0.0,
+        "Depth": 3,
+        "Ratio": 1.0,
+        "Color": [
+          0.7383966445922852,
+          0.7383966445922852,
+          0.7383966445922852,
+          1.0
+        ],
+        "Alpha": 1.0,
+        "Mask Texture Name": "",
+        "IsMask": false,
+        "IsAlpha": true,
+        "IsColor": false,
+        "RelativeCenter": [
+          190.0,
+          58.0
+        ],
+        "IsRelative": true,
+        "IsInteraction": false,
+        "Image Texture Name": "T_WorkBench_Child_Item_LayerImage",
+        "Image Type": 0
+      }
+    ],
+    "Components25": [
+      {
+        "Component Name": "ProductionActiveButton",
+        "Render Type": 6,
+        "UI Type": 3,
+        "ShaderFileName": "FX_UIOrthogonal_PS",
+        "PassIndex": 0,
+        "Center": [
+          832.0,
+          600.0
+        ],
+        "World Position": [
+          192.0,
+          -240.0,
+          0.0
+        ],
+        "Scale": [
+          216.0,
+          33.0,
+          1.0
+        ],
+        "Angle": 0.0,
+        "Depth": 4,
+        "Ratio": 1.0,
+        "Color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Alpha": 1.0,
+        "Mask Texture Name": "",
+        "IsMask": false,
+        "IsAlpha": true,
+        "IsColor": false,
+        "RelativeCenter": [
+          0.0,
+          0.0
+        ],
+        "IsRelative": false,
+        "IsInteraction": false,
+        "Static Texture Name": "T_WorkBench_Child_Production_ActiveImage",
+        "Hover Texture Name": "T_WorkBench_Child_Production_ActiveHoverImage",
+        "Click Texture Name": "T_WorkBench_Child_Production_ActiveImage"
+      }
+    ],
+    "Components26": [
+      {
+        "Component Name": "ProductionDownButton",
+        "Render Type": 6,
+        "UI Type": 3,
+        "ShaderFileName": "FX_UIOrthogonal_PS",
+        "PassIndex": 0,
+        "Center": [
+          780.0,
+          524.0
+        ],
+        "World Position": [
+          140.0,
+          -164.0,
+          0.0
+        ],
+        "Scale": [
+          25.0,
+          33.0,
+          1.0
+        ],
+        "Angle": 0.0,
+        "Depth": 5,
+        "Ratio": 1.0,
+        "Color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Alpha": 1.0,
+        "Mask Texture Name": "",
+        "IsMask": false,
+        "IsAlpha": true,
+        "IsColor": false,
+        "RelativeCenter": [
+          0.0,
+          0.0
+        ],
+        "IsRelative": false,
+        "IsInteraction": false,
+        "Static Texture Name": "T_WorkBench_Child_ArrowStaticImage",
+        "Hover Texture Name": "T_WorkBench_Child_ArrowHoverImage",
+        "Click Texture Name": "T_WorkBench_Child_ArrowStaticImage"
+      }
+    ],
+    "Components27": [
+      {
+        "Component Name": "ProductionItemCountText",
+        "Render Type": 6,
+        "UI Type": 4,
+        "ShaderFileName": "",
+        "PassIndex": 0,
+        "Center": [
+          824.0,
+          510.0
+        ],
+        "World Position": [
+          184.0,
+          -150.0,
+          0.0
+        ],
+        "Scale": [
+          0.8500000238418579,
+          0.8500000238418579,
+          1.0
+        ],
+        "Angle": 0.0,
+        "Depth": 3,
+        "Ratio": 1.0,
+        "Color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Alpha": 1.0,
+        "Mask Texture Name": "",
+        "IsMask": false,
+        "IsAlpha": false,
+        "IsColor": true,
+        "RelativeCenter": [
+          0.0,
+          0.0
+        ],
+        "IsRelative": false,
+        "IsInteraction": false,
+        "Font File Name": "OxaniumMedium30",
+        "Text": "000",
+        "Origin": [
+          0.0,
+          0.0
+        ],
+        "Option": 0,
+        "Text Type": 1
+      }
+    ],
+    "Components28": [
+      {
+        "Component Name": "ProductionItemImage",
+        "Render Type": 6,
+        "UI Type": 0,
+        "ShaderFileName": "FX_UIOrthogonal_PS",
+        "PassIndex": 0,
+        "Center": [
+          830.0,
+          198.0
+        ],
+        "World Position": [
+          190.0,
+          162.0,
+          0.0
+        ],
+        "Scale": [
+          110.0,
+          110.0,
+          1.0
+        ],
+        "Angle": 0.0,
+        "Depth": 2,
+        "Ratio": 1.0,
+        "Color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Alpha": 1.0,
+        "Mask Texture Name": "",
+        "IsMask": false,
+        "IsAlpha": true,
+        "IsColor": false,
+        "RelativeCenter": [
+          190.0,
+          -162.0
+        ],
+        "IsRelative": true,
+        "IsInteraction": false,
+        "Image Texture Name": "T_itemicon_PalSphere",
+        "Image Type": 0
+      }
+    ],
+    "Components29": [
+      {
+        "Component Name": "ProductionItemText",
+        "Render Type": 6,
+        "UI Type": 4,
+        "ShaderFileName": "",
+        "PassIndex": 0,
+        "Center": [
+          828.0,
+          255.0
+        ],
+        "World Position": [
+          188.0,
+          105.0,
+          0.0
+        ],
+        "Scale": [
+          0.3499999940395355,
+          0.3499999940395355,
+          1.0
+        ],
+        "Angle": 0.0,
+        "Depth": 2,
+        "Ratio": 1.0,
+        "Color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Alpha": 1.0,
+        "Mask Texture Name": "",
+        "IsMask": false,
+        "IsAlpha": false,
+        "IsColor": true,
+        "RelativeCenter": [
+          0.0,
+          0.0
+        ],
+        "IsRelative": false,
+        "IsInteraction": false,
+        "Font File Name": "NotoSansKRMedium30",
+        "Text": "Pal Sphere",
+        "Origin": [
+          0.0,
+          0.0
+        ],
+        "Option": 0,
+        "Text Type": 1
+      }
+    ],
+    "Components30": [
+      {
+        "Component Name": "ProductionUpButton",
+        "Render Type": 6,
+        "UI Type": 3,
+        "ShaderFileName": "FX_UIOrthogonal_PS",
+        "PassIndex": 0,
+        "Center": [
+          881.0,
+          524.0
+        ],
+        "World Position": [
+          241.0,
+          -164.0,
+          0.0
+        ],
+        "Scale": [
+          25.0,
+          33.0,
+          1.0
+        ],
+        "Angle": 180.0,
+        "Depth": 5,
+        "Ratio": 1.0,
+        "Color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Alpha": 1.0,
+        "Mask Texture Name": "",
+        "IsMask": false,
+        "IsAlpha": true,
+        "IsColor": false,
+        "RelativeCenter": [
+          0.0,
+          0.0
+        ],
+        "IsRelative": false,
+        "IsInteraction": false,
+        "Static Texture Name": "T_WorkBench_Child_ArrowStaticImage",
+        "Hover Texture Name": "T_WorkBench_Child_ArrowHoverImage",
+        "Click Texture Name": "T_WorkBench_Child_ArrowStaticImage"
+      }
+    ]
+  },
+  "Panels2": {
+    "Panel Name": "ChildItemPanel",
+    "Panel Projection Type": 0,
+    "Panel Depth": 22,
+    "Panel Pivot Component Name": "BaseImage",
+    "Components Size": 40,
+    "Components0": [
+      {
+        "Component Name": "Slot_0_0",
+        "Render Type": 6,
+        "UI Type": 0,
+        "ShaderFileName": "FX_UIOrthogonal_PS",
+        "PassIndex": 8,
+        "Center": [
+          360.0,
+          163.0
+        ],
+        "World Position": [
+          -280.0,
+          197.0,
+          0.0
+        ],
+        "Scale": [
+          60.0,
+          60.0,
+          1.0
+        ],
+        "Angle": 0.0,
+        "Depth": 4,
+        "Ratio": 1.0,
+        "Color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Alpha": 1.0,
+        "Mask Texture Name": "T_WorkBench_Item_FailStateImage",
+        "IsMask": true,
+        "IsAlpha": true,
+        "IsColor": false,
+        "RelativeCenter": [
+          -280.0,
+          -197.0
+        ],
+        "IsRelative": true,
+        "IsInteraction": true,
+        "Image Texture Name": "T_itemicon_PalSphere",
+        "Image Type": 0
+      }
+    ],
+    "Components1": [
+      {
+        "Component Name": "Slot_0_1",
+        "Render Type": 6,
+        "UI Type": 0,
+        "ShaderFileName": "FX_UIOrthogonal_PS",
+        "PassIndex": 8,
+        "Center": [
+          429.0,
+          163.0
+        ],
+        "World Position": [
+          -211.0,
+          197.0,
+          0.0
+        ],
+        "Scale": [
+          60.0,
+          60.0,
+          1.0
+        ],
+        "Angle": 0.0,
+        "Depth": 4,
+        "Ratio": 1.0,
+        "Color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Alpha": 1.0,
+        "Mask Texture Name": "T_WorkBench_Item_FailStateImage",
+        "IsMask": true,
+        "IsAlpha": true,
+        "IsColor": false,
+        "RelativeCenter": [
+          -211.0,
+          -197.0
+        ],
+        "IsRelative": true,
+        "IsInteraction": true,
+        "Image Texture Name": "T_itemicon_PalSphere",
+        "Image Type": 0
+      }
+    ],
+    "Components2": [
+      {
+        "Component Name": "Slot_0_2",
+        "Render Type": 6,
+        "UI Type": 0,
+        "ShaderFileName": "FX_UIOrthogonal_PS",
+        "PassIndex": 8,
+        "Center": [
+          498.0,
+          163.0
+        ],
+        "World Position": [
+          -142.0,
+          197.0,
+          0.0
+        ],
+        "Scale": [
+          60.0,
+          60.0,
+          1.0
+        ],
+        "Angle": 0.0,
+        "Depth": 4,
+        "Ratio": 1.0,
+        "Color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Alpha": 1.0,
+        "Mask Texture Name": "T_WorkBench_Item_FailStateImage",
+        "IsMask": true,
+        "IsAlpha": true,
+        "IsColor": false,
+        "RelativeCenter": [
+          -142.0,
+          -197.0
+        ],
+        "IsRelative": true,
+        "IsInteraction": true,
+        "Image Texture Name": "T_itemicon_PalSphere",
+        "Image Type": 0
+      }
+    ],
+    "Components3": [
+      {
+        "Component Name": "Slot_0_3",
+        "Render Type": 6,
+        "UI Type": 0,
+        "ShaderFileName": "FX_UIOrthogonal_PS",
+        "PassIndex": 8,
+        "Center": [
+          567.0,
+          163.0
+        ],
+        "World Position": [
+          -73.0,
+          197.0,
+          0.0
+        ],
+        "Scale": [
+          60.0,
+          60.0,
+          1.0
+        ],
+        "Angle": 0.0,
+        "Depth": 4,
+        "Ratio": 1.0,
+        "Color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Alpha": 1.0,
+        "Mask Texture Name": "T_WorkBench_Item_FailStateImage",
+        "IsMask": true,
+        "IsAlpha": true,
+        "IsColor": false,
+        "RelativeCenter": [
+          -73.0,
+          -197.0
+        ],
+        "IsRelative": true,
+        "IsInteraction": true,
+        "Image Texture Name": "T_itemicon_PalSphere",
+        "Image Type": 0
+      }
+    ],
+    "Components4": [
+      {
+        "Component Name": "Slot_0_4",
+        "Render Type": 6,
+        "UI Type": 0,
+        "ShaderFileName": "FX_UIOrthogonal_PS",
+        "PassIndex": 8,
+        "Center": [
+          637.0,
+          163.0
+        ],
+        "World Position": [
+          -3.0,
+          197.0,
+          0.0
+        ],
+        "Scale": [
+          60.0,
+          60.0,
+          1.0
+        ],
+        "Angle": 0.0,
+        "Depth": 4,
+        "Ratio": 1.0,
+        "Color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Alpha": 1.0,
+        "Mask Texture Name": "T_WorkBench_Item_FailStateImage",
+        "IsMask": true,
+        "IsAlpha": true,
+        "IsColor": false,
+        "RelativeCenter": [
+          -3.0,
+          -197.0
+        ],
+        "IsRelative": true,
+        "IsInteraction": true,
+        "Image Texture Name": "T_itemicon_PalSphere",
+        "Image Type": 0
+      }
+    ],
+    "Components5": [
+      {
+        "Component Name": "Slot_1_0",
+        "Render Type": 6,
+        "UI Type": 0,
+        "ShaderFileName": "FX_UIOrthogonal_PS",
+        "PassIndex": 8,
+        "Center": [
+          360.0,
+          233.0
+        ],
+        "World Position": [
+          -280.0,
+          127.0,
+          0.0
+        ],
+        "Scale": [
+          60.0,
+          60.0,
+          1.0
+        ],
+        "Angle": 0.0,
+        "Depth": 4,
+        "Ratio": 1.0,
+        "Color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Alpha": 1.0,
+        "Mask Texture Name": "T_WorkBench_Item_FailStateImage",
+        "IsMask": true,
+        "IsAlpha": true,
+        "IsColor": false,
+        "RelativeCenter": [
+          -280.0,
+          -127.0
+        ],
+        "IsRelative": true,
+        "IsInteraction": true,
+        "Image Texture Name": "T_itemicon_PalSphere",
+        "Image Type": 0
+      }
+    ],
+    "Components6": [
+      {
+        "Component Name": "Slot_1_1",
+        "Render Type": 6,
+        "UI Type": 0,
+        "ShaderFileName": "FX_UIOrthogonal_PS",
+        "PassIndex": 8,
+        "Center": [
+          429.0,
+          233.0
+        ],
+        "World Position": [
+          -211.0,
+          127.0,
+          0.0
+        ],
+        "Scale": [
+          60.0,
+          60.0,
+          1.0
+        ],
+        "Angle": 0.0,
+        "Depth": 4,
+        "Ratio": 1.0,
+        "Color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Alpha": 1.0,
+        "Mask Texture Name": "T_WorkBench_Item_FailStateImage",
+        "IsMask": true,
+        "IsAlpha": true,
+        "IsColor": false,
+        "RelativeCenter": [
+          -211.0,
+          -127.0
+        ],
+        "IsRelative": true,
+        "IsInteraction": true,
+        "Image Texture Name": "T_itemicon_PalSphere",
+        "Image Type": 0
+      }
+    ],
+    "Components7": [
+      {
+        "Component Name": "Slot_1_2",
+        "Render Type": 6,
+        "UI Type": 0,
+        "ShaderFileName": "FX_UIOrthogonal_PS",
+        "PassIndex": 8,
+        "Center": [
+          498.0,
+          233.0
+        ],
+        "World Position": [
+          -142.0,
+          127.0,
+          0.0
+        ],
+        "Scale": [
+          60.0,
+          60.0,
+          1.0
+        ],
+        "Angle": 0.0,
+        "Depth": 4,
+        "Ratio": 1.0,
+        "Color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Alpha": 1.0,
+        "Mask Texture Name": "T_WorkBench_Item_FailStateImage",
+        "IsMask": true,
+        "IsAlpha": true,
+        "IsColor": false,
+        "RelativeCenter": [
+          -142.0,
+          -127.0
+        ],
+        "IsRelative": true,
+        "IsInteraction": true,
+        "Image Texture Name": "T_itemicon_PalSphere",
+        "Image Type": 0
+      }
+    ],
+    "Components8": [
+      {
+        "Component Name": "Slot_1_3",
+        "Render Type": 6,
+        "UI Type": 0,
+        "ShaderFileName": "FX_UIOrthogonal_PS",
+        "PassIndex": 8,
+        "Center": [
+          567.0,
+          233.0
+        ],
+        "World Position": [
+          -73.0,
+          127.0,
+          0.0
+        ],
+        "Scale": [
+          60.0,
+          60.0,
+          1.0
+        ],
+        "Angle": 0.0,
+        "Depth": 4,
+        "Ratio": 1.0,
+        "Color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Alpha": 1.0,
+        "Mask Texture Name": "T_WorkBench_Item_FailStateImage",
+        "IsMask": true,
+        "IsAlpha": true,
+        "IsColor": false,
+        "RelativeCenter": [
+          -73.0,
+          -127.0
+        ],
+        "IsRelative": true,
+        "IsInteraction": true,
+        "Image Texture Name": "T_itemicon_PalSphere",
+        "Image Type": 0
+      }
+    ],
+    "Components9": [
+      {
+        "Component Name": "Slot_1_4",
+        "Render Type": 6,
+        "UI Type": 0,
+        "ShaderFileName": "FX_UIOrthogonal_PS",
+        "PassIndex": 8,
+        "Center": [
+          637.0,
+          233.0
+        ],
+        "World Position": [
+          -3.0,
+          127.0,
+          0.0
+        ],
+        "Scale": [
+          60.0,
+          60.0,
+          1.0
+        ],
+        "Angle": 0.0,
+        "Depth": 4,
+        "Ratio": 1.0,
+        "Color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Alpha": 1.0,
+        "Mask Texture Name": "T_WorkBench_Item_FailStateImage",
+        "IsMask": true,
+        "IsAlpha": true,
+        "IsColor": false,
+        "RelativeCenter": [
+          -3.0,
+          -127.0
+        ],
+        "IsRelative": true,
+        "IsInteraction": true,
+        "Image Texture Name": "T_itemicon_PalSphere",
+        "Image Type": 0
+      }
+    ],
+    "Components10": [
+      {
+        "Component Name": "Slot_2_0",
+        "Render Type": 6,
+        "UI Type": 0,
+        "ShaderFileName": "FX_UIOrthogonal_PS",
+        "PassIndex": 8,
+        "Center": [
+          360.0,
+          303.0
+        ],
+        "World Position": [
+          -280.0,
+          57.0,
+          0.0
+        ],
+        "Scale": [
+          60.0,
+          60.0,
+          1.0
+        ],
+        "Angle": 0.0,
+        "Depth": 4,
+        "Ratio": 1.0,
+        "Color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Alpha": 1.0,
+        "Mask Texture Name": "T_WorkBench_Item_FailStateImage",
+        "IsMask": true,
+        "IsAlpha": true,
+        "IsColor": false,
+        "RelativeCenter": [
+          -280.0,
+          -57.0
+        ],
+        "IsRelative": true,
+        "IsInteraction": true,
+        "Image Texture Name": "T_itemicon_PalSphere",
+        "Image Type": 0
+      }
+    ],
+    "Components11": [
+      {
+        "Component Name": "Slot_2_1",
+        "Render Type": 6,
+        "UI Type": 0,
+        "ShaderFileName": "FX_UIOrthogonal_PS",
+        "PassIndex": 8,
+        "Center": [
+          429.0,
+          303.0
+        ],
+        "World Position": [
+          -211.0,
+          57.0,
+          0.0
+        ],
+        "Scale": [
+          60.0,
+          60.0,
+          1.0
+        ],
+        "Angle": 0.0,
+        "Depth": 4,
+        "Ratio": 1.0,
+        "Color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Alpha": 1.0,
+        "Mask Texture Name": "T_WorkBench_Item_FailStateImage",
+        "IsMask": true,
+        "IsAlpha": true,
+        "IsColor": false,
+        "RelativeCenter": [
+          -211.0,
+          -57.0
+        ],
+        "IsRelative": true,
+        "IsInteraction": true,
+        "Image Texture Name": "T_itemicon_PalSphere",
+        "Image Type": 0
+      }
+    ],
+    "Components12": [
+      {
+        "Component Name": "Slot_2_2",
+        "Render Type": 6,
+        "UI Type": 0,
+        "ShaderFileName": "FX_UIOrthogonal_PS",
+        "PassIndex": 8,
+        "Center": [
+          498.0,
+          303.0
+        ],
+        "World Position": [
+          -142.0,
+          57.0,
+          0.0
+        ],
+        "Scale": [
+          60.0,
+          60.0,
+          1.0
+        ],
+        "Angle": 0.0,
+        "Depth": 4,
+        "Ratio": 1.0,
+        "Color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Alpha": 1.0,
+        "Mask Texture Name": "T_WorkBench_Item_FailStateImage",
+        "IsMask": true,
+        "IsAlpha": true,
+        "IsColor": false,
+        "RelativeCenter": [
+          -142.0,
+          -57.0
+        ],
+        "IsRelative": true,
+        "IsInteraction": true,
+        "Image Texture Name": "T_itemicon_PalSphere",
+        "Image Type": 0
+      }
+    ],
+    "Components13": [
+      {
+        "Component Name": "Slot_2_3",
+        "Render Type": 6,
+        "UI Type": 0,
+        "ShaderFileName": "FX_UIOrthogonal_PS",
+        "PassIndex": 8,
+        "Center": [
+          567.0,
+          303.0
+        ],
+        "World Position": [
+          -73.0,
+          57.0,
+          0.0
+        ],
+        "Scale": [
+          60.0,
+          60.0,
+          1.0
+        ],
+        "Angle": 0.0,
+        "Depth": 4,
+        "Ratio": 1.0,
+        "Color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Alpha": 1.0,
+        "Mask Texture Name": "T_WorkBench_Item_FailStateImage",
+        "IsMask": true,
+        "IsAlpha": true,
+        "IsColor": false,
+        "RelativeCenter": [
+          -73.0,
+          -57.0
+        ],
+        "IsRelative": true,
+        "IsInteraction": true,
+        "Image Texture Name": "T_itemicon_PalSphere",
+        "Image Type": 0
+      }
+    ],
+    "Components14": [
+      {
+        "Component Name": "Slot_2_4",
+        "Render Type": 6,
+        "UI Type": 0,
+        "ShaderFileName": "FX_UIOrthogonal_PS",
+        "PassIndex": 8,
+        "Center": [
+          637.0,
+          303.0
+        ],
+        "World Position": [
+          -3.0,
+          57.0,
+          0.0
+        ],
+        "Scale": [
+          60.0,
+          60.0,
+          1.0
+        ],
+        "Angle": 0.0,
+        "Depth": 4,
+        "Ratio": 1.0,
+        "Color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Alpha": 1.0,
+        "Mask Texture Name": "T_WorkBench_Item_FailStateImage",
+        "IsMask": true,
+        "IsAlpha": true,
+        "IsColor": false,
+        "RelativeCenter": [
+          -3.0,
+          -57.0
+        ],
+        "IsRelative": true,
+        "IsInteraction": true,
+        "Image Texture Name": "T_itemicon_PalSphere",
+        "Image Type": 0
+      }
+    ],
+    "Components15": [
+      {
+        "Component Name": "Slot_3_0",
+        "Render Type": 6,
+        "UI Type": 0,
+        "ShaderFileName": "FX_UIOrthogonal_PS",
+        "PassIndex": 8,
+        "Center": [
+          360.0,
+          373.0
+        ],
+        "World Position": [
+          -280.0,
+          -13.0,
+          0.0
+        ],
+        "Scale": [
+          60.0,
+          60.0,
+          1.0
+        ],
+        "Angle": 0.0,
+        "Depth": 4,
+        "Ratio": 1.0,
+        "Color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Alpha": 1.0,
+        "Mask Texture Name": "T_WorkBench_Item_FailStateImage",
+        "IsMask": true,
+        "IsAlpha": true,
+        "IsColor": false,
+        "RelativeCenter": [
+          -280.0,
+          13.0
+        ],
+        "IsRelative": true,
+        "IsInteraction": true,
+        "Image Texture Name": "T_itemicon_PalSphere",
+        "Image Type": 0
+      }
+    ],
+    "Components16": [
+      {
+        "Component Name": "Slot_3_1",
+        "Render Type": 6,
+        "UI Type": 0,
+        "ShaderFileName": "FX_UIOrthogonal_PS",
+        "PassIndex": 8,
+        "Center": [
+          429.0,
+          373.0
+        ],
+        "World Position": [
+          -211.0,
+          -13.0,
+          0.0
+        ],
+        "Scale": [
+          60.0,
+          60.0,
+          1.0
+        ],
+        "Angle": 0.0,
+        "Depth": 4,
+        "Ratio": 1.0,
+        "Color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Alpha": 1.0,
+        "Mask Texture Name": "T_WorkBench_Item_FailStateImage",
+        "IsMask": true,
+        "IsAlpha": true,
+        "IsColor": false,
+        "RelativeCenter": [
+          -211.0,
+          13.0
+        ],
+        "IsRelative": true,
+        "IsInteraction": true,
+        "Image Texture Name": "T_itemicon_PalSphere",
+        "Image Type": 0
+      }
+    ],
+    "Components17": [
+      {
+        "Component Name": "Slot_3_2",
+        "Render Type": 6,
+        "UI Type": 0,
+        "ShaderFileName": "FX_UIOrthogonal_PS",
+        "PassIndex": 8,
+        "Center": [
+          498.0,
+          373.0
+        ],
+        "World Position": [
+          -142.0,
+          -13.0,
+          0.0
+        ],
+        "Scale": [
+          60.0,
+          60.0,
+          1.0
+        ],
+        "Angle": 0.0,
+        "Depth": 4,
+        "Ratio": 1.0,
+        "Color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Alpha": 1.0,
+        "Mask Texture Name": "T_WorkBench_Item_FailStateImage",
+        "IsMask": true,
+        "IsAlpha": true,
+        "IsColor": false,
+        "RelativeCenter": [
+          -142.0,
+          13.0
+        ],
+        "IsRelative": true,
+        "IsInteraction": true,
+        "Image Texture Name": "T_itemicon_PalSphere",
+        "Image Type": 0
+      }
+    ],
+    "Components18": [
+      {
+        "Component Name": "Slot_3_3",
+        "Render Type": 6,
+        "UI Type": 0,
+        "ShaderFileName": "FX_UIOrthogonal_PS",
+        "PassIndex": 8,
+        "Center": [
+          567.0,
+          373.0
+        ],
+        "World Position": [
+          -73.0,
+          -13.0,
+          0.0
+        ],
+        "Scale": [
+          60.0,
+          60.0,
+          1.0
+        ],
+        "Angle": 0.0,
+        "Depth": 4,
+        "Ratio": 1.0,
+        "Color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Alpha": 1.0,
+        "Mask Texture Name": "T_WorkBench_Item_FailStateImage",
+        "IsMask": true,
+        "IsAlpha": true,
+        "IsColor": false,
+        "RelativeCenter": [
+          -73.0,
+          13.0
+        ],
+        "IsRelative": true,
+        "IsInteraction": true,
+        "Image Texture Name": "T_itemicon_PalSphere",
+        "Image Type": 0
+      }
+    ],
+    "Components19": [
+      {
+        "Component Name": "Slot_3_4",
+        "Render Type": 6,
+        "UI Type": 0,
+        "ShaderFileName": "FX_UIOrthogonal_PS",
+        "PassIndex": 8,
+        "Center": [
+          637.0,
+          373.0
+        ],
+        "World Position": [
+          -3.0,
+          -13.0,
+          0.0
+        ],
+        "Scale": [
+          60.0,
+          60.0,
+          1.0
+        ],
+        "Angle": 0.0,
+        "Depth": 4,
+        "Ratio": 1.0,
+        "Color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Alpha": 1.0,
+        "Mask Texture Name": "T_WorkBench_Item_FailStateImage",
+        "IsMask": true,
+        "IsAlpha": true,
+        "IsColor": false,
+        "RelativeCenter": [
+          -3.0,
+          13.0
+        ],
+        "IsRelative": true,
+        "IsInteraction": true,
+        "Image Texture Name": "T_itemicon_PalSphere",
+        "Image Type": 0
+      }
+    ],
+    "Components20": [
+      {
+        "Component Name": "Slot_Base_0_0",
+        "Render Type": 6,
+        "UI Type": 0,
+        "ShaderFileName": "FX_UIOrthogonal_PS",
+        "PassIndex": 0,
+        "Center": [
+          360.0,
+          163.0
+        ],
+        "World Position": [
+          -280.0,
+          197.0,
+          0.0
+        ],
+        "Scale": [
+          60.0,
+          60.0,
+          1.0
+        ],
+        "Angle": 0.0,
+        "Depth": 3,
+        "Ratio": 1.0,
+        "Color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Alpha": 0.5,
+        "Mask Texture Name": "",
+        "IsMask": false,
+        "IsAlpha": true,
+        "IsColor": false,
+        "RelativeCenter": [
+          0.0,
+          0.0
+        ],
+        "IsRelative": false,
+        "IsInteraction": false,
+        "Image Texture Name": "T_WorkBench_Item_BaseBlankImage",
+        "Image Type": 0
+      }
+    ],
+    "Components21": [
+      {
+        "Component Name": "Slot_Base_0_1",
+        "Render Type": 6,
+        "UI Type": 0,
+        "ShaderFileName": "FX_UIOrthogonal_PS",
+        "PassIndex": 0,
+        "Center": [
+          429.0,
+          163.0
+        ],
+        "World Position": [
+          -211.0,
+          197.0,
+          0.0
+        ],
+        "Scale": [
+          60.0,
+          60.0,
+          1.0
+        ],
+        "Angle": 0.0,
+        "Depth": 3,
+        "Ratio": 1.0,
+        "Color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Alpha": 0.5,
+        "Mask Texture Name": "",
+        "IsMask": false,
+        "IsAlpha": true,
+        "IsColor": false,
+        "RelativeCenter": [
+          -211.0,
+          -197.0
+        ],
+        "IsRelative": true,
+        "IsInteraction": false,
+        "Image Texture Name": "T_WorkBench_Item_BaseBlankImage",
+        "Image Type": 0
+      }
+    ],
+    "Components22": [
+      {
+        "Component Name": "Slot_Base_0_2",
+        "Render Type": 6,
+        "UI Type": 0,
+        "ShaderFileName": "FX_UIOrthogonal_PS",
+        "PassIndex": 0,
+        "Center": [
+          498.0,
+          163.0
+        ],
+        "World Position": [
+          -142.0,
+          197.0,
+          0.0
+        ],
+        "Scale": [
+          60.0,
+          60.0,
+          1.0
+        ],
+        "Angle": 0.0,
+        "Depth": 3,
+        "Ratio": 1.0,
+        "Color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Alpha": 0.5,
+        "Mask Texture Name": "",
+        "IsMask": false,
+        "IsAlpha": true,
+        "IsColor": false,
+        "RelativeCenter": [
+          -142.0,
+          -197.0
+        ],
+        "IsRelative": true,
+        "IsInteraction": false,
+        "Image Texture Name": "T_WorkBench_Item_BaseBlankImage",
+        "Image Type": 0
+      }
+    ],
+    "Components23": [
+      {
+        "Component Name": "Slot_Base_0_3",
+        "Render Type": 6,
+        "UI Type": 0,
+        "ShaderFileName": "FX_UIOrthogonal_PS",
+        "PassIndex": 0,
+        "Center": [
+          567.0,
+          163.0
+        ],
+        "World Position": [
+          -73.0,
+          197.0,
+          0.0
+        ],
+        "Scale": [
+          60.0,
+          60.0,
+          1.0
+        ],
+        "Angle": 0.0,
+        "Depth": 3,
+        "Ratio": 1.0,
+        "Color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Alpha": 0.5,
+        "Mask Texture Name": "",
+        "IsMask": false,
+        "IsAlpha": true,
+        "IsColor": false,
+        "RelativeCenter": [
+          -73.0,
+          -197.0
+        ],
+        "IsRelative": true,
+        "IsInteraction": false,
+        "Image Texture Name": "T_WorkBench_Item_BaseBlankImage",
+        "Image Type": 0
+      }
+    ],
+    "Components24": [
+      {
+        "Component Name": "Slot_Base_0_4",
+        "Render Type": 6,
+        "UI Type": 0,
+        "ShaderFileName": "FX_UIOrthogonal_PS",
+        "PassIndex": 0,
+        "Center": [
+          637.0,
+          163.0
+        ],
+        "World Position": [
+          -3.0,
+          197.0,
+          0.0
+        ],
+        "Scale": [
+          60.0,
+          60.0,
+          1.0
+        ],
+        "Angle": 0.0,
+        "Depth": 3,
+        "Ratio": 1.0,
+        "Color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Alpha": 0.5,
+        "Mask Texture Name": "",
+        "IsMask": false,
+        "IsAlpha": true,
+        "IsColor": false,
+        "RelativeCenter": [
+          -3.0,
+          -197.0
+        ],
+        "IsRelative": true,
+        "IsInteraction": false,
+        "Image Texture Name": "T_WorkBench_Item_BaseBlankImage",
+        "Image Type": 0
+      }
+    ],
+    "Components25": [
+      {
+        "Component Name": "Slot_Base_1_0",
+        "Render Type": 6,
+        "UI Type": 0,
+        "ShaderFileName": "FX_UIOrthogonal_PS",
+        "PassIndex": 0,
+        "Center": [
+          360.0,
+          233.0
+        ],
+        "World Position": [
+          -280.0,
+          127.0,
+          0.0
+        ],
+        "Scale": [
+          60.0,
+          60.0,
+          1.0
+        ],
+        "Angle": 0.0,
+        "Depth": 3,
+        "Ratio": 1.0,
+        "Color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Alpha": 0.5,
+        "Mask Texture Name": "",
+        "IsMask": false,
+        "IsAlpha": true,
+        "IsColor": false,
+        "RelativeCenter": [
+          -280.0,
+          -127.0
+        ],
+        "IsRelative": true,
+        "IsInteraction": false,
+        "Image Texture Name": "T_WorkBench_Item_BaseBlankImage",
+        "Image Type": 0
+      }
+    ],
+    "Components26": [
+      {
+        "Component Name": "Slot_Base_1_1",
+        "Render Type": 6,
+        "UI Type": 0,
+        "ShaderFileName": "FX_UIOrthogonal_PS",
+        "PassIndex": 0,
+        "Center": [
+          429.0,
+          233.0
+        ],
+        "World Position": [
+          -211.0,
+          127.0,
+          0.0
+        ],
+        "Scale": [
+          60.0,
+          60.0,
+          1.0
+        ],
+        "Angle": 0.0,
+        "Depth": 3,
+        "Ratio": 1.0,
+        "Color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Alpha": 0.5,
+        "Mask Texture Name": "",
+        "IsMask": false,
+        "IsAlpha": true,
+        "IsColor": false,
+        "RelativeCenter": [
+          -211.0,
+          -127.0
+        ],
+        "IsRelative": true,
+        "IsInteraction": false,
+        "Image Texture Name": "T_WorkBench_Item_BaseBlankImage",
+        "Image Type": 0
+      }
+    ],
+    "Components27": [
+      {
+        "Component Name": "Slot_Base_1_2",
+        "Render Type": 6,
+        "UI Type": 0,
+        "ShaderFileName": "FX_UIOrthogonal_PS",
+        "PassIndex": 0,
+        "Center": [
+          498.0,
+          233.0
+        ],
+        "World Position": [
+          -142.0,
+          127.0,
+          0.0
+        ],
+        "Scale": [
+          60.0,
+          60.0,
+          1.0
+        ],
+        "Angle": 0.0,
+        "Depth": 3,
+        "Ratio": 1.0,
+        "Color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Alpha": 0.5,
+        "Mask Texture Name": "",
+        "IsMask": false,
+        "IsAlpha": true,
+        "IsColor": false,
+        "RelativeCenter": [
+          -142.0,
+          -127.0
+        ],
+        "IsRelative": true,
+        "IsInteraction": false,
+        "Image Texture Name": "T_WorkBench_Item_BaseBlankImage",
+        "Image Type": 0
+      }
+    ],
+    "Components28": [
+      {
+        "Component Name": "Slot_Base_1_3",
+        "Render Type": 6,
+        "UI Type": 0,
+        "ShaderFileName": "FX_UIOrthogonal_PS",
+        "PassIndex": 0,
+        "Center": [
+          567.0,
+          233.0
+        ],
+        "World Position": [
+          -73.0,
+          127.0,
+          0.0
+        ],
+        "Scale": [
+          60.0,
+          60.0,
+          1.0
+        ],
+        "Angle": 0.0,
+        "Depth": 3,
+        "Ratio": 1.0,
+        "Color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Alpha": 0.5,
+        "Mask Texture Name": "",
+        "IsMask": false,
+        "IsAlpha": true,
+        "IsColor": false,
+        "RelativeCenter": [
+          -73.0,
+          -127.0
+        ],
+        "IsRelative": true,
+        "IsInteraction": false,
+        "Image Texture Name": "T_WorkBench_Item_BaseBlankImage",
+        "Image Type": 0
+      }
+    ],
+    "Components29": [
+      {
+        "Component Name": "Slot_Base_1_4",
+        "Render Type": 6,
+        "UI Type": 0,
+        "ShaderFileName": "FX_UIOrthogonal_PS",
+        "PassIndex": 0,
+        "Center": [
+          637.0,
+          233.0
+        ],
+        "World Position": [
+          -3.0,
+          127.0,
+          0.0
+        ],
+        "Scale": [
+          60.0,
+          60.0,
+          1.0
+        ],
+        "Angle": 0.0,
+        "Depth": 3,
+        "Ratio": 1.0,
+        "Color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Alpha": 0.5,
+        "Mask Texture Name": "",
+        "IsMask": false,
+        "IsAlpha": true,
+        "IsColor": false,
+        "RelativeCenter": [
+          -3.0,
+          -127.0
+        ],
+        "IsRelative": true,
+        "IsInteraction": false,
+        "Image Texture Name": "T_WorkBench_Item_BaseBlankImage",
+        "Image Type": 0
+      }
+    ],
+    "Components30": [
+      {
+        "Component Name": "Slot_Base_2_0",
+        "Render Type": 6,
+        "UI Type": 0,
+        "ShaderFileName": "FX_UIOrthogonal_PS",
+        "PassIndex": 0,
+        "Center": [
+          360.0,
+          303.0
+        ],
+        "World Position": [
+          -280.0,
+          57.0,
+          0.0
+        ],
+        "Scale": [
+          60.0,
+          60.0,
+          1.0
+        ],
+        "Angle": 0.0,
+        "Depth": 3,
+        "Ratio": 1.0,
+        "Color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Alpha": 0.5,
+        "Mask Texture Name": "",
+        "IsMask": false,
+        "IsAlpha": true,
+        "IsColor": false,
+        "RelativeCenter": [
+          -280.0,
+          -57.0
+        ],
+        "IsRelative": true,
+        "IsInteraction": false,
+        "Image Texture Name": "T_WorkBench_Item_BaseBlankImage",
+        "Image Type": 0
+      }
+    ],
+    "Components31": [
+      {
+        "Component Name": "Slot_Base_2_1",
+        "Render Type": 6,
+        "UI Type": 0,
+        "ShaderFileName": "FX_UIOrthogonal_PS",
+        "PassIndex": 0,
+        "Center": [
+          429.0,
+          303.0
+        ],
+        "World Position": [
+          -211.0,
+          57.0,
+          0.0
+        ],
+        "Scale": [
+          60.0,
+          60.0,
+          1.0
+        ],
+        "Angle": 0.0,
+        "Depth": 3,
+        "Ratio": 1.0,
+        "Color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Alpha": 0.5,
+        "Mask Texture Name": "",
+        "IsMask": false,
+        "IsAlpha": true,
+        "IsColor": false,
+        "RelativeCenter": [
+          -211.0,
+          -57.0
+        ],
+        "IsRelative": true,
+        "IsInteraction": false,
+        "Image Texture Name": "T_WorkBench_Item_BaseBlankImage",
+        "Image Type": 0
+      }
+    ],
+    "Components32": [
+      {
+        "Component Name": "Slot_Base_2_2",
+        "Render Type": 6,
+        "UI Type": 0,
+        "ShaderFileName": "FX_UIOrthogonal_PS",
+        "PassIndex": 0,
+        "Center": [
+          498.0,
+          303.0
+        ],
+        "World Position": [
+          -142.0,
+          57.0,
+          0.0
+        ],
+        "Scale": [
+          60.0,
+          60.0,
+          1.0
+        ],
+        "Angle": 0.0,
+        "Depth": 3,
+        "Ratio": 1.0,
+        "Color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Alpha": 0.5,
+        "Mask Texture Name": "",
+        "IsMask": false,
+        "IsAlpha": true,
+        "IsColor": false,
+        "RelativeCenter": [
+          -142.0,
+          -57.0
+        ],
+        "IsRelative": true,
+        "IsInteraction": false,
+        "Image Texture Name": "T_WorkBench_Item_BaseBlankImage",
+        "Image Type": 0
+      }
+    ],
+    "Components33": [
+      {
+        "Component Name": "Slot_Base_2_3",
+        "Render Type": 6,
+        "UI Type": 0,
+        "ShaderFileName": "FX_UIOrthogonal_PS",
+        "PassIndex": 0,
+        "Center": [
+          567.0,
+          303.0
+        ],
+        "World Position": [
+          -73.0,
+          57.0,
+          0.0
+        ],
+        "Scale": [
+          60.0,
+          60.0,
+          1.0
+        ],
+        "Angle": 0.0,
+        "Depth": 3,
+        "Ratio": 1.0,
+        "Color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Alpha": 0.5,
+        "Mask Texture Name": "",
+        "IsMask": false,
+        "IsAlpha": true,
+        "IsColor": false,
+        "RelativeCenter": [
+          -73.0,
+          -57.0
+        ],
+        "IsRelative": true,
+        "IsInteraction": false,
+        "Image Texture Name": "T_WorkBench_Item_BaseBlankImage",
+        "Image Type": 0
+      }
+    ],
+    "Components34": [
+      {
+        "Component Name": "Slot_Base_2_4",
+        "Render Type": 6,
+        "UI Type": 0,
+        "ShaderFileName": "FX_UIOrthogonal_PS",
+        "PassIndex": 0,
+        "Center": [
+          637.0,
+          303.0
+        ],
+        "World Position": [
+          -3.0,
+          57.0,
+          0.0
+        ],
+        "Scale": [
+          60.0,
+          60.0,
+          1.0
+        ],
+        "Angle": 0.0,
+        "Depth": 3,
+        "Ratio": 1.0,
+        "Color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Alpha": 0.5,
+        "Mask Texture Name": "",
+        "IsMask": false,
+        "IsAlpha": true,
+        "IsColor": false,
+        "RelativeCenter": [
+          -3.0,
+          -57.0
+        ],
+        "IsRelative": true,
+        "IsInteraction": false,
+        "Image Texture Name": "T_WorkBench_Item_BaseBlankImage",
+        "Image Type": 0
+      }
+    ],
+    "Components35": [
+      {
+        "Component Name": "Slot_Base_3_0",
+        "Render Type": 6,
+        "UI Type": 0,
+        "ShaderFileName": "FX_UIOrthogonal_PS",
+        "PassIndex": 0,
+        "Center": [
+          360.0,
+          373.0
+        ],
+        "World Position": [
+          -280.0,
+          -13.0,
+          0.0
+        ],
+        "Scale": [
+          60.0,
+          60.0,
+          1.0
+        ],
+        "Angle": 0.0,
+        "Depth": 3,
+        "Ratio": 1.0,
+        "Color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Alpha": 0.5,
+        "Mask Texture Name": "",
+        "IsMask": false,
+        "IsAlpha": true,
+        "IsColor": false,
+        "RelativeCenter": [
+          -280.0,
+          13.0
+        ],
+        "IsRelative": true,
+        "IsInteraction": false,
+        "Image Texture Name": "T_WorkBench_Item_BaseBlankImage",
+        "Image Type": 0
+      }
+    ],
+    "Components36": [
+      {
+        "Component Name": "Slot_Base_3_1",
+        "Render Type": 6,
+        "UI Type": 0,
+        "ShaderFileName": "FX_UIOrthogonal_PS",
+        "PassIndex": 0,
+        "Center": [
+          429.0,
+          373.0
+        ],
+        "World Position": [
+          -211.0,
+          -13.0,
+          0.0
+        ],
+        "Scale": [
+          60.0,
+          60.0,
+          1.0
+        ],
+        "Angle": 0.0,
+        "Depth": 3,
+        "Ratio": 1.0,
+        "Color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Alpha": 0.5,
+        "Mask Texture Name": "",
+        "IsMask": false,
+        "IsAlpha": true,
+        "IsColor": false,
+        "RelativeCenter": [
+          -211.0,
+          13.0
+        ],
+        "IsRelative": true,
+        "IsInteraction": false,
+        "Image Texture Name": "T_WorkBench_Item_BaseBlankImage",
+        "Image Type": 0
+      }
+    ],
+    "Components37": [
+      {
+        "Component Name": "Slot_Base_3_2",
+        "Render Type": 6,
+        "UI Type": 0,
+        "ShaderFileName": "FX_UIOrthogonal_PS",
+        "PassIndex": 0,
+        "Center": [
+          498.0,
+          373.0
+        ],
+        "World Position": [
+          -142.0,
+          -13.0,
+          0.0
+        ],
+        "Scale": [
+          60.0,
+          60.0,
+          1.0
+        ],
+        "Angle": 0.0,
+        "Depth": 3,
+        "Ratio": 1.0,
+        "Color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Alpha": 0.5,
+        "Mask Texture Name": "",
+        "IsMask": false,
+        "IsAlpha": true,
+        "IsColor": false,
+        "RelativeCenter": [
+          -142.0,
+          13.0
+        ],
+        "IsRelative": true,
+        "IsInteraction": false,
+        "Image Texture Name": "T_WorkBench_Item_BaseBlankImage",
+        "Image Type": 0
+      }
+    ],
+    "Components38": [
+      {
+        "Component Name": "Slot_Base_3_3",
+        "Render Type": 6,
+        "UI Type": 0,
+        "ShaderFileName": "FX_UIOrthogonal_PS",
+        "PassIndex": 0,
+        "Center": [
+          567.0,
+          373.0
+        ],
+        "World Position": [
+          -73.0,
+          -13.0,
+          0.0
+        ],
+        "Scale": [
+          60.0,
+          60.0,
+          1.0
+        ],
+        "Angle": 0.0,
+        "Depth": 3,
+        "Ratio": 1.0,
+        "Color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Alpha": 0.5,
+        "Mask Texture Name": "",
+        "IsMask": false,
+        "IsAlpha": true,
+        "IsColor": false,
+        "RelativeCenter": [
+          -73.0,
+          13.0
+        ],
+        "IsRelative": true,
+        "IsInteraction": false,
+        "Image Texture Name": "T_WorkBench_Item_BaseBlankImage",
+        "Image Type": 0
+      }
+    ],
+    "Components39": [
+      {
+        "Component Name": "Slot_Base_3_4",
+        "Render Type": 6,
+        "UI Type": 0,
+        "ShaderFileName": "FX_UIOrthogonal_PS",
+        "PassIndex": 0,
+        "Center": [
+          637.0,
+          373.0
+        ],
+        "World Position": [
+          -3.0,
+          -13.0,
+          0.0
+        ],
+        "Scale": [
+          60.0,
+          60.0,
+          1.0
+        ],
+        "Angle": 0.0,
+        "Depth": 3,
+        "Ratio": 1.0,
+        "Color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Alpha": 0.5,
+        "Mask Texture Name": "",
+        "IsMask": false,
+        "IsAlpha": true,
+        "IsColor": false,
+        "RelativeCenter": [
+          -3.0,
+          13.0
+        ],
+        "IsRelative": true,
+        "IsInteraction": false,
+        "Image Texture Name": "T_WorkBench_Item_BaseBlankImage",
+        "Image Type": 0
+      }
+    ]
+  }
+}

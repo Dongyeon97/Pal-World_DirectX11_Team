@@ -1,0 +1,47 @@
+{
+  "Textures": {
+    "Base Texture": "Pal/Content/Pal/Model/Character/Monster/QueenBee/T_QueenBee_Weapon_B.T_QueenBee_Weapon_B",
+    "T_QueenBee_Weapon_B": "Pal/Content/Pal/Model/Character/Monster/QueenBee/T_QueenBee_Weapon_B.T_QueenBee_Weapon_B",
+    "Jewel Mask": "Pal/Content/Pal/Model/Character/Monster/QueenBee/T_QueenBee_Weapon_JM.T_QueenBee_Weapon_JM",
+    "T_QueenBee_Weapon_JM": "Pal/Content/Pal/Model/Character/Monster/QueenBee/T_QueenBee_Weapon_JM.T_QueenBee_Weapon_JM",
+    "PM_SpecularMasks": "Pal/Content/Pal/Model/Character/Monster/QueenBee/T_QueenBee_Weapon_M.T_QueenBee_Weapon_M",
+    "MetallicRoughnessOcclusionSpecularTexture": "Pal/Content/Pal/Model/Character/Monster/QueenBee/T_QueenBee_Weapon_M.T_QueenBee_Weapon_M",
+    "PM_Normals": "Pal/Content/Pal/Model/Character/Monster/QueenBee/T_QueenBee_Weapon_N.T_QueenBee_Weapon_N",
+    "Normal Map": "Pal/Content/Pal/Model/Character/Monster/QueenBee/T_QueenBee_Weapon_N.T_QueenBee_Weapon_N"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 2,
+    "Colors": {},
+    "Scalars": {
+      "Jewel Opacity": 0.75,
+      "Jewel Refract Color Power": 1.5,
+      "Jewel Refract Color Rate": 0.5,
+      "Jewel Refraction": 1.0,
+      "Metallic Add": 0.3,
+      "Roughness Add": 0.32,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "bOverride_BlendMode": true,
+        "bOverride_ShadingModel": true,
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_Subsurface",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "SubsurfaceProfile": {
+        "ObjectName": "SubsurfaceProfile'SP_CharacterBodyBase'",
+        "ObjectPath": "Pal/Content/Pal/Material/Character/Common/SP_CharacterBodyBase.0"
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

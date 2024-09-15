@@ -1,0 +1,507 @@
+{
+  "Effect Group Name": "Group_Fiho_FirePillar",
+  "Duration": 2.0,
+  "Loop": false,
+  "Is Collider": true,
+  "Collider Type": 1,
+  "Collision Flag": 28682,
+  "Collision Layer": 128,
+  "Sphere Collider Radius": 0.0,
+  "Box Collider Extents": [
+    1.652999997138977,
+    9.09000015258789,
+    2.438999891281128
+  ],
+  "Box Collider LocalPosition": [
+    0.0,
+    9.090999603271484,
+    0.0
+  ],
+  "Box Collider LocalRotate": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Sound Name": "",
+  "Sound Loop": false,
+  "Sound Value": 1.0,
+  "Effects": [
+    {
+      "Effect Name": "Effect Mesh - Effect Mesh - Effect Mesh - Effect Mesh - Fiho_FirePillar",
+      "RenderType": 9,
+      "EffectType": 1,
+      "Model File Path": "../../Resource/Models/Dat/NonAnim/EffectMeshs/Cylinder.dat",
+      "Effect Shader Name": "FX_EffectMesh_PNT2T",
+      "Scale": [
+        0.7500000298023224,
+        10.0,
+        0.7500000298023224
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Translation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Diffuse Color1": [
+        1.0,
+        0.5755478143692017,
+        0.09803920984268188,
+        1.0
+      ],
+      "Diffuse Color2": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Diffuse Color3": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Diffuse Texture Name": "T_Fire_2",
+      "Noise Texture Name": "Eff_Noise_11",
+      "Mask Texture Name": "T_Flash09",
+      "Distortion Texture Name": "",
+      "Dissolve Texture Name": "",
+      "Is Sprite": false,
+      "Sprite Row": 1,
+      "Sprite Col": 1,
+      "Sprite Speed": 1.0,
+      "Is Anim": false,
+      "Is Loop": false,
+      "Is UVMove Loop": true,
+      "Is Glow": false,
+      "Is Bloom": false,
+      "Is AlphaAttenuation": false,
+      "Use Diffuse Texture": true,
+      "Use Noise Texture": true,
+      "Use Mask Texture": true,
+      "Use Distortion Texture": false,
+      "Use Dissolve Texture": true,
+      "Distortion Weight": 0.0,
+      "Dissolve Weight": 0.0,
+      "Glow Weight": 0.0,
+      "Bloom Weight": 0.0,
+      "AlphaAttenuation Weight": 0.0,
+      "Life Time": [
+        0.0,
+        0.25
+      ],
+      "UVMove Speed": [
+        0.0,
+        0.5
+      ],
+      "Num KeyFrames": 0,
+      "KeyFrames": []
+    },
+    {
+      "Effect Name": "Effect Mesh - Effect Mesh - Effect Mesh - Effect Mesh - Fiho_FirePillar_ShockWave",
+      "RenderType": 9,
+      "EffectType": 1,
+      "Model File Path": "../../Resource/Models/Dat/NonAnim/EffectMeshs/RainDrop.dat",
+      "Effect Shader Name": "FX_EffectMesh_PNT2T",
+      "Scale": [
+        2.0,
+        10.0,
+        2.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Translation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Diffuse Color1": [
+        1.0,
+        0.36332178115844727,
+        0.09803920984268188,
+        1.0
+      ],
+      "Diffuse Color2": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Diffuse Color3": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Diffuse Texture Name": "T_Fire_2",
+      "Noise Texture Name": "Eff_Noise_11",
+      "Mask Texture Name": "T_Shockwave10",
+      "Distortion Texture Name": "",
+      "Dissolve Texture Name": "",
+      "Is Sprite": false,
+      "Sprite Row": 1,
+      "Sprite Col": 1,
+      "Sprite Speed": 1.0,
+      "Is Anim": false,
+      "Is Loop": false,
+      "Is UVMove Loop": false,
+      "Is Glow": false,
+      "Is Bloom": false,
+      "Is AlphaAttenuation": true,
+      "Use Diffuse Texture": true,
+      "Use Noise Texture": true,
+      "Use Mask Texture": true,
+      "Use Distortion Texture": false,
+      "Use Dissolve Texture": true,
+      "Distortion Weight": 0.0,
+      "Dissolve Weight": 0.0,
+      "Glow Weight": 0.0,
+      "Bloom Weight": 0.0,
+      "AlphaAttenuation Weight": 0.20000000298023224,
+      "Life Time": [
+        0.0,
+        0.25
+      ],
+      "UVMove Speed": [
+        0.0,
+        1.0
+      ],
+      "Num KeyFrames": 0,
+      "KeyFrames": []
+    },
+    {
+      "Effect Name": "Effect Mesh - Effect Mesh - Effect Mesh - Fiho_FirePillar_ShockWave2",
+      "RenderType": 9,
+      "EffectType": 1,
+      "Model File Path": "../../Resource/Models/Dat/NonAnim/EffectMeshs/Hemisphere00.dat",
+      "Effect Shader Name": "FX_EffectMesh_PNT2T",
+      "Scale": [
+        5.0,
+        5.0,
+        5.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Translation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Diffuse Color1": [
+        1.0,
+        0.5755478143692017,
+        0.09803920984268188,
+        1.0
+      ],
+      "Diffuse Color2": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Diffuse Color3": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Diffuse Texture Name": "T_Fire_2",
+      "Noise Texture Name": "Eff_Noise_11",
+      "Mask Texture Name": "T_Flash09",
+      "Distortion Texture Name": "",
+      "Dissolve Texture Name": "",
+      "Is Sprite": false,
+      "Sprite Row": 1,
+      "Sprite Col": 1,
+      "Sprite Speed": 1.0,
+      "Is Anim": false,
+      "Is Loop": false,
+      "Is UVMove Loop": true,
+      "Is Glow": false,
+      "Is Bloom": false,
+      "Is AlphaAttenuation": false,
+      "Use Diffuse Texture": true,
+      "Use Noise Texture": true,
+      "Use Mask Texture": true,
+      "Use Distortion Texture": false,
+      "Use Dissolve Texture": true,
+      "Distortion Weight": 0.0,
+      "Dissolve Weight": 0.0,
+      "Glow Weight": 0.0,
+      "Bloom Weight": 0.0,
+      "AlphaAttenuation Weight": 0.0,
+      "Life Time": [
+        0.0,
+        0.5
+      ],
+      "UVMove Speed": [
+        0.0,
+        0.5
+      ],
+      "Num KeyFrames": 0,
+      "KeyFrames": []
+    },
+    {
+      "Effect Name": "Particle - Particle - Particle - Particle - Particle_Fiho_FirePillar1",
+      "RenderType": 9,
+      "EffectType": 0,
+      "ParticleType": 1,
+      "Effect Shader Name": "FX_Instancing_PRULPC",
+      "Use Diffuse Texture": false,
+      "Diffuse Texture Name": "",
+      "Use Mask Texture": true,
+      "Mask Texture Name": "KakaoTalk_20240427_141756747_12",
+      "Is Sprite": false,
+      "Sprite Row": 1,
+      "Sprite Col": 1,
+      "Sprite Speed": 1.0,
+      "Is Loop": false,
+      "Is Billboard": true,
+      "Is Directional": true,
+      "Is Gravity": true,
+      "Is Glow": false,
+      "Is Bloom": false,
+      "Is AlphaAttenuation": false,
+      "Gravity Value": 0.5,
+      "Glow Weight": 0.0,
+      "Bloom Weight": 0.0,
+      "AlphaAttenuation Weight": 0.0,
+      "Random Life Time": true,
+      "Life Time": [
+        0.0,
+        2.0
+      ],
+      "Num Instance": 100,
+      "Size": [
+        0.05,
+        0.2
+      ],
+      "Color1": [
+        1.0,
+        0.5527681112289429,
+        0.30882352590560913,
+        1.0
+      ],
+      "Color2": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Color3": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Speed": [
+        2.5,
+        5.0
+      ],
+      "Offset": [
+        0.0,
+        1.5,
+        0.0
+      ],
+      "Pivot": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Range": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Rotation Per Second": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Radius": [
+        5.0,
+        5.0
+      ],
+      "Num KeyFrames": 0,
+      "KeyFrames": []
+    },
+    {
+      "Effect Name": "Particle - Particle - Particle - Particle_Fiho_FirePillar2",
+      "RenderType": 9,
+      "EffectType": 0,
+      "ParticleType": 1,
+      "Effect Shader Name": "FX_Instancing_PRULPC",
+      "Use Diffuse Texture": false,
+      "Diffuse Texture Name": "",
+      "Use Mask Texture": true,
+      "Mask Texture Name": "KakaoTalk_20240427_141756747_12",
+      "Is Sprite": false,
+      "Sprite Row": 1,
+      "Sprite Col": 1,
+      "Sprite Speed": 1.0,
+      "Is Loop": false,
+      "Is Billboard": true,
+      "Is Directional": true,
+      "Is Gravity": true,
+      "Is Glow": false,
+      "Is Bloom": false,
+      "Is AlphaAttenuation": false,
+      "Gravity Value": 0.5,
+      "Glow Weight": 0.0,
+      "Bloom Weight": 0.0,
+      "AlphaAttenuation Weight": 0.0,
+      "Random Life Time": true,
+      "Life Time": [
+        0.0,
+        2.0
+      ],
+      "Num Instance": 50,
+      "Size": [
+        0.05,
+        0.2
+      ],
+      "Color1": [
+        0.699999988079071,
+        0.10000000149011612,
+        0.0,
+        1.0
+      ],
+      "Color2": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Color3": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Speed": [
+        2.5,
+        5.0
+      ],
+      "Offset": [
+        0.0,
+        1.5,
+        0.0
+      ],
+      "Pivot": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Range": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Rotation Per Second": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Radius": [
+        5.0,
+        5.0
+      ],
+      "Num KeyFrames": 0,
+      "KeyFrames": []
+    },
+    {
+      "Effect Name": "Particle - Particle - Particle - Particle_Fiho_FirePillar3",
+      "RenderType": 9,
+      "EffectType": 0,
+      "ParticleType": 1,
+      "Effect Shader Name": "FX_Instancing_PRULPC",
+      "Use Diffuse Texture": false,
+      "Diffuse Texture Name": "",
+      "Use Mask Texture": true,
+      "Mask Texture Name": "KakaoTalk_20240427_141756747_12",
+      "Is Sprite": false,
+      "Sprite Row": 1,
+      "Sprite Col": 1,
+      "Sprite Speed": 1.0,
+      "Is Loop": false,
+      "Is Billboard": true,
+      "Is Directional": true,
+      "Is Gravity": true,
+      "Is Glow": false,
+      "Is Bloom": false,
+      "Is AlphaAttenuation": false,
+      "Gravity Value": 0.5,
+      "Glow Weight": 0.0,
+      "Bloom Weight": 0.0,
+      "AlphaAttenuation Weight": 0.0,
+      "Random Life Time": true,
+      "Life Time": [
+        0.0,
+        2.0
+      ],
+      "Num Instance": 40,
+      "Size": [
+        0.05,
+        0.2
+      ],
+      "Color1": [
+        1.0,
+        0.972029983997345,
+        0.5245097875595093,
+        1.0
+      ],
+      "Color2": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Color3": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Speed": [
+        2.5,
+        5.0
+      ],
+      "Offset": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Pivot": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Range": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Rotation Per Second": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Radius": [
+        5.0,
+        5.0
+      ],
+      "Num KeyFrames": 0,
+      "KeyFrames": []
+    }
+  ]
+}

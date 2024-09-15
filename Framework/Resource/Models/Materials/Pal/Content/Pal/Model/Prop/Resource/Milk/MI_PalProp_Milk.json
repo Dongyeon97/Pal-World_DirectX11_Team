@@ -1,0 +1,48 @@
+{
+  "Textures": {
+    "Base Texture": "Pal/Content/Pal/Model/Prop/Resource/Milk/T_Milk_B.T_Milk_B",
+    "T_Milk_B": "Pal/Content/Pal/Model/Prop/Resource/Milk/T_Milk_B.T_Milk_B",
+    "PM_SpecularMasks": "Pal/Content/Pal/Model/Prop/Resource/Milk/T_Milk_M.T_Milk_M",
+    "MetallicRoughnessOcclusionSpecularTexture": "Pal/Content/Pal/Model/Prop/Resource/Milk/T_Milk_M.T_Milk_M",
+    "PM_Normals": "Pal/Content/Pal/Model/Prop/Resource/Milk/T_Milk_N.T_Milk_N",
+    "Normal Map": "Pal/Content/Pal/Model/Prop/Resource/Milk/T_Milk_N.T_Milk_N",
+    "Subsurface Texture": "Pal/Content/Pal/Model/Prop/Resource/Honey/Material/T_Honey_E.T_Honey_E",
+    "PM_Emissive": "Pal/Content/Pal/Model/Prop/Resource/Honey/Material/T_Honey_E.T_Honey_E",
+    "T_Honey_E": "Pal/Content/Pal/Model/Prop/Resource/Honey/Material/T_Honey_E.T_Honey_E"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 2,
+    "Colors": {
+      "Subsurface Color": {
+        "R": 0.802083,
+        "G": 0.205937,
+        "B": 0.012533,
+        "A": 0.0,
+        "Hex": "E87D1D"
+      }
+    },
+    "Scalars": {
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "bOverride_ShadingModel": true,
+        "ShadingModel": "EMaterialShadingModel::MSM_Subsurface",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "SubsurfaceProfile": {
+        "ObjectName": "SubsurfaceProfile'SP_CharacterBodyBase'",
+        "ObjectPath": "Pal/Content/Pal/Material/Character/Common/SP_CharacterBodyBase.0"
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

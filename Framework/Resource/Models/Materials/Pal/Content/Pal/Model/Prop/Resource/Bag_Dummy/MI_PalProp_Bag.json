@@ -1,0 +1,36 @@
+{
+  "Textures": {
+    "Base Texture": "Pal/Content/Pal/Model/Prop/Resource/Bag_Dummy/T_Bag_B.T_Bag_B",
+    "T_Bag_B": "Pal/Content/Pal/Model/Prop/Resource/Bag_Dummy/T_Bag_B.T_Bag_B",
+    "PM_SpecularMasks": "Pal/Content/Pal/Model/Prop/Resource/Bag_Dummy/T_Bag_M.T_Bag_M",
+    "MetallicRoughnessOcclusionSpecularTexture": "Pal/Content/Pal/Model/Prop/Resource/Bag_Dummy/T_Bag_M.T_Bag_M",
+    "PM_Normals": "Pal/Content/Pal/Model/Prop/Resource/Bag_Dummy/T_Bag_N.T_Bag_N",
+    "Normal Map": "Pal/Content/Pal/Model/Prop/Resource/Bag_Dummy/T_Bag_N.T_Bag_N"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "Normal Map Intensity": 0.8,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "SubsurfaceProfile": {
+        "ObjectName": "SubsurfaceProfile'SP_CharacterBodyBase'",
+        "ObjectPath": "Pal/Content/Pal/Material/Character/Common/SP_CharacterBodyBase.0"
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "Textures": {
+    "T_Weapon_RocketLauncher_001_B": "Pal/Content/Pal/Model/Weapon/RocketLauncher/SK_Weapon_RocketLauncher_001/Texture/T_Weapon_RocketLauncher_001_B.T_Weapon_RocketLauncher_001_B",
+    "T_Weapon_RocketLauncher_001_N": "Pal/Content/Pal/Model/Weapon/RocketLauncher/SK_Weapon_RocketLauncher_001/Texture/T_Weapon_RocketLauncher_001_N.T_Weapon_RocketLauncher_001_N",
+    "PM_Normals": "Pal/Content/Pal/Model/Weapon/RocketLauncher/SK_Weapon_RocketLauncher_001/Texture/T_Weapon_RocketLauncher_001_N.T_Weapon_RocketLauncher_001_N"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {},
+    "Switches": {},
+    "Properties": {
+      "bUsedWithSkeletalMesh": true,
+      "bCanMaskedBeAssumedOpaque": true,
+      "StateId": "B1E57749-46EB389E-B202A2B9-0586D00D"
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

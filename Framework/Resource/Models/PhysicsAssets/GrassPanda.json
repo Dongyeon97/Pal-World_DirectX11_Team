@@ -1,0 +1,2644 @@
+[
+  {
+    "Type": "PhysicsAsset",
+    "Name": "PA_GrassPanda_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsAsset'",
+    "Properties": {
+      "BoundsBodies": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35
+      ],
+      "SkeletalBodySetups": [
+        {
+          "ObjectName": "SkeletalBodySetup'PA_GrassPanda_PhysicsAsset:SkeletalBodySetup_227'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/GrassPanda/PA_GrassPanda_PhysicsAsset.36"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'PA_GrassPanda_PhysicsAsset:SkeletalBodySetup_230'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/GrassPanda/PA_GrassPanda_PhysicsAsset.37"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'PA_GrassPanda_PhysicsAsset:SkeletalBodySetup_232'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/GrassPanda/PA_GrassPanda_PhysicsAsset.38"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'PA_GrassPanda_PhysicsAsset:SkeletalBodySetup_233'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/GrassPanda/PA_GrassPanda_PhysicsAsset.39"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'PA_GrassPanda_PhysicsAsset:SkeletalBodySetup_234'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/GrassPanda/PA_GrassPanda_PhysicsAsset.40"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'PA_GrassPanda_PhysicsAsset:SkeletalBodySetup_235'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/GrassPanda/PA_GrassPanda_PhysicsAsset.41"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'PA_GrassPanda_PhysicsAsset:SkeletalBodySetup_236'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/GrassPanda/PA_GrassPanda_PhysicsAsset.42"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'PA_GrassPanda_PhysicsAsset:SkeletalBodySetup_237'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/GrassPanda/PA_GrassPanda_PhysicsAsset.43"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'PA_GrassPanda_PhysicsAsset:SkeletalBodySetup_248'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/GrassPanda/PA_GrassPanda_PhysicsAsset.44"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'PA_GrassPanda_PhysicsAsset:SkeletalBodySetup_249'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/GrassPanda/PA_GrassPanda_PhysicsAsset.45"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'PA_GrassPanda_PhysicsAsset:SkeletalBodySetup_250'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/GrassPanda/PA_GrassPanda_PhysicsAsset.46"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'PA_GrassPanda_PhysicsAsset:SkeletalBodySetup_251'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/GrassPanda/PA_GrassPanda_PhysicsAsset.47"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'PA_GrassPanda_PhysicsAsset:SkeletalBodySetup_252'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/GrassPanda/PA_GrassPanda_PhysicsAsset.48"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'PA_GrassPanda_PhysicsAsset:SkeletalBodySetup_253'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/GrassPanda/PA_GrassPanda_PhysicsAsset.49"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'PA_GrassPanda_PhysicsAsset:SkeletalBodySetup_255'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/GrassPanda/PA_GrassPanda_PhysicsAsset.50"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'PA_GrassPanda_PhysicsAsset:SkeletalBodySetup_256'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/GrassPanda/PA_GrassPanda_PhysicsAsset.51"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'PA_GrassPanda_PhysicsAsset:SkeletalBodySetup_257'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/GrassPanda/PA_GrassPanda_PhysicsAsset.52"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'PA_GrassPanda_PhysicsAsset:SkeletalBodySetup_258'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/GrassPanda/PA_GrassPanda_PhysicsAsset.53"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'PA_GrassPanda_PhysicsAsset:SkeletalBodySetup_259'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/GrassPanda/PA_GrassPanda_PhysicsAsset.54"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'PA_GrassPanda_PhysicsAsset:SkeletalBodySetup_260'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/GrassPanda/PA_GrassPanda_PhysicsAsset.55"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'PA_GrassPanda_PhysicsAsset:SkeletalBodySetup_261'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/GrassPanda/PA_GrassPanda_PhysicsAsset.56"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'PA_GrassPanda_PhysicsAsset:SkeletalBodySetup_262'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/GrassPanda/PA_GrassPanda_PhysicsAsset.57"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'PA_GrassPanda_PhysicsAsset:SkeletalBodySetup_263'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/GrassPanda/PA_GrassPanda_PhysicsAsset.58"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'PA_GrassPanda_PhysicsAsset:SkeletalBodySetup_264'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/GrassPanda/PA_GrassPanda_PhysicsAsset.59"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'PA_GrassPanda_PhysicsAsset:SkeletalBodySetup_265'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/GrassPanda/PA_GrassPanda_PhysicsAsset.60"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'PA_GrassPanda_PhysicsAsset:SkeletalBodySetup_266'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/GrassPanda/PA_GrassPanda_PhysicsAsset.61"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'PA_GrassPanda_PhysicsAsset:SkeletalBodySetup_267'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/GrassPanda/PA_GrassPanda_PhysicsAsset.62"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'PA_GrassPanda_PhysicsAsset:SkeletalBodySetup_268'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/GrassPanda/PA_GrassPanda_PhysicsAsset.63"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'PA_GrassPanda_PhysicsAsset:SkeletalBodySetup_269'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/GrassPanda/PA_GrassPanda_PhysicsAsset.64"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'PA_GrassPanda_PhysicsAsset:SkeletalBodySetup_270'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/GrassPanda/PA_GrassPanda_PhysicsAsset.65"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'PA_GrassPanda_PhysicsAsset:SkeletalBodySetup_271'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/GrassPanda/PA_GrassPanda_PhysicsAsset.66"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'PA_GrassPanda_PhysicsAsset:SkeletalBodySetup_272'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/GrassPanda/PA_GrassPanda_PhysicsAsset.67"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'PA_GrassPanda_PhysicsAsset:SkeletalBodySetup_273'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/GrassPanda/PA_GrassPanda_PhysicsAsset.68"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'PA_GrassPanda_PhysicsAsset:SkeletalBodySetup_274'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/GrassPanda/PA_GrassPanda_PhysicsAsset.69"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'PA_GrassPanda_PhysicsAsset:SkeletalBodySetup_275'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/GrassPanda/PA_GrassPanda_PhysicsAsset.70"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'PA_GrassPanda_PhysicsAsset:SkeletalBodySetup_276'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/GrassPanda/PA_GrassPanda_PhysicsAsset.71"
+        }
+      ],
+      "ConstraintSetup": [
+        {
+          "ObjectName": "PhysicsConstraintTemplate'PA_GrassPanda_PhysicsAsset:PhysicsConstraintTemplate_222'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/GrassPanda/PA_GrassPanda_PhysicsAsset.1"
+        },
+        {
+          "ObjectName": "PhysicsConstraintTemplate'PA_GrassPanda_PhysicsAsset:PhysicsConstraintTemplate_224'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/GrassPanda/PA_GrassPanda_PhysicsAsset.2"
+        },
+        {
+          "ObjectName": "PhysicsConstraintTemplate'PA_GrassPanda_PhysicsAsset:PhysicsConstraintTemplate_225'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/GrassPanda/PA_GrassPanda_PhysicsAsset.3"
+        },
+        {
+          "ObjectName": "PhysicsConstraintTemplate'PA_GrassPanda_PhysicsAsset:PhysicsConstraintTemplate_226'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/GrassPanda/PA_GrassPanda_PhysicsAsset.4"
+        },
+        {
+          "ObjectName": "PhysicsConstraintTemplate'PA_GrassPanda_PhysicsAsset:PhysicsConstraintTemplate_227'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/GrassPanda/PA_GrassPanda_PhysicsAsset.5"
+        },
+        {
+          "ObjectName": "PhysicsConstraintTemplate'PA_GrassPanda_PhysicsAsset:PhysicsConstraintTemplate_228'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/GrassPanda/PA_GrassPanda_PhysicsAsset.6"
+        },
+        {
+          "ObjectName": "PhysicsConstraintTemplate'PA_GrassPanda_PhysicsAsset:PhysicsConstraintTemplate_229'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/GrassPanda/PA_GrassPanda_PhysicsAsset.7"
+        },
+        {
+          "ObjectName": "PhysicsConstraintTemplate'PA_GrassPanda_PhysicsAsset:PhysicsConstraintTemplate_240'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/GrassPanda/PA_GrassPanda_PhysicsAsset.8"
+        },
+        {
+          "ObjectName": "PhysicsConstraintTemplate'PA_GrassPanda_PhysicsAsset:PhysicsConstraintTemplate_241'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/GrassPanda/PA_GrassPanda_PhysicsAsset.9"
+        },
+        {
+          "ObjectName": "PhysicsConstraintTemplate'PA_GrassPanda_PhysicsAsset:PhysicsConstraintTemplate_242'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/GrassPanda/PA_GrassPanda_PhysicsAsset.10"
+        },
+        {
+          "ObjectName": "PhysicsConstraintTemplate'PA_GrassPanda_PhysicsAsset:PhysicsConstraintTemplate_243'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/GrassPanda/PA_GrassPanda_PhysicsAsset.11"
+        },
+        {
+          "ObjectName": "PhysicsConstraintTemplate'PA_GrassPanda_PhysicsAsset:PhysicsConstraintTemplate_244'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/GrassPanda/PA_GrassPanda_PhysicsAsset.12"
+        },
+        {
+          "ObjectName": "PhysicsConstraintTemplate'PA_GrassPanda_PhysicsAsset:PhysicsConstraintTemplate_245'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/GrassPanda/PA_GrassPanda_PhysicsAsset.13"
+        },
+        {
+          "ObjectName": "PhysicsConstraintTemplate'PA_GrassPanda_PhysicsAsset:PhysicsConstraintTemplate_247'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/GrassPanda/PA_GrassPanda_PhysicsAsset.14"
+        },
+        {
+          "ObjectName": "PhysicsConstraintTemplate'PA_GrassPanda_PhysicsAsset:PhysicsConstraintTemplate_248'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/GrassPanda/PA_GrassPanda_PhysicsAsset.15"
+        },
+        {
+          "ObjectName": "PhysicsConstraintTemplate'PA_GrassPanda_PhysicsAsset:PhysicsConstraintTemplate_249'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/GrassPanda/PA_GrassPanda_PhysicsAsset.16"
+        },
+        {
+          "ObjectName": "PhysicsConstraintTemplate'PA_GrassPanda_PhysicsAsset:PhysicsConstraintTemplate_250'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/GrassPanda/PA_GrassPanda_PhysicsAsset.17"
+        },
+        {
+          "ObjectName": "PhysicsConstraintTemplate'PA_GrassPanda_PhysicsAsset:PhysicsConstraintTemplate_251'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/GrassPanda/PA_GrassPanda_PhysicsAsset.18"
+        },
+        {
+          "ObjectName": "PhysicsConstraintTemplate'PA_GrassPanda_PhysicsAsset:PhysicsConstraintTemplate_252'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/GrassPanda/PA_GrassPanda_PhysicsAsset.19"
+        },
+        {
+          "ObjectName": "PhysicsConstraintTemplate'PA_GrassPanda_PhysicsAsset:PhysicsConstraintTemplate_253'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/GrassPanda/PA_GrassPanda_PhysicsAsset.20"
+        },
+        {
+          "ObjectName": "PhysicsConstraintTemplate'PA_GrassPanda_PhysicsAsset:PhysicsConstraintTemplate_254'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/GrassPanda/PA_GrassPanda_PhysicsAsset.21"
+        },
+        {
+          "ObjectName": "PhysicsConstraintTemplate'PA_GrassPanda_PhysicsAsset:PhysicsConstraintTemplate_255'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/GrassPanda/PA_GrassPanda_PhysicsAsset.22"
+        },
+        {
+          "ObjectName": "PhysicsConstraintTemplate'PA_GrassPanda_PhysicsAsset:PhysicsConstraintTemplate_256'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/GrassPanda/PA_GrassPanda_PhysicsAsset.23"
+        },
+        {
+          "ObjectName": "PhysicsConstraintTemplate'PA_GrassPanda_PhysicsAsset:PhysicsConstraintTemplate_257'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/GrassPanda/PA_GrassPanda_PhysicsAsset.24"
+        },
+        {
+          "ObjectName": "PhysicsConstraintTemplate'PA_GrassPanda_PhysicsAsset:PhysicsConstraintTemplate_258'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/GrassPanda/PA_GrassPanda_PhysicsAsset.25"
+        },
+        {
+          "ObjectName": "PhysicsConstraintTemplate'PA_GrassPanda_PhysicsAsset:PhysicsConstraintTemplate_259'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/GrassPanda/PA_GrassPanda_PhysicsAsset.26"
+        },
+        {
+          "ObjectName": "PhysicsConstraintTemplate'PA_GrassPanda_PhysicsAsset:PhysicsConstraintTemplate_260'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/GrassPanda/PA_GrassPanda_PhysicsAsset.27"
+        },
+        {
+          "ObjectName": "PhysicsConstraintTemplate'PA_GrassPanda_PhysicsAsset:PhysicsConstraintTemplate_261'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/GrassPanda/PA_GrassPanda_PhysicsAsset.28"
+        },
+        {
+          "ObjectName": "PhysicsConstraintTemplate'PA_GrassPanda_PhysicsAsset:PhysicsConstraintTemplate_262'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/GrassPanda/PA_GrassPanda_PhysicsAsset.29"
+        },
+        {
+          "ObjectName": "PhysicsConstraintTemplate'PA_GrassPanda_PhysicsAsset:PhysicsConstraintTemplate_263'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/GrassPanda/PA_GrassPanda_PhysicsAsset.30"
+        },
+        {
+          "ObjectName": "PhysicsConstraintTemplate'PA_GrassPanda_PhysicsAsset:PhysicsConstraintTemplate_264'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/GrassPanda/PA_GrassPanda_PhysicsAsset.31"
+        },
+        {
+          "ObjectName": "PhysicsConstraintTemplate'PA_GrassPanda_PhysicsAsset:PhysicsConstraintTemplate_265'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/GrassPanda/PA_GrassPanda_PhysicsAsset.32"
+        },
+        {
+          "ObjectName": "PhysicsConstraintTemplate'PA_GrassPanda_PhysicsAsset:PhysicsConstraintTemplate_266'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/GrassPanda/PA_GrassPanda_PhysicsAsset.33"
+        },
+        {
+          "ObjectName": "PhysicsConstraintTemplate'PA_GrassPanda_PhysicsAsset:PhysicsConstraintTemplate_267'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/GrassPanda/PA_GrassPanda_PhysicsAsset.34"
+        },
+        {
+          "ObjectName": "PhysicsConstraintTemplate'PA_GrassPanda_PhysicsAsset:PhysicsConstraintTemplate_269'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/GrassPanda/PA_GrassPanda_PhysicsAsset.35"
+        }
+      ],
+      "SolverSettings": {
+        "CullDistance": 1.0,
+        "bUseLinearJointSolver": false
+      },
+      "ThumbnailInfo": null
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_222",
+    "Outer": "PA_GrassPanda_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "spine_03",
+        "ConstraintBone1": "spine_03",
+        "ConstraintBone2": "pelvis",
+        "Pos2": {
+          "X": 61.652817,
+          "Y": -6.356091E-15,
+          "Z": 0.0
+        },
+        "ProfileInstance": {
+          "ConeLimit": {
+            "Swing1LimitDegrees": 15.0,
+            "Swing2LimitDegrees": 0.0,
+            "Swing1Motion": "EAngularConstraintMotion::ACM_Limited",
+            "Swing2Motion": "EAngularConstraintMotion::ACM_Limited"
+          },
+          "TwistLimit": {
+            "TwistLimitDegrees": 15.0,
+            "TwistMotion": "EAngularConstraintMotion::ACM_Limited"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_224",
+    "Outer": "PA_GrassPanda_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "head",
+        "ConstraintBone1": "head",
+        "ConstraintBone2": "spine_03",
+        "Pos2": {
+          "X": 42.92752,
+          "Y": -5.257105E-15,
+          "Z": 0.0
+        },
+        "ProfileInstance": {
+          "ConeLimit": {
+            "Swing1LimitDegrees": 0.0,
+            "Swing2LimitDegrees": 0.0,
+            "Swing1Motion": "EAngularConstraintMotion::ACM_Limited",
+            "Swing2Motion": "EAngularConstraintMotion::ACM_Limited"
+          },
+          "TwistLimit": {
+            "TwistLimitDegrees": 15.0,
+            "TwistMotion": "EAngularConstraintMotion::ACM_Limited"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_225",
+    "Outer": "PA_GrassPanda_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "ear_l",
+        "ConstraintBone1": "ear_l",
+        "ConstraintBone2": "head",
+        "Pos2": {
+          "X": 70.63149,
+          "Y": 3.5926058,
+          "Z": 59.587276
+        },
+        "PriAxis2": {
+          "X": 0.767492,
+          "Y": 0.14030321,
+          "Z": 0.6255166
+        },
+        "SecAxis2": {
+          "X": -0.108757354,
+          "Y": 0.9901086,
+          "Z": -0.088638745
+        },
+        "ProfileInstance": {
+          "ConeLimit": {
+            "Swing1LimitDegrees": 15.0,
+            "Swing2LimitDegrees": 0.0,
+            "Swing1Motion": "EAngularConstraintMotion::ACM_Limited",
+            "Swing2Motion": "EAngularConstraintMotion::ACM_Limited"
+          },
+          "TwistLimit": {
+            "TwistLimitDegrees": 0.0,
+            "TwistMotion": "EAngularConstraintMotion::ACM_Limited"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_226",
+    "Outer": "PA_GrassPanda_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "leaf_01",
+        "ConstraintBone1": "leaf_01",
+        "ConstraintBone2": "head",
+        "Pos2": {
+          "X": 95.06771,
+          "Y": 2.4235775,
+          "Z": -2.9680265E-16
+        },
+        "ProfileInstance": {
+          "ConeLimit": {
+            "Swing1LimitDegrees": 15.0,
+            "Swing2LimitDegrees": 0.0,
+            "Swing1Motion": "EAngularConstraintMotion::ACM_Limited",
+            "Swing2Motion": "EAngularConstraintMotion::ACM_Limited"
+          },
+          "TwistLimit": {
+            "TwistLimitDegrees": 0.0,
+            "TwistMotion": "EAngularConstraintMotion::ACM_Limited"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_227",
+    "Outer": "PA_GrassPanda_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "leaf_02",
+        "ConstraintBone1": "leaf_02",
+        "ConstraintBone2": "leaf_01",
+        "Pos2": {
+          "X": 67.734535,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "ProfileInstance": {
+          "ConeLimit": {
+            "Swing2LimitDegrees": 15.0,
+            "Swing1Motion": "EAngularConstraintMotion::ACM_Limited",
+            "Swing2Motion": "EAngularConstraintMotion::ACM_Limited"
+          },
+          "TwistLimit": {
+            "TwistLimitDegrees": 15.0,
+            "TwistMotion": "EAngularConstraintMotion::ACM_Limited"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_228",
+    "Outer": "PA_GrassPanda_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "leaf_03",
+        "ConstraintBone1": "leaf_03",
+        "ConstraintBone2": "leaf_02",
+        "Pos2": {
+          "X": 61.454514,
+          "Y": -7.5495166E-15,
+          "Z": 0.0
+        },
+        "ProfileInstance": {
+          "ConeLimit": {
+            "Swing2LimitDegrees": 15.0,
+            "Swing1Motion": "EAngularConstraintMotion::ACM_Limited",
+            "Swing2Motion": "EAngularConstraintMotion::ACM_Limited"
+          },
+          "TwistLimit": {
+            "TwistLimitDegrees": 15.0,
+            "TwistMotion": "EAngularConstraintMotion::ACM_Limited"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_229",
+    "Outer": "PA_GrassPanda_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "ear_r",
+        "ConstraintBone1": "ear_r",
+        "ConstraintBone2": "head",
+        "Pos2": {
+          "X": 70.631744,
+          "Y": 3.59261,
+          "Z": -59.5873
+        },
+        "PriAxis2": {
+          "X": -0.767492,
+          "Y": -0.14030321,
+          "Z": 0.6255166
+        },
+        "SecAxis2": {
+          "X": 0.108757354,
+          "Y": -0.9901086,
+          "Z": -0.088638745
+        },
+        "ProfileInstance": {
+          "ConeLimit": {
+            "Swing1LimitDegrees": 15.0,
+            "Swing2LimitDegrees": 0.0,
+            "Swing1Motion": "EAngularConstraintMotion::ACM_Limited",
+            "Swing2Motion": "EAngularConstraintMotion::ACM_Limited"
+          },
+          "TwistLimit": {
+            "TwistLimitDegrees": 0.0,
+            "TwistMotion": "EAngularConstraintMotion::ACM_Limited"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_240",
+    "Outer": "PA_GrassPanda_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "upperarm_l",
+        "ConstraintBone1": "upperarm_l",
+        "ConstraintBone2": "spine_03",
+        "Pos2": {
+          "X": 3.4886236,
+          "Y": 1.2908292E-14,
+          "Z": 82.57944
+        },
+        "PriAxis2": {
+          "X": 2.220446E-16,
+          "Y": 0.10679283,
+          "Z": 0.9942813
+        },
+        "SecAxis2": {
+          "X": 0.0,
+          "Y": 0.9942813,
+          "Z": -0.10679283
+        },
+        "ProfileInstance": {
+          "ConeLimit": {
+            "Swing1LimitDegrees": 30.0,
+            "Swing2LimitDegrees": 20.0,
+            "Swing1Motion": "EAngularConstraintMotion::ACM_Limited",
+            "Swing2Motion": "EAngularConstraintMotion::ACM_Limited"
+          },
+          "TwistLimit": {
+            "TwistLimitDegrees": 10.0,
+            "TwistMotion": "EAngularConstraintMotion::ACM_Limited"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_241",
+    "Outer": "PA_GrassPanda_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "lowerarm_l",
+        "ConstraintBone1": "lowerarm_l",
+        "ConstraintBone2": "upperarm_l",
+        "Pos2": {
+          "X": 62.609,
+          "Y": 5.3290705E-15,
+          "Z": -2.842171E-14
+        },
+        "PriAxis2": {
+          "X": 0.9696746,
+          "Y": -0.24439956,
+          "Z": 0.0
+        },
+        "SecAxis2": {
+          "X": 0.24439956,
+          "Y": 0.9696746,
+          "Z": 0.0
+        },
+        "ProfileInstance": {
+          "ConeLimit": {
+            "Swing2LimitDegrees": 0.0,
+            "Swing1Motion": "EAngularConstraintMotion::ACM_Limited",
+            "Swing2Motion": "EAngularConstraintMotion::ACM_Limited"
+          },
+          "TwistLimit": {
+            "TwistLimitDegrees": 0.0,
+            "TwistMotion": "EAngularConstraintMotion::ACM_Limited"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_242",
+    "Outer": "PA_GrassPanda_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "hand_l",
+        "ConstraintBone1": "hand_l",
+        "ConstraintBone2": "lowerarm_l",
+        "Pos2": {
+          "X": 47.9477,
+          "Y": 0.0,
+          "Z": 2.842171E-14
+        },
+        "PriAxis2": {
+          "X": 0.9902294,
+          "Y": 0.1394476,
+          "Z": -0.0
+        },
+        "SecAxis2": {
+          "X": -0.1394476,
+          "Y": 0.9902294,
+          "Z": -0.0
+        },
+        "ProfileInstance": {
+          "ConeLimit": {
+            "Swing1LimitDegrees": 30.0,
+            "Swing2LimitDegrees": 20.0,
+            "Swing1Motion": "EAngularConstraintMotion::ACM_Limited",
+            "Swing2Motion": "EAngularConstraintMotion::ACM_Limited"
+          },
+          "TwistLimit": {
+            "TwistLimitDegrees": 10.0,
+            "TwistMotion": "EAngularConstraintMotion::ACM_Limited"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_243",
+    "Outer": "PA_GrassPanda_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "finger_01_01_l",
+        "ConstraintBone1": "finger_01_01_l",
+        "ConstraintBone2": "hand_l",
+        "Pos2": {
+          "X": 3.5885997,
+          "Y": -35.031567,
+          "Z": 5.9715962
+        },
+        "PriAxis2": {
+          "X": 0.13898863,
+          "Y": -0.990294,
+          "Z": 0.0
+        },
+        "SecAxis2": {
+          "X": 0.990294,
+          "Y": 0.13898863,
+          "Z": 0.0
+        },
+        "ProfileInstance": {
+          "ConeLimit": {
+            "Swing1LimitDegrees": 15.0,
+            "Swing1Motion": "EAngularConstraintMotion::ACM_Limited",
+            "Swing2Motion": "EAngularConstraintMotion::ACM_Limited"
+          },
+          "TwistLimit": {
+            "TwistLimitDegrees": 0.0,
+            "TwistMotion": "EAngularConstraintMotion::ACM_Limited"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_244",
+    "Outer": "PA_GrassPanda_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "finger_02_01_l",
+        "ConstraintBone1": "finger_02_01_l",
+        "ConstraintBone2": "hand_l",
+        "Pos2": {
+          "X": 31.272083,
+          "Y": -14.183513,
+          "Z": -8.526513E-14
+        },
+        "PriAxis2": {
+          "X": 0.93597585,
+          "Y": -0.35206428,
+          "Z": 0.0
+        },
+        "SecAxis2": {
+          "X": 0.35206428,
+          "Y": 0.93597585,
+          "Z": 0.0
+        },
+        "ProfileInstance": {
+          "ConeLimit": {
+            "Swing1LimitDegrees": 15.0,
+            "Swing1Motion": "EAngularConstraintMotion::ACM_Limited",
+            "Swing2Motion": "EAngularConstraintMotion::ACM_Limited"
+          },
+          "TwistLimit": {
+            "TwistLimitDegrees": 0.0,
+            "TwistMotion": "EAngularConstraintMotion::ACM_Limited"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_245",
+    "Outer": "PA_GrassPanda_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "finger_03_01_l",
+        "ConstraintBone1": "finger_03_01_l",
+        "ConstraintBone2": "hand_l",
+        "Pos2": {
+          "X": 33.322712,
+          "Y": 16.063255,
+          "Z": -8.526513E-14
+        },
+        "PriAxis2": {
+          "X": 0.94790345,
+          "Y": 0.3185577,
+          "Z": -0.0
+        },
+        "SecAxis2": {
+          "X": -0.3185577,
+          "Y": 0.94790345,
+          "Z": -0.0
+        },
+        "ProfileInstance": {
+          "ConeLimit": {
+            "Swing1LimitDegrees": 15.0,
+            "Swing1Motion": "EAngularConstraintMotion::ACM_Limited",
+            "Swing2Motion": "EAngularConstraintMotion::ACM_Limited"
+          },
+          "TwistLimit": {
+            "TwistLimitDegrees": 0.0,
+            "TwistMotion": "EAngularConstraintMotion::ACM_Limited"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_247",
+    "Outer": "PA_GrassPanda_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "upperarm_r",
+        "ConstraintBone1": "upperarm_r",
+        "ConstraintBone2": "spine_03",
+        "Pos2": {
+          "X": 3.4882624,
+          "Y": -7.3178285E-15,
+          "Z": -82.5794
+        },
+        "PriAxis2": {
+          "X": 2.220446E-16,
+          "Y": -0.10679283,
+          "Z": 0.9942813
+        },
+        "SecAxis2": {
+          "X": 1.179612E-16,
+          "Y": -0.9942813,
+          "Z": -0.10679283
+        },
+        "ProfileInstance": {
+          "ConeLimit": {
+            "Swing1LimitDegrees": 30.0,
+            "Swing2LimitDegrees": 20.0,
+            "Swing1Motion": "EAngularConstraintMotion::ACM_Limited",
+            "Swing2Motion": "EAngularConstraintMotion::ACM_Limited"
+          },
+          "TwistLimit": {
+            "TwistLimitDegrees": 10.0,
+            "TwistMotion": "EAngularConstraintMotion::ACM_Limited"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_248",
+    "Outer": "PA_GrassPanda_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "lowerarm_r",
+        "ConstraintBone1": "lowerarm_r",
+        "ConstraintBone2": "upperarm_r",
+        "Pos2": {
+          "X": -62.608643,
+          "Y": -3.6111873E-05,
+          "Z": -5.684342E-14
+        },
+        "PriAxis2": {
+          "X": 0.9696746,
+          "Y": -0.24439956,
+          "Z": 0.0
+        },
+        "SecAxis2": {
+          "X": 0.24439956,
+          "Y": 0.9696746,
+          "Z": -2.4651903E-32
+        },
+        "ProfileInstance": {
+          "ConeLimit": {
+            "Swing2LimitDegrees": 0.0,
+            "Swing1Motion": "EAngularConstraintMotion::ACM_Limited",
+            "Swing2Motion": "EAngularConstraintMotion::ACM_Limited"
+          },
+          "TwistLimit": {
+            "TwistLimitDegrees": 0.0,
+            "TwistMotion": "EAngularConstraintMotion::ACM_Limited"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_249",
+    "Outer": "PA_GrassPanda_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "hand_r",
+        "ConstraintBone1": "hand_r",
+        "ConstraintBone2": "lowerarm_r",
+        "Pos2": {
+          "X": -47.948467,
+          "Y": -0.00011016189,
+          "Z": 1.1368684E-13
+        },
+        "PriAxis2": {
+          "X": 0.9902294,
+          "Y": 0.1394476,
+          "Z": 0.0
+        },
+        "SecAxis2": {
+          "X": -0.1394476,
+          "Y": 0.9902294,
+          "Z": -2.4651903E-32
+        },
+        "ProfileInstance": {
+          "ConeLimit": {
+            "Swing1LimitDegrees": 30.0,
+            "Swing2LimitDegrees": 20.0,
+            "Swing1Motion": "EAngularConstraintMotion::ACM_Limited",
+            "Swing2Motion": "EAngularConstraintMotion::ACM_Limited"
+          },
+          "TwistLimit": {
+            "TwistLimitDegrees": 10.0,
+            "TwistMotion": "EAngularConstraintMotion::ACM_Limited"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_250",
+    "Outer": "PA_GrassPanda_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "finger_01_01_r",
+        "ConstraintBone1": "finger_01_01_r",
+        "ConstraintBone2": "hand_r",
+        "Pos2": {
+          "X": -3.588,
+          "Y": 35.0316,
+          "Z": -5.971
+        },
+        "PriAxis2": {
+          "X": 0.13898863,
+          "Y": -0.990294,
+          "Z": -6.257453E-16
+        },
+        "SecAxis2": {
+          "X": 0.990294,
+          "Y": 0.13898863,
+          "Z": -2.580957E-08
+        },
+        "ProfileInstance": {
+          "ConeLimit": {
+            "Swing1LimitDegrees": 15.0,
+            "Swing1Motion": "EAngularConstraintMotion::ACM_Limited",
+            "Swing2Motion": "EAngularConstraintMotion::ACM_Limited"
+          },
+          "TwistLimit": {
+            "TwistLimitDegrees": 0.0,
+            "TwistMotion": "EAngularConstraintMotion::ACM_Limited"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_251",
+    "Outer": "PA_GrassPanda_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "finger_02_01_r",
+        "ConstraintBone1": "finger_02_01_r",
+        "ConstraintBone2": "hand_r",
+        "Pos2": {
+          "X": -31.272,
+          "Y": 14.1835,
+          "Z": -5.684342E-14
+        },
+        "PriAxis2": {
+          "X": 0.93597585,
+          "Y": -0.35206428,
+          "Z": 2.4651903E-32
+        },
+        "SecAxis2": {
+          "X": 0.35206428,
+          "Y": 0.93597585,
+          "Z": 0.0
+        },
+        "ProfileInstance": {
+          "ConeLimit": {
+            "Swing1LimitDegrees": 15.0,
+            "Swing1Motion": "EAngularConstraintMotion::ACM_Limited",
+            "Swing2Motion": "EAngularConstraintMotion::ACM_Limited"
+          },
+          "TwistLimit": {
+            "TwistLimitDegrees": 0.0,
+            "TwistMotion": "EAngularConstraintMotion::ACM_Limited"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_252",
+    "Outer": "PA_GrassPanda_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "finger_03_01_r",
+        "ConstraintBone1": "finger_03_01_r",
+        "ConstraintBone2": "hand_r",
+        "Pos2": {
+          "X": -33.322,
+          "Y": -16.0633,
+          "Z": -5.684342E-14
+        },
+        "PriAxis2": {
+          "X": 0.94790345,
+          "Y": 0.3185577,
+          "Z": 0.0
+        },
+        "SecAxis2": {
+          "X": -0.3185577,
+          "Y": 0.94790345,
+          "Z": -1.2325952E-32
+        },
+        "ProfileInstance": {
+          "ConeLimit": {
+            "Swing1LimitDegrees": 15.0,
+            "Swing1Motion": "EAngularConstraintMotion::ACM_Limited",
+            "Swing2Motion": "EAngularConstraintMotion::ACM_Limited"
+          },
+          "TwistLimit": {
+            "TwistLimitDegrees": 0.0,
+            "TwistMotion": "EAngularConstraintMotion::ACM_Limited"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_253",
+    "Outer": "PA_GrassPanda_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "tail",
+        "ConstraintBone1": "tail",
+        "ConstraintBone2": "pelvis",
+        "Pos2": {
+          "X": 3.0536506,
+          "Y": 85.96012,
+          "Z": -1.0527079E-14
+        },
+        "PriAxis2": {
+          "X": -2.220446E-16,
+          "Y": 1.0,
+          "Z": -0.0
+        },
+        "SecAxis2": {
+          "X": -1.0,
+          "Y": -2.220446E-16,
+          "Z": -0.0
+        },
+        "ProfileInstance": {
+          "ConeLimit": {
+            "Swing1LimitDegrees": 15.0,
+            "Swing2LimitDegrees": 15.0,
+            "Swing1Motion": "EAngularConstraintMotion::ACM_Limited",
+            "Swing2Motion": "EAngularConstraintMotion::ACM_Limited"
+          },
+          "TwistLimit": {
+            "TwistLimitDegrees": 0.0,
+            "TwistMotion": "EAngularConstraintMotion::ACM_Limited"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_254",
+    "Outer": "PA_GrassPanda_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "thigh_l",
+        "ConstraintBone1": "thigh_l",
+        "ConstraintBone2": "pelvis",
+        "Pos2": {
+          "X": -21.525442,
+          "Y": 5.337527E-15,
+          "Z": 43.584213
+        },
+        "PriAxis2": {
+          "X": -0.9909531,
+          "Y": -0.13420877,
+          "Z": 2.6038669E-23
+        },
+        "SecAxis2": {
+          "X": -0.13420877,
+          "Y": 0.9909531,
+          "Z": 7.6719814E-15
+        },
+        "ProfileInstance": {
+          "ConeLimit": {
+            "Swing1LimitDegrees": 15.0,
+            "Swing2LimitDegrees": 10.0,
+            "Swing1Motion": "EAngularConstraintMotion::ACM_Limited",
+            "Swing2Motion": "EAngularConstraintMotion::ACM_Limited"
+          },
+          "TwistLimit": {
+            "TwistLimitDegrees": 5.0,
+            "TwistMotion": "EAngularConstraintMotion::ACM_Limited"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_255",
+    "Outer": "PA_GrassPanda_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "calf_l",
+        "ConstraintBone1": "calf_l",
+        "ConstraintBone2": "thigh_l",
+        "Pos2": {
+          "X": 27.136976,
+          "Y": 1.5987212E-14,
+          "Z": 7.1054274E-15
+        },
+        "PriAxis2": {
+          "X": 0.9616659,
+          "Y": 0.2742237,
+          "Z": 1.9721521E-31
+        },
+        "SecAxis2": {
+          "X": -0.2742237,
+          "Y": 0.9616659,
+          "Z": -2.7117096E-31
+        },
+        "ProfileInstance": {
+          "ConeLimit": {
+            "Swing2LimitDegrees": 0.0,
+            "Swing1Motion": "EAngularConstraintMotion::ACM_Limited",
+            "Swing2Motion": "EAngularConstraintMotion::ACM_Limited"
+          },
+          "TwistLimit": {
+            "TwistLimitDegrees": 0.0,
+            "TwistMotion": "EAngularConstraintMotion::ACM_Limited"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_256",
+    "Outer": "PA_GrassPanda_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "foot_l",
+        "ConstraintBone1": "foot_l",
+        "ConstraintBone2": "calf_l",
+        "Pos2": {
+          "X": 25.526012,
+          "Y": 4.8849813E-15,
+          "Z": 1.7053026E-13
+        },
+        "PriAxis2": {
+          "X": 0.3800651,
+          "Y": -0.9249597,
+          "Z": -9.86076E-32
+        },
+        "SecAxis2": {
+          "X": 0.9249597,
+          "Y": 0.3800651,
+          "Z": -1.9721523E-31
+        },
+        "ProfileInstance": {
+          "ConeLimit": {
+            "Swing2LimitDegrees": 0.0,
+            "Swing1Motion": "EAngularConstraintMotion::ACM_Limited",
+            "Swing2Motion": "EAngularConstraintMotion::ACM_Limited"
+          },
+          "TwistLimit": {
+            "TwistLimitDegrees": 15.0,
+            "TwistMotion": "EAngularConstraintMotion::ACM_Limited"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_257",
+    "Outer": "PA_GrassPanda_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "thigh_r",
+        "ConstraintBone1": "thigh_r",
+        "ConstraintBone2": "pelvis",
+        "Pos2": {
+          "X": -21.525423,
+          "Y": -5.337525E-15,
+          "Z": -43.5842
+        },
+        "PriAxis2": {
+          "X": 0.9909531,
+          "Y": 0.13420877,
+          "Z": 5.9735927E-17
+        },
+        "SecAxis2": {
+          "X": 0.13420877,
+          "Y": -0.9909531,
+          "Z": -1.4901161E-08
+        },
+        "ProfileInstance": {
+          "ConeLimit": {
+            "Swing1LimitDegrees": 15.0,
+            "Swing2LimitDegrees": 10.0,
+            "Swing1Motion": "EAngularConstraintMotion::ACM_Limited",
+            "Swing2Motion": "EAngularConstraintMotion::ACM_Limited"
+          },
+          "TwistLimit": {
+            "TwistLimitDegrees": 5.0,
+            "TwistMotion": "EAngularConstraintMotion::ACM_Limited"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_258",
+    "Outer": "PA_GrassPanda_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "calf_r",
+        "ConstraintBone1": "calf_r",
+        "ConstraintBone2": "thigh_r",
+        "Pos2": {
+          "X": -27.137005,
+          "Y": -4.323568E-06,
+          "Z": 8.526513E-14
+        },
+        "PriAxis2": {
+          "X": 0.9616659,
+          "Y": 0.2742237,
+          "Z": 3.905047E-33
+        },
+        "SecAxis2": {
+          "X": -0.2742237,
+          "Y": 0.9616659,
+          "Z": 3.1019273E-25
+        },
+        "ProfileInstance": {
+          "ConeLimit": {
+            "Swing2LimitDegrees": 0.0,
+            "Swing1Motion": "EAngularConstraintMotion::ACM_Limited",
+            "Swing2Motion": "EAngularConstraintMotion::ACM_Limited"
+          },
+          "TwistLimit": {
+            "TwistLimitDegrees": 0.0,
+            "TwistMotion": "EAngularConstraintMotion::ACM_Limited"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_259",
+    "Outer": "PA_GrassPanda_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "foot_r",
+        "ConstraintBone1": "foot_r",
+        "ConstraintBone2": "calf_r",
+        "Pos2": {
+          "X": -25.525955,
+          "Y": -7.821414E-06,
+          "Z": 1.0430555E-07
+        },
+        "PriAxis2": {
+          "X": 0.3800651,
+          "Y": -0.9249597,
+          "Z": 3.3087225E-24
+        },
+        "SecAxis2": {
+          "X": 0.9249597,
+          "Y": 0.3800651,
+          "Z": 2.0679533E-25
+        },
+        "ProfileInstance": {
+          "ConeLimit": {
+            "Swing2LimitDegrees": 0.0,
+            "Swing1Motion": "EAngularConstraintMotion::ACM_Limited",
+            "Swing2Motion": "EAngularConstraintMotion::ACM_Limited"
+          },
+          "TwistLimit": {
+            "TwistLimitDegrees": 15.0,
+            "TwistMotion": "EAngularConstraintMotion::ACM_Limited"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_260",
+    "Outer": "PA_GrassPanda_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "UserConstraint",
+        "ConstraintBone1": "grass_01",
+        "ConstraintBone2": "head",
+        "Pos2": {
+          "X": -5.5058618,
+          "Y": -88.81375,
+          "Z": 3.0563672E-16
+        },
+        "PriAxis2": {
+          "X": -0.9413839,
+          "Y": -0.3373371,
+          "Z": 0.0
+        },
+        "SecAxis2": {
+          "X": 0.3373371,
+          "Y": -0.9413839,
+          "Z": 0.0
+        },
+        "ProfileInstance": {
+          "ConeLimit": {
+            "Swing1LimitDegrees": 15.0,
+            "Swing2LimitDegrees": 0.0,
+            "Swing1Motion": "EAngularConstraintMotion::ACM_Limited",
+            "Swing2Motion": "EAngularConstraintMotion::ACM_Limited"
+          },
+          "TwistLimit": {
+            "TwistLimitDegrees": 0.0,
+            "TwistMotion": "EAngularConstraintMotion::ACM_Limited"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_261",
+    "Outer": "PA_GrassPanda_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "UserConstraint_0",
+        "ConstraintBone1": "grass_03_l",
+        "ConstraintBone2": "head",
+        "Pos2": {
+          "X": -5.5058618,
+          "Y": -54.84512,
+          "Z": 69.85625
+        },
+        "PriAxis2": {
+          "X": -0.68285096,
+          "Y": -0.45114097,
+          "Z": 0.57461846
+        },
+        "SecAxis2": {
+          "X": 0.7305577,
+          "Y": -0.42168066,
+          "Z": 0.53709483
+        },
+        "ProfileInstance": {
+          "ConeLimit": {
+            "Swing1LimitDegrees": 15.0,
+            "Swing2LimitDegrees": 0.0,
+            "Swing1Motion": "EAngularConstraintMotion::ACM_Limited",
+            "Swing2Motion": "EAngularConstraintMotion::ACM_Limited"
+          },
+          "TwistLimit": {
+            "TwistLimitDegrees": 0.0,
+            "TwistMotion": "EAngularConstraintMotion::ACM_Limited"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_262",
+    "Outer": "PA_GrassPanda_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "UserConstraint_1",
+        "ConstraintBone1": "grass_05_l",
+        "ConstraintBone2": "head",
+        "Pos2": {
+          "X": 5.2108393,
+          "Y": 12.854308,
+          "Z": 83.40017
+        },
+        "PriAxis2": {
+          "X": -0.4420652,
+          "Y": -0.016205337,
+          "Z": 0.8968365
+        },
+        "SecAxis2": {
+          "X": 0.8947812,
+          "Y": 0.062044315,
+          "Z": 0.44217318
+        },
+        "ProfileInstance": {
+          "ConeLimit": {
+            "Swing1LimitDegrees": 15.0,
+            "Swing2LimitDegrees": 0.0,
+            "Swing1Motion": "EAngularConstraintMotion::ACM_Limited",
+            "Swing2Motion": "EAngularConstraintMotion::ACM_Limited"
+          },
+          "TwistLimit": {
+            "TwistLimitDegrees": 0.0,
+            "TwistMotion": "EAngularConstraintMotion::ACM_Limited"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_263",
+    "Outer": "PA_GrassPanda_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "UserConstraint_2",
+        "ConstraintBone1": "grass_07_l",
+        "ConstraintBone2": "head",
+        "Pos2": {
+          "X": 6.74061,
+          "Y": 66.876396,
+          "Z": 63.247616
+        },
+        "PriAxis2": {
+          "X": -0.7507214,
+          "Y": 0.48610002,
+          "Z": 0.4473524
+        },
+        "SecAxis2": {
+          "X": 0.660047,
+          "Y": 0.52374864,
+          "Z": 0.53854
+        },
+        "ProfileInstance": {
+          "ConeLimit": {
+            "Swing1LimitDegrees": 15.0,
+            "Swing2LimitDegrees": 0.0,
+            "Swing1Motion": "EAngularConstraintMotion::ACM_Limited",
+            "Swing2Motion": "EAngularConstraintMotion::ACM_Limited"
+          },
+          "TwistLimit": {
+            "TwistLimitDegrees": 0.0,
+            "TwistMotion": "EAngularConstraintMotion::ACM_Limited"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_264",
+    "Outer": "PA_GrassPanda_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "UserConstraint_3",
+        "ConstraintBone1": "grass_09",
+        "ConstraintBone2": "head",
+        "Pos2": {
+          "X": 6.74061,
+          "Y": 92.04719,
+          "Z": 0.16993088
+        },
+        "PriAxis2": {
+          "X": -0.7507214,
+          "Y": 0.66057324,
+          "Z": -0.007768846
+        },
+        "SecAxis2": {
+          "X": 0.660047,
+          "Y": 0.7505088,
+          "Z": 0.032779858
+        },
+        "ProfileInstance": {
+          "ConeLimit": {
+            "Swing1LimitDegrees": 15.0,
+            "Swing2LimitDegrees": 0.0,
+            "Swing1Motion": "EAngularConstraintMotion::ACM_Limited",
+            "Swing2Motion": "EAngularConstraintMotion::ACM_Limited"
+          },
+          "TwistLimit": {
+            "TwistLimitDegrees": 0.0,
+            "TwistMotion": "EAngularConstraintMotion::ACM_Limited"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_265",
+    "Outer": "PA_GrassPanda_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "UserConstraint_4",
+        "ConstraintBone1": "grass_03_r",
+        "ConstraintBone2": "head",
+        "Pos2": {
+          "X": -5.5062585,
+          "Y": -54.8451,
+          "Z": -69.8563
+        },
+        "PriAxis2": {
+          "X": 0.68285096,
+          "Y": 0.45114097,
+          "Z": 0.57461846
+        },
+        "SecAxis2": {
+          "X": -0.7305577,
+          "Y": 0.42168066,
+          "Z": 0.53709483
+        },
+        "ProfileInstance": {
+          "ConeLimit": {
+            "Swing1LimitDegrees": 15.0,
+            "Swing2LimitDegrees": 0.0,
+            "Swing1Motion": "EAngularConstraintMotion::ACM_Limited",
+            "Swing2Motion": "EAngularConstraintMotion::ACM_Limited"
+          },
+          "TwistLimit": {
+            "TwistLimitDegrees": 0.0,
+            "TwistMotion": "EAngularConstraintMotion::ACM_Limited"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_266",
+    "Outer": "PA_GrassPanda_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "UserConstraint_5",
+        "ConstraintBone1": "grass_05_r",
+        "ConstraintBone2": "head",
+        "Pos2": {
+          "X": 5.2107415,
+          "Y": 12.8543,
+          "Z": -83.4002
+        },
+        "PriAxis2": {
+          "X": 0.4420652,
+          "Y": 0.016205337,
+          "Z": 0.8968365
+        },
+        "SecAxis2": {
+          "X": -0.8947812,
+          "Y": -0.062044315,
+          "Z": 0.44217318
+        },
+        "ProfileInstance": {
+          "ConeLimit": {
+            "Swing1LimitDegrees": 15.0,
+            "Swing2LimitDegrees": 0.0,
+            "Swing1Motion": "EAngularConstraintMotion::ACM_Limited",
+            "Swing2Motion": "EAngularConstraintMotion::ACM_Limited"
+          },
+          "TwistLimit": {
+            "TwistLimitDegrees": 0.0,
+            "TwistMotion": "EAngularConstraintMotion::ACM_Limited"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_267",
+    "Outer": "PA_GrassPanda_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "UserConstraint_6",
+        "ConstraintBone1": "grass_07_r",
+        "ConstraintBone2": "head",
+        "Pos2": {
+          "X": 6.7407413,
+          "Y": 66.8764,
+          "Z": -63.2476
+        },
+        "PriAxis2": {
+          "X": 0.7507214,
+          "Y": -0.48610002,
+          "Z": 0.4473524
+        },
+        "SecAxis2": {
+          "X": -0.660047,
+          "Y": -0.52374864,
+          "Z": 0.53854
+        },
+        "ProfileInstance": {
+          "ConeLimit": {
+            "Swing1LimitDegrees": 15.0,
+            "Swing2LimitDegrees": 0.0,
+            "Swing1Motion": "EAngularConstraintMotion::ACM_Limited",
+            "Swing2Motion": "EAngularConstraintMotion::ACM_Limited"
+          },
+          "TwistLimit": {
+            "TwistLimitDegrees": 0.0,
+            "TwistMotion": "EAngularConstraintMotion::ACM_Limited"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_269",
+    "Outer": "PA_GrassPanda_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "UserConstraint_7",
+        "ConstraintBone1": "pelvis",
+        "ConstraintBone2": "root",
+        "Pos2": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 93.47692
+        },
+        "PriAxis2": {
+          "X": -2.220446E-16,
+          "Y": 0.0,
+          "Z": 1.0
+        },
+        "SecAxis2": {
+          "X": 1.2246469E-16,
+          "Y": -1.0,
+          "Z": 0.0
+        },
+        "ProfileInstance": {
+          "LinearLimit": {
+            "XMotion": "ELinearConstraintMotion::LCM_Free",
+            "YMotion": "ELinearConstraintMotion::LCM_Free",
+            "ZMotion": "ELinearConstraintMotion::LCM_Free"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_227",
+    "Outer": "PA_GrassPanda_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphereElems": [
+          {
+            "Center": {
+              "X": 30.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Radius": 90.0,
+            "RestOffset": 0.0,
+            "Name": "None",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "pelvis",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "D930D33B4C0F75090886C69E7653DAF0"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_230",
+    "Outer": "PA_GrassPanda_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphereElems": [
+          {
+            "Center": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Radius": 100.0,
+            "RestOffset": 0.0,
+            "Name": "None",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "spine_03",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "AE71EEB9478052193757E6B4C5DA3420"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_232",
+    "Outer": "PA_GrassPanda_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphereElems": [
+          {
+            "Center": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Radius": 90.0,
+            "RestOffset": 0.0,
+            "Name": "None",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "head",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "5B9ABA1344117425853759A7D294ED37"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_233",
+    "Outer": "PA_GrassPanda_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphereElems": [
+          {
+            "Center": {
+              "X": 16.241718,
+              "Y": 2.6537647,
+              "Z": 0.12774086
+            },
+            "Radius": 28.929962,
+            "RestOffset": 0.0,
+            "Name": "None",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "ear_l",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "386FBC8F4E485C2AD6AFC4807F95BF8E"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_234",
+    "Outer": "PA_GrassPanda_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphereElems": [
+          {
+            "Center": {
+              "X": 30.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Radius": 39.48103,
+            "RestOffset": 0.0,
+            "Name": "None",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "leaf_01",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "532F1C5544B3AA4F8F815B8BE87F54B9"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_235",
+    "Outer": "PA_GrassPanda_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphereElems": [
+          {
+            "Center": {
+              "X": 30.502914,
+              "Y": -0.41156054,
+              "Z": 1.7717422E-15
+            },
+            "Radius": 37.307617,
+            "RestOffset": 0.0,
+            "Name": "None",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "leaf_02",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "1145A37E45683AFA67A694B7C8DFF984"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_236",
+    "Outer": "PA_GrassPanda_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphereElems": [
+          {
+            "Center": {
+              "X": 27.343094,
+              "Y": -0.45792183,
+              "Z": 0.043242723
+            },
+            "Radius": 37.59206,
+            "RestOffset": 0.0,
+            "Name": "None",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "leaf_03",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "C60A5E4D4301355790B4CAB7DB955C82"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_237",
+    "Outer": "PA_GrassPanda_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphereElems": [
+          {
+            "Center": {
+              "X": -16.282703,
+              "Y": -2.6324792,
+              "Z": -0.17966071
+            },
+            "Radius": 28.926899,
+            "RestOffset": 0.0,
+            "Name": "None",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "ear_r",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "DA637BDE490987729AAE91AB53070156"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_248",
+    "Outer": "PA_GrassPanda_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphereElems": [
+          {
+            "Center": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Radius": 31.839483,
+            "RestOffset": 0.0,
+            "Name": "None",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "upperarm_l",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "2A43DB3A45CF82AF923E0BA6A2643E64"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_249",
+    "Outer": "PA_GrassPanda_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphereElems": [
+          {
+            "Center": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Radius": 34.68285,
+            "RestOffset": 0.0,
+            "Name": "None",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "lowerarm_l",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "FEB334FC4AE43744330EE09C9FB76962"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_250",
+    "Outer": "PA_GrassPanda_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphereElems": [
+          {
+            "Center": {
+              "X": 3.936375,
+              "Y": -1.2116908,
+              "Z": 1.6529123
+            },
+            "Radius": 38.59402,
+            "RestOffset": 0.0,
+            "Name": "None",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "hand_l",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "76D2A3114465F9C6F006CDBA2F94DD45"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_251",
+    "Outer": "PA_GrassPanda_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphereElems": [
+          {
+            "Center": {
+              "X": 18.846289,
+              "Y": -0.058347028,
+              "Z": 3.1517372
+            },
+            "Radius": 16.308878,
+            "RestOffset": 0.0,
+            "Name": "None",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "finger_01_01_l",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "DF08F02B484A66192BECC4ACC2618CED"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_252",
+    "Outer": "PA_GrassPanda_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphereElems": [
+          {
+            "Center": {
+              "X": 24.066965,
+              "Y": 0.7297172,
+              "Z": 1.9636045
+            },
+            "Radius": 18.94149,
+            "RestOffset": 0.0,
+            "Name": "None",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "finger_02_01_l",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "B7A968924015C553D2351AA6C6CF3B6E"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_253",
+    "Outer": "PA_GrassPanda_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphereElems": [
+          {
+            "Center": {
+              "X": 21.431496,
+              "Y": -0.45649168,
+              "Z": 4.3610506
+            },
+            "Radius": 19.014187,
+            "RestOffset": 0.0,
+            "Name": "None",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "finger_03_01_l",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "43915C534DF6F7C8FD77A6B328B8F7EA"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_255",
+    "Outer": "PA_GrassPanda_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphereElems": [
+          {
+            "Center": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Radius": 31.135738,
+            "RestOffset": 0.0,
+            "Name": "None",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "upperarm_r",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "C763AB1447264444F6B52F9B27CA770A"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_256",
+    "Outer": "PA_GrassPanda_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphereElems": [
+          {
+            "Center": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Radius": 34.641808,
+            "RestOffset": 0.0,
+            "Name": "None",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "lowerarm_r",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "F9D13DE24D0931714576DFB2E93A01D6"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_257",
+    "Outer": "PA_GrassPanda_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphereElems": [
+          {
+            "Center": {
+              "X": -3.9580178,
+              "Y": 1.2065539,
+              "Z": -1.5826361
+            },
+            "Radius": 38.642624,
+            "RestOffset": 0.0,
+            "Name": "None",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "hand_r",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "D3848D4E4ED07DBFF0361E9AD6724B51"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_258",
+    "Outer": "PA_GrassPanda_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphereElems": [
+          {
+            "Center": {
+              "X": -18.816614,
+              "Y": 0.029742967,
+              "Z": -3.1478274
+            },
+            "Radius": 16.324587,
+            "RestOffset": 0.0,
+            "Name": "None",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "finger_01_01_r",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "AAAD08E649F64F1D79386AB4171234C3"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_259",
+    "Outer": "PA_GrassPanda_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphereElems": [
+          {
+            "Center": {
+              "X": -23.99859,
+              "Y": -0.8358363,
+              "Z": -2.1231759
+            },
+            "Radius": 18.979015,
+            "RestOffset": 0.0,
+            "Name": "None",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "finger_02_01_r",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "3109565A4C0241C310240CA0F960C0B6"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_260",
+    "Outer": "PA_GrassPanda_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphereElems": [
+          {
+            "Center": {
+              "X": -21.176146,
+              "Y": 0.5673251,
+              "Z": -4.3553724
+            },
+            "Radius": 19.246807,
+            "RestOffset": 0.0,
+            "Name": "None",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "finger_03_01_r",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "83F417E64FDC65AEC2A3DDAB193566A1"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_261",
+    "Outer": "PA_GrassPanda_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphereElems": [
+          {
+            "Center": {
+              "X": 16.272427,
+              "Y": 2.5082245,
+              "Z": -4.04001E-15
+            },
+            "Radius": 23.577387,
+            "RestOffset": 0.0,
+            "Name": "None",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "tail",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "1F0A11CC47EEA31ED758D4AE415D3EDE"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_262",
+    "Outer": "PA_GrassPanda_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphereElems": [
+          {
+            "Center": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Radius": 30.0,
+            "RestOffset": 0.0,
+            "Name": "None",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "thigh_l",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "CE4C609149126575DE61BBA7C8063A3F"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_263",
+    "Outer": "PA_GrassPanda_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphereElems": [
+          {
+            "Center": {
+              "X": 15.171289,
+              "Y": 3.2620869,
+              "Z": 1.6378157
+            },
+            "Radius": 30.0,
+            "RestOffset": 0.0,
+            "Name": "None",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "calf_l",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "B17B3EFA423A4E653584BDB5D6F1F040"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_264",
+    "Outer": "PA_GrassPanda_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphereElems": [
+          {
+            "Center": {
+              "X": 7.8515153,
+              "Y": 9.162275,
+              "Z": -1.1388749
+            },
+            "Radius": 30.0,
+            "RestOffset": 0.0,
+            "Name": "None",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "foot_l",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "140551CC44C594649E64E0B068805A0B"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_265",
+    "Outer": "PA_GrassPanda_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphereElems": [
+          {
+            "Center": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Radius": 30.0,
+            "RestOffset": 0.0,
+            "Name": "None",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "thigh_r",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "6A7577404801379EC34D47955A4520CF"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_266",
+    "Outer": "PA_GrassPanda_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphereElems": [
+          {
+            "Center": {
+              "X": -15.157491,
+              "Y": -3.2825146,
+              "Z": -1.6504697
+            },
+            "Radius": 30.0,
+            "RestOffset": 0.0,
+            "Name": "None",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "calf_r",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "20553CA44DC81257CCA17CA25252D970"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_267",
+    "Outer": "PA_GrassPanda_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphereElems": [
+          {
+            "Center": {
+              "X": -7.843176,
+              "Y": -9.207876,
+              "Z": 1.157006
+            },
+            "Radius": 30.0,
+            "RestOffset": 0.0,
+            "Name": "None",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "foot_r",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "C00AB0F447E6E2669A7803B74FBBEB01"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_268",
+    "Outer": "PA_GrassPanda_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphereElems": [
+          {
+            "Center": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Radius": 20.0,
+            "RestOffset": 0.0,
+            "Name": "grass_01_sphere",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "grass_01",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "AE385760470C580E1486C69FF0AA95AC"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_269",
+    "Outer": "PA_GrassPanda_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphereElems": [
+          {
+            "Center": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Radius": 20.0,
+            "RestOffset": 0.0,
+            "Name": "grass_09_sphere",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "grass_09",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "EEC374BC4AAC39CFC9B8068B3EEB6B67"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_270",
+    "Outer": "PA_GrassPanda_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphereElems": [
+          {
+            "Center": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Radius": 20.0,
+            "RestOffset": 0.0,
+            "Name": "grass_03_l_sphere",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "grass_03_l",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "4664F1BA4D35A74A9A2DBEBC75B749D0"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_271",
+    "Outer": "PA_GrassPanda_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphereElems": [
+          {
+            "Center": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Radius": 20.0,
+            "RestOffset": 0.0,
+            "Name": "grass_03_r_sphere",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "grass_03_r",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "C9751F694E94FFBD1539DBA477A4456F"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_272",
+    "Outer": "PA_GrassPanda_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphereElems": [
+          {
+            "Center": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Radius": 20.0,
+            "RestOffset": 0.0,
+            "Name": "grass_05_l_sphere",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "grass_05_l",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "79080C55413C709F7138EAA83E67F661"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_273",
+    "Outer": "PA_GrassPanda_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphereElems": [
+          {
+            "Center": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Radius": 20.0,
+            "RestOffset": 0.0,
+            "Name": "grass_05_r_sphere",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "grass_05_r",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "3143C1034F82A3548F8273BB105AB558"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_274",
+    "Outer": "PA_GrassPanda_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphereElems": [
+          {
+            "Center": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Radius": 20.0,
+            "RestOffset": 0.0,
+            "Name": "grass_07_l_sphere",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "grass_07_l",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "36B07836463FAC4A293F55A8CFEF0941"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_275",
+    "Outer": "PA_GrassPanda_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphereElems": [
+          {
+            "Center": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Radius": 20.0,
+            "RestOffset": 0.0,
+            "Name": "grass_07_r_sphere",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "grass_07_r",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "8205E6F4466C9EE658AECD98E3F5075A"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_276",
+    "Outer": "PA_GrassPanda_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphereElems": [
+          {
+            "Center": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Radius": 15.0,
+            "RestOffset": 0.0,
+            "Name": "root_sphere",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "root",
+      "PhysicsType": "EPhysicsType::PhysType_Kinematic",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "F4E1A51E4F74226D957F77977EB904A6"
+  }
+]

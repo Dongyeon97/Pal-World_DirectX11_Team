@@ -1,0 +1,48 @@
+[
+  {
+    "Type": "AkAssetPlatformData",
+    "Name": "AkAssetPlatformData_0",
+    "Outer": "AKE_Pal_Float_Move_M",
+    "Class": "UScriptClass'AkAssetPlatformData'"
+  },
+  {
+    "Type": "AkAudioEvent",
+    "Name": "AKE_Pal_Float_Move_M",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Properties": {
+      "RequiredBank": {
+        "ObjectName": "AkAudioBank'AKB_SE_Pal'",
+        "ObjectPath": "Pal/Content/Pal/Sound/SoundBank/AKB_SE_Pal.2"
+      },
+      "PlatformAssetData": {
+        "ObjectName": "AkAssetPlatformData'AKE_Pal_Float_Move_M:AkAssetPlatformData_0'",
+        "ObjectPath": "Pal/Content/Pal/Sound/Events/SE/Pal/Float/AKE_Pal_Float_Move_M.0"
+      },
+      "ShortID": 1635050185
+    }
+  },
+  {
+    "Type": "AkAudioEventData",
+    "Name": "AkAudioEventData_0",
+    "Outer": "AKE_Pal_Float_Move_M",
+    "Class": "UScriptClass'AkAudioEventData'",
+    "Properties": {
+      "MaxAttenuationRadius": 2000.0,
+      "MinimumDuration": 2.5,
+      "MaximumDuration": 2.5,
+      "UserDefinedSends": [
+        {
+          "ObjectName": "AkAuxBus'Cave_Reverb'",
+          "ObjectPath": "Pal/Content/Pal/Sound/Master-Mixer_Hierarchy/Default_Work_Unit/Master_Audio_Bus/GlobalVolumeSetting/SE/Cave_Reverb/Cave_Reverb.2"
+        }
+      ],
+      "MediaList": [
+        {
+          "ObjectName": "AkMediaAsset'275489827'",
+          "ObjectPath": "Pal/Content/Pal/Sound/Media/275489827.0"
+        }
+      ],
+      "CachedHash": 1124605319
+    }
+  }
+]

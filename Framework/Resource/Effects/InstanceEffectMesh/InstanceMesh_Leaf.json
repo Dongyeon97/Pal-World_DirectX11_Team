@@ -1,0 +1,101 @@
+{
+  "Effect Name": "Instance Mesh - InstanceMesh_Leaf",
+  "RenderType": 5,
+  "EffectType": 2,
+  "Model File Path": "../../Resource/Models/Dat/NonAnim/EffectMeshs/Leaf01.dat",
+  "Effect Shader Name": "FX_MeshInstancing_PNT2TRULPP",
+  "Scale": [
+    1.0,
+    1.0,
+    1.0
+  ],
+  "Rotation": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Translation": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Diffuse Color1": [
+    0.05978187546133995,
+    0.2598039507865906,
+    0.03311227262020111,
+    1.0
+  ],
+  "Diffuse Color2": [
+    1.0,
+    1.0,
+    1.0,
+    1.0
+  ],
+  "Diffuse Color3": [
+    1.0,
+    1.0,
+    1.0,
+    1.0
+  ],
+  "Diffuse Texture Name": "iceImage",
+  "Noise Texture Name": "",
+  "Mask Texture Name": "T_ky_crack06",
+  "Distortion Texture Name": "",
+  "Dissolve Texture Name": "",
+  "Is Sprite": false,
+  "Sprite Row": 1,
+  "Sprite Col": 1,
+  "Sprite Speed": 1.0,
+  "Is Anim": false,
+  "Is Loop": false,
+  "Is UVMove Loop": false,
+  "Is Glow": false,
+  "Is Bloom": false,
+  "Is AlphaAttenuation": false,
+  "Use Diffuse Texture": false,
+  "Use Noise Texture": false,
+  "Use Mask Texture": true,
+  "Use Distortion Texture": false,
+  "Use Dissolve Texture": false,
+  "Distortion Weight": 0.0,
+  "Dissolve Weight": 0.0,
+  "Glow Weight": 0.0,
+  "Bloom Weight": 0.0,
+  "AlphaAttenuation Weight": 0.0,
+  "Life Time": [
+    0.0,
+    1.0
+  ],
+  "UVMove Speed": [
+    0.0,
+    0.0
+  ],
+  "Instance Mesh Particle Type": 1,
+  "Num Mesh Instance": 50,
+  "Is Gravity": true,
+  "Gravity Value": 2.0,
+  "Size": [
+    0.002,
+    0.01
+  ],
+  "Speed": [
+    5.0,
+    10.0
+  ],
+  "Range": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Radius": [
+    1.0,
+    1.0
+  ],
+  "Rotation Per Seconds": [
+    180.0,
+    60.0,
+    180.0
+  ],
+  "Num KeyFrames": 0,
+  "KeyFrames": []
+}

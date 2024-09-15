@@ -1,0 +1,43 @@
+{
+  "Textures": {
+    "Base Texture": "Pal/Content/Pal/Model/Character/Player/HeadEquip/HeadEquip007/T_HeadEquip007_B.T_HeadEquip007_B",
+    "T_HeadEquip007_B": "Pal/Content/Pal/Model/Character/Player/HeadEquip/HeadEquip007/T_HeadEquip007_B.T_HeadEquip007_B",
+    "PM_SpecularMasks": "Pal/Content/Pal/Model/Character/Player/HeadEquip/HeadEquip007/T_HeadEquip007_M.T_HeadEquip007_M",
+    "MetallicRoughnessOcclusionSpecularTexture": "Pal/Content/Pal/Model/Character/Player/HeadEquip/HeadEquip007/T_HeadEquip007_M.T_HeadEquip007_M",
+    "PM_Normals": "Pal/Content/Pal/Model/Character/Player/HeadEquip/HeadEquip007/T_HeadEquip007_N.T_HeadEquip007_N",
+    "Normal Map": "Pal/Content/Pal/Model/Character/Player/HeadEquip/HeadEquip007/T_HeadEquip007_N.T_HeadEquip007_N"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 4,
+    "Colors": {},
+    "Scalars": {
+      "Character CameraFade Distance": 30.0,
+      "Contrast": 0.85,
+      "Value": 2.5,
+      "Metallic Add": 0.25,
+      "Occlusion Add": 1.0,
+      "Roughness Add": 0.2,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_ClearCoat",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "SubsurfaceProfile": {
+        "ObjectName": "SubsurfaceProfile'SP_CharacterBodyBase'",
+        "ObjectPath": "Pal/Content/Pal/Material/Character/Common/SP_CharacterBodyBase.0"
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

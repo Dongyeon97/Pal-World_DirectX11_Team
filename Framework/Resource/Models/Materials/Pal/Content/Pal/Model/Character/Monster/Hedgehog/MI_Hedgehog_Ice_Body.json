@@ -1,0 +1,46 @@
+{
+  "Textures": {
+    "Base Texture": "Pal/Content/Pal/Model/Character/Monster/Hedgehog/MI_Hedgehog_Ice_Body_B.MI_Hedgehog_Ice_Body_B",
+    "MI_Hedgehog_Ice_Body_B": "Pal/Content/Pal/Model/Character/Monster/Hedgehog/MI_Hedgehog_Ice_Body_B.MI_Hedgehog_Ice_Body_B",
+    "PM_SpecularMasks": "Pal/Content/Pal/Model/Character/Monster/Hedgehog/MRSMap.MRSMap",
+    "MetallicRoughnessOcclusionSpecularTexture": "Pal/Content/Pal/Model/Character/Monster/Hedgehog/MRSMap.MRSMap",
+    "PM_Normals": "Pal/Content/Pal/Model/Character/Monster/Hedgehog/T_Hedgehog_Normal.T_Hedgehog_Normal",
+    "Normal Map": "Pal/Content/Pal/Model/Character/Monster/Hedgehog/T_Hedgehog_Normal.T_Hedgehog_Normal"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 4,
+    "Colors": {
+      "BaseColor": {
+        "R": 0.833333,
+        "G": 0.673855,
+        "B": 0.553798,
+        "A": 1.0,
+        "Hex": "FFECD7C5"
+      }
+    },
+    "Scalars": {
+      "Normal Map Intensity": 0.25,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_ClearCoat",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "SubsurfaceProfile": {
+        "ObjectName": "SubsurfaceProfile'SP_CharacterBodyBase'",
+        "ObjectPath": "Pal/Content/Pal/Material/Character/Common/SP_CharacterBodyBase.0"
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

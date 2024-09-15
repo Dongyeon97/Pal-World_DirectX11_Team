@@ -1,0 +1,868 @@
+{
+    "Child Panel Size": 0,
+    "Panels0": {
+        "Panel Name": "TestUI",
+        "Panel Projection Type": 0,
+        "Panel Depth": 0,
+        "Panel Pivot Component Name": "BaseImage",
+        "Components Size": 18,
+        "Components0": [
+            {
+                "Component Name": "BaseImage",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    640.0,
+                    360.0
+                ],
+                "World Position": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    620.0,
+                    620.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 2,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": false,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": true,
+                "IsInteraction": false,
+                "Image Texture Name": "Base",
+                "Image Type": 0
+            }
+        ],
+        "Components1": [
+            {
+                "Component Name": "HoverImage",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    640.0,
+                    360.0
+                ],
+                "World Position": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    619.20361328125,
+                    619.20361328125,
+                    1.0
+                ],
+                "Angle": -210.0,
+                "Depth": 2,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": false,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": true,
+                "IsInteraction": false,
+                "Image Texture Name": "Hover",
+                "Image Type": 0
+            }
+        ],
+        "Components2": [
+            {
+                "Component Name": "WoodImage0",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    698.0,
+                    141.0
+                ],
+                "World Position": [
+                    58.0,
+                    219.0,
+                    0.0
+                ],
+                "Scale": [
+                    80.0,
+                    80.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 2,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": false,
+                "RelativeCenter": [
+                    58.0,
+                    -219.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Image Texture Name": "T_icon_buildObject_Wood_Foundation",
+                "Image Type": 0
+            }
+        ],
+        "Components3": [
+            {
+                "Component Name": "WoodImage1",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    790.0,
+                    203.0
+                ],
+                "World Position": [
+                    150.0,
+                    157.0,
+                    0.0
+                ],
+                "Scale": [
+                    80.0,
+                    80.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 2,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": false,
+                "RelativeCenter": [
+                    150.0,
+                    -157.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Image Texture Name": "T_icon_buildObject_Wood_Wall_V2",
+                "Image Type": 0
+            }
+        ],
+        "Components4": [
+            {
+                "Component Name": "WoodImage2",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    849.0,
+                    300.0
+                ],
+                "World Position": [
+                    209.0,
+                    60.0,
+                    0.0
+                ],
+                "Scale": [
+                    80.0,
+                    80.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 2,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": false,
+                "RelativeCenter": [
+                    209.0,
+                    -60.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Image Texture Name": "T_icon_buildObject_Wood_WindowWall",
+                "Image Type": 0
+            }
+        ],
+        "Components5": [
+            {
+                "Component Name": "WoodImage3",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    845.0,
+                    405.0
+                ],
+                "World Position": [
+                    205.0,
+                    -45.0,
+                    0.0
+                ],
+                "Scale": [
+                    80.0,
+                    80.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 2,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": false,
+                "RelativeCenter": [
+                    205.0,
+                    45.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Image Texture Name": "T_icon_buildObject_Wood_TriangleWall",
+                "Image Type": 0
+            }
+        ],
+        "Components6": [
+            {
+                "Component Name": "WoodImage4",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    795.0,
+                    503.0
+                ],
+                "World Position": [
+                    155.0,
+                    -143.0,
+                    0.0
+                ],
+                "Scale": [
+                    80.0,
+                    80.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 2,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": false,
+                "RelativeCenter": [
+                    155.0,
+                    143.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Image Texture Name": "T_icon_buildObject_Wood_Roof",
+                "Image Type": 0
+            }
+        ],
+        "Components7": [
+            {
+                "Component Name": "WoodImage5",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    691.0,
+                    557.0
+                ],
+                "World Position": [
+                    51.0,
+                    -197.0,
+                    0.0
+                ],
+                "Scale": [
+                    80.0,
+                    80.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 2,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": false,
+                "RelativeCenter": [
+                    51.0,
+                    197.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Image Texture Name": "T_icon_buildObject_Wood_SlantedRoof",
+                "Image Type": 0
+            }
+        ],
+        "Components8": [
+            {
+                "Component Name": "WoodImage6",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    583.0,
+                    556.0
+                ],
+                "World Position": [
+                    -57.0,
+                    -196.0,
+                    0.0
+                ],
+                "Scale": [
+                    80.0,
+                    80.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 2,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": false,
+                "RelativeCenter": [
+                    -57.0,
+                    196.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Image Texture Name": "T_icon_buildObject_Wood_Stair",
+                "Image Type": 0
+            }
+        ],
+        "Components9": [
+            {
+                "Component Name": "WoodImage7",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    495.0,
+                    504.0
+                ],
+                "World Position": [
+                    -145.0,
+                    -144.0,
+                    0.0
+                ],
+                "Scale": [
+                    80.0,
+                    80.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 2,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": false,
+                "RelativeCenter": [
+                    -145.0,
+                    144.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Image Texture Name": "T_icon_buildObject_Wood_DoorWall",
+                "Image Type": 0
+            }
+        ],
+        "Components10": [
+            {
+                "Component Name": "WoodText0",
+                "Render Type": 6,
+                "UI Type": 4,
+                "ShaderFileName": "",
+                "PassIndex": 0,
+                "Center": [
+                    687.0,
+                    178.0
+                ],
+                "World Position": [
+                    47.0,
+                    182.0,
+                    0.0
+                ],
+                "Scale": [
+                    0.30000001192092896,
+                    0.30000001192092896,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 2,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": true,
+                "RelativeCenter": [
+                    47.0,
+                    -182.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Font File Name": "NotoSansKRRegular30",
+                "Text": "Text0",
+                "Origin": [
+                    0.0,
+                    0.0
+                ],
+                "Option": 0,
+                "Text Type": 1
+            }
+        ],
+        "Components11": [
+          {
+            "Component Name": "WoodText1",
+            "Render Type": 6,
+            "UI Type": 4,
+            "ShaderFileName": "",
+            "PassIndex": 0,
+            "Center": [
+              780.0,
+              237.0
+            ],
+            "World Position": [
+              140.0,
+              123.0,
+              0.0
+            ],
+            "Scale": [
+              0.30000001192092896,
+              0.30000001192092896,
+              1.0
+            ],
+            "Angle": 0.0,
+            "Depth": 2,
+            "Ratio": 1.0,
+            "Color": [
+              1.0,
+              1.0,
+              1.0,
+              1.0
+            ],
+            "Alpha": 1.0,
+            "Mask Texture Name": "",
+            "IsMask": false,
+            "IsAlpha": false,
+            "IsColor": true,
+            "RelativeCenter": [
+              140.0,
+              -123.0
+            ],
+            "IsRelative": false,
+            "IsInteraction": false,
+            "Font File Name": "NotoSansKRRegular30",
+            "Text": "Text1",
+            "Origin": [
+              0.0,
+              0.0
+            ],
+            "Option": 0,
+            "Text Type": 1
+          }
+        ],
+        "Components12": [
+          {
+            "Component Name": "WoodText2",
+            "Render Type": 6,
+            "UI Type": 4,
+            "ShaderFileName": "",
+            "PassIndex": 0,
+            "Center": [
+              851.0,
+              336.0
+            ],
+            "World Position": [
+              211.0,
+              24.0,
+              0.0
+            ],
+            "Scale": [
+              0.30000001192092896,
+              0.30000001192092896,
+              1.0
+            ],
+            "Angle": 0.0,
+            "Depth": 2,
+            "Ratio": 1.0,
+            "Color": [
+              1.0,
+              1.0,
+              1.0,
+              1.0
+            ],
+            "Alpha": 1.0,
+            "Mask Texture Name": "",
+            "IsMask": false,
+            "IsAlpha": false,
+            "IsColor": true,
+            "RelativeCenter": [
+              211.0,
+              -24.0
+            ],
+            "IsRelative": false,
+            "IsInteraction": false,
+            "Font File Name": "NotoSansKRRegular30",
+            "Text": "Text2",
+            "Origin": [
+              0.0,
+              0.0
+            ],
+            "Option": 0,
+            "Text Type": 1
+          }
+        ],
+        "Components13": [
+          {
+            "Component Name": "WoodText3",
+            "Render Type": 6,
+            "UI Type": 4,
+            "ShaderFileName": "",
+            "PassIndex": 0,
+            "Center": [
+              835.0,
+              439.0
+            ],
+            "World Position": [
+              195.0,
+              -79.0,
+              0.0
+            ],
+            "Scale": [
+              0.30000001192092896,
+              0.30000001192092896,
+              1.0
+            ],
+            "Angle": 0.0,
+            "Depth": 2,
+            "Ratio": 1.0,
+            "Color": [
+              1.0,
+              1.0,
+              1.0,
+              1.0
+            ],
+            "Alpha": 1.0,
+            "Mask Texture Name": "",
+            "IsMask": false,
+            "IsAlpha": false,
+            "IsColor": true,
+            "RelativeCenter": [
+              195.0,
+              79.0
+            ],
+            "IsRelative": false,
+            "IsInteraction": false,
+            "Font File Name": "NotoSansKRRegular30",
+            "Text": "Text3",
+            "Origin": [
+              0.0,
+              0.0
+            ],
+            "Option": 0,
+            "Text Type": 1
+          }
+        ],
+        "Components14": [
+          {
+            "Component Name": "WoodText4",
+            "Render Type": 6,
+            "UI Type": 4,
+            "ShaderFileName": "",
+            "PassIndex": 0,
+            "Center": [
+              795.0,
+              530.0
+            ],
+            "World Position": [
+              155.0,
+              -170.0,
+              0.0
+            ],
+            "Scale": [
+              0.30000001192092896,
+              0.30000001192092896,
+              1.0
+            ],
+            "Angle": 0.0,
+            "Depth": 2,
+            "Ratio": 1.0,
+            "Color": [
+              1.0,
+              1.0,
+              1.0,
+              1.0
+            ],
+            "Alpha": 1.0,
+            "Mask Texture Name": "",
+            "IsMask": false,
+            "IsAlpha": false,
+            "IsColor": true,
+            "RelativeCenter": [
+              155.0,
+              170.0
+            ],
+            "IsRelative": false,
+            "IsInteraction": false,
+            "Font File Name": "NotoSansKRRegular30",
+            "Text": "Text4",
+            "Origin": [
+              0.0,
+              0.0
+            ],
+            "Option": 0,
+            "Text Type": 1
+          }
+        ],
+        "Components15": [
+          {
+            "Component Name": "WoodText5",
+            "Render Type": 6,
+            "UI Type": 4,
+            "ShaderFileName": "",
+            "PassIndex": 0,
+            "Center": [
+              693.0,
+              593.0
+            ],
+            "World Position": [
+              53.0,
+              -233.0,
+              0.0
+            ],
+            "Scale": [
+              0.30000001192092896,
+              0.30000001192092896,
+              1.0
+            ],
+            "Angle": 0.0,
+            "Depth": 2,
+            "Ratio": 1.0,
+            "Color": [
+              1.0,
+              1.0,
+              1.0,
+              1.0
+            ],
+            "Alpha": 1.0,
+            "Mask Texture Name": "",
+            "IsMask": false,
+            "IsAlpha": false,
+            "IsColor": true,
+            "RelativeCenter": [
+              53.0,
+              233.0
+            ],
+            "IsRelative": false,
+            "IsInteraction": false,
+            "Font File Name": "NotoSansKRRegular30",
+            "Text": "Text5",
+            "Origin": [
+              0.0,
+              0.0
+            ],
+            "Option": 0,
+            "Text Type": 1
+          }
+        ],
+        "Components16": [
+          {
+            "Component Name": "WoodText6",
+            "Render Type": 6,
+            "UI Type": 4,
+            "ShaderFileName": "",
+            "PassIndex": 0,
+            "Center": [
+              577.0,
+              593.0
+            ],
+            "World Position": [
+              -63.0,
+              -233.0,
+              0.0
+            ],
+            "Scale": [
+              0.30000001192092896,
+              0.30000001192092896,
+              1.0
+            ],
+            "Angle": 0.0,
+            "Depth": 2,
+            "Ratio": 1.0,
+            "Color": [
+              1.0,
+              1.0,
+              1.0,
+              1.0
+            ],
+            "Alpha": 1.0,
+            "Mask Texture Name": "",
+            "IsMask": false,
+            "IsAlpha": false,
+            "IsColor": true,
+            "RelativeCenter": [
+              -63.0,
+              233.0
+            ],
+            "IsRelative": false,
+            "IsInteraction": false,
+            "Font File Name": "NotoSansKRRegular30",
+            "Text": "Text6",
+            "Origin": [
+              0.0,
+              0.0
+            ],
+            "Option": 0,
+            "Text Type": 1
+          }
+        ],
+        "Components17": [
+          {
+            "Component Name": "WoodText7",
+            "Render Type": 6,
+            "UI Type": 4,
+            "ShaderFileName": "",
+            "PassIndex": 0,
+            "Center": [
+              473.0,
+              535.0
+            ],
+            "World Position": [
+              -167.0,
+              -175.0,
+              0.0
+            ],
+            "Scale": [
+              0.30000001192092896,
+              0.30000001192092896,
+              1.0
+            ],
+            "Angle": 0.0,
+            "Depth": 2,
+            "Ratio": 1.0,
+            "Color": [
+              1.0,
+              1.0,
+              1.0,
+              1.0
+            ],
+            "Alpha": 1.0,
+            "Mask Texture Name": "",
+            "IsMask": false,
+            "IsAlpha": false,
+            "IsColor": true,
+            "RelativeCenter": [
+              -167.0,
+              175.0
+            ],
+            "IsRelative": false,
+            "IsInteraction": false,
+            "Font File Name": "NotoSansKRRegular30",
+            "Text": "Text7",
+            "Origin": [
+              0.0,
+              0.0
+            ],
+            "Option": 0,
+            "Text Type": 1
+          }
+        ]
+    }
+}

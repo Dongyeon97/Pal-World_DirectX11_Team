@@ -1,0 +1,198 @@
+{
+  "Effect Group Name": "Group_Dororong_Spin",
+  "Duration": 2.0,
+  "Loop": false,
+  "Is Collider": false,
+  "Collider Type": 0,
+  "Collision Flag": 0,
+  "Collision Layer": 256,
+  "Sphere Collider Radius": 0.0,
+  "Box Collider Extents": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Box Collider LocalPosition": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Box Collider LocalRotate": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Sound Name": "",
+  "Sound Loop": false,
+  "Sound Value": 1.0,
+  "Effects": [
+    {
+      "Effect Name": "Particle - Particle_Dororong_Smoke",
+      "RenderType": 5,
+      "EffectType": 0,
+      "ParticleType": 1,
+      "Effect Shader Name": "FX_Instancing_PRULPC",
+      "Use Diffuse Texture": false,
+      "Diffuse Texture Name": "",
+      "Use Mask Texture": true,
+      "Mask Texture Name": "FX_BI_Dust_02",
+      "Is Sprite": true,
+      "Sprite Row": 5,
+      "Sprite Col": 5,
+      "Sprite Speed": 0.08,
+      "Is Loop": true,
+      "Is Billboard": true,
+      "Is Directional": false,
+      "Is Gravity": false,
+      "Is Glow": false,
+      "Is Bloom": false,
+      "Is AlphaAttenuation": false,
+      "Gravity Value": 9.800000190734863,
+      "Glow Weight": 0.0,
+      "Bloom Weight": 0.0,
+      "AlphaAttenuation Weight": 0.0,
+      "Random Life Time": false,
+      "Life Time": [
+        0.0,
+        2.0
+      ],
+      "Num Instance": 1,
+      "Size": [
+        2.0,
+        2.0
+      ],
+      "Color1": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Color2": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Color3": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Speed": [
+        0.0,
+        0.0
+      ],
+      "Offset": [
+        0.0,
+        0.0,
+        -0.4000000059604645
+      ],
+      "Pivot": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Range": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Rotation Per Second": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Radius": [
+        0.0,
+        0.0
+      ],
+      "Num KeyFrames": 0,
+      "KeyFrames": []
+    },
+    {
+      "Effect Name": "Particle - Particle_Dororong_Smoke2",
+      "RenderType": 5,
+      "EffectType": 0,
+      "ParticleType": 1,
+      "Effect Shader Name": "FX_Instancing_PRULPC",
+      "Use Diffuse Texture": false,
+      "Diffuse Texture Name": "",
+      "Use Mask Texture": true,
+      "Mask Texture Name": "FX_BI_Fire_01AB",
+      "Is Sprite": true,
+      "Sprite Row": 4,
+      "Sprite Col": 4,
+      "Sprite Speed": 0.15,
+      "Is Loop": true,
+      "Is Billboard": true,
+      "Is Directional": false,
+      "Is Gravity": false,
+      "Is Glow": false,
+      "Is Bloom": false,
+      "Is AlphaAttenuation": false,
+      "Gravity Value": 9.800000190734863,
+      "Glow Weight": 0.0,
+      "Bloom Weight": 0.0,
+      "AlphaAttenuation Weight": 0.0,
+      "Random Life Time": false,
+      "Life Time": [
+        0.5,
+        2.5
+      ],
+      "Num Instance": 1,
+      "Size": [
+        2.0,
+        2.0
+      ],
+      "Color1": [
+        0.4019607901573181,
+        0.4019607901573181,
+        0.4019607901573181,
+        0.3921568691730499
+      ],
+      "Color2": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Color3": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Speed": [
+        0.0,
+        0.0
+      ],
+      "Offset": [
+        0.0,
+        0.0,
+        -0.4000000059604645
+      ],
+      "Pivot": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Range": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Rotation Per Second": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Radius": [
+        0.0,
+        0.0
+      ],
+      "Num KeyFrames": 0,
+      "KeyFrames": []
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+[
+	{
+		"AttachBoneName" : "Socket_Weapon_R",
+		"Duration" : 0.0,
+		"EffectName" : "Group_Planting",
+		"EndTime" : 2.0222373008728027,
+		"StartTime" : 2.0222373008728027,
+		"Type" : "Effect",
+		"UseFollowBone" : false,
+		"vRelativeLocationX" : 0.0,
+		"vRelativeLocationY" : 0.0,
+		"vRelativeLocationZ" : 0.0
+	},
+	{
+		"Duration" : 0.0,
+		"EndTime" : 1.7714999914169312,
+		"SoundID" : "Seeding_Start_62086559",
+		"StartTime" : 1.7714999914169312,
+		"Type" : "Sound"
+	},
+	{
+		"Duration" : 0.0,
+		"EndTime" : 0.60946667194366455,
+		"SoundID" : "Seeding_Swing_603736995",
+		"StartTime" : 0.60946667194366455,
+		"Type" : "Sound"
+	}
+]

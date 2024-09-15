@@ -1,0 +1,59 @@
+{
+  "Textures": {
+    "Base Texture": "Pal/Content/Pal/Model/Character/NPC/Boss/ElectricBoss/SK_NPC_ElectricBossHair001/T_NPC_ElectricBossHair001_B.T_NPC_ElectricBossHair001_B",
+    "T_NPC_ElectricBossHair001_B": "Pal/Content/Pal/Model/Character/NPC/Boss/ElectricBoss/SK_NPC_ElectricBossHair001/T_NPC_ElectricBossHair001_B.T_NPC_ElectricBossHair001_B",
+    "PM_Diffuse": "Pal/Content/Pal/Model/Character/Player/Body/Female/T_white_B.T_white_B",
+    "BaseColor Mask": "Pal/Content/Pal/Model/Character/Player/Body/Female/T_white_B.T_white_B",
+    "PM_SpecularMasks": "Pal/Content/Pal/Model/Character/NPC/Boss/ElectricBoss/SK_NPC_ElectricBossHair001/T_NPC_ElectricBossHair001_M.T_NPC_ElectricBossHair001_M",
+    "MetallicRoughnessOcclusionSpecularTexture": "Pal/Content/Pal/Model/Character/NPC/Boss/ElectricBoss/SK_NPC_ElectricBossHair001/T_NPC_ElectricBossHair001_M.T_NPC_ElectricBossHair001_M",
+    "PM_Normals": "Pal/Content/Pal/Model/Character/NPC/Boss/ElectricBoss/SK_NPC_ElectricBossHair001/T_NPC_ElectricBossHair001_N.T_NPC_ElectricBossHair001_N",
+    "Normal Map": "Pal/Content/Pal/Model/Character/NPC/Boss/ElectricBoss/SK_NPC_ElectricBossHair001/T_NPC_ElectricBossHair001_N.T_NPC_ElectricBossHair001_N"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 4,
+    "Colors": {
+      "BaseColor": {
+        "R": 0.65625,
+        "G": 0.389649,
+        "B": 0.577858,
+        "A": 1.0,
+        "Hex": "FFD4A8C8"
+      },
+      "Fresnel Emissive Color": {
+        "R": 0.124772,
+        "G": 0.124772,
+        "B": 0.124772,
+        "A": 1.0,
+        "Hex": "FF636363"
+      }
+    },
+    "Scalars": {
+      "Fresnel Exponent": 5.0,
+      "Fresnel Fraction": 0.1,
+      "Occlusion Add": 1.0,
+      "Roughness": 0.475452,
+      "Roughness Add": 0.608,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_ClearCoat",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "SubsurfaceProfile": {
+        "ObjectName": "SubsurfaceProfile'SP_CharacterBodyBase'",
+        "ObjectPath": "Pal/Content/Pal/Material/Character/Common/SP_CharacterBodyBase.0"
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

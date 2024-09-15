@@ -1,0 +1,42 @@
+{
+  "Textures": {
+    "Base Texture": "Pal/Content/Pal/Model/Other/Tower/Texture/T_tower_partsE_B.T_tower_partsE_B",
+    "T_tower_partsE_B": "Pal/Content/Pal/Model/Other/Tower/Texture/T_tower_partsE_B.T_tower_partsE_B",
+    "PM_Emissive": "Pal/Content/Pal/Model/Other/Tower/Texture/T_tower_partsE_E.T_tower_partsE_E",
+    "Emissive Texture": "Pal/Content/Pal/Model/Other/Tower/Texture/T_tower_partsE_E.T_tower_partsE_E",
+    "PM_SpecularMasks": "Pal/Content/Pal/Model/Other/Tower/Texture/T_tower_partsE_M.T_tower_partsE_M",
+    "MetallicRoughnessOcclusionSpecularTexture": "Pal/Content/Pal/Model/Other/Tower/Texture/T_tower_partsE_M.T_tower_partsE_M",
+    "PM_Normals": "Pal/Content/Pal/Model/Other/Tower/Texture/T_tower_partsE_N.T_tower_partsE_N",
+    "Normal Map": "Pal/Content/Pal/Model/Other/Tower/Texture/T_tower_partsE_N.T_tower_partsE_N"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 4,
+    "Colors": {},
+    "Scalars": {
+      "Emissive Light Affect Intensity": 1.0,
+      "Emissive Texture Intensity": 5.0,
+      "Specular": 0.025,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_ClearCoat",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "SubsurfaceProfile": {
+        "ObjectName": "SubsurfaceProfile'SP_CharacterBodyBase'",
+        "ObjectPath": "Pal/Content/Pal/Material/Character/Common/SP_CharacterBodyBase.0"
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "Textures": {
+    "PM_Diffuse": "Pal/Content/Pal/Model/Weapon/Bow/SK_Weapon_Arrow_001/Texture/T_Weapon_Arrow_001_B.T_Weapon_Arrow_001_B",
+    "Albedo (Alpha)": "Pal/Content/Pal/Model/Weapon/Bow/SK_Weapon_Arrow_001/Texture/T_Weapon_Arrow_001_B.T_Weapon_Arrow_001_B",
+    "Metal(R)Rough(A)": "Pal/Content/Pal/Model/Weapon/Bow/SK_Weapon_Arrow_001/Texture/T_Weapon_Arrow_001_M.T_Weapon_Arrow_001_M",
+    "T_Weapon_Arrow_001_M": "Pal/Content/Pal/Model/Weapon/Bow/SK_Weapon_Arrow_001/Texture/T_Weapon_Arrow_001_M.T_Weapon_Arrow_001_M",
+    "PM_Normals": "Pal/Content/Pal/Model/Weapon/Bow/SK_Weapon_Arrow_001/Texture/T_Weapon_Arrow_001_N.T_Weapon_Arrow_001_N",
+    "Normal": "Pal/Content/Pal/Model/Weapon/Bow/SK_Weapon_Arrow_001/Texture/T_Weapon_Arrow_001_N.T_Weapon_Arrow_001_N"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "OpacityMaskClipValue": 0.3333
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

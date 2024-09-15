@@ -1,0 +1,27 @@
+{
+  "Textures": {
+    "T_Weapon_Handgun_003_B": "Pal/Content/Pal/Model/Weapon/Handgun/SK_Weapon_Handgun_003/Texture/T_Weapon_Handgun_003_B.T_Weapon_Handgun_003_B",
+    "T_Weapon_Handgun_003_M": "Pal/Content/Pal/Model/Weapon/Handgun/SK_Weapon_Handgun_003/Texture/T_Weapon_Handgun_003_M.T_Weapon_Handgun_003_M",
+    "T_Weapon_Handgun_003_N": "Pal/Content/Pal/Model/Weapon/Handgun/SK_Weapon_Handgun_003/Texture/T_Weapon_Handgun_003_N.T_Weapon_Handgun_003_N",
+    "T_Weapon_Handgun_003_R": "Pal/Content/Pal/Model/Weapon/Handgun/SK_Weapon_Handgun_003/Texture/T_Weapon_Handgun_003_R.T_Weapon_Handgun_003_R",
+    "PM_Normals": "Pal/Content/Pal/Model/Weapon/Handgun/SK_Weapon_Handgun_003/Texture/T_Weapon_Handgun_003_N.T_Weapon_Handgun_003_N"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {},
+    "Switches": {},
+    "Properties": {
+      "bUsedWithSkeletalMesh": true,
+      "bCanMaskedBeAssumedOpaque": true,
+      "StateId": "1B07DE13-4A4E4DEA-C65464B9-000C67C5"
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

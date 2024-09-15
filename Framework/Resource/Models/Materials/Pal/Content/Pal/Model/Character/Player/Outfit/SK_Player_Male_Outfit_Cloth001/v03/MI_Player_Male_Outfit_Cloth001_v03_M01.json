@@ -1,0 +1,56 @@
+{
+  "Textures": {
+    "Base Texture": "Pal/Content/Pal/Model/Character/Player/Outfit/SK_Player_Male_Outfit_Cloth001/v03/T_Player_Male_Outfit_Cloth001_v03_M01_B.T_Player_Male_Outfit_Cloth001_v03_M01_B",
+    "T_Player_Male_Outfit_Cloth001_v03_M01_B": "Pal/Content/Pal/Model/Character/Player/Outfit/SK_Player_Male_Outfit_Cloth001/v03/T_Player_Male_Outfit_Cloth001_v03_M01_B.T_Player_Male_Outfit_Cloth001_v03_M01_B",
+    "PM_SpecularMasks": "Pal/Content/Pal/Model/Character/Player/Outfit/SK_Player_Male_Outfit_Cloth001/v03/T_Player_Male_Outfit_Cloth001_v03_M01_M.T_Player_Male_Outfit_Cloth001_v03_M01_M",
+    "MetallicRoughnessOcclusionSpecularTexture": "Pal/Content/Pal/Model/Character/Player/Outfit/SK_Player_Male_Outfit_Cloth001/v03/T_Player_Male_Outfit_Cloth001_v03_M01_M.T_Player_Male_Outfit_Cloth001_v03_M01_M",
+    "PM_Normals": "Pal/Content/Pal/Model/Character/Player/Outfit/SK_Player_Male_Outfit_Cloth001/v03/T_Player_Male_Outfit_Cloth001_v03_M01_N.T_Player_Male_Outfit_Cloth001_v03_M01_N",
+    "Normal Map": "Pal/Content/Pal/Model/Character/Player/Outfit/SK_Player_Male_Outfit_Cloth001/v03/T_Player_Male_Outfit_Cloth001_v03_M01_N.T_Player_Male_Outfit_Cloth001_v03_M01_N"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 4,
+    "Colors": {
+      "BaseColor": {
+        "R": 0.6,
+        "G": 0.6,
+        "B": 0.6,
+        "A": 1.0,
+        "Hex": "FFCCCCCC"
+      },
+      "Subsurface Color": {
+        "R": 0.5,
+        "G": 0.5,
+        "B": 0.5,
+        "A": 0.0,
+        "Hex": "BCBCBC"
+      }
+    },
+    "Scalars": {
+      "Character CameraFade Distance": 30.0,
+      "Occlusion Add": 1.0,
+      "Roughness Add": 0.2,
+      "Light Affect Subsurface Max": 0.5,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_ClearCoat",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "SubsurfaceProfile": {
+        "ObjectName": "SubsurfaceProfile'SP_CharacterBodyBase'",
+        "ObjectPath": "Pal/Content/Pal/Material/Character/Common/SP_CharacterBodyBase.0"
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

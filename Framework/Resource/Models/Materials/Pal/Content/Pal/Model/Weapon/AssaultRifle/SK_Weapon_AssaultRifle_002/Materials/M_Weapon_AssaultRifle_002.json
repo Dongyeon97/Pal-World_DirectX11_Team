@@ -1,0 +1,27 @@
+{
+  "Textures": {
+    "T__Weapon_AssaultRifle_002_Normal": "Pal/Content/Pal/Model/Weapon/AssaultRifle/SK_Weapon_AssaultRifle_002/Textures/T__Weapon_AssaultRifle_002_Normal.T__Weapon_AssaultRifle_002_Normal",
+    "T_Weapon_AssaultRifle_002_AO_Metallic_Roughness": "Pal/Content/Pal/Model/Weapon/AssaultRifle/SK_Weapon_AssaultRifle_002/Textures/T_Weapon_AssaultRifle_002_AO_Metallic_Roughness.T_Weapon_AssaultRifle_002_AO_Metallic_Roughness",
+    "T_Weapon_AssaultRifle_002_BaseColor": "Pal/Content/Pal/Model/Weapon/AssaultRifle/SK_Weapon_AssaultRifle_002/Textures/T_Weapon_AssaultRifle_002_BaseColor.T_Weapon_AssaultRifle_002_BaseColor",
+    "PM_Normals": "Pal/Content/Pal/Model/Weapon/AssaultRifle/SK_Weapon_AssaultRifle_002/Textures/T__Weapon_AssaultRifle_002_Normal.T__Weapon_AssaultRifle_002_Normal",
+    "PM_Diffuse": "Pal/Content/Pal/Model/Weapon/AssaultRifle/SK_Weapon_AssaultRifle_002/Textures/T_Weapon_AssaultRifle_002_BaseColor.T_Weapon_AssaultRifle_002_BaseColor"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {},
+    "Switches": {},
+    "Properties": {
+      "bUsedWithSkeletalMesh": true,
+      "bCanMaskedBeAssumedOpaque": true,
+      "StateId": "94223445-4DC2202B-3C9ECB80-1E43A486"
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="01. Defines">
+      <UniqueIdentifier>{83d045b2-6b19-4aa8-bd72-cc0c64ec2bbd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="00. Default">
+      <UniqueIdentifier>{166feeb9-7525-475d-82ec-ca8835e39ee0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. Model">
+      <UniqueIdentifier>{fc887473-1fb3-4ad1-9581-f3a6f7bd9eb6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. Model\Animation">
+      <UniqueIdentifier>{e9446e2e-fd68-4cdd-a393-a77508d354b6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. Model\Animation\Channel">
+      <UniqueIdentifier>{04ef26fb-2a43-4a4a-8f4d-71e307cf0c97}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. Model\Bone">
+      <UniqueIdentifier>{42535d6a-a9b3-4342-a786-e540c04deecd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. Model\Mesh">
+      <UniqueIdentifier>{f02d85a7-8bfd-4259-a17b-b36d6025474d}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\Private\main.cpp">
+      <Filter>00. Default</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\FbxBinaryStruct.cpp">
+      <Filter>01. Defines</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\pch.cpp">
+      <Filter>00. Default</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\FbxModel.cpp">
+      <Filter>02. Model</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\FbxBone.cpp">
+      <Filter>02. Model\Bone</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\FbxMesh.cpp">
+      <Filter>02. Model\Mesh</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\FbxAnimation.cpp">
+      <Filter>02. Model\Animation</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\FbxChannel.cpp">
+      <Filter>02. Model\Animation\Channel</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\Public\FbxBinaryDefine.h">
+      <Filter>01. Defines</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\FbxBinaryEnum.h">
+      <Filter>01. Defines</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\FbxBinaryStruct.h">
+      <Filter>01. Defines</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\FbxBinaryType.h">
+      <Filter>01. Defines</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\pch.h">
+      <Filter>00. Default</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\targetver.h">
+      <Filter>00. Default</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\FbxModel.h">
+      <Filter>02. Model</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\FbxBone.h">
+      <Filter>02. Model\Bone</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\FbxMesh.h">
+      <Filter>02. Model\Mesh</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\FbxAnimation.h">
+      <Filter>02. Model\Animation</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\FbxChannel.h">
+      <Filter>02. Model\Animation\Channel</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

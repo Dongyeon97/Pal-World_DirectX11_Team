@@ -1,0 +1,198 @@
+{
+    "Effect Group Name": "Group_BowlingPin_Appear",
+    "Duration": 1.0,
+    "Loop": false,
+    "Is Collider": false,
+    "Sound Name": "",
+    "Sound Loop": false,
+    "Sound Value": 1.0,
+    "Collider Type": 5,
+    "Collision Flag": 1572865,
+    "Collision Layer": 16777217,
+    "Sphere Collider Radius": 0.0,
+    "Box Collider Extents": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "Box Collider LocalPosition": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "Box Collider LocalRotate": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "Effects": [
+        {
+            "Effect Name": "Particle - Particle_PartnerPal_Summon1",
+            "RenderType": 9,
+            "EffectType": 0,
+            "ParticleType": 1,
+            "Effect Shader Name": "FX_Instancing_PRULPC",
+            "Use Diffuse Texture": false,
+            "Diffuse Texture Name": "",
+            "Use Mask Texture": true,
+            "Mask Texture Name": "T_Circle_01_clamp",
+            "Is Sprite": false,
+            "Sprite Row": 1,
+            "Sprite Col": 1,
+            "Sprite Speed": 1.0,
+            "Is Loop": false,
+            "Is Billboard": true,
+            "Is Directional": false,
+            "Is Gravity": true,
+            "Is Glow": false,
+            "Is Bloom": false,
+            "Is AlphaAttenuation": false,
+            "Gravity Value": -0.02500000037252903,
+            "Glow Weight": 0.0,
+            "Bloom Weight": 0.0,
+            "AlphaAttenuation Weight": 0.0,
+            "Random Life Time": true,
+            "Life Time": [
+                0.0,
+                1.0
+            ],
+            "Num Instance": 80,
+            "Size": [
+                0.05000000074505806,
+                0.10000000149011612
+            ],
+            "Color1": [
+                0.5392156839370728,
+                1.0,
+                0.9864473938941956,
+                1.0
+            ],
+            "Color2": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "Color3": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "Speed": [
+                0.10000000149011612,
+                0.20000000298023224
+            ],
+            "Offset": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Pivot": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Range": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Rotation Per Second": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Radius": [
+                1.75,
+                1.75
+            ],
+            "Num KeyFrames": 0,
+            "KeyFrames": []
+        },
+        {
+            "Effect Name": "Particle - Particle_PartnerPal_Summon2",
+            "RenderType": 9,
+            "EffectType": 0,
+            "ParticleType": 1,
+            "Effect Shader Name": "FX_Instancing_PRULPC",
+            "Use Diffuse Texture": false,
+            "Diffuse Texture Name": "",
+            "Use Mask Texture": true,
+            "Mask Texture Name": "Light_Cross_Linear_0023",
+            "Is Sprite": false,
+            "Sprite Row": 1,
+            "Sprite Col": 1,
+            "Sprite Speed": 1.0,
+            "Is Loop": false,
+            "Is Billboard": true,
+            "Is Directional": false,
+            "Is Gravity": true,
+            "Is Glow": false,
+            "Is Bloom": false,
+            "Is AlphaAttenuation": false,
+            "Gravity Value": -0.02500000037252903,
+            "Glow Weight": 0.0,
+            "Bloom Weight": 0.0,
+            "AlphaAttenuation Weight": 0.0,
+            "Random Life Time": true,
+            "Life Time": [
+                0.0,
+                1.0
+            ],
+            "Num Instance": 100,
+            "Size": [
+                0.10000000149011612,
+                0.20000000298023224
+            ],
+            "Color1": [
+                0.6274509429931641,
+                0.9342560172080994,
+                1.0,
+                1.0
+            ],
+            "Color2": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "Color3": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "Speed": [
+                0.10000000149011612,
+                0.20000000298023224
+            ],
+            "Offset": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Pivot": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Range": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Rotation Per Second": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Radius": [
+                1.75,
+                1.75
+            ],
+            "Num KeyFrames": 0,
+            "KeyFrames": []
+        }
+    ]
+}

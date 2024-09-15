@@ -1,0 +1,44 @@
+[
+  {
+    "Type": "AkAssetPlatformData",
+    "Name": "AkAssetPlatformData_0",
+    "Outer": "AKE_Weapon_Musket_Smoke",
+    "Class": "UScriptClass'AkAssetPlatformData'"
+  },
+  {
+    "Type": "AkAudioEvent",
+    "Name": "AKE_Weapon_Musket_Smoke",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Properties": {
+      "PlatformAssetData": {
+        "ObjectName": "AkAssetPlatformData'AKE_Weapon_Musket_Smoke:AkAssetPlatformData_0'",
+        "ObjectPath": "Pal/Content/Pal/Sound/Events/SE/Weapon/Gun/Musket/AKE_Weapon_Musket_Smoke.0"
+      },
+      "ShortID": 1917862237
+    }
+  },
+  {
+    "Type": "AkAudioEventData",
+    "Name": "AkAudioEventData_0",
+    "Outer": "AKE_Weapon_Musket_Smoke",
+    "Class": "UScriptClass'AkAudioEventData'",
+    "Properties": {
+      "MaxAttenuationRadius": 8000.0,
+      "MinimumDuration": 0.5025,
+      "MaximumDuration": 0.5025,
+      "UserDefinedSends": [
+        {
+          "ObjectName": "AkAuxBus'Cave_Reverb'",
+          "ObjectPath": "Pal/Content/Pal/Sound/Master-Mixer_Hierarchy/Default_Work_Unit/Master_Audio_Bus/GlobalVolumeSetting/SE/Cave_Reverb/Cave_Reverb.2"
+        }
+      ],
+      "MediaList": [
+        {
+          "ObjectName": "AkMediaAsset'147842741'",
+          "ObjectPath": "Pal/Content/Pal/Sound/Media/147842741.0"
+        }
+      ],
+      "CachedHash": 3271255730
+    }
+  }
+]

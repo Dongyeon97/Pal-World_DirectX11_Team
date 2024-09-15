@@ -1,0 +1,64 @@
+{
+  "Textures": {
+    "Base Texture": "Pal/Content/Pal/Model/Character/NPC/Boss/ForestBoss/SK_NPC_ForestBossHead001/T_NPC_ForestBossHead001_B.T_NPC_ForestBossHead001_B",
+    "T_NPC_ForestBossHead001_B": "Pal/Content/Pal/Model/Character/NPC/Boss/ForestBoss/SK_NPC_ForestBossHead001/T_NPC_ForestBossHead001_B.T_NPC_ForestBossHead001_B",
+    "PM_Diffuse": "Pal/Content/Pal/Model/Character/Player/Body/Female/T_white_B.T_white_B",
+    "BaseColor Mask": "Pal/Content/Pal/Model/Character/Player/Body/Female/T_white_B.T_white_B",
+    "PM_SpecularMasks": "Pal/Content/Pal/Model/Character/NPC/Boss/ForestBoss/SK_NPC_ForestBossHead001/T_NPC_ForestBossHead001_M.T_NPC_ForestBossHead001_M",
+    "MetallicRoughnessOcclusionSpecularTexture": "Pal/Content/Pal/Model/Character/NPC/Boss/ForestBoss/SK_NPC_ForestBossHead001/T_NPC_ForestBossHead001_M.T_NPC_ForestBossHead001_M",
+    "PM_Normals": "Pal/Content/Pal/Model/Character/NPC/Boss/ForestBoss/SK_NPC_ForestBossHead001/T_NPC_ForestBossHead001_N.T_NPC_ForestBossHead001_N",
+    "Normal Map": "Pal/Content/Pal/Model/Character/NPC/Boss/ForestBoss/SK_NPC_ForestBossHead001/T_NPC_ForestBossHead001_N.T_NPC_ForestBossHead001_N",
+    "Subsurface Texture": "Pal/Content/Pal/Model/Character/NPC/Boss/ForestBoss/SK_NPC_ForestBossHead001/T_NPC_ForestBossHead001_SSS.T_NPC_ForestBossHead001_SSS",
+    "T_NPC_ForestBossHead001_SSS": "Pal/Content/Pal/Model/Character/NPC/Boss/ForestBoss/SK_NPC_ForestBossHead001/T_NPC_ForestBossHead001_SSS.T_NPC_ForestBossHead001_SSS"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 2,
+    "Colors": {
+      "BaseColor": {
+        "R": 1.0,
+        "G": 0.786458,
+        "B": 0.786458,
+        "A": 1.0,
+        "Hex": "FFFFE6E6"
+      },
+      "Subsurface Color": {
+        "R": 1.8,
+        "G": 1.0,
+        "B": 0.8,
+        "A": 1.0,
+        "Hex": "FFFFFFE8"
+      }
+    },
+    "Scalars": {
+      "Contrast": 1.5,
+      "Roughness Add": 0.35,
+      "Normal Map Intensity": 1.0,
+      "Half Lambert": 0.1,
+      "Toony Factor": 0.3,
+      "Light Affect Subsurface Max": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "bOverride_OpacityMaskClipValue": true,
+        "bOverride_ShadingModel": true,
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_Subsurface",
+        "OpacityMaskClipValue": 0.0
+      },
+      "SubsurfaceProfile": {
+        "ObjectName": "SubsurfaceProfile'SP_CharacterBodyBase'",
+        "ObjectPath": "Pal/Content/Pal/Material/Character/Common/SP_CharacterBodyBase.0"
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

@@ -1,0 +1,14 @@
+[
+	{
+		"AttachBoneName" : "hand_r",
+		"Duration" : 0.0,
+		"EffectName" : "Group_WoodCutting",
+		"EndTime" : 0.46084308624267578,
+		"StartTime" : 0.46084308624267578,
+		"Type" : "Effect",
+		"UseFollowBone" : false,
+		"vRelativeLocationX" : 0.0,
+		"vRelativeLocationY" : 0.0,
+		"vRelativeLocationZ" : 0.0
+	}
+]

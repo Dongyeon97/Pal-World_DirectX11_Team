@@ -1,0 +1,105 @@
+{
+    "Child Panel Size": 1,
+    "Panels0": {
+        "Panel Name": "ex",
+        "Panel Projection Type": 0,
+        "Panel Depth": 0,
+        "Panel Pivot Component Name": "123",
+        "Components Size": 1,
+        "Components0": [
+            {
+                "Component Name": "123",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    153.0,
+                    137.0
+                ],
+                "World Position": [
+                    -487.0,
+                    223.0,
+                    0.0
+                ],
+                "Scale": [
+                    200.0,
+                    200.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 4,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": false,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": true,
+                "Image Texture Name": "T_tex_white",
+                "Image Type": 0
+            }
+        ]
+    },
+    "Panels1": {
+        "Panel Name": "child1",
+        "Panel Projection Type": 0,
+        "Panel Depth": 0,
+        "Panel Pivot Component Name": "123",
+        "Components Size": 1,
+        "Components0": [
+            {
+                "Component Name": "Image1",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    133.0,
+                    97.0
+                ],
+                "World Position": [
+                    -507.0,
+                    263.0,
+                    0.0
+                ],
+                "Scale": [
+                    80.0,
+                    80.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 3,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": false,
+                "RelativeCenter": [
+                    -20.0,
+                    -40.0
+                ],
+                "IsRelative": true,
+                "Image Texture Name": "T_SheepBall_icon_normal",
+                "Image Type": 0
+            }
+        ]
+    }
+}

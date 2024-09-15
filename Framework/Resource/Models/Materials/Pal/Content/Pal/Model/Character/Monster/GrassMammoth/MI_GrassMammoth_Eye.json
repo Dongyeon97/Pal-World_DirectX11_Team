@@ -1,0 +1,57 @@
+{
+  "Textures": {
+    "Base Texture": "Pal/Content/Pal/Model/Character/Monster/GrassMammoth/T_GrassMammoth_Eyes_B.T_GrassMammoth_Eyes_B",
+    "T_GrassMammoth_Eyes_B": "Pal/Content/Pal/Model/Character/Monster/GrassMammoth/T_GrassMammoth_Eyes_B.T_GrassMammoth_Eyes_B"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 4,
+    "Colors": {
+      "UVOffset1": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 0.0,
+        "Hex": "000000"
+      },
+      "UV Scale": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 0.0,
+        "A": 0.0,
+        "Hex": "FFFF00"
+      },
+      "UVOffset0": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 0.0,
+        "A": 0.0,
+        "Hex": "FFFF00"
+      }
+    },
+    "Scalars": {
+      "Desaturation": -0.2,
+      "Character CameraFade Start Bias": 350.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_ClearCoat",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "SubsurfaceProfile": {
+        "ObjectName": "SubsurfaceProfile'SP_CharacterBodyBase'",
+        "ObjectPath": "Pal/Content/Pal/Material/Character/Common/SP_CharacterBodyBase.0"
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

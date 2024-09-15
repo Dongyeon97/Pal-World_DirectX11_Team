@@ -1,0 +1,43 @@
+{
+  "Textures": {
+    "PM_Emissive": "Pal/Content/Pal/Model/Weapon/PalSphere/PalSphere_001/Texture/T_PalSphere_Crystal_M.T_PalSphere_Crystal_M",
+    "Metallic(R) Roughness(G) Emissive(B) Thickness (A)": "Pal/Content/Pal/Model/Weapon/PalSphere/PalSphere_001/Texture/T_PalSphere_Crystal_M.T_PalSphere_Crystal_M",
+    "PM_Normals": "Pal/Content/Pal/Model/Weapon/PalSphere/PalSphere_001/Texture/T_PalSphere_Crystal_N.T_PalSphere_Crystal_N",
+    "Normal": "Pal/Content/Pal/Model/Weapon/PalSphere/PalSphere_001/Texture/T_PalSphere_Crystal_N.T_PalSphere_Crystal_N",
+    "Base Color Linear Grayscale": "Pal/Content/Pal/Model/Weapon/PalSphere/PalSphere_001/Texture/T_PalSphere_Crystal_B.T_PalSphere_Crystal_B",
+    "T_PalSphere_Crystal_B": "Pal/Content/Pal/Model/Weapon/PalSphere/PalSphere_001/Texture/T_PalSphere_Crystal_B.T_PalSphere_Crystal_B"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "Cloud Color Intensity Red Channel": 0.471428,
+      "Cloud Hue Shift Red Channel": 0.9,
+      "Cloud Position Red Channel": 0.25,
+      "Cloud Falloff Red Channel": 0.9,
+      "Cloud Speed Red Channel": 0.295238,
+      "Cloud Reference Plane Red Channel": 9.0,
+      "Cloud Height Ratio Red Channel": 9.0,
+      "Cloud Reference Plane Green Channel": -0.3,
+      "Emissive Master Intensity": 0.2,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "bOverride_TwoSided": true,
+        "TwoSided": true,
+        "DitheredLODTransition": true,
+        "OpacityMaskClipValue": 0.3333
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

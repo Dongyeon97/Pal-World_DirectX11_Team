@@ -1,0 +1,43 @@
+{
+  "Textures": {
+    "PM_Diffuse": "Pal/Content/Pal/Model/Weapon/Shotgun/SK_Weapon_Shotgun_004/Texture/T_Weapon_Shotgun_004_B.T_Weapon_Shotgun_004_B",
+    "Albedo": "Pal/Content/Pal/Model/Weapon/Shotgun/SK_Weapon_Shotgun_004/Texture/T_Weapon_Shotgun_004_B.T_Weapon_Shotgun_004_B",
+    "PM_Normals": "Pal/Content/Pal/Model/Weapon/Shotgun/SK_Weapon_Shotgun_004/Texture/T_Weapon_Shotgun_004_N.T_Weapon_Shotgun_004_N",
+    "Normal": "Pal/Content/Pal/Model/Weapon/Shotgun/SK_Weapon_Shotgun_004/Texture/T_Weapon_Shotgun_004_N.T_Weapon_Shotgun_004_N",
+    "PM_SpecularMasks": "Pal/Content/Pal/Model/Weapon/Shotgun/SK_Weapon_Shotgun_004/Texture/T_Weapon_Shotgun_004_M.T_Weapon_Shotgun_004_M",
+    "RMA": "Pal/Content/Pal/Model/Weapon/Shotgun/SK_Weapon_Shotgun_004/Texture/T_Weapon_Shotgun_004_M.T_Weapon_Shotgun_004_M",
+    "PM_Emissive": "Pal/Content/Others/FPSWestern_VOL2/Textures/TX_Fill_01a_ALB.TX_Fill_01a_ALB",
+    "Emissive": "Pal/Content/Others/FPSWestern_VOL2/Textures/TX_Fill_01a_ALB.TX_Fill_01a_ALB"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Emissive Color Multi": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 1.0,
+        "Hex": "FF000000"
+      }
+    },
+    "Scalars": {
+      "Roughness Multi": 1.0,
+      "Roughness Power": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      }
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": true,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

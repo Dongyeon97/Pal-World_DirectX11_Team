@@ -1,0 +1,192 @@
+[
+  {
+    "Type": "PhysicsAsset",
+    "Name": "SK_Weapon_AssaultRifle_007_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsAsset'",
+    "Properties": {
+      "BoundsBodies": [
+        0,
+        1,
+        2
+      ],
+      "SkeletalBodySetups": [
+        {
+          "ObjectName": "SkeletalBodySetup'SK_Weapon_AssaultRifle_007_PhysicsAsset:SkeletalBodySetup_0'",
+          "ObjectPath": "Pal/Content/Pal/Model/Weapon/AssaultRifle/SK_Weapon_AssaultRifle_007/SK_Weapon_AssaultRifle_007_PhysicsAsset.3"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'SK_Weapon_AssaultRifle_007_PhysicsAsset:SkeletalBodySetup_1'",
+          "ObjectPath": "Pal/Content/Pal/Model/Weapon/AssaultRifle/SK_Weapon_AssaultRifle_007/SK_Weapon_AssaultRifle_007_PhysicsAsset.4"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'SK_Weapon_AssaultRifle_007_PhysicsAsset:SkeletalBodySetup_2'",
+          "ObjectPath": "Pal/Content/Pal/Model/Weapon/AssaultRifle/SK_Weapon_AssaultRifle_007/SK_Weapon_AssaultRifle_007_PhysicsAsset.5"
+        }
+      ],
+      "ConstraintSetup": [
+        {
+          "ObjectName": "PhysicsConstraintTemplate'SK_Weapon_AssaultRifle_007_PhysicsAsset:PhysicsConstraintTemplate_0'",
+          "ObjectPath": "Pal/Content/Pal/Model/Weapon/AssaultRifle/SK_Weapon_AssaultRifle_007/SK_Weapon_AssaultRifle_007_PhysicsAsset.1"
+        },
+        {
+          "ObjectName": "PhysicsConstraintTemplate'SK_Weapon_AssaultRifle_007_PhysicsAsset:PhysicsConstraintTemplate_1'",
+          "ObjectPath": "Pal/Content/Pal/Model/Weapon/AssaultRifle/SK_Weapon_AssaultRifle_007/SK_Weapon_AssaultRifle_007_PhysicsAsset.2"
+        }
+      ],
+      "ThumbnailInfo": null
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_0",
+    "Outer": "SK_Weapon_AssaultRifle_007_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "box",
+        "ConstraintBone1": "box",
+        "ConstraintBone2": "root",
+        "Pos2": {
+          "X": 48.122166,
+          "Y": 11.116192,
+          "Z": 75.96636
+        },
+        "ProfileInstance": {
+          "ConeLimit": {
+            "Swing1Motion": "EAngularConstraintMotion::ACM_Limited",
+            "Swing2Motion": "EAngularConstraintMotion::ACM_Limited"
+          },
+          "TwistLimit": {
+            "TwistMotion": "EAngularConstraintMotion::ACM_Limited"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_1",
+    "Outer": "SK_Weapon_AssaultRifle_007_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "barrels",
+        "ConstraintBone1": "barrels",
+        "ConstraintBone2": "root",
+        "Pos2": {
+          "X": 113.47516,
+          "Y": 1.2900946E-05,
+          "Z": 47.86371
+        },
+        "ProfileInstance": {
+          "ConeLimit": {
+            "Swing1Motion": "EAngularConstraintMotion::ACM_Limited",
+            "Swing2Motion": "EAngularConstraintMotion::ACM_Limited"
+          },
+          "TwistLimit": {
+            "TwistMotion": "EAngularConstraintMotion::ACM_Limited"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_0",
+    "Outer": "SK_Weapon_AssaultRifle_007_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphylElems": [
+          {
+            "Center": {
+              "X": 36.889576,
+              "Y": 4.093529,
+              "Z": 34.47417
+            },
+            "Rotation": {
+              "Pitch": -6.3611094E-15,
+              "Yaw": -88.883545,
+              "Roll": -80.72151
+            },
+            "Radius": 55.537704,
+            "Length": 68.687035,
+            "RestOffset": 0.0,
+            "Name": "None",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "root",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "0E40E10B44D44D2C20A1BC9769D90DC6"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_1",
+    "Outer": "SK_Weapon_AssaultRifle_007_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphylElems": [
+          {
+            "Center": {
+              "X": 4.7490487,
+              "Y": -3.3707747,
+              "Z": 24.227612
+            },
+            "Rotation": {
+              "Pitch": 9.9392335E-17,
+              "Yaw": 1.9389935,
+              "Roll": -60.28922
+            },
+            "Radius": 35.64076,
+            "Length": 50.939487,
+            "RestOffset": 0.0,
+            "Name": "None",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "box",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "5FAD5F4840ACD1013230ED9DEEEF4BF6"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_2",
+    "Outer": "SK_Weapon_AssaultRifle_007_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphylElems": [
+          {
+            "Center": {
+              "X": 33.6863,
+              "Y": -1.9729834E-05,
+              "Z": -12.606214
+            },
+            "Rotation": {
+              "Pitch": 3.1805547E-15,
+              "Yaw": 90.0,
+              "Roll": -88.11791
+            },
+            "Radius": 40.62929,
+            "Length": 137.69449,
+            "RestOffset": 0.0,
+            "Name": "None",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "barrels",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "23F3BF394E7FABD159A49C9BA0E5A824"
+  }
+]

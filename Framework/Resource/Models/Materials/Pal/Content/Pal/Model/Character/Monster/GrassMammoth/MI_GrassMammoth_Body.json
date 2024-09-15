@@ -1,0 +1,50 @@
+{
+  "Textures": {
+    "Base Texture": "Pal/Content/Pal/Model/Character/Monster/GrassMammoth/T_GrassMammoth_Body_B.T_GrassMammoth_Body_B",
+    "T_GrassMammoth_Body_B": "Pal/Content/Pal/Model/Character/Monster/GrassMammoth/T_GrassMammoth_Body_B.T_GrassMammoth_Body_B",
+    "PM_SpecularMasks": "Pal/Content/Pal/Model/Character/Monster/GrassMammoth/T_GrassMammoth_Body_M.T_GrassMammoth_Body_M",
+    "MetallicRoughnessOcclusionSpecularTexture": "Pal/Content/Pal/Model/Character/Monster/GrassMammoth/T_GrassMammoth_Body_M.T_GrassMammoth_Body_M",
+    "PM_Normals": "Pal/Content/Pal/Model/Character/Monster/GrassMammoth/T_GrassMammoth_Body_N.T_GrassMammoth_Body_N",
+    "Normal Map": "Pal/Content/Pal/Model/Character/Monster/GrassMammoth/T_GrassMammoth_Body_N.T_GrassMammoth_Body_N",
+    "Subsurface Texture": "Pal/Content/Pal/Model/Character/Monster/GrassMammoth/T_GrassMammoth_Body_SSS.T_GrassMammoth_Body_SSS",
+    "T_GrassMammoth_Body_SSS": "Pal/Content/Pal/Model/Character/Monster/GrassMammoth/T_GrassMammoth_Body_SSS.T_GrassMammoth_Body_SSS"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 2,
+    "Colors": {
+      "Subsurface Color": {
+        "R": 0.728034,
+        "G": 1.297599,
+        "B": 0.989037,
+        "A": 0.0,
+        "Hex": "DEFFFE"
+      }
+    },
+    "Scalars": {
+      "Character CameraFade Start Bias": 350.0,
+      "Roughness Add": 0.4,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "bOverride_ShadingModel": true,
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_Subsurface",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "SubsurfaceProfile": {
+        "ObjectName": "SubsurfaceProfile'SP_CharacterBodyBase'",
+        "ObjectPath": "Pal/Content/Pal/Material/Character/Common/SP_CharacterBodyBase.0"
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

@@ -1,0 +1,291 @@
+[
+  {
+    "Type": "PhysicsAsset",
+    "Name": "PA_HeadEquip027_Physics",
+    "Class": "UScriptClass'PhysicsAsset'",
+    "Properties": {
+      "BoundsBodies": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "SkeletalBodySetups": [
+        {
+          "ObjectName": "SkeletalBodySetup'PA_HeadEquip027_Physics:SkeletalBodySetup_0'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Player/HeadEquip/HeadEquip027/PA_HeadEquip027_Physics.4"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'PA_HeadEquip027_Physics:SkeletalBodySetup_1'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Player/HeadEquip/HeadEquip027/PA_HeadEquip027_Physics.5"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'PA_HeadEquip027_Physics:SkeletalBodySetup_2'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Player/HeadEquip/HeadEquip027/PA_HeadEquip027_Physics.6"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'PA_HeadEquip027_Physics:SkeletalBodySetup_3'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Player/HeadEquip/HeadEquip027/PA_HeadEquip027_Physics.7"
+        }
+      ],
+      "ConstraintSetup": [
+        {
+          "ObjectName": "PhysicsConstraintTemplate'PA_HeadEquip027_Physics:PhysicsConstraintTemplate_0'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Player/HeadEquip/HeadEquip027/PA_HeadEquip027_Physics.1"
+        },
+        {
+          "ObjectName": "PhysicsConstraintTemplate'PA_HeadEquip027_Physics:PhysicsConstraintTemplate_1'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Player/HeadEquip/HeadEquip027/PA_HeadEquip027_Physics.2"
+        },
+        {
+          "ObjectName": "PhysicsConstraintTemplate'PA_HeadEquip027_Physics:PhysicsConstraintTemplate_2'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Player/HeadEquip/HeadEquip027/PA_HeadEquip027_Physics.3"
+        }
+      ],
+      "ThumbnailInfo": null
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_0",
+    "Outer": "PA_HeadEquip027_Physics",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "HeadEquip027_hat01_01",
+        "ConstraintBone1": "HeadEquip027_hat01_01",
+        "ConstraintBone2": "head",
+        "Pos2": {
+          "X": 11.478296,
+          "Y": 15.118433,
+          "Z": -0.00017144615
+        },
+        "PriAxis2": {
+          "X": -0.07754058,
+          "Y": 0.9969892,
+          "Z": 1.0514605E-07
+        },
+        "SecAxis2": {
+          "X": -0.9969892,
+          "Y": -0.07754058,
+          "Z": 2.717056E-06
+        },
+        "ProfileInstance": {
+          "ConeLimit": {
+            "Swing1Motion": "EAngularConstraintMotion::ACM_Limited",
+            "Swing2Motion": "EAngularConstraintMotion::ACM_Limited"
+          },
+          "TwistLimit": {
+            "TwistMotion": "EAngularConstraintMotion::ACM_Limited"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_1",
+    "Outer": "PA_HeadEquip027_Physics",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "HeadEquip027_hat02_01_r",
+        "ConstraintBone1": "HeadEquip027_hat02_01_r",
+        "ConstraintBone2": "head",
+        "Pos2": {
+          "X": 8.376922,
+          "Y": -0.0144698825,
+          "Z": 15.023739
+        },
+        "PriAxis2": {
+          "X": -0.16417521,
+          "Y": 0.022197396,
+          "Z": 0.98618144
+        },
+        "SecAxis2": {
+          "X": -0.9861622,
+          "Y": -0.027040398,
+          "Z": -0.16356337
+        },
+        "ProfileInstance": {
+          "ConeLimit": {
+            "Swing1Motion": "EAngularConstraintMotion::ACM_Limited",
+            "Swing2Motion": "EAngularConstraintMotion::ACM_Limited"
+          },
+          "TwistLimit": {
+            "TwistMotion": "EAngularConstraintMotion::ACM_Limited"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_2",
+    "Outer": "PA_HeadEquip027_Physics",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "HeadEquip027_hat02_01_l",
+        "ConstraintBone1": "HeadEquip027_hat02_01_l",
+        "ConstraintBone2": "head",
+        "Pos2": {
+          "X": 8.3772955,
+          "Y": -0.014463642,
+          "Z": -15.023802
+        },
+        "PriAxis2": {
+          "X": -0.1642394,
+          "Y": 0.02219564,
+          "Z": -0.98617077
+        },
+        "SecAxis2": {
+          "X": -0.98624164,
+          "Y": -0.022732913,
+          "Z": 0.16373956
+        },
+        "ProfileInstance": {
+          "ConeLimit": {
+            "Swing1Motion": "EAngularConstraintMotion::ACM_Limited",
+            "Swing2Motion": "EAngularConstraintMotion::ACM_Limited"
+          },
+          "TwistLimit": {
+            "TwistMotion": "EAngularConstraintMotion::ACM_Limited"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_0",
+    "Outer": "PA_HeadEquip027_Physics",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphylElems": [
+          {
+            "Center": {
+              "X": -0.6501038,
+              "Y": 0.47084486,
+              "Z": -0.030973628
+            },
+            "Rotation": {
+              "Pitch": 6.3611094E-15,
+              "Yaw": 51.726192,
+              "Roll": -89.78265
+            },
+            "Radius": 21.971771,
+            "Length": 24.363974,
+            "RestOffset": 0.0,
+            "Name": "None",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "head",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "B76C352D4610E99CCC0298AC244127A5"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_1",
+    "Outer": "PA_HeadEquip027_Physics",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphylElems": [
+          {
+            "Center": {
+              "X": 8.62682,
+              "Y": 0.7138653,
+              "Z": 0.0374172
+            },
+            "Rotation": {
+              "Pitch": 0.2525669,
+              "Yaw": -90.0,
+              "Roll": -1.8609173
+            },
+            "Radius": 7.6819887,
+            "Length": 21.725441,
+            "RestOffset": 0.0,
+            "Name": "None",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "HeadEquip027_hat01_01",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "3526BD6E48D34378900E4D8B10320043"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_2",
+    "Outer": "PA_HeadEquip027_Physics",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphylElems": [
+          {
+            "Center": {
+              "X": 9.266834,
+              "Y": 0.63431585,
+              "Z": 1.2972506
+            },
+            "Rotation": {
+              "Pitch": 11.22039,
+              "Yaw": -90.0,
+              "Roll": -5.6479216
+            },
+            "Radius": 6.1031647,
+            "Length": 19.493366,
+            "RestOffset": 0.0,
+            "Name": "None",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "HeadEquip027_hat02_01_r",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "BA33058D4162EC9D06B77BB5D0DAE35B"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_3",
+    "Outer": "PA_HeadEquip027_Physics",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphylElems": [
+          {
+            "Center": {
+              "X": 9.175485,
+              "Y": 0.6531574,
+              "Z": -1.2958702
+            },
+            "Rotation": {
+              "Pitch": -11.185782,
+              "Yaw": -90.0,
+              "Roll": 6.502952
+            },
+            "Radius": 6.2383347,
+            "Length": 19.489328,
+            "RestOffset": 0.0,
+            "Name": "None",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "HeadEquip027_hat02_01_l",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "C6FF785B40473EF0A9683CB1232652B7"
+  }
+]

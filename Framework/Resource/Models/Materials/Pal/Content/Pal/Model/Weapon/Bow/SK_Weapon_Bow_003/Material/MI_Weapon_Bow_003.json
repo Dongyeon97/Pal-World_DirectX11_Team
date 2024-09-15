@@ -1,0 +1,43 @@
+{
+  "Textures": {
+    "PM_Diffuse": "Pal/Content/Pal/Model/Weapon/Bow/SK_Weapon_Bow_003/Texture/T_Weapon_Bow_003_B.T_Weapon_Bow_003_B",
+    "Albedo": "Pal/Content/Pal/Model/Weapon/Bow/SK_Weapon_Bow_003/Texture/T_Weapon_Bow_003_B.T_Weapon_Bow_003_B",
+    "Metal(R)Rough(A)": "Pal/Content/Pal/Model/Weapon/Bow/SK_Weapon_Bow_003/Texture/T_Weapon_Bow_003_M.T_Weapon_Bow_003_M",
+    "T_Weapon_Bow_003_M": "Pal/Content/Pal/Model/Weapon/Bow/SK_Weapon_Bow_003/Texture/T_Weapon_Bow_003_M.T_Weapon_Bow_003_M",
+    "PM_Normals": "Pal/Content/Pal/Model/Weapon/Bow/SK_Weapon_Bow_003/Texture/T_Weapon_Bow_003_N.T_Weapon_Bow_003_N",
+    "Normal": "Pal/Content/Pal/Model/Weapon/Bow/SK_Weapon_Bow_003/Texture/T_Weapon_Bow_003_N.T_Weapon_Bow_003_N",
+    "PM_Emissive": "Pal/Content/Pal/Model/Weapon/Bow/SK_Weapon_Bow_003/Texture/T_Weapon_Bow_003_E.T_Weapon_Bow_003_E",
+    "Emission mask": "Pal/Content/Pal/Model/Weapon/Bow/SK_Weapon_Bow_003/Texture/T_Weapon_Bow_003_E.T_Weapon_Bow_003_E"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Emission colour": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 0.0,
+        "Hex": "000000"
+      }
+    },
+    "Scalars": {
+      "Gloss/Rough strength": 1.0,
+      "Emission strength": 18.01849,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      }
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

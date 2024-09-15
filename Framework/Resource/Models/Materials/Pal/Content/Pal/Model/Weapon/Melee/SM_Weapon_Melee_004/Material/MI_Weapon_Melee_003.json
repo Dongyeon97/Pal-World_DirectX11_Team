@@ -1,0 +1,34 @@
+{
+  "Textures": {
+    "Base Texture": "Pal/Content/Pal/Model/Stage/b00/Lordenfel/Textures/T_pal_b00_Lordenfel_Torch_01_BC.T_pal_b00_Lordenfel_Torch_01_BC",
+    "T_pal_b00_Lordenfel_Torch_01_BC": "Pal/Content/Pal/Model/Stage/b00/Lordenfel/Textures/T_pal_b00_Lordenfel_Torch_01_BC.T_pal_b00_Lordenfel_Torch_01_BC",
+    "PM_Normals": "Pal/Content/Pal/Model/Stage/b00/Lordenfel/Textures/T_pal_b00_Lordenfel_Torch_01_N.T_pal_b00_Lordenfel_Torch_01_N",
+    "Normal Map": "Pal/Content/Pal/Model/Stage/b00/Lordenfel/Textures/T_pal_b00_Lordenfel_Torch_01_N.T_pal_b00_Lordenfel_Torch_01_N"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 4,
+    "Colors": {},
+    "Scalars": {
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_ClearCoat",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "SubsurfaceProfile": {
+        "ObjectName": "SubsurfaceProfile'SP_CharacterBodyBase'",
+        "ObjectPath": "Pal/Content/Pal/Material/Character/Common/SP_CharacterBodyBase.0"
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

@@ -1,0 +1,18 @@
+[
+	{
+		"AttachBoneName" : "",
+		"Duration" : 0.56666666269302368,
+		"EndTime" : 0.56666666269302368,
+		"OffsetDataArray" : 
+		[
+			{
+				"SphereRadius" : 90.0,
+				"vRelativeLocationX" : 0.0,
+				"vRelativeLocationY" : 120.0,
+				"vRelativeLocationZ" : 100.0
+			}
+		],
+		"StartTime" : 0.0,
+		"Type" : "Collision"
+	}
+]

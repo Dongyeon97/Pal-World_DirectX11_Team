@@ -1,0 +1,3769 @@
+[
+  {
+    "Type": "PhysicsAsset",
+    "Name": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsAsset'",
+    "Properties": {
+      "BoundsBodies": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49
+      ],
+      "SkeletalBodySetups": [
+        {
+          "ObjectName": "SkeletalBodySetup'PA_FlowerDoll_PhysicsAsset:SkeletalBodySetup_211'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.50"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'PA_FlowerDoll_PhysicsAsset:SkeletalBodySetup_222'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.51"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'PA_FlowerDoll_PhysicsAsset:SkeletalBodySetup_223'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.52"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'PA_FlowerDoll_PhysicsAsset:SkeletalBodySetup_224'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.53"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'PA_FlowerDoll_PhysicsAsset:SkeletalBodySetup_225'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.54"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'PA_FlowerDoll_PhysicsAsset:SkeletalBodySetup_227'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.55"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'PA_FlowerDoll_PhysicsAsset:SkeletalBodySetup_228'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.56"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'PA_FlowerDoll_PhysicsAsset:SkeletalBodySetup_229'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.57"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'PA_FlowerDoll_PhysicsAsset:SkeletalBodySetup_230'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.58"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'PA_FlowerDoll_PhysicsAsset:SkeletalBodySetup_232'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.59"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'PA_FlowerDoll_PhysicsAsset:SkeletalBodySetup_233'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.60"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'PA_FlowerDoll_PhysicsAsset:SkeletalBodySetup_234'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.61"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'PA_FlowerDoll_PhysicsAsset:SkeletalBodySetup_235'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.62"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'PA_FlowerDoll_PhysicsAsset:SkeletalBodySetup_237'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.63"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'PA_FlowerDoll_PhysicsAsset:SkeletalBodySetup_238'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.64"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'PA_FlowerDoll_PhysicsAsset:SkeletalBodySetup_239'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.65"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'PA_FlowerDoll_PhysicsAsset:SkeletalBodySetup_240'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.66"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'PA_FlowerDoll_PhysicsAsset:SkeletalBodySetup_242'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.67"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'PA_FlowerDoll_PhysicsAsset:SkeletalBodySetup_243'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.68"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'PA_FlowerDoll_PhysicsAsset:SkeletalBodySetup_244'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.69"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'PA_FlowerDoll_PhysicsAsset:SkeletalBodySetup_245'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.70"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'PA_FlowerDoll_PhysicsAsset:SkeletalBodySetup_247'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.71"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'PA_FlowerDoll_PhysicsAsset:SkeletalBodySetup_248'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.72"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'PA_FlowerDoll_PhysicsAsset:SkeletalBodySetup_249'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.73"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'PA_FlowerDoll_PhysicsAsset:SkeletalBodySetup_250'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.74"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'PA_FlowerDoll_PhysicsAsset:SkeletalBodySetup_251'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.75"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'PA_FlowerDoll_PhysicsAsset:SkeletalBodySetup_252'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.76"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'PA_FlowerDoll_PhysicsAsset:SkeletalBodySetup_254'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.77"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'PA_FlowerDoll_PhysicsAsset:SkeletalBodySetup_255'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.78"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'PA_FlowerDoll_PhysicsAsset:SkeletalBodySetup_256'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.79"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'PA_FlowerDoll_PhysicsAsset:SkeletalBodySetup_257'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.80"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'PA_FlowerDoll_PhysicsAsset:SkeletalBodySetup_258'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.81"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'PA_FlowerDoll_PhysicsAsset:SkeletalBodySetup_259'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.82"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'PA_FlowerDoll_PhysicsAsset:SkeletalBodySetup_260'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.83"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'PA_FlowerDoll_PhysicsAsset:SkeletalBodySetup_261'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.84"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'PA_FlowerDoll_PhysicsAsset:SkeletalBodySetup_262'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.85"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'PA_FlowerDoll_PhysicsAsset:SkeletalBodySetup_263'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.86"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'PA_FlowerDoll_PhysicsAsset:SkeletalBodySetup_264'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.87"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'PA_FlowerDoll_PhysicsAsset:SkeletalBodySetup_265'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.88"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'PA_FlowerDoll_PhysicsAsset:SkeletalBodySetup_266'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.89"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'PA_FlowerDoll_PhysicsAsset:SkeletalBodySetup_267'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.90"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'PA_FlowerDoll_PhysicsAsset:SkeletalBodySetup_268'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.91"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'PA_FlowerDoll_PhysicsAsset:SkeletalBodySetup_269'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.92"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'PA_FlowerDoll_PhysicsAsset:SkeletalBodySetup_278'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.93"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'PA_FlowerDoll_PhysicsAsset:SkeletalBodySetup_280'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.94"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'PA_FlowerDoll_PhysicsAsset:SkeletalBodySetup_281'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.95"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'PA_FlowerDoll_PhysicsAsset:SkeletalBodySetup_282'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.96"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'PA_FlowerDoll_PhysicsAsset:SkeletalBodySetup_283'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.97"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'PA_FlowerDoll_PhysicsAsset:SkeletalBodySetup_284'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.98"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'PA_FlowerDoll_PhysicsAsset:SkeletalBodySetup_285'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.99"
+        }
+      ],
+      "ConstraintSetup": [
+        {
+          "ObjectName": "PhysicsConstraintTemplate'PA_FlowerDoll_PhysicsAsset:PhysicsConstraintTemplate_217'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.1"
+        },
+        {
+          "ObjectName": "PhysicsConstraintTemplate'PA_FlowerDoll_PhysicsAsset:PhysicsConstraintTemplate_218'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.2"
+        },
+        {
+          "ObjectName": "PhysicsConstraintTemplate'PA_FlowerDoll_PhysicsAsset:PhysicsConstraintTemplate_219'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.3"
+        },
+        {
+          "ObjectName": "PhysicsConstraintTemplate'PA_FlowerDoll_PhysicsAsset:PhysicsConstraintTemplate_220'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.4"
+        },
+        {
+          "ObjectName": "PhysicsConstraintTemplate'PA_FlowerDoll_PhysicsAsset:PhysicsConstraintTemplate_222'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.5"
+        },
+        {
+          "ObjectName": "PhysicsConstraintTemplate'PA_FlowerDoll_PhysicsAsset:PhysicsConstraintTemplate_223'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.6"
+        },
+        {
+          "ObjectName": "PhysicsConstraintTemplate'PA_FlowerDoll_PhysicsAsset:PhysicsConstraintTemplate_224'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.7"
+        },
+        {
+          "ObjectName": "PhysicsConstraintTemplate'PA_FlowerDoll_PhysicsAsset:PhysicsConstraintTemplate_225'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.8"
+        },
+        {
+          "ObjectName": "PhysicsConstraintTemplate'PA_FlowerDoll_PhysicsAsset:PhysicsConstraintTemplate_227'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.9"
+        },
+        {
+          "ObjectName": "PhysicsConstraintTemplate'PA_FlowerDoll_PhysicsAsset:PhysicsConstraintTemplate_228'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.10"
+        },
+        {
+          "ObjectName": "PhysicsConstraintTemplate'PA_FlowerDoll_PhysicsAsset:PhysicsConstraintTemplate_229'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.11"
+        },
+        {
+          "ObjectName": "PhysicsConstraintTemplate'PA_FlowerDoll_PhysicsAsset:PhysicsConstraintTemplate_230'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.12"
+        },
+        {
+          "ObjectName": "PhysicsConstraintTemplate'PA_FlowerDoll_PhysicsAsset:PhysicsConstraintTemplate_232'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.13"
+        },
+        {
+          "ObjectName": "PhysicsConstraintTemplate'PA_FlowerDoll_PhysicsAsset:PhysicsConstraintTemplate_233'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.14"
+        },
+        {
+          "ObjectName": "PhysicsConstraintTemplate'PA_FlowerDoll_PhysicsAsset:PhysicsConstraintTemplate_234'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.15"
+        },
+        {
+          "ObjectName": "PhysicsConstraintTemplate'PA_FlowerDoll_PhysicsAsset:PhysicsConstraintTemplate_235'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.16"
+        },
+        {
+          "ObjectName": "PhysicsConstraintTemplate'PA_FlowerDoll_PhysicsAsset:PhysicsConstraintTemplate_237'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.17"
+        },
+        {
+          "ObjectName": "PhysicsConstraintTemplate'PA_FlowerDoll_PhysicsAsset:PhysicsConstraintTemplate_238'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.18"
+        },
+        {
+          "ObjectName": "PhysicsConstraintTemplate'PA_FlowerDoll_PhysicsAsset:PhysicsConstraintTemplate_239'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.19"
+        },
+        {
+          "ObjectName": "PhysicsConstraintTemplate'PA_FlowerDoll_PhysicsAsset:PhysicsConstraintTemplate_240'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.20"
+        },
+        {
+          "ObjectName": "PhysicsConstraintTemplate'PA_FlowerDoll_PhysicsAsset:PhysicsConstraintTemplate_242'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.21"
+        },
+        {
+          "ObjectName": "PhysicsConstraintTemplate'PA_FlowerDoll_PhysicsAsset:PhysicsConstraintTemplate_243'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.22"
+        },
+        {
+          "ObjectName": "PhysicsConstraintTemplate'PA_FlowerDoll_PhysicsAsset:PhysicsConstraintTemplate_244'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.23"
+        },
+        {
+          "ObjectName": "PhysicsConstraintTemplate'PA_FlowerDoll_PhysicsAsset:PhysicsConstraintTemplate_245'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.24"
+        },
+        {
+          "ObjectName": "PhysicsConstraintTemplate'PA_FlowerDoll_PhysicsAsset:PhysicsConstraintTemplate_246'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.25"
+        },
+        {
+          "ObjectName": "PhysicsConstraintTemplate'PA_FlowerDoll_PhysicsAsset:PhysicsConstraintTemplate_247'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.26"
+        },
+        {
+          "ObjectName": "PhysicsConstraintTemplate'PA_FlowerDoll_PhysicsAsset:PhysicsConstraintTemplate_249'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.27"
+        },
+        {
+          "ObjectName": "PhysicsConstraintTemplate'PA_FlowerDoll_PhysicsAsset:PhysicsConstraintTemplate_250'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.28"
+        },
+        {
+          "ObjectName": "PhysicsConstraintTemplate'PA_FlowerDoll_PhysicsAsset:PhysicsConstraintTemplate_251'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.29"
+        },
+        {
+          "ObjectName": "PhysicsConstraintTemplate'PA_FlowerDoll_PhysicsAsset:PhysicsConstraintTemplate_252'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.30"
+        },
+        {
+          "ObjectName": "PhysicsConstraintTemplate'PA_FlowerDoll_PhysicsAsset:PhysicsConstraintTemplate_253'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.31"
+        },
+        {
+          "ObjectName": "PhysicsConstraintTemplate'PA_FlowerDoll_PhysicsAsset:PhysicsConstraintTemplate_254'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.32"
+        },
+        {
+          "ObjectName": "PhysicsConstraintTemplate'PA_FlowerDoll_PhysicsAsset:PhysicsConstraintTemplate_255'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.33"
+        },
+        {
+          "ObjectName": "PhysicsConstraintTemplate'PA_FlowerDoll_PhysicsAsset:PhysicsConstraintTemplate_256'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.34"
+        },
+        {
+          "ObjectName": "PhysicsConstraintTemplate'PA_FlowerDoll_PhysicsAsset:PhysicsConstraintTemplate_257'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.35"
+        },
+        {
+          "ObjectName": "PhysicsConstraintTemplate'PA_FlowerDoll_PhysicsAsset:PhysicsConstraintTemplate_258'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.36"
+        },
+        {
+          "ObjectName": "PhysicsConstraintTemplate'PA_FlowerDoll_PhysicsAsset:PhysicsConstraintTemplate_259'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.37"
+        },
+        {
+          "ObjectName": "PhysicsConstraintTemplate'PA_FlowerDoll_PhysicsAsset:PhysicsConstraintTemplate_260'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.38"
+        },
+        {
+          "ObjectName": "PhysicsConstraintTemplate'PA_FlowerDoll_PhysicsAsset:PhysicsConstraintTemplate_261'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.39"
+        },
+        {
+          "ObjectName": "PhysicsConstraintTemplate'PA_FlowerDoll_PhysicsAsset:PhysicsConstraintTemplate_262'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.40"
+        },
+        {
+          "ObjectName": "PhysicsConstraintTemplate'PA_FlowerDoll_PhysicsAsset:PhysicsConstraintTemplate_263'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.41"
+        },
+        {
+          "ObjectName": "PhysicsConstraintTemplate'PA_FlowerDoll_PhysicsAsset:PhysicsConstraintTemplate_264'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.42"
+        },
+        {
+          "ObjectName": "PhysicsConstraintTemplate'PA_FlowerDoll_PhysicsAsset:PhysicsConstraintTemplate_276'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.43"
+        },
+        {
+          "ObjectName": "PhysicsConstraintTemplate'PA_FlowerDoll_PhysicsAsset:PhysicsConstraintTemplate_277'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.44"
+        },
+        {
+          "ObjectName": "PhysicsConstraintTemplate'PA_FlowerDoll_PhysicsAsset:PhysicsConstraintTemplate_278'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.45"
+        },
+        {
+          "ObjectName": "PhysicsConstraintTemplate'PA_FlowerDoll_PhysicsAsset:PhysicsConstraintTemplate_279'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.46"
+        },
+        {
+          "ObjectName": "PhysicsConstraintTemplate'PA_FlowerDoll_PhysicsAsset:PhysicsConstraintTemplate_280'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.47"
+        },
+        {
+          "ObjectName": "PhysicsConstraintTemplate'PA_FlowerDoll_PhysicsAsset:PhysicsConstraintTemplate_281'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.48"
+        },
+        {
+          "ObjectName": "PhysicsConstraintTemplate'PA_FlowerDoll_PhysicsAsset:PhysicsConstraintTemplate_282'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Monster/FlowerDoll/PA_FlowerDoll_PhysicsAsset.49"
+        }
+      ],
+      "ThumbnailInfo": null
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_217",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "skirt_01_01_l",
+        "ConstraintBone1": "skirt_01_01_l",
+        "ConstraintBone2": "pelvis",
+        "Pos2": {
+          "X": -5.0,
+          "Y": -7.5,
+          "Z": -23.0
+        },
+        "PriAxis2": {
+          "X": -0.49101233,
+          "Y": -0.41376567,
+          "Z": -0.7666191
+        },
+        "SecAxis2": {
+          "X": -0.87037224,
+          "Y": 0.1957637,
+          "Z": 0.4518061
+        },
+        "ProfileInstance": {
+          "ConeLimit": {
+            "Swing1LimitDegrees": 15.0,
+            "Swing2LimitDegrees": 0.0,
+            "Swing1Motion": "EAngularConstraintMotion::ACM_Limited",
+            "Swing2Motion": "EAngularConstraintMotion::ACM_Limited"
+          },
+          "TwistLimit": {
+            "TwistLimitDegrees": 0.0,
+            "TwistMotion": "EAngularConstraintMotion::ACM_Limited"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_218",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "skirt_01_02_l",
+        "ConstraintBone1": "skirt_01_02_l",
+        "ConstraintBone2": "skirt_01_01_l",
+        "Pos2": {
+          "X": 30.0,
+          "Y": 7.1054274E-14,
+          "Z": 2.9309888E-14
+        },
+        "PriAxis2": {
+          "X": 0.9308466,
+          "Y": 0.36541033,
+          "Z": 1.3877788E-17
+        },
+        "SecAxis2": {
+          "X": -0.36541033,
+          "Y": 0.9308466,
+          "Z": -2.7755574E-17
+        },
+        "ProfileInstance": {
+          "ConeLimit": {
+            "Swing1LimitDegrees": 15.0,
+            "Swing2LimitDegrees": 0.0,
+            "Swing1Motion": "EAngularConstraintMotion::ACM_Limited",
+            "Swing2Motion": "EAngularConstraintMotion::ACM_Limited"
+          },
+          "TwistLimit": {
+            "TwistLimitDegrees": 0.0,
+            "TwistMotion": "EAngularConstraintMotion::ACM_Limited"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_219",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "skirt_01_03_l",
+        "ConstraintBone1": "skirt_01_03_l",
+        "ConstraintBone2": "skirt_01_02_l",
+        "Pos2": {
+          "X": 30.0,
+          "Y": -2.842171E-14,
+          "Z": 1.3322676E-14
+        },
+        "PriAxis2": {
+          "X": 0.9999289,
+          "Y": 0.011924444,
+          "Z": 6.9388935E-18
+        },
+        "SecAxis2": {
+          "X": -0.011924444,
+          "Y": 0.9999289,
+          "Z": 3.469447E-17
+        },
+        "ProfileInstance": {
+          "ConeLimit": {
+            "Swing1LimitDegrees": 15.0,
+            "Swing2LimitDegrees": 0.0,
+            "Swing1Motion": "EAngularConstraintMotion::ACM_Limited",
+            "Swing2Motion": "EAngularConstraintMotion::ACM_Limited"
+          },
+          "TwistLimit": {
+            "TwistLimitDegrees": 0.0,
+            "TwistMotion": "EAngularConstraintMotion::ACM_Limited"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_220",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "skirt_01_04_l",
+        "ConstraintBone1": "skirt_01_04_l",
+        "ConstraintBone2": "skirt_01_03_l",
+        "Pos2": {
+          "X": 30.0,
+          "Y": 4.2632564E-14,
+          "Z": 4.685141E-14
+        },
+        "PriAxis2": {
+          "X": 0.63001996,
+          "Y": -0.77657896,
+          "Z": 9.9827915E-17
+        },
+        "SecAxis2": {
+          "X": 0.77657896,
+          "Y": 0.63001996,
+          "Z": 6.2450045E-17
+        },
+        "ProfileInstance": {
+          "ConeLimit": {
+            "Swing1LimitDegrees": 15.0,
+            "Swing2LimitDegrees": 0.0,
+            "Swing1Motion": "EAngularConstraintMotion::ACM_Limited",
+            "Swing2Motion": "EAngularConstraintMotion::ACM_Limited"
+          },
+          "TwistLimit": {
+            "TwistLimitDegrees": 0.0,
+            "TwistMotion": "EAngularConstraintMotion::ACM_Limited"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_222",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "skirt_01_01_r",
+        "ConstraintBone1": "skirt_01_01_r",
+        "ConstraintBone2": "pelvis",
+        "Pos2": {
+          "X": -5.0,
+          "Y": -7.5,
+          "Z": 23.0
+        },
+        "PriAxis2": {
+          "X": 0.4910125,
+          "Y": 0.41376573,
+          "Z": -0.76661897
+        },
+        "SecAxis2": {
+          "X": 0.8703721,
+          "Y": -0.19576375,
+          "Z": 0.45180628
+        },
+        "ProfileInstance": {
+          "ConeLimit": {
+            "Swing1LimitDegrees": 15.0,
+            "Swing2LimitDegrees": 0.0,
+            "Swing1Motion": "EAngularConstraintMotion::ACM_Limited",
+            "Swing2Motion": "EAngularConstraintMotion::ACM_Limited"
+          },
+          "TwistLimit": {
+            "TwistLimitDegrees": 0.0,
+            "TwistMotion": "EAngularConstraintMotion::ACM_Limited"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_223",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "skirt_01_02_r",
+        "ConstraintBone1": "skirt_01_02_r",
+        "ConstraintBone2": "skirt_01_01_r",
+        "Pos2": {
+          "X": -30.0,
+          "Y": -1.4210855E-14,
+          "Z": -8.881784E-16
+        },
+        "PriAxis2": {
+          "X": 0.9308466,
+          "Y": 0.36541033,
+          "Z": -4.1633363E-17
+        },
+        "SecAxis2": {
+          "X": -0.36541033,
+          "Y": 0.9308466,
+          "Z": 7.632783E-17
+        },
+        "ProfileInstance": {
+          "ConeLimit": {
+            "Swing1LimitDegrees": 15.0,
+            "Swing2LimitDegrees": 0.0,
+            "Swing1Motion": "EAngularConstraintMotion::ACM_Limited",
+            "Swing2Motion": "EAngularConstraintMotion::ACM_Limited"
+          },
+          "TwistLimit": {
+            "TwistLimitDegrees": 0.0,
+            "TwistMotion": "EAngularConstraintMotion::ACM_Limited"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_224",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "skirt_01_03_r",
+        "ConstraintBone1": "skirt_01_03_r",
+        "ConstraintBone2": "skirt_01_02_r",
+        "Pos2": {
+          "X": -30.0,
+          "Y": 0.0,
+          "Z": -3.1086245E-15
+        },
+        "PriAxis2": {
+          "X": 0.9999289,
+          "Y": 0.011924444,
+          "Z": -7.632783E-17
+        },
+        "SecAxis2": {
+          "X": -0.011924444,
+          "Y": 0.9999289,
+          "Z": -3.724309E-26
+        },
+        "ProfileInstance": {
+          "ConeLimit": {
+            "Swing1LimitDegrees": 15.0,
+            "Swing2LimitDegrees": 0.0,
+            "Swing1Motion": "EAngularConstraintMotion::ACM_Limited",
+            "Swing2Motion": "EAngularConstraintMotion::ACM_Limited"
+          },
+          "TwistLimit": {
+            "TwistLimitDegrees": 0.0,
+            "TwistMotion": "EAngularConstraintMotion::ACM_Limited"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_225",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "skirt_01_04_r",
+        "ConstraintBone1": "skirt_01_04_r",
+        "ConstraintBone2": "skirt_01_03_r",
+        "Pos2": {
+          "X": -30.0,
+          "Y": 1.4210855E-14,
+          "Z": -4.8849813E-15
+        },
+        "PriAxis2": {
+          "X": 0.63001996,
+          "Y": -0.77657896,
+          "Z": 2.713216E-17
+        },
+        "SecAxis2": {
+          "X": 0.77657896,
+          "Y": 0.63001996,
+          "Z": 2.0816682E-17
+        },
+        "ProfileInstance": {
+          "ConeLimit": {
+            "Swing1LimitDegrees": 15.0,
+            "Swing2LimitDegrees": 0.0,
+            "Swing1Motion": "EAngularConstraintMotion::ACM_Limited",
+            "Swing2Motion": "EAngularConstraintMotion::ACM_Limited"
+          },
+          "TwistLimit": {
+            "TwistLimitDegrees": 0.0,
+            "TwistMotion": "EAngularConstraintMotion::ACM_Limited"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_227",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "skirt_02_01_l",
+        "ConstraintBone1": "skirt_02_01_l",
+        "ConstraintBone2": "pelvis",
+        "Pos2": {
+          "X": -5.0,
+          "Y": -17.7,
+          "Z": -12.5
+        },
+        "PriAxis2": {
+          "X": -0.4474156,
+          "Y": -0.7239493,
+          "Z": -0.52508736
+        },
+        "SecAxis2": {
+          "X": -0.8931188,
+          "Y": 0.33119214,
+          "Z": 0.30438548
+        },
+        "ProfileInstance": {
+          "ConeLimit": {
+            "Swing1LimitDegrees": 15.0,
+            "Swing2LimitDegrees": 0.0,
+            "Swing1Motion": "EAngularConstraintMotion::ACM_Limited",
+            "Swing2Motion": "EAngularConstraintMotion::ACM_Limited"
+          },
+          "TwistLimit": {
+            "TwistLimitDegrees": 0.0,
+            "TwistMotion": "EAngularConstraintMotion::ACM_Limited"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_228",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "skirt_02_02_l",
+        "ConstraintBone1": "skirt_02_02_l",
+        "ConstraintBone2": "skirt_02_01_l",
+        "Pos2": {
+          "X": 30.0,
+          "Y": -2.842171E-14,
+          "Z": 2.3980817E-14
+        },
+        "PriAxis2": {
+          "X": 0.95332843,
+          "Y": 0.30193517,
+          "Z": -1.1372448E-24
+        },
+        "SecAxis2": {
+          "X": -0.30193517,
+          "Y": 0.95332843,
+          "Z": 1.1796118E-16
+        },
+        "ProfileInstance": {
+          "ConeLimit": {
+            "Swing1LimitDegrees": 15.0,
+            "Swing2LimitDegrees": 0.0,
+            "Swing1Motion": "EAngularConstraintMotion::ACM_Limited",
+            "Swing2Motion": "EAngularConstraintMotion::ACM_Limited"
+          },
+          "TwistLimit": {
+            "TwistLimitDegrees": 0.0,
+            "TwistMotion": "EAngularConstraintMotion::ACM_Limited"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_229",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "skirt_02_03_l",
+        "ConstraintBone1": "skirt_02_03_l",
+        "ConstraintBone2": "skirt_02_02_l",
+        "Pos2": {
+          "X": 30.0,
+          "Y": 1.1368684E-13,
+          "Z": -6.128431E-14
+        },
+        "PriAxis2": {
+          "X": 0.997102,
+          "Y": 0.07607613,
+          "Z": 1.3877787E-17
+        },
+        "SecAxis2": {
+          "X": -0.07607613,
+          "Y": 0.997102,
+          "Z": 2.7755574E-17
+        },
+        "ProfileInstance": {
+          "ConeLimit": {
+            "Swing1LimitDegrees": 15.0,
+            "Swing2LimitDegrees": 0.0,
+            "Swing1Motion": "EAngularConstraintMotion::ACM_Limited",
+            "Swing2Motion": "EAngularConstraintMotion::ACM_Limited"
+          },
+          "TwistLimit": {
+            "TwistLimitDegrees": 0.0,
+            "TwistMotion": "EAngularConstraintMotion::ACM_Limited"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_230",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "skirt_02_04_l",
+        "ConstraintBone1": "skirt_02_04_l",
+        "ConstraintBone2": "skirt_02_03_l",
+        "Pos2": {
+          "X": 30.0,
+          "Y": -1.1368684E-13,
+          "Z": -1.5099033E-14
+        },
+        "PriAxis2": {
+          "X": 0.8979192,
+          "Y": -0.44016036,
+          "Z": -6.591949E-17
+        },
+        "SecAxis2": {
+          "X": 0.44016036,
+          "Y": 0.8979192,
+          "Z": -1.3877787E-17
+        },
+        "ProfileInstance": {
+          "ConeLimit": {
+            "Swing1LimitDegrees": 15.0,
+            "Swing2LimitDegrees": 0.0,
+            "Swing1Motion": "EAngularConstraintMotion::ACM_Limited",
+            "Swing2Motion": "EAngularConstraintMotion::ACM_Limited"
+          },
+          "TwistLimit": {
+            "TwistLimitDegrees": 0.0,
+            "TwistMotion": "EAngularConstraintMotion::ACM_Limited"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_232",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "skirt_02_01_r",
+        "ConstraintBone1": "skirt_02_01_r",
+        "ConstraintBone2": "pelvis",
+        "Pos2": {
+          "X": -5.0,
+          "Y": -17.7,
+          "Z": 12.5
+        },
+        "PriAxis2": {
+          "X": 0.4474157,
+          "Y": 0.7239493,
+          "Z": -0.52508724
+        },
+        "SecAxis2": {
+          "X": 0.89311874,
+          "Y": -0.33119214,
+          "Z": 0.3043857
+        },
+        "ProfileInstance": {
+          "ConeLimit": {
+            "Swing1LimitDegrees": 15.0,
+            "Swing2LimitDegrees": 0.0,
+            "Swing1Motion": "EAngularConstraintMotion::ACM_Limited",
+            "Swing2Motion": "EAngularConstraintMotion::ACM_Limited"
+          },
+          "TwistLimit": {
+            "TwistLimitDegrees": 0.0,
+            "TwistMotion": "EAngularConstraintMotion::ACM_Limited"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_233",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "skirt_02_02_r",
+        "ConstraintBone1": "skirt_02_02_r",
+        "ConstraintBone2": "skirt_02_01_r",
+        "Pos2": {
+          "X": -30.0,
+          "Y": 0.0,
+          "Z": -5.3290705E-15
+        },
+        "PriAxis2": {
+          "X": 0.95332843,
+          "Y": 0.30193517,
+          "Z": 1.4571677E-16
+        },
+        "SecAxis2": {
+          "X": -0.30193517,
+          "Y": 0.95332843,
+          "Z": -3.469447E-17
+        },
+        "ProfileInstance": {
+          "ConeLimit": {
+            "Swing1LimitDegrees": 15.0,
+            "Swing2LimitDegrees": 0.0,
+            "Swing1Motion": "EAngularConstraintMotion::ACM_Limited",
+            "Swing2Motion": "EAngularConstraintMotion::ACM_Limited"
+          },
+          "TwistLimit": {
+            "TwistLimitDegrees": 0.0,
+            "TwistMotion": "EAngularConstraintMotion::ACM_Limited"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_234",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "skirt_02_03_r",
+        "ConstraintBone1": "skirt_02_03_r",
+        "ConstraintBone2": "skirt_02_02_r",
+        "Pos2": {
+          "X": -30.0,
+          "Y": 1.4210855E-14,
+          "Z": 3.5527137E-15
+        },
+        "PriAxis2": {
+          "X": 0.997102,
+          "Y": 0.07607613,
+          "Z": -2.0816682E-17
+        },
+        "SecAxis2": {
+          "X": -0.07607613,
+          "Y": 0.997102,
+          "Z": 1.2490009E-16
+        },
+        "ProfileInstance": {
+          "ConeLimit": {
+            "Swing1LimitDegrees": 15.0,
+            "Swing2LimitDegrees": 0.0,
+            "Swing1Motion": "EAngularConstraintMotion::ACM_Limited",
+            "Swing2Motion": "EAngularConstraintMotion::ACM_Limited"
+          },
+          "TwistLimit": {
+            "TwistLimitDegrees": 0.0,
+            "TwistMotion": "EAngularConstraintMotion::ACM_Limited"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_235",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "skirt_02_04_r",
+        "ConstraintBone1": "skirt_02_04_r",
+        "ConstraintBone2": "skirt_02_03_r",
+        "Pos2": {
+          "X": -30.0,
+          "Y": 1.4210855E-14,
+          "Z": 0.0
+        },
+        "PriAxis2": {
+          "X": 0.8979192,
+          "Y": -0.44016036,
+          "Z": 1.2143063E-16
+        },
+        "SecAxis2": {
+          "X": 0.44016036,
+          "Y": 0.8979192,
+          "Z": 6.9388922E-18
+        },
+        "ProfileInstance": {
+          "ConeLimit": {
+            "Swing1LimitDegrees": 15.0,
+            "Swing2LimitDegrees": 0.0,
+            "Swing1Motion": "EAngularConstraintMotion::ACM_Limited",
+            "Swing2Motion": "EAngularConstraintMotion::ACM_Limited"
+          },
+          "TwistLimit": {
+            "TwistLimitDegrees": 0.0,
+            "TwistMotion": "EAngularConstraintMotion::ACM_Limited"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_237",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "skirt_03_01",
+        "ConstraintBone1": "skirt_03_01",
+        "ConstraintBone2": "pelvis",
+        "Pos2": {
+          "X": -7.0,
+          "Y": -19.8,
+          "Z": -1.6940659E-21
+        },
+        "PriAxis2": {
+          "X": -0.31552216,
+          "Y": -0.9489182,
+          "Z": -9.845991E-24
+        },
+        "SecAxis2": {
+          "X": -0.9489182,
+          "Y": 0.31552216,
+          "Z": -1.2246469E-16
+        },
+        "ProfileInstance": {
+          "ConeLimit": {
+            "Swing1LimitDegrees": 15.0,
+            "Swing2LimitDegrees": 0.0,
+            "Swing1Motion": "EAngularConstraintMotion::ACM_Limited",
+            "Swing2Motion": "EAngularConstraintMotion::ACM_Limited"
+          },
+          "TwistLimit": {
+            "TwistLimitDegrees": 0.0,
+            "TwistMotion": "EAngularConstraintMotion::ACM_Limited"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_238",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "skirt_03_02",
+        "ConstraintBone1": "skirt_03_02",
+        "ConstraintBone2": "skirt_03_01",
+        "Pos2": {
+          "X": 30.0,
+          "Y": -4.2632564E-14,
+          "Z": -7.105428E-14
+        },
+        "PriAxis2": {
+          "X": 0.9060276,
+          "Y": 0.4232186,
+          "Z": 2.646978E-23
+        },
+        "SecAxis2": {
+          "X": -0.4232186,
+          "Y": 0.9060276,
+          "Z": 0.0
+        },
+        "ProfileInstance": {
+          "ConeLimit": {
+            "Swing1LimitDegrees": 15.0,
+            "Swing2LimitDegrees": 0.0,
+            "Swing1Motion": "EAngularConstraintMotion::ACM_Limited",
+            "Swing2Motion": "EAngularConstraintMotion::ACM_Limited"
+          },
+          "TwistLimit": {
+            "TwistLimitDegrees": 0.0,
+            "TwistMotion": "EAngularConstraintMotion::ACM_Limited"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_239",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "skirt_03_03",
+        "ConstraintBone1": "skirt_03_03",
+        "ConstraintBone2": "skirt_03_02",
+        "Pos2": {
+          "X": 30.0,
+          "Y": 0.0,
+          "Z": -1.4210848E-14
+        },
+        "PriAxis2": {
+          "X": 0.969794,
+          "Y": 0.24392556,
+          "Z": -1.323489E-23
+        },
+        "SecAxis2": {
+          "X": -0.24392556,
+          "Y": 0.969794,
+          "Z": -1.323489E-23
+        },
+        "ProfileInstance": {
+          "ConeLimit": {
+            "Swing1LimitDegrees": 15.0,
+            "Swing2LimitDegrees": 0.0,
+            "Swing1Motion": "EAngularConstraintMotion::ACM_Limited",
+            "Swing2Motion": "EAngularConstraintMotion::ACM_Limited"
+          },
+          "TwistLimit": {
+            "TwistLimitDegrees": 0.0,
+            "TwistMotion": "EAngularConstraintMotion::ACM_Limited"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_240",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "skirt_03_04",
+        "ConstraintBone1": "skirt_03_04",
+        "ConstraintBone2": "skirt_03_03",
+        "Pos2": {
+          "X": 30.0,
+          "Y": 1.2789769E-13,
+          "Z": 4.2632564E-14
+        },
+        "PriAxis2": {
+          "X": 0.9178893,
+          "Y": -0.39683652,
+          "Z": -2.6469778E-23
+        },
+        "SecAxis2": {
+          "X": 0.39683652,
+          "Y": 0.9178893,
+          "Z": -2.646978E-23
+        },
+        "ProfileInstance": {
+          "ConeLimit": {
+            "Swing1LimitDegrees": 15.0,
+            "Swing2LimitDegrees": 0.0,
+            "Swing1Motion": "EAngularConstraintMotion::ACM_Limited",
+            "Swing2Motion": "EAngularConstraintMotion::ACM_Limited"
+          },
+          "TwistLimit": {
+            "TwistLimitDegrees": 0.0,
+            "TwistMotion": "EAngularConstraintMotion::ACM_Limited"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_242",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "thigh_l",
+        "ConstraintBone1": "thigh_l",
+        "ConstraintBone2": "pelvis",
+        "Pos2": {
+          "X": -8.040765,
+          "Y": -0.9950698,
+          "Z": -7.6070247
+        },
+        "PriAxis2": {
+          "X": -0.99869484,
+          "Y": 0.05107518,
+          "Z": -1.1915163E-07
+        },
+        "SecAxis2": {
+          "X": -0.05107518,
+          "Y": -0.99869484,
+          "Z": 1.06234164E-16
+        },
+        "ProfileInstance": {
+          "ConeLimit": {
+            "Swing1LimitDegrees": 15.0,
+            "Swing2LimitDegrees": 15.0,
+            "Swing1Motion": "EAngularConstraintMotion::ACM_Limited",
+            "Swing2Motion": "EAngularConstraintMotion::ACM_Limited"
+          },
+          "TwistLimit": {
+            "TwistLimitDegrees": 0.0,
+            "TwistMotion": "EAngularConstraintMotion::ACM_Limited"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_243",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "calf_l",
+        "ConstraintBone1": "calf_l",
+        "ConstraintBone2": "thigh_l",
+        "Pos2": {
+          "X": 45.011776,
+          "Y": 6.661338E-15,
+          "Z": -4.440892E-15
+        },
+        "PriAxis2": {
+          "X": 0.99866474,
+          "Y": 0.051659722,
+          "Z": 1.6922799E-33
+        },
+        "SecAxis2": {
+          "X": -0.051659722,
+          "Y": 0.99866474,
+          "Z": -9.305782E-25
+        },
+        "ProfileInstance": {
+          "ConeLimit": {
+            "Swing2LimitDegrees": 0.0,
+            "Swing1Motion": "EAngularConstraintMotion::ACM_Limited",
+            "Swing2Motion": "EAngularConstraintMotion::ACM_Limited"
+          },
+          "TwistLimit": {
+            "TwistLimitDegrees": 0.0,
+            "TwistMotion": "EAngularConstraintMotion::ACM_Limited"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_244",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "foot_l",
+        "ConstraintBone1": "foot_l",
+        "ConstraintBone2": "calf_l",
+        "Pos2": {
+          "X": 35.742912,
+          "Y": 2.509104E-14,
+          "Z": 1.5099033E-14
+        },
+        "PriAxis2": {
+          "X": 0.53859454,
+          "Y": -0.84256506,
+          "Z": -1.0598252E-24
+        },
+        "SecAxis2": {
+          "X": 0.84256506,
+          "Y": 0.53859454,
+          "Z": 8.788794E-25
+        },
+        "ProfileInstance": {
+          "ConeLimit": {
+            "Swing1LimitDegrees": 20.0,
+            "Swing2LimitDegrees": 20.0,
+            "Swing1Motion": "EAngularConstraintMotion::ACM_Limited",
+            "Swing2Motion": "EAngularConstraintMotion::ACM_Limited"
+          },
+          "TwistLimit": {
+            "TwistLimitDegrees": 5.0,
+            "TwistMotion": "EAngularConstraintMotion::ACM_Limited"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_245",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "thigh_r",
+        "ConstraintBone1": "thigh_r",
+        "ConstraintBone2": "pelvis",
+        "Pos2": {
+          "X": -8.040783,
+          "Y": -0.9950737,
+          "Z": 7.607019
+        },
+        "PriAxis2": {
+          "X": 0.99869484,
+          "Y": -0.05107518,
+          "Z": 1.19151636E-07
+        },
+        "SecAxis2": {
+          "X": 0.05107518,
+          "Y": 0.99869484,
+          "Z": -2.2764736E-08
+        },
+        "ProfileInstance": {
+          "ConeLimit": {
+            "Swing1LimitDegrees": 15.0,
+            "Swing2LimitDegrees": 15.0,
+            "Swing1Motion": "EAngularConstraintMotion::ACM_Limited",
+            "Swing2Motion": "EAngularConstraintMotion::ACM_Limited"
+          },
+          "TwistLimit": {
+            "TwistLimitDegrees": 0.0,
+            "TwistMotion": "EAngularConstraintMotion::ACM_Limited"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_246",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "calf_r",
+        "ConstraintBone1": "calf_r",
+        "ConstraintBone2": "thigh_r",
+        "Pos2": {
+          "X": -45.011776,
+          "Y": 9.250409E-06,
+          "Z": 3.090861E-13
+        },
+        "PriAxis2": {
+          "X": 0.99866474,
+          "Y": 0.051659722,
+          "Z": 7.656839E-17
+        },
+        "SecAxis2": {
+          "X": -0.051659722,
+          "Y": 0.99866474,
+          "Z": -4.4767457E-08
+        },
+        "ProfileInstance": {
+          "ConeLimit": {
+            "Swing2LimitDegrees": 0.0,
+            "Swing1Motion": "EAngularConstraintMotion::ACM_Limited",
+            "Swing2Motion": "EAngularConstraintMotion::ACM_Limited"
+          },
+          "TwistLimit": {
+            "TwistLimitDegrees": 0.0,
+            "TwistMotion": "EAngularConstraintMotion::ACM_Limited"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_247",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "foot_r",
+        "ConstraintBone1": "foot_r",
+        "ConstraintBone2": "calf_r",
+        "Pos2": {
+          "X": -35.7429,
+          "Y": -9.638998E-06,
+          "Z": -6.525182E-08
+        },
+        "PriAxis2": {
+          "X": 0.53859454,
+          "Y": -0.84256506,
+          "Z": -7.6701355E-08
+        },
+        "SecAxis2": {
+          "X": 0.84256506,
+          "Y": 0.53859454,
+          "Z": -1.3624641E-07
+        },
+        "ProfileInstance": {
+          "ConeLimit": {
+            "Swing1LimitDegrees": 20.0,
+            "Swing2LimitDegrees": 20.0,
+            "Swing1Motion": "EAngularConstraintMotion::ACM_Limited",
+            "Swing2Motion": "EAngularConstraintMotion::ACM_Limited"
+          },
+          "TwistLimit": {
+            "TwistLimitDegrees": 5.0,
+            "TwistMotion": "EAngularConstraintMotion::ACM_Limited"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_249",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "spine_03",
+        "ConstraintBone1": "spine_03",
+        "ConstraintBone2": "pelvis",
+        "Pos2": {
+          "X": 17.959421,
+          "Y": -0.9860293,
+          "Z": -3.2177766E-07
+        },
+        "PriAxis2": {
+          "X": 0.99398947,
+          "Y": -0.10947598,
+          "Z": -5.3102593E-08
+        },
+        "SecAxis2": {
+          "X": 0.10947598,
+          "Y": 0.99398947,
+          "Z": -7.3554474E-10
+        },
+        "ProfileInstance": {
+          "ConeLimit": {
+            "Swing1LimitDegrees": 20.0,
+            "Swing2LimitDegrees": 20.0,
+            "Swing1Motion": "EAngularConstraintMotion::ACM_Limited",
+            "Swing2Motion": "EAngularConstraintMotion::ACM_Limited"
+          },
+          "TwistLimit": {
+            "TwistLimitDegrees": 5.0,
+            "TwistMotion": "EAngularConstraintMotion::ACM_Limited"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_250",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "head",
+        "ConstraintBone1": "head",
+        "ConstraintBone2": "spine_03",
+        "Pos2": {
+          "X": 17.022638,
+          "Y": 0.8400868,
+          "Z": 4.7515087E-07
+        },
+        "PriAxis2": {
+          "X": 0.98384905,
+          "Y": 0.17899999,
+          "Z": -5.0125433E-08
+        },
+        "SecAxis2": {
+          "X": -0.17899999,
+          "Y": 0.98384905,
+          "Z": -1.010727E-18
+        },
+        "ProfileInstance": {
+          "ConeLimit": {
+            "Swing1LimitDegrees": 20.0,
+            "Swing2LimitDegrees": 20.0,
+            "Swing1Motion": "EAngularConstraintMotion::ACM_Limited",
+            "Swing2Motion": "EAngularConstraintMotion::ACM_Limited"
+          },
+          "TwistLimit": {
+            "TwistLimitDegrees": 5.0,
+            "TwistMotion": "EAngularConstraintMotion::ACM_Limited"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_251",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "hair_01_l",
+        "ConstraintBone1": "hair_01_l",
+        "ConstraintBone2": "head",
+        "Pos2": {
+          "X": 19.0,
+          "Y": -9.0,
+          "Z": -27.0
+        },
+        "PriAxis2": {
+          "X": -0.2262582,
+          "Y": -0.008954486,
+          "Z": -0.9740262
+        },
+        "SecAxis2": {
+          "X": 0.11047991,
+          "Y": 0.9932691,
+          "Z": -0.034794956
+        },
+        "ProfileInstance": {
+          "ConeLimit": {
+            "Swing1LimitDegrees": 30.0,
+            "Swing2LimitDegrees": 30.0,
+            "Swing1Motion": "EAngularConstraintMotion::ACM_Limited",
+            "Swing2Motion": "EAngularConstraintMotion::ACM_Limited"
+          },
+          "TwistLimit": {
+            "TwistLimitDegrees": 0.0,
+            "TwistMotion": "EAngularConstraintMotion::ACM_Limited"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_252",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "hair_02_l",
+        "ConstraintBone1": "hair_02_l",
+        "ConstraintBone2": "hair_01_l",
+        "Pos2": {
+          "X": 30.0,
+          "Y": -1.1635137E-13,
+          "Z": -8.526513E-14
+        },
+        "PriAxis2": {
+          "X": 0.9790995,
+          "Y": -0.107068434,
+          "Z": 0.17291774
+        },
+        "SecAxis2": {
+          "X": 0.10321088,
+          "Y": 0.99417084,
+          "Z": 0.031174336
+        },
+        "ProfileInstance": {
+          "ConeLimit": {
+            "Swing1LimitDegrees": 30.0,
+            "Swing2LimitDegrees": 30.0,
+            "Swing1Motion": "EAngularConstraintMotion::ACM_Limited",
+            "Swing2Motion": "EAngularConstraintMotion::ACM_Limited"
+          },
+          "TwistLimit": {
+            "TwistLimitDegrees": 0.0,
+            "TwistMotion": "EAngularConstraintMotion::ACM_Limited"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_253",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "hair_03_l",
+        "ConstraintBone1": "hair_03_l",
+        "ConstraintBone2": "hair_02_l",
+        "Pos2": {
+          "X": 30.0,
+          "Y": 2.384759E-13,
+          "Z": -5.968559E-13
+        },
+        "PriAxis2": {
+          "X": 0.9766693,
+          "Y": 0.08685789,
+          "Z": 0.19639957
+        },
+        "SecAxis2": {
+          "X": -0.086897366,
+          "Y": 0.99618155,
+          "Z": -0.008433006
+        },
+        "ProfileInstance": {
+          "ConeLimit": {
+            "Swing1LimitDegrees": 30.0,
+            "Swing2LimitDegrees": 30.0,
+            "Swing1Motion": "EAngularConstraintMotion::ACM_Limited",
+            "Swing2Motion": "EAngularConstraintMotion::ACM_Limited"
+          },
+          "TwistLimit": {
+            "TwistLimitDegrees": 0.0,
+            "TwistMotion": "EAngularConstraintMotion::ACM_Limited"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_254",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "hair_04_l",
+        "ConstraintBone1": "hair_04_l",
+        "ConstraintBone2": "hair_03_l",
+        "Pos2": {
+          "X": 30.0,
+          "Y": -2.1316282E-13,
+          "Z": 3.410605E-13
+        },
+        "PriAxis2": {
+          "X": 0.9715405,
+          "Y": -0.005782687,
+          "Z": 0.23680279
+        },
+        "SecAxis2": {
+          "X": 0.0044706697,
+          "Y": 0.99997157,
+          "Z": 0.0060771485
+        },
+        "ProfileInstance": {
+          "ConeLimit": {
+            "Swing1LimitDegrees": 30.0,
+            "Swing2LimitDegrees": 30.0,
+            "Swing1Motion": "EAngularConstraintMotion::ACM_Limited",
+            "Swing2Motion": "EAngularConstraintMotion::ACM_Limited"
+          },
+          "TwistLimit": {
+            "TwistLimitDegrees": 0.0,
+            "TwistMotion": "EAngularConstraintMotion::ACM_Limited"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_255",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "hair_01_r",
+        "ConstraintBone1": "hair_01_r",
+        "ConstraintBone2": "head",
+        "Pos2": {
+          "X": 19.0,
+          "Y": -9.0,
+          "Z": 27.0
+        },
+        "PriAxis2": {
+          "X": 0.22625862,
+          "Y": 0.008954463,
+          "Z": -0.9740261
+        },
+        "SecAxis2": {
+          "X": -0.1104799,
+          "Y": -0.9932691,
+          "Z": -0.034794983
+        },
+        "ProfileInstance": {
+          "ConeLimit": {
+            "Swing1LimitDegrees": 30.0,
+            "Swing2LimitDegrees": 30.0,
+            "Swing1Motion": "EAngularConstraintMotion::ACM_Limited",
+            "Swing2Motion": "EAngularConstraintMotion::ACM_Limited"
+          },
+          "TwistLimit": {
+            "TwistLimitDegrees": 0.0,
+            "TwistMotion": "EAngularConstraintMotion::ACM_Limited"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_256",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "hair_02_r",
+        "ConstraintBone1": "hair_02_r",
+        "ConstraintBone2": "hair_01_r",
+        "Pos2": {
+          "X": -30.0,
+          "Y": -8.881784E-16,
+          "Z": 0.0
+        },
+        "PriAxis2": {
+          "X": 0.9790995,
+          "Y": -0.107068434,
+          "Z": 0.17291774
+        },
+        "SecAxis2": {
+          "X": 0.10321088,
+          "Y": 0.99417084,
+          "Z": 0.031174336
+        },
+        "ProfileInstance": {
+          "ConeLimit": {
+            "Swing1LimitDegrees": 30.0,
+            "Swing2LimitDegrees": 30.0,
+            "Swing1Motion": "EAngularConstraintMotion::ACM_Limited",
+            "Swing2Motion": "EAngularConstraintMotion::ACM_Limited"
+          },
+          "TwistLimit": {
+            "TwistLimitDegrees": 0.0,
+            "TwistMotion": "EAngularConstraintMotion::ACM_Limited"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_257",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "hair_03_r",
+        "ConstraintBone1": "hair_03_r",
+        "ConstraintBone2": "hair_02_r",
+        "Pos2": {
+          "X": -30.0,
+          "Y": 8.881784E-16,
+          "Z": 0.0
+        },
+        "PriAxis2": {
+          "X": 0.9766693,
+          "Y": 0.08685789,
+          "Z": 0.19639957
+        },
+        "SecAxis2": {
+          "X": -0.086897366,
+          "Y": 0.99618155,
+          "Z": -0.008433006
+        },
+        "ProfileInstance": {
+          "ConeLimit": {
+            "Swing1LimitDegrees": 30.0,
+            "Swing2LimitDegrees": 30.0,
+            "Swing1Motion": "EAngularConstraintMotion::ACM_Limited",
+            "Swing2Motion": "EAngularConstraintMotion::ACM_Limited"
+          },
+          "TwistLimit": {
+            "TwistLimitDegrees": 0.0,
+            "TwistMotion": "EAngularConstraintMotion::ACM_Limited"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_258",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "hair_04_r",
+        "ConstraintBone1": "hair_04_r",
+        "ConstraintBone2": "hair_03_r",
+        "Pos2": {
+          "X": -30.0,
+          "Y": 8.881784E-16,
+          "Z": 2.842171E-14
+        },
+        "PriAxis2": {
+          "X": 0.9715405,
+          "Y": -0.005782687,
+          "Z": 0.23680279
+        },
+        "SecAxis2": {
+          "X": 0.0044706697,
+          "Y": 0.99997157,
+          "Z": 0.0060771485
+        },
+        "ProfileInstance": {
+          "ConeLimit": {
+            "Swing1LimitDegrees": 30.0,
+            "Swing2LimitDegrees": 30.0,
+            "Swing1Motion": "EAngularConstraintMotion::ACM_Limited",
+            "Swing2Motion": "EAngularConstraintMotion::ACM_Limited"
+          },
+          "TwistLimit": {
+            "TwistLimitDegrees": 0.0,
+            "TwistMotion": "EAngularConstraintMotion::ACM_Limited"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_259",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "headleaf_01_01",
+        "ConstraintBone1": "headleaf_01_01",
+        "ConstraintBone2": "head",
+        "Pos2": {
+          "X": 31.2,
+          "Y": 18.2,
+          "Z": -6.098637E-20
+        },
+        "PriAxis2": {
+          "X": 0.80235404,
+          "Y": -0.59684837,
+          "Z": 0.0
+        },
+        "SecAxis2": {
+          "X": 0.59684837,
+          "Y": 0.80235404,
+          "Z": 1.323489E-23
+        },
+        "ProfileInstance": {
+          "ConeLimit": {
+            "Swing1LimitDegrees": 15.0,
+            "Swing2LimitDegrees": 0.0,
+            "Swing1Motion": "EAngularConstraintMotion::ACM_Limited",
+            "Swing2Motion": "EAngularConstraintMotion::ACM_Limited"
+          },
+          "TwistLimit": {
+            "TwistLimitDegrees": 0.0,
+            "TwistMotion": "EAngularConstraintMotion::ACM_Limited"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_260",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "headleaf_01_02",
+        "ConstraintBone1": "headleaf_01_02",
+        "ConstraintBone2": "headleaf_01_01",
+        "Pos2": {
+          "X": 29.6,
+          "Y": 1.4210855E-14,
+          "Z": 7.596903E-15
+        },
+        "PriAxis2": {
+          "X": 1.0,
+          "Y": -5.551115E-17,
+          "Z": 0.0
+        },
+        "SecAxis2": {
+          "X": 5.551115E-17,
+          "Y": 1.0,
+          "Z": 2.646978E-23
+        },
+        "ProfileInstance": {
+          "ConeLimit": {
+            "Swing1LimitDegrees": 15.0,
+            "Swing2LimitDegrees": 0.0,
+            "Swing1Motion": "EAngularConstraintMotion::ACM_Limited",
+            "Swing2Motion": "EAngularConstraintMotion::ACM_Limited"
+          },
+          "TwistLimit": {
+            "TwistLimitDegrees": 0.0,
+            "TwistMotion": "EAngularConstraintMotion::ACM_Limited"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_261",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "headleaf_02_01",
+        "ConstraintBone1": "headleaf_02_01",
+        "ConstraintBone2": "head",
+        "Pos2": {
+          "X": 14.0,
+          "Y": -32.5,
+          "Z": 4.345298E-06
+        },
+        "PriAxis2": {
+          "X": 0.90211,
+          "Y": -0.43150616,
+          "Z": 0.0
+        },
+        "SecAxis2": {
+          "X": 0.43150616,
+          "Y": 0.90211,
+          "Z": 0.0
+        },
+        "ProfileInstance": {
+          "ConeLimit": {
+            "Swing1LimitDegrees": 15.0,
+            "Swing2LimitDegrees": 0.0,
+            "Swing1Motion": "EAngularConstraintMotion::ACM_Limited",
+            "Swing2Motion": "EAngularConstraintMotion::ACM_Limited"
+          },
+          "TwistLimit": {
+            "TwistLimitDegrees": 0.0,
+            "TwistMotion": "EAngularConstraintMotion::ACM_Limited"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_262",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "headleaf_02_02",
+        "ConstraintBone1": "headleaf_02_02",
+        "ConstraintBone2": "headleaf_02_01",
+        "Pos2": {
+          "X": 50.0,
+          "Y": 1.0658141E-14,
+          "Z": 2.7105054E-20
+        },
+        "PriAxis2": {
+          "X": 0.9898416,
+          "Y": 0.14217451,
+          "Z": 2.646978E-23
+        },
+        "SecAxis2": {
+          "X": -0.14217451,
+          "Y": 0.9898416,
+          "Z": 0.0
+        },
+        "ProfileInstance": {
+          "ConeLimit": {
+            "Swing1LimitDegrees": 15.0,
+            "Swing2LimitDegrees": 0.0,
+            "Swing1Motion": "EAngularConstraintMotion::ACM_Limited",
+            "Swing2Motion": "EAngularConstraintMotion::ACM_Limited"
+          },
+          "TwistLimit": {
+            "TwistLimitDegrees": 0.0,
+            "TwistMotion": "EAngularConstraintMotion::ACM_Limited"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_263",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "headleaf_02_02_l",
+        "ConstraintBone1": "headleaf_02_02_l",
+        "ConstraintBone2": "headleaf_02_01",
+        "Pos2": {
+          "X": 24.0,
+          "Y": 14.6,
+          "Z": -35.0
+        },
+        "PriAxis2": {
+          "X": 0.44453782,
+          "Y": 0.48272017,
+          "Z": -0.75456434
+        },
+        "SecAxis2": {
+          "X": -0.008271814,
+          "Y": 0.84454954,
+          "Z": 0.53541356
+        },
+        "ProfileInstance": {
+          "ConeLimit": {
+            "Swing1LimitDegrees": 15.0,
+            "Swing2LimitDegrees": 0.0,
+            "Swing1Motion": "EAngularConstraintMotion::ACM_Limited",
+            "Swing2Motion": "EAngularConstraintMotion::ACM_Limited"
+          },
+          "TwistLimit": {
+            "TwistLimitDegrees": 0.0,
+            "TwistMotion": "EAngularConstraintMotion::ACM_Limited"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_264",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "headleaf_02_02_r",
+        "ConstraintBone1": "headleaf_02_02_r",
+        "ConstraintBone2": "headleaf_02_01",
+        "Pos2": {
+          "X": 24.0,
+          "Y": 14.6,
+          "Z": 35.0
+        },
+        "PriAxis2": {
+          "X": -0.44453755,
+          "Y": -0.48272002,
+          "Z": -0.7545646
+        },
+        "SecAxis2": {
+          "X": 0.008271611,
+          "Y": -0.84454966,
+          "Z": 0.5354134
+        },
+        "ProfileInstance": {
+          "ConeLimit": {
+            "Swing1LimitDegrees": 15.0,
+            "Swing2LimitDegrees": 0.0,
+            "Swing1Motion": "EAngularConstraintMotion::ACM_Limited",
+            "Swing2Motion": "EAngularConstraintMotion::ACM_Limited"
+          },
+          "TwistLimit": {
+            "TwistLimitDegrees": 0.0,
+            "TwistMotion": "EAngularConstraintMotion::ACM_Limited"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_276",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "UserConstraint",
+        "ConstraintBone1": "spine_03",
+        "ConstraintBone2": "pelvis",
+        "Pos2": {
+          "X": 17.959421,
+          "Y": -0.9860293,
+          "Z": -3.2177766E-07
+        },
+        "PriAxis2": {
+          "X": 0.99398947,
+          "Y": -0.10947598,
+          "Z": -5.3102593E-08
+        },
+        "SecAxis2": {
+          "X": 0.10947598,
+          "Y": 0.99398947,
+          "Z": -7.3554474E-10
+        },
+        "ProfileInstance": {
+          "ConeLimit": {
+            "Swing1LimitDegrees": 15.0,
+            "Swing2LimitDegrees": 15.0,
+            "Swing1Motion": "EAngularConstraintMotion::ACM_Limited",
+            "Swing2Motion": "EAngularConstraintMotion::ACM_Limited"
+          },
+          "TwistLimit": {
+            "TwistLimitDegrees": 5.0,
+            "TwistMotion": "EAngularConstraintMotion::ACM_Limited"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_277",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "UserConstraint_0",
+        "ConstraintBone1": "upperarm_l",
+        "ConstraintBone2": "spine_03",
+        "Pos2": {
+          "X": 7.563978,
+          "Y": 0.4517717,
+          "Z": -7.9985156
+        },
+        "PriAxis2": {
+          "X": 0.00024349058,
+          "Y": -0.008885353,
+          "Z": -0.9999605
+        },
+        "SecAxis2": {
+          "X": -0.08138164,
+          "Y": 0.9966435,
+          "Z": -0.008875695
+        },
+        "ProfileInstance": {
+          "ConeLimit": {
+            "Swing1LimitDegrees": 30.0,
+            "Swing2LimitDegrees": 30.0,
+            "Swing1Motion": "EAngularConstraintMotion::ACM_Limited",
+            "Swing2Motion": "EAngularConstraintMotion::ACM_Limited"
+          },
+          "TwistLimit": {
+            "TwistLimitDegrees": 15.0,
+            "TwistMotion": "EAngularConstraintMotion::ACM_Limited"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_278",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "UserConstraint_1",
+        "ConstraintBone1": "upperarm_r",
+        "ConstraintBone2": "spine_03",
+        "Pos2": {
+          "X": 7.564228,
+          "Y": 0.45179254,
+          "Z": 7.9985137
+        },
+        "PriAxis2": {
+          "X": -0.00024315478,
+          "Y": 0.008885393,
+          "Z": -0.9999605
+        },
+        "SecAxis2": {
+          "X": 0.08138164,
+          "Y": -0.9966435,
+          "Z": -0.008875707
+        },
+        "ProfileInstance": {
+          "ConeLimit": {
+            "Swing1LimitDegrees": 30.0,
+            "Swing2LimitDegrees": 30.0,
+            "Swing1Motion": "EAngularConstraintMotion::ACM_Limited",
+            "Swing2Motion": "EAngularConstraintMotion::ACM_Limited"
+          },
+          "TwistLimit": {
+            "TwistLimitDegrees": 15.0,
+            "TwistMotion": "EAngularConstraintMotion::ACM_Limited"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_279",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "UserConstraint_2",
+        "ConstraintBone1": "lowerarm_r",
+        "ConstraintBone2": "upperarm_r",
+        "Pos2": {
+          "X": -22.392876,
+          "Y": 5.243269E-07,
+          "Z": 0.00023863585
+        },
+        "PriAxis2": {
+          "X": 0.9998421,
+          "Y": 0.017744318,
+          "Z": 0.00096082216
+        },
+        "SecAxis2": {
+          "X": -0.017744318,
+          "Y": 0.9998426,
+          "Z": -8.540141E-06
+        },
+        "ProfileInstance": {
+          "ConeLimit": {
+            "Swing2LimitDegrees": 0.0,
+            "Swing1Motion": "EAngularConstraintMotion::ACM_Limited",
+            "Swing2Motion": "EAngularConstraintMotion::ACM_Limited"
+          },
+          "TwistLimit": {
+            "TwistLimitDegrees": 0.0,
+            "TwistMotion": "EAngularConstraintMotion::ACM_Limited"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_280",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "UserConstraint_3",
+        "ConstraintBone1": "lowerarm_l",
+        "ConstraintBone2": "upperarm_l",
+        "Pos2": {
+          "X": 22.392822,
+          "Y": 4.1078252E-14,
+          "Z": -4.2632564E-14
+        },
+        "PriAxis2": {
+          "X": 0.9998421,
+          "Y": 0.017744318,
+          "Z": 0.0009608221
+        },
+        "SecAxis2": {
+          "X": -0.017744318,
+          "Y": 0.9998426,
+          "Z": -8.5252395E-06
+        },
+        "ProfileInstance": {
+          "ConeLimit": {
+            "Swing2LimitDegrees": 0.0,
+            "Swing1Motion": "EAngularConstraintMotion::ACM_Limited",
+            "Swing2Motion": "EAngularConstraintMotion::ACM_Limited"
+          },
+          "TwistLimit": {
+            "TwistLimitDegrees": 0.0,
+            "TwistMotion": "EAngularConstraintMotion::ACM_Limited"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_281",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "UserConstraint_4",
+        "ConstraintBone1": "hand_r",
+        "ConstraintBone2": "lowerarm_r",
+        "Pos2": {
+          "X": -22.408884,
+          "Y": -1.5142424E-06,
+          "Z": -0.00023713778
+        },
+        "PriAxis2": {
+          "X": 0.99996054,
+          "Y": -0.008869316,
+          "Z": -0.00048029193
+        },
+        "SecAxis2": {
+          "X": 0.008869316,
+          "Y": 0.99996066,
+          "Z": -2.1299725E-06
+        },
+        "ProfileInstance": {
+          "ConeLimit": {
+            "Swing1LimitDegrees": 15.0,
+            "Swing2LimitDegrees": 15.0,
+            "Swing1Motion": "EAngularConstraintMotion::ACM_Limited",
+            "Swing2Motion": "EAngularConstraintMotion::ACM_Limited"
+          },
+          "TwistLimit": {
+            "TwistLimitDegrees": 0.0,
+            "TwistMotion": "EAngularConstraintMotion::ACM_Limited"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_282",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "UserConstraint_5",
+        "ConstraintBone1": "hand_l",
+        "ConstraintBone2": "lowerarm_l",
+        "Pos2": {
+          "X": 22.408945,
+          "Y": 1.6564528E-13,
+          "Z": 2.842171E-14
+        },
+        "PriAxis2": {
+          "X": 0.99996054,
+          "Y": -0.008869316,
+          "Z": -0.00048029178
+        },
+        "SecAxis2": {
+          "X": 0.008869316,
+          "Y": 0.99996066,
+          "Z": -2.1299718E-06
+        },
+        "ProfileInstance": {
+          "ConeLimit": {
+            "Swing1LimitDegrees": 15.0,
+            "Swing2LimitDegrees": 15.0,
+            "Swing1Motion": "EAngularConstraintMotion::ACM_Limited",
+            "Swing2Motion": "EAngularConstraintMotion::ACM_Limited"
+          },
+          "TwistLimit": {
+            "TwistLimitDegrees": 0.0,
+            "TwistMotion": "EAngularConstraintMotion::ACM_Limited"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_211",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphereElems": [
+          {
+            "Center": {
+              "X": -0.62075746,
+              "Y": -1.3241327,
+              "Z": -1.8219818
+            },
+            "Radius": 15.0,
+            "RestOffset": 0.0,
+            "Name": "None",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "pelvis",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "2AACC5E34DD47653489BEFA3426E0C22"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_222",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphereElems": [
+          {
+            "Center": {
+              "X": 13.891466,
+              "Y": 12.181768,
+              "Z": 6.512713
+            },
+            "Radius": 23.544893,
+            "RestOffset": 0.0,
+            "Name": "None",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "skirt_01_01_l",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "4028E630438472032F43A686A1A32088"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_223",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphereElems": [
+          {
+            "Center": {
+              "X": 18.00334,
+              "Y": 17.2031,
+              "Z": 7.509503
+            },
+            "Radius": 20.0,
+            "RestOffset": 0.0,
+            "Name": "None",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "skirt_01_02_l",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "35CA2F1344BB906BC4E77BBCE0664A03"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_224",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphereElems": [
+          {
+            "Center": {
+              "X": 25.015205,
+              "Y": 16.061728,
+              "Z": 1.6473742
+            },
+            "Radius": 20.0,
+            "RestOffset": 0.0,
+            "Name": "None",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "skirt_01_03_l",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "0D9F2215426C87BF7D6C1FA0433B3257"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_225",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphereElems": [
+          {
+            "Center": {
+              "X": 15.495342,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Radius": 20.10804,
+            "RestOffset": 0.0,
+            "Name": "None",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "skirt_01_04_l",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "AD24FF1749066A06052B9099D2BE1EBA"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_227",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphereElems": [
+          {
+            "Center": {
+              "X": -13.891465,
+              "Y": -12.18178,
+              "Z": -6.5127115
+            },
+            "Radius": 23.544891,
+            "RestOffset": 0.0,
+            "Name": "None",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "skirt_01_01_r",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "0516A93E42F8C322EE2FAC9D47CF28A3"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_228",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphereElems": [
+          {
+            "Center": {
+              "X": -18.00334,
+              "Y": -17.203112,
+              "Z": -7.509504
+            },
+            "Radius": 20.0,
+            "RestOffset": 0.0,
+            "Name": "None",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "skirt_01_02_r",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "1C31480F431AA61C756F47B80F80CC69"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_229",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphereElems": [
+          {
+            "Center": {
+              "X": -25.015211,
+              "Y": -16.06174,
+              "Z": -1.647375
+            },
+            "Radius": 20.0,
+            "RestOffset": 0.0,
+            "Name": "None",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "skirt_01_03_r",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "F8F8750A400E315C2CFC65B807CDFAE7"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_230",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphereElems": [
+          {
+            "Center": {
+              "X": -15.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Radius": 20.108046,
+            "RestOffset": 0.0,
+            "Name": "None",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "skirt_01_04_r",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "940975404A2956723044F68A23D26E26"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_232",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphereElems": [
+          {
+            "Center": {
+              "X": 22.647581,
+              "Y": 1.2669123,
+              "Z": 4.5983305
+            },
+            "Radius": 16.334404,
+            "RestOffset": 0.0,
+            "Name": "None",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "skirt_02_01_l",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "B45C07EB4EA7EC540D536F8CBD1C39D8"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_233",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphereElems": [
+          {
+            "Center": {
+              "X": 16.91832,
+              "Y": 1.7453266,
+              "Z": -2.5982904
+            },
+            "Radius": 20.0,
+            "RestOffset": 0.0,
+            "Name": "None",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "skirt_02_02_l",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "8C71AE414CE8D4A19EAF768F0FBE8760"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_234",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphereElems": [
+          {
+            "Center": {
+              "X": 31.018635,
+              "Y": 7.5392585,
+              "Z": 1.485227
+            },
+            "Radius": 20.0,
+            "RestOffset": 0.0,
+            "Name": "None",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "skirt_02_03_l",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "CB9C9840401390823CF5B9A0538911D4"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_235",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphereElems": [
+          {
+            "Center": {
+              "X": 22.292006,
+              "Y": 14.251776,
+              "Z": -5.481289
+            },
+            "Radius": 18.361015,
+            "RestOffset": 0.0,
+            "Name": "None",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "skirt_02_04_l",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "23443D8D423D7C731DFD3A8091569BC7"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_237",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphereElems": [
+          {
+            "Center": {
+              "X": -22.647583,
+              "Y": -1.2669235,
+              "Z": -4.598327
+            },
+            "Radius": 16.334402,
+            "RestOffset": 0.0,
+            "Name": "None",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "skirt_02_01_r",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "79DDE2A64EA6ABBC65E9CABEE18C433B"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_238",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphereElems": [
+          {
+            "Center": {
+              "X": -16.91832,
+              "Y": -1.7453369,
+              "Z": 2.598289
+            },
+            "Radius": 20.0,
+            "RestOffset": 0.0,
+            "Name": "None",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "skirt_02_02_r",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "B5F93F25425B482F87CDA0AC8A9E15A2"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_239",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphereElems": [
+          {
+            "Center": {
+              "X": -31.01864,
+              "Y": -7.5392647,
+              "Z": -1.485226
+            },
+            "Radius": 20.0,
+            "RestOffset": 0.0,
+            "Name": "None",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "skirt_02_03_r",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "8F4747C94F0B9C528B2153B6A1412799"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_240",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphereElems": [
+          {
+            "Center": {
+              "X": -22.292,
+              "Y": -14.251792,
+              "Z": 5.481293
+            },
+            "Radius": 18.361017,
+            "RestOffset": 0.0,
+            "Name": "None",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "skirt_02_04_r",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "48F6D337411F113C32B2D2B7D8C45F94"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_242",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphereElems": [
+          {
+            "Center": {
+              "X": 20.561508,
+              "Y": 0.8306387,
+              "Z": -0.01760052
+            },
+            "Radius": 15.318878,
+            "RestOffset": 0.0,
+            "Name": "None",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "skirt_03_01",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "D57DBD464742A68CB6AAF590319D9BD3"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_243",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphereElems": [
+          {
+            "Center": {
+              "X": 15.184817,
+              "Y": 1.6699283,
+              "Z": 2.7731126E-06
+            },
+            "Radius": 20.0,
+            "RestOffset": 0.0,
+            "Name": "None",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "skirt_03_02",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "CC1241384E57A407A3EFB29DD2C7A5F5"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_244",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphereElems": [
+          {
+            "Center": {
+              "X": 25.647005,
+              "Y": 5.7468944,
+              "Z": 9.43413E-06
+            },
+            "Radius": 20.0,
+            "RestOffset": 0.0,
+            "Name": "None",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "skirt_03_03",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "1626996F4588811C862E6AA3395BE189"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_245",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphereElems": [
+          {
+            "Center": {
+              "X": 22.339626,
+              "Y": 7.2984962,
+              "Z": 1.4087263E-05
+            },
+            "Radius": 19.106056,
+            "RestOffset": 0.0,
+            "Name": "None",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "skirt_03_04",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "5818253146FC39DC7A92508CAC621722"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_247",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphereElems": [
+          {
+            "Center": {
+              "X": 22.32942,
+              "Y": 0.6231584,
+              "Z": 0.60932934
+            },
+            "Radius": 15.0,
+            "RestOffset": 0.0,
+            "Name": "None",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "thigh_l",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "0C8C83C8466084C3E61549BE140DE9EC"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_248",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphereElems": [
+          {
+            "Center": {
+              "X": 14.223758,
+              "Y": 1.5904328,
+              "Z": -0.024709608
+            },
+            "Radius": 15.0,
+            "RestOffset": 0.0,
+            "Name": "None",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "calf_l",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "4F4D8A504829554BE136678061662C06"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_249",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphereElems": [
+          {
+            "Center": {
+              "X": 6.5184,
+              "Y": 0.18657526,
+              "Z": -0.3002253
+            },
+            "Radius": 11.131902,
+            "RestOffset": 0.0,
+            "Name": "None",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "foot_l",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "C3909865432DB21F77A10893FBD76D72"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_250",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphereElems": [
+          {
+            "Center": {
+              "X": -22.308332,
+              "Y": -0.6480258,
+              "Z": -0.70135885
+            },
+            "Radius": 15.0,
+            "RestOffset": 0.0,
+            "Name": "None",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "thigh_r",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "B955978F44C87E89360AA6A8B7C60C4D"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_251",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphereElems": [
+          {
+            "Center": {
+              "X": -14.221045,
+              "Y": -1.5774865,
+              "Z": 0.05521502
+            },
+            "Radius": 15.0,
+            "RestOffset": 0.0,
+            "Name": "None",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "calf_r",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "DC12BBFB4E936B7DD0C371B5F4877657"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_252",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphereElems": [
+          {
+            "Center": {
+              "X": -6.537797,
+              "Y": -0.21780032,
+              "Z": 0.32958654
+            },
+            "Radius": 11.1340685,
+            "RestOffset": 0.0,
+            "Name": "None",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "foot_r",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "0D8F45BA4822239A9655DD80D6EA82DC"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_254",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphereElems": [
+          {
+            "Center": {
+              "X": 6.187537,
+              "Y": 2.5078661,
+              "Z": 0.013667536
+            },
+            "Radius": 10.0,
+            "RestOffset": 0.0,
+            "Name": "None",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "spine_03",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "B3921B894FEB445C956B609BABAA8CB0"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_255",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphereElems": [
+          {
+            "Center": {
+              "X": 23.272018,
+              "Y": -7.288348,
+              "Z": 0.119999
+            },
+            "Radius": 25.0,
+            "RestOffset": 0.0,
+            "Name": "None",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "head",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "D5C39ADA43469DE81C3963A595240E71"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_256",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphereElems": [
+          {
+            "Center": {
+              "X": 19.073973,
+              "Y": -0.2450787,
+              "Z": 0.31086177
+            },
+            "Radius": 18.188267,
+            "RestOffset": 0.0,
+            "Name": "None",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "hair_01_l",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "EC69FC0149F808AB0234448882FFEC63"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_257",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphereElems": [
+          {
+            "Center": {
+              "X": 19.78661,
+              "Y": -2.5746648,
+              "Z": 2.3628302
+            },
+            "Radius": 21.799992,
+            "RestOffset": 0.0,
+            "Name": "None",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "hair_02_l",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "AA187708405F42C6A9A1648AEECAA181"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_258",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphereElems": [
+          {
+            "Center": {
+              "X": 20.872246,
+              "Y": -2.812595,
+              "Z": -1.4593798
+            },
+            "Radius": 15.449212,
+            "RestOffset": 0.0,
+            "Name": "None",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "hair_03_l",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "B2C45C40457D0C2F6C890F9480BE4753"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_259",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphereElems": [
+          {
+            "Center": {
+              "X": 29.641666,
+              "Y": 0.7342287,
+              "Z": -4.684597
+            },
+            "Radius": 25.586794,
+            "RestOffset": 0.0,
+            "Name": "None",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "hair_04_l",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "BAF481B046FCC6B296BED68BF4B625F8"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_260",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphereElems": [
+          {
+            "Center": {
+              "X": -18.984343,
+              "Y": 0.2731996,
+              "Z": -0.09422901
+            },
+            "Radius": 18.139643,
+            "RestOffset": 0.0,
+            "Name": "None",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "hair_01_r",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "75637C58433CE8AD68A0E3A3D494347A"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_261",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphereElems": [
+          {
+            "Center": {
+              "X": -18.698534,
+              "Y": 2.4442036,
+              "Z": -2.694169
+            },
+            "Radius": 22.207552,
+            "RestOffset": 0.0,
+            "Name": "None",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "hair_02_r",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "683F3CAE4D198081C2D75EA094EDB690"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_262",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphereElems": [
+          {
+            "Center": {
+              "X": -20.803818,
+              "Y": 2.6780071,
+              "Z": 1.025191
+            },
+            "Radius": 15.504177,
+            "RestOffset": 0.0,
+            "Name": "None",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "hair_03_r",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "B6182AA6410CEFE5D092EA83696660AB"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_263",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphereElems": [
+          {
+            "Center": {
+              "X": -29.627573,
+              "Y": -0.79620785,
+              "Z": 4.746943
+            },
+            "Radius": 25.600119,
+            "RestOffset": 0.0,
+            "Name": "None",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "hair_04_r",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "91E3191146CE9E337CDB43884C3E10CA"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_264",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphereElems": [
+          {
+            "Center": {
+              "X": 16.897179,
+              "Y": 0.15049957,
+              "Z": 0.32696292
+            },
+            "Radius": 22.942423,
+            "RestOffset": 0.0,
+            "Name": "None",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "headleaf_01_01",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "0DAFB1F747E01471FF12D3A89FDE50DE"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_265",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphereElems": [
+          {
+            "Center": {
+              "X": 21.10259,
+              "Y": 0.24387518,
+              "Z": 0.8709789
+            },
+            "Radius": 22.02574,
+            "RestOffset": 0.0,
+            "Name": "None",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "headleaf_01_02",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "7B2F655240161B438E7C6BBA7548FDB9"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_266",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphereElems": [
+          {
+            "Center": {
+              "X": 26.477978,
+              "Y": 5.435748,
+              "Z": -0.30557814
+            },
+            "Radius": 30.0,
+            "RestOffset": 0.0,
+            "Name": "None",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "headleaf_02_01",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "9F09AAC74FABFBF4F70D7F95A561DBB6"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_267",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphereElems": [
+          {
+            "Center": {
+              "X": 19.384954,
+              "Y": -0.81442344,
+              "Z": -0.06892935
+            },
+            "Radius": 16.794855,
+            "RestOffset": 0.0,
+            "Name": "None",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "headleaf_02_02",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "7A45518F45CE6634A09FDBBAA9FFFC7E"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_268",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphereElems": [
+          {
+            "Center": {
+              "X": 19.371294,
+              "Y": -4.526006,
+              "Z": -3.2485542
+            },
+            "Radius": 16.32914,
+            "RestOffset": 0.0,
+            "Name": "None",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "headleaf_02_02_l",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "FDDB319848DD376694C1518FEE6E6938"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_269",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphereElems": [
+          {
+            "Center": {
+              "X": -19.464436,
+              "Y": 4.5144444,
+              "Z": 3.2311969
+            },
+            "Radius": 16.380394,
+            "RestOffset": 0.0,
+            "Name": "None",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "headleaf_02_02_r",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "CC35B9CA49579CEF9861A4937B7E0D14"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_278",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphereElems": [
+          {
+            "Center": {
+              "X": 5.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Radius": 10.0,
+            "RestOffset": 0.0,
+            "Name": "None",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "lowerarm_l",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "6EDF638D41046823D417C8917F1B35F9"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_280",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphereElems": [
+          {
+            "Center": {
+              "X": -5.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Radius": 10.0,
+            "RestOffset": 0.0,
+            "Name": "None",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "lowerarm_r",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "BFE2347241433D82D82BED85D9F5E031"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_281",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphereElems": [
+          {
+            "Center": {
+              "X": -15.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Radius": 10.0,
+            "RestOffset": 0.0,
+            "Name": "upperarm_r_sphere",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "upperarm_r",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "9AEC262C47F6EF21134AFC91700139E6"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_282",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphereElems": [
+          {
+            "Center": {
+              "X": 15.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Radius": 10.0,
+            "RestOffset": 0.0,
+            "Name": "upperarm_l_sphere",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "upperarm_l",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "4875B9D248EA01B40814D488A9A6FA51"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_283",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphereElems": [
+          {
+            "Center": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Radius": 10.0,
+            "RestOffset": 0.0,
+            "Name": "hand_l_sphere",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "hand_l",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "6F7BB97F432E7A0D428A08B9D491839F"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_284",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphereElems": [
+          {
+            "Center": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Radius": 10.0,
+            "RestOffset": 0.0,
+            "Name": "hand_r_sphere",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "hand_r",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "73DE3710438DC68ED9BC89A5B2372E19"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_285",
+    "Outer": "PA_FlowerDoll_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphereElems": [
+          {
+            "Center": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Radius": 15.0,
+            "RestOffset": 0.0,
+            "Name": "root_sphere",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "root",
+      "PhysicsType": "EPhysicsType::PhysType_Kinematic",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "57D379474B5BF26D1DD05AB9A561059E"
+  }
+]

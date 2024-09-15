@@ -1,0 +1,42 @@
+{
+  "Textures": {
+    "Base Texture": "Pal/Content/Pal/Model/Character/Monster/ElecPanda/T_ElecPanda_Body_B.T_ElecPanda_Body_B",
+    "T_ElecPanda_Body_B": "Pal/Content/Pal/Model/Character/Monster/ElecPanda/T_ElecPanda_Body_B.T_ElecPanda_Body_B",
+    "PM_SpecularMasks": "Pal/Content/Pal/Model/Character/Monster/ElecPanda/T_ElecPanda_Body_M.T_ElecPanda_Body_M",
+    "MetallicRoughnessOcclusionSpecularTexture": "Pal/Content/Pal/Model/Character/Monster/ElecPanda/T_ElecPanda_Body_M.T_ElecPanda_Body_M",
+    "PM_Normals": "Pal/Content/Pal/Model/Character/Monster/ElecPanda/T_ElecPanda_Body_N.T_ElecPanda_Body_N",
+    "Normal Map": "Pal/Content/Pal/Model/Character/Monster/ElecPanda/T_ElecPanda_Body_N.T_ElecPanda_Body_N"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 4,
+    "Colors": {},
+    "Scalars": {
+      "Emissive Texture Intensity": 0.01,
+      "Contrast": 1.3,
+      "Saturation": -0.2,
+      "Value": 2.0,
+      "Roughness Add": 0.304,
+      "Normal Map Intensity": 0.7,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_ClearCoat",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "SubsurfaceProfile": {
+        "ObjectName": "SubsurfaceProfile'SP_CharacterBodyBase'",
+        "ObjectPath": "Pal/Content/Pal/Material/Character/Common/SP_CharacterBodyBase.0"
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

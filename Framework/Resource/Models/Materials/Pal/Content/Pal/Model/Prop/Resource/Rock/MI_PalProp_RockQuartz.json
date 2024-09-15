@@ -1,0 +1,47 @@
+{
+  "Textures": {
+    "Base Texture": "Pal/Content/Pal/Model/Prop/Resource/Rock/Materials/RockQuartz/T_RockQuartz_B.T_RockQuartz_B",
+    "T_RockQuartz_B": "Pal/Content/Pal/Model/Prop/Resource/Rock/Materials/RockQuartz/T_RockQuartz_B.T_RockQuartz_B",
+    "PM_Emissive": "Pal/Content/Pal/Model/Prop/Resource/Rock/Materials/RockQuartz/T_RockQuartz_E.T_RockQuartz_E",
+    "Emissive Texture": "Pal/Content/Pal/Model/Prop/Resource/Rock/Materials/RockQuartz/T_RockQuartz_E.T_RockQuartz_E",
+    "Jewel Mask": "Pal/Content/Pal/Model/Prop/Resource/Rock/Materials/RockQuartz/T_RockQuartz_Mask.T_RockQuartz_Mask",
+    "T_RockQuartz_Mask": "Pal/Content/Pal/Model/Prop/Resource/Rock/Materials/RockQuartz/T_RockQuartz_Mask.T_RockQuartz_Mask",
+    "PM_SpecularMasks": "Pal/Content/Pal/Model/Prop/Resource/Rock/Materials/RockQuartz/T_RockQuartz_M.T_RockQuartz_M",
+    "MetallicRoughnessOcclusionSpecularTexture": "Pal/Content/Pal/Model/Prop/Resource/Rock/Materials/RockQuartz/T_RockQuartz_M.T_RockQuartz_M",
+    "PM_Normals": "Pal/Content/Pal/Model/Prop/Resource/Rock/Materials/RockQuartz/T_RockQuartz_N.T_RockQuartz_N",
+    "Normal Map": "Pal/Content/Pal/Model/Prop/Resource/Rock/Materials/RockQuartz/T_RockQuartz_N.T_RockQuartz_N"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "Emissive Texture Intensity": 0.5,
+      "Contrast": 1.2,
+      "Value": 0.5,
+      "Jewel Opacity": 1.0,
+      "Jewel Refract Color Power": 0.512,
+      "Jewel Refract Color Rate": 0.36,
+      "Metallic Add": 0.5,
+      "Half Lambert": 0.5,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "SubsurfaceProfile": {
+        "ObjectName": "SubsurfaceProfile'SP_CharacterBodyBase'",
+        "ObjectPath": "Pal/Content/Pal/Material/Character/Common/SP_CharacterBodyBase.0"
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

@@ -1,0 +1,52 @@
+[
+  {
+    "Type": "PhysicsAsset",
+    "Name": "PA_HeadEquip033_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsAsset'",
+    "Properties": {
+      "BoundsBodies": [
+        0
+      ],
+      "SkeletalBodySetups": [
+        {
+          "ObjectName": "SkeletalBodySetup'PA_HeadEquip033_PhysicsAsset:SkeletalBodySetup_0'",
+          "ObjectPath": "Pal/Content/Pal/Model/Character/Player/HeadEquip/HeadEquip033/PA_HeadEquip033_PhysicsAsset.1"
+        }
+      ],
+      "ThumbnailInfo": null
+    }
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_0",
+    "Outer": "PA_HeadEquip033_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphylElems": [
+          {
+            "Center": {
+              "X": 14.035978,
+              "Y": 2.4756045,
+              "Z": -0.17591846
+            },
+            "Rotation": {
+              "Pitch": -4.373263E-15,
+              "Yaw": 140.91068,
+              "Roll": -174.31546
+            },
+            "Radius": 17.6399,
+            "Length": 20.092918,
+            "RestOffset": 0.0,
+            "Name": "None",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "head",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "F4154AA5470D8585CFA4D8B3E9DFBB8E"
+  }
+]

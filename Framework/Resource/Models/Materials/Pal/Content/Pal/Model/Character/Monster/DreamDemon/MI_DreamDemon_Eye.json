@@ -1,0 +1,37 @@
+{
+  "Textures": {
+    "Base Texture": "Pal/Content/Pal/Model/Character/Monster/DreamDemon/T_DreamDemon_Eye_B.T_DreamDemon_Eye_B",
+    "T_DreamDemon_Eye_B": "Pal/Content/Pal/Model/Character/Monster/DreamDemon/T_DreamDemon_Eye_B.T_DreamDemon_Eye_B",
+    "PM_Emissive": "Pal/Content/Pal/Model/Character/Monster/DreamDemon/T_DreamDemon_Eye_B.T_DreamDemon_Eye_B",
+    "Emissive Texture": "Pal/Content/Pal/Model/Character/Monster/DreamDemon/T_DreamDemon_Eye_B.T_DreamDemon_Eye_B"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 4,
+    "Colors": {},
+    "Scalars": {
+      "Emissive Texture Intensity": 0.1,
+      "Specular": 0.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "bOverride_BlendMode": true,
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_ClearCoat",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "SubsurfaceProfile": {
+        "ObjectName": "SubsurfaceProfile'SP_CharacterBodyBase'",
+        "ObjectPath": "Pal/Content/Pal/Material/Character/Common/SP_CharacterBodyBase.0"
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

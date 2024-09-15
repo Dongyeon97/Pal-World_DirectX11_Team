@@ -1,0 +1,612 @@
+{
+    "Dots Stroke": {
+        "texture_count": 0,
+        "shader_name": "",
+        "textures": []
+    },
+    "MI_Alder_Hero_Field_Leaf.mat": {
+        "texture_count": 3,
+        "shader_name": "M_PalLit_Foliage",
+        "textures": [
+            {
+                "name": "Alder_Hero_Field_Color",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/tree/b00/SpeedTree/Texture/Alder_Hero_Field_Color.png"
+            },
+            {
+                "name": "Alder_Hero_Field_Normal",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/tree/b00/SpeedTree/Texture/Alder_Hero_Field_Normal.png"
+            },
+            {
+                "name": "Alder_Hero_Field_Subsurface",
+                "usage": "Subsurface Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/tree/b00/SpeedTree/Texture/Alder_Hero_Field_Subsurface.png"
+            }
+        ]
+    },
+    "MI_Alder_Hero_Field_Stem.mat": {
+        "texture_count": 2,
+        "shader_name": "M_PalLit_Foliage",
+        "textures": [
+            {
+                "name": "Bark_Color",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/tree/b00/SpeedTree/Texture/Bark_Color.png"
+            },
+            {
+                "name": "Bark_Normal",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/tree/b00/SpeedTree/Texture/Bark_Normal.png"
+            }
+        ]
+    },
+    "MI_Impostor26.mat": {
+        "texture_count": 2,
+        "shader_name": "M_Impostor_SimpleOffset",
+        "textures": [
+            {
+                "name": "T_Impostor_BaseColor26",
+                "usage": "BaseColor",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/b00/NaturePackage/Material/impostor/T_Impostor_BaseColor26.png"
+            },
+            {
+                "name": "T_Impostor_Normal26",
+                "usage": "Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/b00/NaturePackage/Material/impostor/T_Impostor_Normal26.png"
+            }
+        ]
+    },
+    "MI_Impostor6.mat": {
+        "texture_count": 2,
+        "shader_name": "M_Impostor_SimpleOffset_2",
+        "textures": [
+            {
+                "name": "T_Impostor_BaseColor4",
+                "usage": "BaseColor",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/b00/NaturePackage/Material/impostor/T_Impostor_BaseColor4.png"
+            },
+            {
+                "name": "T_Impostor_Normal4",
+                "usage": "Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/b00/NaturePackage/Material/impostor/T_Impostor_Normal4.png"
+            }
+        ]
+    },
+    "MI_Impostor9.mat": {
+        "texture_count": 2,
+        "shader_name": "M_Impostor_SimpleOffset_2",
+        "textures": [
+            {
+                "name": "T_Impostor_BaseColor11",
+                "usage": "BaseColor",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/tree/b00/SpeedTree/Texture/impostor/T_Impostor_BaseColor11.png"
+            },
+            {
+                "name": "T_Impostor_Normal11",
+                "usage": "Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/tree/b00/SpeedTree/Texture/impostor/T_Impostor_Normal11.png"
+            }
+        ]
+    },
+    "MI_Oak_White_Bark.mat": {
+        "texture_count": 2,
+        "shader_name": "M_PalLit_Foliage",
+        "textures": [
+            {
+                "name": "T_Bark_C",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\tree\\b00\\SpeedTree\\Texture\\oak\\T_Bark_C.png"
+            },
+            {
+                "name": "T_Bark_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\tree\\b00\\SpeedTree\\Texture\\oak\\T_Bark_N.png"
+            }
+        ]
+    },
+    "MI_Oak_White_Desktop_Field_3_001.mat": {
+        "texture_count": 3,
+        "shader_name": "M_PalLit_Foliage",
+        "textures": [
+            {
+                "name": "T_Oak_White_Desktop_Field_3_001_D",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\tree\\b00\\SpeedTree\\Texture\\oak\\T_Oak_White_Desktop_Field_3_001_D.png"
+            },
+            {
+                "name": "T_Oak_White_Desktop_Field_3_001_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\tree\\b00\\SpeedTree\\Texture\\oak\\T_Oak_White_Desktop_Field_3_001_N.png"
+            },
+            {
+                "name": "T_Oak_White_Desktop_Field_3_001_S",
+                "usage": "Subsurface Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\tree\\b00\\SpeedTree\\Texture\\oak\\T_Oak_White_Desktop_Field_3_001_S.png"
+            }
+        ]
+    },
+    "MI_Oak_White_Desktop_Field_Red.mat": {
+        "texture_count": 3,
+        "shader_name": "M_PalLit_Foliage",
+        "textures": [
+            {
+                "name": "Oak_White_Desktop_Field_3_Red_Color_tga_Tex",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/tree/b00/SpeedTree/Texture/oak/Oak_White_Desktop_Field_3_Red_Color_tga_Tex.png"
+            },
+            {
+                "name": "T_Oak_White_Desktop_Field_3_001_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\tree\\b00\\SpeedTree\\Texture\\oak\\T_Oak_White_Desktop_Field_3_001_N.png"
+            },
+            {
+                "name": "Oak_White_Desktop_Field_3_Red_Subsurface_tga_Tex",
+                "usage": "Subsurface Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/tree/b00/SpeedTree/Texture/oak/Oak_White_Desktop_Field_3_Red_Subsurface_tga_Tex.png"
+            }
+        ]
+    },
+    "MI_Oak_White_Desktop_Field_Yellow.mat": {
+        "texture_count": 3,
+        "shader_name": "M_PalLit_Foliage",
+        "textures": [
+            {
+                "name": "Oak_White_Desktop_Field_3_Yellow_Color_tga_Tex",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/tree/b00/SpeedTree/Texture/oak/Oak_White_Desktop_Field_3_Yellow_Color_tga_Tex.png"
+            },
+            {
+                "name": "T_Oak_White_Desktop_Field_3_001_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\tree\\b00\\SpeedTree\\Texture\\oak\\T_Oak_White_Desktop_Field_3_001_N.png"
+            },
+            {
+                "name": "Oak_White_Desktop_Field_3_Yellow_Subsurface_tga_Tex",
+                "usage": "Subsurface Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/tree/b00/SpeedTree/Texture/oak/Oak_White_Desktop_Field_3_Yellow_Subsurface_tga_Tex.png"
+            }
+        ]
+    },
+    "MI_pal_b00_Bark_Frond.mat": {
+        "texture_count": 2,
+        "shader_name": "M_PalLit_Env",
+        "textures": [
+            {
+                "name": "T_pal_b00_Bark_D",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Texture/Stage/grass_bush/b00/T_pal_b00_Bark_D.png"
+            },
+            {
+                "name": "T_pal_b00_T_pal_b00_Bark_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Texture/Stage/grass_bush/b00/T_pal_b00_T_pal_b00_Bark_N.png"
+            }
+        ]
+    },
+    "MI_pal_b00_coco_Frond_.mat": {
+        "texture_count": 2,
+        "shader_name": "M_PalLit_Foliage",
+        "textures": [
+            {
+                "name": "T_pal_b00_COCO_PALM_a_D",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Texture/Stage/tree/b00/T_pal_b00_COCO_PALM_a_D.png"
+            },
+            {
+                "name": "T_pal_b00_COCO_PALM_a_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Texture/Stage/tree/b00/T_pal_b00_COCO_PALM_a_N.png"
+            }
+        ]
+    },
+    "MI_pal_b00_flower_Branch.mat": {
+        "texture_count": 2,
+        "shader_name": "M_PalLit_Foliage",
+        "textures": [
+            {
+                "name": "T_pal_b00_flower_D",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Texture/Stage/grass_bush/b00/T_pal_b00_flower_D.png"
+            },
+            {
+                "name": "T_pal_b00_flower_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Texture/Stage/grass_bush/b00/T_pal_b00_flower_N.png"
+            }
+        ]
+    },
+    "MI_pal_b00_Frond_Branch.mat": {
+        "texture_count": 2,
+        "shader_name": "M_PalLit_Foliage",
+        "textures": [
+            {
+                "name": "T_pal_b00_Frond_D",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Texture/Stage/grass_bush/b00/T_pal_b00_Frond_D.png"
+            },
+            {
+                "name": "T_pal_b00_Frond_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Texture/Stage/grass_bush/b00/T_pal_b00_Frond_N.png"
+            }
+        ]
+    },
+    "MI_pal_b00_palm_tree_type1_1_Frond.mat": {
+        "texture_count": 2,
+        "shader_name": "M_PalLit_Foliage",
+        "textures": [
+            {
+                "name": "T_pal_b00_palm_tree_type1_1_D",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Texture/Stage/grass_bush/b00/T_pal_b00_palm_tree_type1_1_D.png"
+            },
+            {
+                "name": "T_pal_b00_palm_tree_type1_1_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Texture/Stage/grass_bush/b00/T_pal_b00_palm_tree_type1_1_N.png"
+            }
+        ]
+    },
+    "MI_pal_b00_palm_tree_type1_1_Leaf.mat": {
+        "texture_count": 2,
+        "shader_name": "M_PalLit_Foliage",
+        "textures": [
+            {
+                "name": "T_pal_b00_palm_tree_type1_1_D",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Texture/Stage/grass_bush/b00/T_pal_b00_palm_tree_type1_1_D.png"
+            },
+            {
+                "name": "T_pal_b00_palm_tree_type1_1_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Texture/Stage/grass_bush/b00/T_pal_b00_palm_tree_type1_1_N.png"
+            }
+        ]
+    },
+    "MI_pal_b00_PalmBark_Frond.mat": {
+        "texture_count": 2,
+        "shader_name": "M_PalLit_Env",
+        "textures": [
+            {
+                "name": "T_pal_b00_PalmBark_D",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Texture/Stage/tree/b00/T_pal_b00_PalmBark_D.png"
+            },
+            {
+                "name": "T_pal_b00_PalmBark_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Texture/Stage/tree/b00/T_pal_b00_PalmBark_N.png"
+            }
+        ]
+    },
+    "MI_pal_b00_stone.mat": {
+        "texture_count": 7,
+        "shader_name": "M_PalLit_Top",
+        "textures": [
+            {
+                "name": "T_pal_b00_stone_D",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Texture\\Stage\\cliff_rock_stone\\SP_BrushUp\\T_pal_b00_stone_D.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_D",
+                "usage": "Detail Diffuse",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_D.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_N",
+                "usage": "Detail Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_N.png"
+            },
+            {
+                "name": "DefaultMaskMap",
+                "usage": "MetallicRoughnessOcclusionSpecularTexture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Material\\DefaultMaskMap.png"
+            },
+            {
+                "name": "T_pal_b00_stone_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Texture\\Stage\\cliff_rock_stone\\SP_BrushUp\\T_pal_b00_stone_N.png"
+            },
+            {
+                "name": "Grass0073_D",
+                "usage": "Top Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\LandscapeAutoMaterial\\Textures\\Tiles\\Grass01\\Grass0073_D.png"
+            },
+            {
+                "name": "vebkaeys_4K_Normal",
+                "usage": "Top Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Field_Asset_CustomLargeCliff\\Texture\\vebkaeys_4K_Normal.png"
+            }
+        ]
+    },
+    "MI_pal_b00_stone_StoneBoulder_10_Medium_Rock_1.mat": {
+        "texture_count": 7,
+        "shader_name": "M_PalLit_Top",
+        "textures": [
+            {
+                "name": "T_pal_b00_stone_StoneBoulder_10_Medium_Rock_1_D",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Texture\\Stage\\cliff_rock_stone\\SP_BrushUp\\T_pal_b00_stone_StoneBoulder_10_Medium_Rock_1_D.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_D",
+                "usage": "Detail Diffuse",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_D.png"
+            },
+            {
+                "name": "T_Rocky_Ground_wgupdij_4K_N",
+                "usage": "Detail Normal",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Megascans\\Surfaces\\Rocky_Ground_wgupdij\\T_Rocky_Ground_wgupdij_4K_N.png"
+            },
+            {
+                "name": "DefaultMaskMap",
+                "usage": "MetallicRoughnessOcclusionSpecularTexture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Material\\DefaultMaskMap.png"
+            },
+            {
+                "name": "T_pal_b00_stone_StoneBoulder_10_Medium_Rock_1_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Texture\\Stage\\cliff_rock_stone\\SP_BrushUp\\T_pal_b00_stone_StoneBoulder_10_Medium_Rock_1_N.png"
+            },
+            {
+                "name": "Grass0073_D",
+                "usage": "Top Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\LandscapeAutoMaterial\\Textures\\Tiles\\Grass01\\Grass0073_D.png"
+            },
+            {
+                "name": "vebkaeys_4K_Normal",
+                "usage": "Top Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Field_Asset_CustomLargeCliff\\Texture\\vebkaeys_4K_Normal.png"
+            }
+        ]
+    },
+    "MI_pal_b00_tree_Fir_Stump_L_02_NordicConiferBiome.mat": {
+        "texture_count": 2,
+        "shader_name": "M_PalLit_Env",
+        "textures": [
+            {
+                "name": "T_pal_b00_tree_Fir_Stump_L_02_NordicConiferBiome_D",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\NordicConiferBiome\\Textures\\T_pal_b00_tree_Fir_Stump_L_02_NordicConiferBiome_D.png"
+            },
+            {
+                "name": "T_pal_b00_tree_Fir_Stump_L_02_NordicConiferBiome_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\NordicConiferBiome\\Textures\\T_pal_b00_tree_Fir_Stump_L_02_NordicConiferBiome_N.png"
+            }
+        ]
+    },
+    "MI_PalLit_Yucca_Leaves.mat": {
+        "texture_count": 2,
+        "shader_name": "M_PalLit_Foliage",
+        "textures": [
+            {
+                "name": "Palm_Yucca_Desktop_001_Color_tga_Tex",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/tree/b00/SpeedTree/Texture/Palm_Yucca_Desktop_001_Color_tga_Tex.png"
+            },
+            {
+                "name": "Palm_Yucca_Desktop_001_Normal_tga_Tex",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/tree/b00/SpeedTree/Texture/Palm_Yucca_Desktop_001_Normal_tga_Tex.png"
+            }
+        ]
+    },
+    "MI_PalLit_Yucca_TreeTrunk.mat": {
+        "texture_count": 2,
+        "shader_name": "M_PalLit_Foliage",
+        "textures": [
+            {
+                "name": "Palm_Yucca_bark_1_Color_tga_Tex",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/tree/b00/SpeedTree/Texture/Palm_Yucca_bark_1_Color_tga_Tex.png"
+            },
+            {
+                "name": "Palm_Yucca_bark_1_Normal_tga_Tex",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/tree/b00/SpeedTree/Texture/Palm_Yucca_bark_1_Normal_tga_Tex.png"
+            }
+        ]
+    },
+    "MI_Rock_Formation_3": {
+        "texture_count": 0,
+        "shader_name": "",
+        "textures": []
+    },
+    "MI_Rock_Formation_3.mat": {
+        "texture_count": 4,
+        "shader_name": "M_PalLit_Top",
+        "textures": [
+            {
+                "name": "T_pal_b00_Lordenfel_Rock_Surface_01_BC",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Field_Asset_CustomLargeCliff\\Texture\\T_pal_b00_Lordenfel_Rock_Surface_01_BC.png"
+            },
+            {
+                "name": "T_pal_b00_Lordenfel_Stone_Damaged_01_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Lordenfel\\Textures\\T_pal_b00_Lordenfel_Stone_Damaged_01_N.png"
+            },
+            {
+                "name": "Grass0073_D",
+                "usage": "Top Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Others\\LandscapeAutoMaterial\\Textures\\Tiles\\Grass01\\Grass0073_D.png"
+            },
+            {
+                "name": "vebkaeys_4K_Normal",
+                "usage": "Top Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\b00\\Field_Asset_CustomLargeCliff\\Texture\\vebkaeys_4K_Normal.png"
+            }
+        ]
+    },
+    "MI_Spruce_Norway_Desktop_Bark.mat": {
+        "texture_count": 2,
+        "shader_name": "M_PalLit_Foliage",
+        "textures": [
+            {
+                "name": "Bark_Color_tga_Tex",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/tree/b00/SpeedTree/Texture/Spruce/Bark_Color_tga_Tex.png"
+            },
+            {
+                "name": "Bark_Normal_tga_Tex",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/tree/b00/SpeedTree/Texture/Spruce/Bark_Normal_tga_Tex.png"
+            }
+        ]
+    },
+    "MI_Spruce_Norway_Desktop_Leaves.mat": {
+        "texture_count": 3,
+        "shader_name": "M_PalLit_Foliage",
+        "textures": [
+            {
+                "name": "Spruce_Norway_Desktop_1_Forest_001_Color_tga_Tex",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/tree/b00/SpeedTree/Texture/Spruce/Spruce_Norway_Desktop_1_Forest_001_Color_tga_Tex.png"
+            },
+            {
+                "name": "Spruce_Norway_Desktop_1_Forest_001_Normal_tga_Tex",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/tree/b00/SpeedTree/Texture/Spruce/Spruce_Norway_Desktop_1_Forest_001_Normal_tga_Tex.png"
+            },
+            {
+                "name": "Spruce_Norway_Desktop_1_Forest_001_Subsurface_tga_Tex",
+                "usage": "Subsurface Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/tree/b00/SpeedTree/Texture/Spruce/Spruce_Norway_Desktop_1_Forest_001_Subsurface_tga_Tex.png"
+            }
+        ]
+    },
+    "MI_Sycamore_American_Hero_Field_Stem": {
+        "texture_count": 0,
+        "shader_name": "",
+        "textures": []
+    },
+    "MI_Sycamore_American_Hero_Field_Stem.mat": {
+        "texture_count": 2,
+        "shader_name": "M_PalLit_Foliage",
+        "textures": [
+            {
+                "name": "T_Sycamore_American_Main_Bark_Color",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/tree/b00/SpeedTree/Texture/T_Sycamore_American_Main_Bark_Color.png"
+            },
+            {
+                "name": "T_Sycamore_American_Main_Bark_Normal",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal/Content/Pal/Model/Stage/tree/b00/SpeedTree/Texture/T_Sycamore_American_Main_Bark_Normal.png"
+            }
+        ]
+    },
+    "pal_b00_grass_flowers_2.mat": {
+        "texture_count": 2,
+        "shader_name": "M_PalLit_Foliage",
+        "textures": [
+            {
+                "name": "pal_b00_grass_flowers_D",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Texture\\Stage\\grass_bush\\b00\\pal_b00_grass_flowers_D.png"
+            },
+            {
+                "name": "pal_b00_grass_flowers_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Texture\\Stage\\grass_bush\\b00\\pal_b00_grass_flowers_N.png"
+            }
+        ]
+    },
+    "pal_b00_grass_MI_Fern_01.mat": {
+        "texture_count": 2,
+        "shader_name": "M_PalLit_Foliage",
+        "textures": [
+            {
+                "name": "pal_b00_grass_T_Fern_01_BC",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Texture\\Stage\\grass_bush\\b00\\pal_b00_grass_T_Fern_01_BC.png"
+            },
+            {
+                "name": "pal_b00_grass_T_Fern_01_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Texture\\Stage\\grass_bush\\b00\\pal_b00_grass_T_Fern_01_N.png"
+            }
+        ]
+    },
+    "pal_b00_GrassFoliage.mat": {
+        "texture_count": 4,
+        "shader_name": "M_PalLit_Foliage",
+        "textures": [
+            {
+                "name": "T_pal_b00_foliageGrass_01_D",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\grass_bush\\textures\\T_pal_b00_foliageGrass_01_D.png"
+            },
+            {
+                "name": "T_pal_b00_foliageGrass_01_M",
+                "usage": "MetallicRoughnessOcclusionSpecularTexture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\grass_bush\\textures\\T_pal_b00_foliageGrass_01_M.png"
+            },
+            {
+                "name": "T_pal_b00_foliageGrass_01_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\grass_bush\\textures\\T_pal_b00_foliageGrass_01_N.png"
+            },
+            {
+                "name": "Leave1_Sub_tex",
+                "usage": "Subsurface Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\GrassSV_MaterialPack\\Texture\\Leave1_Sub_tex.png"
+            }
+        ]
+    },
+    "pal_b00_GrassFoliage_2.mat": {
+        "texture_count": 4,
+        "shader_name": "M_PalLit_Foliage",
+        "textures": [
+            {
+                "name": "T_pal_b00_foliageGrass_01_D",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\grass_bush\\textures\\T_pal_b00_foliageGrass_01_D.png"
+            },
+            {
+                "name": "T_pal_b00_foliageGrass_01_M",
+                "usage": "MetallicRoughnessOcclusionSpecularTexture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\grass_bush\\textures\\T_pal_b00_foliageGrass_01_M.png"
+            },
+            {
+                "name": "T_pal_b00_foliageGrass_01_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\grass_bush\\textures\\T_pal_b00_foliageGrass_01_N.png"
+            },
+            {
+                "name": "T_pal_b00_foliageGrass_01_D",
+                "usage": "Subsurface Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\grass_bush\\textures\\T_pal_b00_foliageGrass_01_D.png"
+            }
+        ]
+    },
+    "pal_b00_GrassFoliage_3.mat": {
+        "texture_count": 4,
+        "shader_name": "M_PalLit_Foliage",
+        "textures": [
+            {
+                "name": "T_pal_b00_foliageGrass_01_D",
+                "usage": "Base Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\grass_bush\\textures\\T_pal_b00_foliageGrass_01_D.png"
+            },
+            {
+                "name": "T_pal_b00_foliageGrass_01_M",
+                "usage": "MetallicRoughnessOcclusionSpecularTexture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\grass_bush\\textures\\T_pal_b00_foliageGrass_01_M.png"
+            },
+            {
+                "name": "T_pal_b00_foliageGrass_01_N",
+                "usage": "Normal Map",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\Pal\\Model\\Stage\\grass_bush\\textures\\T_pal_b00_foliageGrass_01_N.png"
+            },
+            {
+                "name": "Leave1_Sub_tex",
+                "usage": "Subsurface Texture",
+                "path": "G:\\Jusin\\PalWorld\\Local Resourcel Tool\\Resource\\Blender Output\\Pal\\Content\\GrassSV_MaterialPack\\Texture\\Leave1_Sub_tex.png"
+            }
+        ]
+    }
+}

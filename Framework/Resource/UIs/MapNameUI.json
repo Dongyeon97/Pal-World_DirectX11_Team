@@ -1,0 +1,185 @@
+{
+    "Child Panel Size": 0,
+    "Panels0": {
+        "Panel Name": "MapNameUI",
+        "Panel Projection Type": 0,
+        "Panel Depth": 0,
+        "Panel Pivot Component Name": "",
+        "Components Size": 1,
+        "Components0": [
+          {
+            "Component Name": "NameAnimation",
+            "Render Type": 6,
+            "UI Type": 1,
+            "ShaderFileName": "FX_UIOrthogonal_PS",
+            "PassIndex": 5,
+            "Center": [
+              640.0,
+              200.0
+            ],
+            "World Position": [
+              0.0,
+              160.0,
+              0.0
+            ],
+            "Scale": [
+              449.0,
+              76.0,
+              1.0
+            ],
+            "Angle": 0.0,
+            "Depth": 5,
+            "Ratio": 1.0,
+            "Color": [
+              1.0,
+              1.0,
+              1.0,
+              1.0
+            ],
+            "Alpha": 0.0,
+            "Mask Texture Name": "",
+            "IsMask": false,
+            "IsAlpha": true,
+            "IsColor": false,
+            "RelativeCenter": [
+              0.0,
+              0.0
+            ],
+            "IsRelative": false,
+            "IsInteraction": false,
+            "Animation Texture Name": "T_Wind_NameImage0",
+            "EasingType": 1,
+            "Loop": false,
+            "Start Index": 0,
+            "End Index": 3,
+            "KeyFrame Size": 4,
+            "KeyFrames": [
+              {
+                "KeyFrame0": [
+                  {
+                    "KeyFrame Name": 0.0,
+                    "KeyFrame Time": 0.0,
+                    "KeyFrame Position": [
+                      640.0,
+                      200.0,
+                      0.0
+                    ],
+                    "KeyFrame RelativeCenter": [
+                      0.0,
+                      0.0
+                    ],
+                    "KeyFrame Scale": [
+                      449.0,
+                      76.0,
+                      0.0
+                    ],
+                    "KeyFrame Angle": 0.0,
+                    "KeyFrame Color": [
+                      1.0,
+                      1.0,
+                      1.0,
+                      1.0
+                    ],
+                    "KeyFrame Alpha": 0.0,
+                    "KeyFrame Speed": 0.0
+                  }
+                ]
+              },
+              {
+                "KeyFrame1": [
+                  {
+                    "KeyFrame Name": 0.5,
+                    "KeyFrame Time": 0.5,
+                    "KeyFrame Position": [
+                      640.0,
+                      200.0,
+                      0.0
+                    ],
+                    "KeyFrame RelativeCenter": [
+                      0.0,
+                      0.0
+                    ],
+                    "KeyFrame Scale": [
+                      449.0,
+                      76.0,
+                      1.0
+                    ],
+                    "KeyFrame Angle": 0.0,
+                    "KeyFrame Color": [
+                      1.0,
+                      1.0,
+                      1.0,
+                      1.0
+                    ],
+                    "KeyFrame Alpha": 1.0,
+                    "KeyFrame Speed": 0.0
+                  }
+                ]
+              },
+              {
+                "KeyFrame2": [
+                  {
+                    "KeyFrame Name": 3.0,
+                    "KeyFrame Time": 3.0,
+                    "KeyFrame Position": [
+                      640.0,
+                      200.0,
+                      0.0
+                    ],
+                    "KeyFrame RelativeCenter": [
+                      0.0,
+                      0.0
+                    ],
+                    "KeyFrame Scale": [
+                      449.0,
+                      76.0,
+                      1.0
+                    ],
+                    "KeyFrame Angle": 0.0,
+                    "KeyFrame Color": [
+                      1.0,
+                      1.0,
+                      1.0,
+                      1.0
+                    ],
+                    "KeyFrame Alpha": 1.0,
+                    "KeyFrame Speed": 0.0
+                  }
+                ]
+              },
+              {
+                "KeyFrame3": [
+                  {
+                    "KeyFrame Name": 5.0,
+                    "KeyFrame Time": 5.0,
+                    "KeyFrame Position": [
+                      640.0,
+                      200.0,
+                      0.0
+                    ],
+                    "KeyFrame RelativeCenter": [
+                      0.0,
+                      0.0
+                    ],
+                    "KeyFrame Scale": [
+                      449.0,
+                      76.0,
+                      1.0
+                    ],
+                    "KeyFrame Angle": 0.0,
+                    "KeyFrame Color": [
+                      1.0,
+                      1.0,
+                      1.0,
+                      1.0
+                    ],
+                    "KeyFrame Alpha": 0.0,
+                    "KeyFrame Speed": 0.0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+    }
+}

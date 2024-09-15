@@ -1,0 +1,16 @@
+[
+	{
+		"Duration" : 0.0,
+		"EndTime" : 0.36056667566299438,
+		"SoundID" : "Pal_Footstep_Base_L_B_02_376009922",
+		"StartTime" : 0.36056667566299438,
+		"Type" : "Sound"
+	},
+	{
+		"Duration" : 0.0,
+		"EndTime" : 0.064366668462753296,
+		"SoundID" : "Pal_Footstep_Base_L_A_903555371",
+		"StartTime" : 0.064366668462753296,
+		"Type" : "Sound"
+	}
+]

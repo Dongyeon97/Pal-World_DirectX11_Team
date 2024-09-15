@@ -1,0 +1,198 @@
+{
+  "Effect Group Name": "Group_Watering",
+  "Duration": 2.0,
+  "Loop": false,
+  "Is Collider": false,
+  "Collider Type": 5,
+  "Collision Flag": 3,
+  "Collision Layer": 2097153,
+  "Sphere Collider Radius": 0.0,
+  "Box Collider Extents": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Box Collider LocalPosition": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Box Collider LocalRotate": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Sound Name": "BubbleShot_01_Loop_965857489",
+  "Sound Loop": true,
+  "Sound Value": 1.0,
+  "Effects": [
+    {
+      "Effect Name": "Particle - WaterTest",
+      "RenderType": 9,
+      "EffectType": 0,
+      "ParticleType": 1,
+      "Effect Shader Name": "FX_Instancing_PRULPC",
+      "Use Diffuse Texture": true,
+      "Diffuse Texture Name": "Eff_Sc_Matcap_04_WaterBall",
+      "Use Mask Texture": false,
+      "Mask Texture Name": "",
+      "Is Sprite": false,
+      "Sprite Row": 1,
+      "Sprite Col": 1,
+      "Sprite Speed": 1.0,
+      "Is Loop": true,
+      "Is Billboard": true,
+      "Is Directional": false,
+      "Is Gravity": true,
+      "Is Glow": false,
+      "Is Bloom": true,
+      "Is AlphaAttenuation": false,
+      "Gravity Value": 0.9,
+      "Glow Weight": 0.0,
+      "Bloom Weight": 0.0,
+      "AlphaAttenuation Weight": 0.0,
+      "Random Life Time": true,
+      "Life Time": [
+        0.0,
+        1.0
+      ],
+      "Num Instance": 100,
+      "Size": [
+        0.05,
+        0.3
+      ],
+      "Color1": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Color2": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Color3": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Speed": [
+        2.0,
+        10.0
+      ],
+      "Offset": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Pivot": [
+        0.0,
+        1.0,
+        1.0
+      ],
+      "Range": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Rotation Per Second": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Radius": [
+        0.0010000000474974513,
+        0.0010000000474974513
+      ],
+      "Num KeyFrames": 0,
+      "KeyFrames": []
+    },
+    {
+      "Effect Name": "Particle - Watering2",
+      "RenderType": 9,
+      "EffectType": 0,
+      "ParticleType": 1,
+      "Effect Shader Name": "FX_Instancing_PRULPC",
+      "Use Diffuse Texture": true,
+      "Diffuse Texture Name": "Eff_Sc_Matcap_03_Rain",
+      "Use Mask Texture": false,
+      "Mask Texture Name": "",
+      "Is Sprite": false,
+      "Sprite Row": 1,
+      "Sprite Col": 1,
+      "Sprite Speed": 1.0,
+      "Is Loop": true,
+      "Is Billboard": true,
+      "Is Directional": false,
+      "Is Gravity": true,
+      "Is Glow": false,
+      "Is Bloom": true,
+      "Is AlphaAttenuation": false,
+      "Gravity Value": 0.9,
+      "Glow Weight": 0.0,
+      "Bloom Weight": 0.0,
+      "AlphaAttenuation Weight": 0.0,
+      "Random Life Time": true,
+      "Life Time": [
+        0.0,
+        1.0
+      ],
+      "Num Instance": 100,
+      "Size": [
+        0.05,
+        0.3
+      ],
+      "Color1": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Color2": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Color3": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Speed": [
+        2.0,
+        10.0
+      ],
+      "Offset": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Pivot": [
+        0.0,
+        1.0,
+        1.0
+      ],
+      "Range": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Rotation Per Second": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Radius": [
+        0.0010000000474974513,
+        0.0010000000474974513
+      ],
+      "Num KeyFrames": 0,
+      "KeyFrames": []
+    }
+  ]
+}

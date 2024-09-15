@@ -1,0 +1,51 @@
+{
+  "Textures": {
+    "PM_Diffuse": "Pal/Content/Pal/Model/Character/Player/Eye/Eye001/T_Player_Eye001_CM.T_Player_Eye001_CM",
+    "BaseColor Mask": "Pal/Content/Pal/Model/Character/Player/Eye/Eye001/T_Player_Eye001_CM.T_Player_Eye001_CM",
+    "Eye Cornea Texture": "Pal/Content/Pal/Model/Character/NPC/Boss/ElectricBoss/SK_NPC_ElectricBossHead001/T_NPC_ElectricBossEye001_Cornea.T_NPC_ElectricBossEye001_Cornea",
+    "T_NPC_ElectricBossEye001_Cornea": "Pal/Content/Pal/Model/Character/NPC/Boss/ElectricBoss/SK_NPC_ElectricBossHead001/T_NPC_ElectricBossEye001_Cornea.T_NPC_ElectricBossEye001_Cornea",
+    "Eye Pupil Texture": "Pal/Content/Pal/Model/Character/Player/Eye/Eye001/T_Player_Eye001_Pupil.T_Player_Eye001_Pupil",
+    "T_Player_Eye001_Pupil": "Pal/Content/Pal/Model/Character/Player/Eye/Eye001/T_Player_Eye001_Pupil.T_Player_Eye001_Pupil",
+    "Eye White Texture": "Pal/Content/Pal/Model/Character/NPC/Boss/ElectricBoss/SK_NPC_ElectricBossHead001/T_NPC_ElectricBossEye001_White.T_NPC_ElectricBossEye001_White",
+    "T_NPC_ElectricBossEye001_White": "Pal/Content/Pal/Model/Character/NPC/Boss/ElectricBoss/SK_NPC_ElectricBossHead001/T_NPC_ElectricBossEye001_White.T_NPC_ElectricBossEye001_White"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 9,
+    "Colors": {},
+    "Scalars": {
+      "Eye Cornea Height": 0.0,
+      "Eye Pupil Height": -1.088087,
+      "Contrast": 1.3,
+      "Saturation": -0.752,
+      "Value": 1.5,
+      "Jewel Opacity": 0.0,
+      "Jewel Refract Color Power": 4.416,
+      "Jewel Refract Color Rate": 0.0,
+      "Jewel Refraction": 1.0,
+      "Roughness": 0.1,
+      "Specular": 0.1,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "bOverride_ShadingModel": true,
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_Eye",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "SubsurfaceProfile": {
+        "ObjectName": "SubsurfaceProfile'SP_CharacterBodyBase'",
+        "ObjectPath": "Pal/Content/Pal/Material/Character/Common/SP_CharacterBodyBase.0"
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

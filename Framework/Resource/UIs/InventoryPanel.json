@@ -1,0 +1,6026 @@
+{
+    "Child Panel Size": 3,
+    "Panels0": {
+        "Panel Name": "InventoryPanel",
+        "Panel Projection Type": 0,
+        "Panel Depth": 20,
+        "Panel Pivot Component Name": "",
+        "Components Size": 2,
+        "Components0": [
+            {
+                "Component Name": "background",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    640.0,
+                    360.0
+                ],
+                "World Position": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1280.0,
+                    720.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 20,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": true,
+                "IsColor": false,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Image Texture Name": "T_Inventory_base_blur_panel",
+                "Image Type": 1
+            }
+        ],
+        "Components1": [
+            {
+                "Component Name": "base",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    640.0,
+                    325.0
+                ],
+                "World Position": [
+                    0.0,
+                    35.0,
+                    0.0
+                ],
+                "Scale": [
+                    1003.0,
+                    625.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 21,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": false,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Image Texture Name": "T_Inventory_base_panel",
+                "Image Type": 0
+            }
+        ]
+    },
+    "Panels1": {
+        "Panel Name": "Inventory_slot",
+        "Panel Projection Type": 0,
+        "Panel Depth": 21,
+        "Panel Pivot Component Name": "",
+        "Components Size": 123,
+        "Components0": [
+            {
+                "Component Name": "accessory_slot_00",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    574.0,
+                    440.0
+                ],
+                "World Position": [
+                    -66.0,
+                    -80.0,
+                    0.0
+                ],
+                "Scale": [
+                    43.0,
+                    44.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 22,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": false,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": true,
+                "Image Texture Name": "T_Inventory_item_slot_none",
+                "Image Type": 0
+            }
+        ],
+        "Components1": [
+            {
+                "Component Name": "accessory_slot_10",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    574.0,
+                    494.0
+                ],
+                "World Position": [
+                    -66.0,
+                    -134.0,
+                    0.0
+                ],
+                "Scale": [
+                    43.0,
+                    44.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 22,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": false,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": true,
+                "Image Texture Name": "T_Inventory_item_slot_none",
+                "Image Type": 0
+            }
+        ],
+        "Components2": [
+            {
+                "Component Name": "atk_num_00",
+                "Render Type": 6,
+                "UI Type": 4,
+                "ShaderFileName": "",
+                "PassIndex": 0,
+                "Center": [
+                    1102.0,
+                    403.0
+                ],
+                "World Position": [
+                    462.0,
+                    -43.0,
+                    0.0
+                ],
+                "Scale": [
+                    0.4000000059604645,
+                    0.4000000059604645,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 22,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": true,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Font File Name": "OxaniumRegular30",
+                "Text": "100",
+                "Origin": [
+                    0.0,
+                    0.0
+                ],
+                "Option": 0,
+                "Text Type": 2
+            }
+        ],
+        "Components3": [
+            {
+                "Component Name": "body_slot_00",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    852.0,
+                    271.0
+                ],
+                "World Position": [
+                    212.0,
+                    89.0,
+                    0.0
+                ],
+                "Scale": [
+                    43.0,
+                    44.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 22,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": false,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": true,
+                "Image Texture Name": "T_Inventory_item_slot_none",
+                "Image Type": 0
+            }
+        ],
+        "Components4": [
+            {
+                "Component Name": "def_num_00",
+                "Render Type": 6,
+                "UI Type": 4,
+                "ShaderFileName": "",
+                "PassIndex": 0,
+                "Center": [
+                    1102.0,
+                    432.0
+                ],
+                "World Position": [
+                    462.0,
+                    -72.0,
+                    0.0
+                ],
+                "Scale": [
+                    0.4000000059604645,
+                    0.4000000059604645,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 22,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": true,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Font File Name": "OxaniumRegular30",
+                "Text": "100",
+                "Origin": [
+                    0.0,
+                    0.0
+                ],
+                "Option": 0,
+                "Text Type": 2
+            }
+        ],
+        "Components5": [
+            {
+                "Component Name": "discard_none",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    410.0,
+                    570.0
+                ],
+                "World Position": [
+                    -230.0,
+                    -210.0,
+                    0.0
+                ],
+                "Scale": [
+                    151.0,
+                    46.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 22,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": true,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": true,
+                "Image Texture Name": "T_Inventory_item_slot_none",
+                "Image Type": 0
+            }
+        ],
+        "Components6": [
+            {
+                "Component Name": "drop_discard_hover",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    100.0,
+                    682.0
+                ],
+                "World Position": [
+                    -540.0,
+                    -322.0,
+                    0.0
+                ],
+                "Scale": [
+                    166.0,
+                    61.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 23,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": false,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Image Texture Name": "T_Inventory_drop_discard_hover",
+                "Image Type": 0
+            }
+        ],
+        "Components7": [
+            {
+                "Component Name": "drop_none",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    250.0,
+                    570.0
+                ],
+                "World Position": [
+                    -390.0,
+                    -210.0,
+                    0.0
+                ],
+                "Scale": [
+                    151.0,
+                    46.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 22,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": true,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": true,
+                "Image Texture Name": "T_Inventory_item_slot_none",
+                "Image Type": 0
+            }
+        ],
+        "Components8": [
+            {
+                "Component Name": "energy_num_00",
+                "Render Type": 6,
+                "UI Type": 4,
+                "ShaderFileName": "",
+                "PassIndex": 0,
+                "Center": [
+                    1102.0,
+                    373.0
+                ],
+                "World Position": [
+                    462.0,
+                    -13.0,
+                    0.0
+                ],
+                "Scale": [
+                    0.4000000059604645,
+                    0.3100000023841858,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 22,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": true,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Font File Name": "OxaniumRegular30",
+                "Text": "100",
+                "Origin": [
+                    0.0,
+                    0.0
+                ],
+                "Option": 0,
+                "Text Type": 2
+            }
+        ],
+        "Components9": [
+            {
+                "Component Name": "exp_bar_00",
+                "Render Type": 6,
+                "UI Type": 5,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 3,
+                "Center": [
+                    1042.0,
+                    173.0
+                ],
+                "World Position": [
+                    402.0,
+                    187.0,
+                    0.0
+                ],
+                "Scale": [
+                    135.0,
+                    5.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 22,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": false,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Progress Texture Name": "T_Exp_bar"
+            }
+        ],
+        "Components10": [
+            {
+                "Component Name": "exp_bar_num_00",
+                "Render Type": 6,
+                "UI Type": 4,
+                "ShaderFileName": "",
+                "PassIndex": 0,
+                "Center": [
+                    1106.0,
+                    158.0
+                ],
+                "World Position": [
+                    466.0,
+                    202.0,
+                    0.0
+                ],
+                "Scale": [
+                    0.3100000023841858,
+                    0.3100000023841858,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 22,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": true,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Font File Name": "OxaniumRegular30",
+                "Text": "100/100",
+                "Origin": [
+                    0.0,
+                    0.0
+                ],
+                "Option": 0,
+                "Text Type": 2
+            }
+        ],
+        "Components11": [
+            {
+                "Component Name": "food_slot_00",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    604.0,
+                    577.0
+                ],
+                "World Position": [
+                    -36.0,
+                    -217.0,
+                    0.0
+                ],
+                "Scale": [
+                    43.0,
+                    44.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 22,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": false,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": true,
+                "Image Texture Name": "T_Inventory_item_slot_none",
+                "Image Type": 0
+            }
+        ],
+        "Components12": [
+            {
+                "Component Name": "food_slot_10",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    657.0,
+                    577.0
+                ],
+                "World Position": [
+                    17.0,
+                    -217.0,
+                    0.0
+                ],
+                "Scale": [
+                    43.0,
+                    44.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 22,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": false,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": true,
+                "Image Texture Name": "T_Inventory_item_slot_none",
+                "Image Type": 0
+            }
+        ],
+        "Components13": [
+            {
+                "Component Name": "food_slot_20",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    710.0,
+                    577.0
+                ],
+                "World Position": [
+                    70.0,
+                    -217.0,
+                    0.0
+                ],
+                "Scale": [
+                    43.0,
+                    44.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 22,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": false,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": true,
+                "Image Texture Name": "T_Inventory_item_slot_none",
+                "Image Type": 0
+            }
+        ],
+        "Components14": [
+            {
+                "Component Name": "food_slot_30",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    763.0,
+                    577.0
+                ],
+                "World Position": [
+                    123.0,
+                    -217.0,
+                    0.0
+                ],
+                "Scale": [
+                    43.0,
+                    44.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 22,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": false,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": true,
+                "Image Texture Name": "T_Inventory_item_slot_none",
+                "Image Type": 0
+            }
+        ],
+        "Components15": [
+            {
+                "Component Name": "food_slot_40",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    815.0,
+                    577.0
+                ],
+                "World Position": [
+                    175.0,
+                    -217.0,
+                    0.0
+                ],
+                "Scale": [
+                    43.0,
+                    44.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 22,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": false,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": true,
+                "Image Texture Name": "T_Inventory_item_slot_none",
+                "Image Type": 0
+            }
+        ],
+        "Components16": [
+            {
+                "Component Name": "glider_slot_00",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    851.0,
+                    440.0
+                ],
+                "World Position": [
+                    211.0,
+                    -80.0,
+                    0.0
+                ],
+                "Scale": [
+                    43.0,
+                    44.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 22,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": false,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": true,
+                "Image Texture Name": "T_Inventory_item_slot_none",
+                "Image Type": 0
+            }
+        ],
+        "Components17": [
+            {
+                "Component Name": "head_slot_00",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    852.0,
+                    187.0
+                ],
+                "World Position": [
+                    212.0,
+                    173.0,
+                    0.0
+                ],
+                "Scale": [
+                    43.0,
+                    44.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 22,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": false,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": true,
+                "Image Texture Name": "T_Inventory_item_slot_none",
+                "Image Type": 0
+            }
+        ],
+        "Components18": [
+            {
+                "Component Name": "hp_bar_00",
+                "Render Type": 6,
+                "UI Type": 5,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 3,
+                "Center": [
+                    1024.0,
+                    208.0
+                ],
+                "World Position": [
+                    384.0,
+                    152.0,
+                    0.0
+                ],
+                "Scale": [
+                    180.0,
+                    10.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 22,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": false,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Progress Texture Name": "T_Hp_bar"
+            }
+        ],
+        "Components19": [
+            {
+                "Component Name": "hp_bar_num_00",
+                "Render Type": 6,
+                "UI Type": 4,
+                "ShaderFileName": "",
+                "PassIndex": 0,
+                "Center": [
+                    935.0,
+                    203.0
+                ],
+                "World Position": [
+                    295.0,
+                    157.0,
+                    0.0
+                ],
+                "Scale": [
+                    0.3100000023841858,
+                    0.3100000023841858,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 23,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": true,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Font File Name": "OxaniumRegular30",
+                "Text": "100/100",
+                "Origin": [
+                    0.0,
+                    0.0
+                ],
+                "Option": 0,
+                "Text Type": 0
+            }
+        ],
+        "Components20": [
+            {
+                "Component Name": "hp_num_00",
+                "Render Type": 6,
+                "UI Type": 4,
+                "ShaderFileName": "",
+                "PassIndex": 0,
+                "Center": [
+                    1102.0,
+                    344.0
+                ],
+                "World Position": [
+                    462.0,
+                    16.0,
+                    0.0
+                ],
+                "Scale": [
+                    0.4000000059604645,
+                    0.3100000023841858,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 23,
+                "Ratio": 1.0,
+                "Color": [
+                    0.894514799118042,
+                    0.894514799118042,
+                    0.894514799118042,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": true,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Font File Name": "OxaniumRegular30",
+                "Text": "100",
+                "Origin": [
+                    0.0,
+                    0.0
+                ],
+                "Option": 0,
+                "Text Type": 2
+            }
+        ],
+        "Components21": [
+            {
+                "Component Name": "hunger_bar_00",
+                "Render Type": 6,
+                "UI Type": 5,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 3,
+                "Center": [
+                    1024.0,
+                    227.0
+                ],
+                "World Position": [
+                    384.0,
+                    133.0,
+                    0.0
+                ],
+                "Scale": [
+                    180.0,
+                    12.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 22,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": false,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Progress Texture Name": "T_Hunger_bar"
+            }
+        ],
+        "Components22": [
+            {
+                "Component Name": "hunger_bar_num_00",
+                "Render Type": 6,
+                "UI Type": 4,
+                "ShaderFileName": "",
+                "PassIndex": 0,
+                "Center": [
+                    935.0,
+                    222.0
+                ],
+                "World Position": [
+                    295.0,
+                    138.0,
+                    0.0
+                ],
+                "Scale": [
+                    0.3100000023841858,
+                    0.3100000023841858,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 23,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": true,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Font File Name": "OxaniumRegular30",
+                "Text": "100/100",
+                "Origin": [
+                    0.0,
+                    0.0
+                ],
+                "Option": 0,
+                "Text Type": 0
+            }
+        ],
+        "Components23": [
+            {
+                "Component Name": "item_slot_01",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    249.5,
+                    166.0
+                ],
+                "World Position": [
+                    -390.5,
+                    194.0,
+                    0.0
+                ],
+                "Scale": [
+                    43.0,
+                    44.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 22,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    0.5333333611488342,
+                    0.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": false,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": true,
+                "Image Texture Name": "T_Inventory_item_slot_none",
+                "Image Type": 0
+            }
+        ],
+        "Components24": [
+            {
+                "Component Name": "item_slot_00",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    197.0,
+                    166.0
+                ],
+                "World Position": [
+                    -443.0,
+                    194.0,
+                    0.0
+                ],
+                "Scale": [
+                    43.0,
+                    44.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 22,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    0.5333333611488342,
+                    0.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": false,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": true,
+                "Image Texture Name": "T_Inventory_item_slot_none",
+                "Image Type": 0
+            }
+        ],
+        "Components25": [
+            {
+                "Component Name": "item_slot_02",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    303.0,
+                    166.0
+                ],
+                "World Position": [
+                    -337.0,
+                    194.0,
+                    0.0
+                ],
+                "Scale": [
+                    43.0,
+                    44.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 22,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    0.5333333611488342,
+                    0.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": false,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": true,
+                "Image Texture Name": "T_Inventory_item_slot_none",
+                "Image Type": 0
+            }
+        ],
+        "Components26": [
+            {
+                "Component Name": "item_slot_03",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    355.0,
+                    166.0
+                ],
+                "World Position": [
+                    -285.0,
+                    194.0,
+                    0.0
+                ],
+                "Scale": [
+                    43.0,
+                    44.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 22,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    0.5333333611488342,
+                    0.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": false,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": true,
+                "Image Texture Name": "T_Inventory_item_slot_none",
+                "Image Type": 0
+            }
+        ],
+        "Components27": [
+            {
+                "Component Name": "item_slot_04",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    407.5,
+                    166.0
+                ],
+                "World Position": [
+                    -232.5,
+                    194.0,
+                    0.0
+                ],
+                "Scale": [
+                    43.0,
+                    44.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 22,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    0.5333333611488342,
+                    0.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": false,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": true,
+                "Image Texture Name": "T_Inventory_item_slot_none",
+                "Image Type": 0
+            }
+        ],
+        "Components28": [
+            {
+                "Component Name": "item_slot_05",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    460.0,
+                    166.0
+                ],
+                "World Position": [
+                    -180.0,
+                    194.0,
+                    0.0
+                ],
+                "Scale": [
+                    43.0,
+                    44.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 22,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    0.5316455364227295,
+                    0.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": false,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": true,
+                "Image Texture Name": "T_Inventory_item_slot_none",
+                "Image Type": 0
+            }
+        ],
+        "Components29": [
+            {
+                "Component Name": "item_slot_10",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    197.0,
+                    221.0
+                ],
+                "World Position": [
+                    -443.0,
+                    139.0,
+                    0.0
+                ],
+                "Scale": [
+                    43.0,
+                    44.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 22,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    0.5333333611488342,
+                    0.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": false,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": true,
+                "Image Texture Name": "T_Inventory_item_slot_none",
+                "Image Type": 0
+            }
+        ],
+        "Components30": [
+            {
+                "Component Name": "item_slot_11",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    249.5,
+                    221.0
+                ],
+                "World Position": [
+                    -390.5,
+                    139.0,
+                    0.0
+                ],
+                "Scale": [
+                    43.0,
+                    44.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 22,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    0.5333333611488342,
+                    0.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": false,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": true,
+                "Image Texture Name": "T_Inventory_item_slot_none",
+                "Image Type": 0
+            }
+        ],
+        "Components31": [
+            {
+                "Component Name": "item_slot_12",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    303.0,
+                    221.0
+                ],
+                "World Position": [
+                    -337.0,
+                    139.0,
+                    0.0
+                ],
+                "Scale": [
+                    43.0,
+                    44.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 22,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    0.5333333611488342,
+                    0.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": false,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": true,
+                "Image Texture Name": "T_Inventory_item_slot_none",
+                "Image Type": 0
+            }
+        ],
+        "Components32": [
+            {
+                "Component Name": "item_slot_13",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    355.0,
+                    221.0
+                ],
+                "World Position": [
+                    -285.0,
+                    139.0,
+                    0.0
+                ],
+                "Scale": [
+                    43.0,
+                    44.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 22,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    0.5333333611488342,
+                    0.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": false,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": true,
+                "Image Texture Name": "T_Inventory_item_slot_none",
+                "Image Type": 0
+            }
+        ],
+        "Components33": [
+            {
+                "Component Name": "item_slot_14",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    407.5,
+                    221.0
+                ],
+                "World Position": [
+                    -232.5,
+                    139.0,
+                    0.0
+                ],
+                "Scale": [
+                    43.0,
+                    44.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 22,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    0.5333333611488342,
+                    0.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": false,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": true,
+                "Image Texture Name": "T_Inventory_item_slot_none",
+                "Image Type": 0
+            }
+        ],
+        "Components34": [
+            {
+                "Component Name": "item_slot_15",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    460.0,
+                    221.0
+                ],
+                "World Position": [
+                    -180.0,
+                    139.0,
+                    0.0
+                ],
+                "Scale": [
+                    43.0,
+                    44.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 22,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    0.5333333611488342,
+                    0.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": false,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": true,
+                "Image Texture Name": "T_Inventory_item_slot_none",
+                "Image Type": 0
+            }
+        ],
+        "Components35": [
+            {
+                "Component Name": "item_slot_20",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    197.0,
+                    276.0
+                ],
+                "World Position": [
+                    -443.0,
+                    84.0,
+                    0.0
+                ],
+                "Scale": [
+                    43.0,
+                    44.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 22,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    0.5333333611488342,
+                    0.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": false,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": true,
+                "Image Texture Name": "T_Inventory_item_slot_none",
+                "Image Type": 0
+            }
+        ],
+        "Components36": [
+            {
+                "Component Name": "item_slot_21",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    249.5,
+                    276.0
+                ],
+                "World Position": [
+                    -390.5,
+                    84.0,
+                    0.0
+                ],
+                "Scale": [
+                    43.0,
+                    44.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 22,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    0.5333333611488342,
+                    0.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": false,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": true,
+                "Image Texture Name": "T_Inventory_item_slot_none",
+                "Image Type": 0
+            }
+        ],
+        "Components37": [
+            {
+                "Component Name": "item_slot_22",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    303.0,
+                    276.0
+                ],
+                "World Position": [
+                    -337.0,
+                    84.0,
+                    0.0
+                ],
+                "Scale": [
+                    43.0,
+                    44.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 22,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    0.5333333611488342,
+                    0.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": false,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": true,
+                "Image Texture Name": "T_Inventory_item_slot_none",
+                "Image Type": 0
+            }
+        ],
+        "Components38": [
+            {
+                "Component Name": "item_slot_23",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    355.0,
+                    276.0
+                ],
+                "World Position": [
+                    -285.0,
+                    84.0,
+                    0.0
+                ],
+                "Scale": [
+                    43.0,
+                    44.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 22,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    0.5333333611488342,
+                    0.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": false,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": true,
+                "Image Texture Name": "T_Inventory_item_slot_none",
+                "Image Type": 0
+            }
+        ],
+        "Components39": [
+            {
+                "Component Name": "item_slot_24",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    407.5,
+                    276.0
+                ],
+                "World Position": [
+                    -232.5,
+                    84.0,
+                    0.0
+                ],
+                "Scale": [
+                    43.0,
+                    44.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 22,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    0.5333333611488342,
+                    0.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": false,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": true,
+                "Image Texture Name": "T_Inventory_item_slot_none",
+                "Image Type": 0
+            }
+        ],
+        "Components40": [
+            {
+                "Component Name": "item_slot_25",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    460.0,
+                    276.0
+                ],
+                "World Position": [
+                    -180.0,
+                    84.0,
+                    0.0
+                ],
+                "Scale": [
+                    43.0,
+                    44.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 22,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    0.5333333611488342,
+                    0.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": false,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": true,
+                "Image Texture Name": "T_Inventory_item_slot_none",
+                "Image Type": 0
+            }
+        ],
+        "Components41": [
+            {
+                "Component Name": "item_slot_30",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    197.0,
+                    330.5
+                ],
+                "World Position": [
+                    -443.0,
+                    29.5,
+                    0.0
+                ],
+                "Scale": [
+                    43.0,
+                    44.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 22,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    0.5333333611488342,
+                    0.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": false,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": true,
+                "Image Texture Name": "T_Inventory_item_slot_none",
+                "Image Type": 0
+            }
+        ],
+        "Components42": [
+            {
+                "Component Name": "item_slot_31",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    249.5,
+                    330.5
+                ],
+                "World Position": [
+                    -390.5,
+                    29.5,
+                    0.0
+                ],
+                "Scale": [
+                    43.0,
+                    44.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 22,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    0.5333333611488342,
+                    0.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": false,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": true,
+                "Image Texture Name": "T_Inventory_item_slot_none",
+                "Image Type": 0
+            }
+        ],
+        "Components43": [
+            {
+                "Component Name": "item_slot_32",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    303.0,
+                    330.5
+                ],
+                "World Position": [
+                    -337.0,
+                    29.5,
+                    0.0
+                ],
+                "Scale": [
+                    43.0,
+                    44.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 22,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    0.5333333611488342,
+                    0.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": false,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": true,
+                "Image Texture Name": "T_Inventory_item_slot_none",
+                "Image Type": 0
+            }
+        ],
+        "Components44": [
+            {
+                "Component Name": "item_slot_33",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    355.0,
+                    330.5
+                ],
+                "World Position": [
+                    -285.0,
+                    29.5,
+                    0.0
+                ],
+                "Scale": [
+                    43.0,
+                    44.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 22,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    0.5333333611488342,
+                    0.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": false,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": true,
+                "Image Texture Name": "T_Inventory_item_slot_none",
+                "Image Type": 0
+            }
+        ],
+        "Components45": [
+            {
+                "Component Name": "item_slot_34",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    407.5,
+                    330.5
+                ],
+                "World Position": [
+                    -232.5,
+                    29.5,
+                    0.0
+                ],
+                "Scale": [
+                    43.0,
+                    44.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 22,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    0.5333333611488342,
+                    0.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": false,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": true,
+                "Image Texture Name": "T_Inventory_item_slot_none",
+                "Image Type": 0
+            }
+        ],
+        "Components46": [
+            {
+                "Component Name": "item_slot_35",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    460.0,
+                    330.5
+                ],
+                "World Position": [
+                    -180.0,
+                    29.5,
+                    0.0
+                ],
+                "Scale": [
+                    43.0,
+                    44.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 22,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    0.5333333611488342,
+                    0.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": false,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": true,
+                "Image Texture Name": "T_Inventory_item_slot_none",
+                "Image Type": 0
+            }
+        ],
+        "Components47": [
+            {
+                "Component Name": "item_slot_40",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    197.0,
+                    386.5
+                ],
+                "World Position": [
+                    -443.0,
+                    -26.5,
+                    0.0
+                ],
+                "Scale": [
+                    43.0,
+                    44.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 22,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    0.5333333611488342,
+                    0.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": false,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": true,
+                "Image Texture Name": "T_Inventory_item_slot_none",
+                "Image Type": 0
+            }
+        ],
+        "Components48": [
+            {
+                "Component Name": "item_slot_41",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    249.5,
+                    386.5
+                ],
+                "World Position": [
+                    -390.5,
+                    -26.5,
+                    0.0
+                ],
+                "Scale": [
+                    43.0,
+                    44.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 22,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    0.5333333611488342,
+                    0.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": false,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": true,
+                "Image Texture Name": "T_Inventory_item_slot_none",
+                "Image Type": 0
+            }
+        ],
+        "Components49": [
+            {
+                "Component Name": "item_slot_42",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    303.0,
+                    386.5
+                ],
+                "World Position": [
+                    -337.0,
+                    -26.5,
+                    0.0
+                ],
+                "Scale": [
+                    43.0,
+                    44.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 22,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    0.5333333611488342,
+                    0.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": false,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": true,
+                "Image Texture Name": "T_Inventory_item_slot_none",
+                "Image Type": 0
+            }
+        ],
+        "Components50": [
+            {
+                "Component Name": "item_slot_43",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    355.0,
+                    386.5
+                ],
+                "World Position": [
+                    -285.0,
+                    -26.5,
+                    0.0
+                ],
+                "Scale": [
+                    43.0,
+                    44.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 22,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    0.5333333611488342,
+                    0.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": false,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": true,
+                "Image Texture Name": "T_Inventory_item_slot_none",
+                "Image Type": 0
+            }
+        ],
+        "Components51": [
+            {
+                "Component Name": "item_slot_44",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    407.5,
+                    386.5
+                ],
+                "World Position": [
+                    -232.5,
+                    -26.5,
+                    0.0
+                ],
+                "Scale": [
+                    43.0,
+                    44.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 22,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    0.5333333611488342,
+                    0.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": false,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": true,
+                "Image Texture Name": "T_Inventory_item_slot_none",
+                "Image Type": 0
+            }
+        ],
+        "Components52": [
+            {
+                "Component Name": "item_slot_45",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    460.0,
+                    386.5
+                ],
+                "World Position": [
+                    -180.0,
+                    -26.5,
+                    0.0
+                ],
+                "Scale": [
+                    43.0,
+                    44.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 22,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    0.5333333611488342,
+                    0.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": false,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": true,
+                "Image Texture Name": "T_Inventory_item_slot_none",
+                "Image Type": 0
+            }
+        ],
+        "Components53": [
+            {
+                "Component Name": "item_slot_50",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    197.0,
+                    441.0
+                ],
+                "World Position": [
+                    -443.0,
+                    -81.0,
+                    0.0
+                ],
+                "Scale": [
+                    43.0,
+                    44.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 22,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    0.5333333611488342,
+                    0.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": false,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": true,
+                "Image Texture Name": "T_Inventory_item_slot_none",
+                "Image Type": 0
+            }
+        ],
+        "Components54": [
+            {
+                "Component Name": "item_slot_51",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    249.5,
+                    441.0
+                ],
+                "World Position": [
+                    -390.5,
+                    -81.0,
+                    0.0
+                ],
+                "Scale": [
+                    43.0,
+                    44.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 22,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    0.5333333611488342,
+                    0.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": false,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": true,
+                "Image Texture Name": "T_Inventory_item_slot_none",
+                "Image Type": 0
+            }
+        ],
+        "Components55": [
+            {
+                "Component Name": "item_slot_52",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    303.0,
+                    441.0
+                ],
+                "World Position": [
+                    -337.0,
+                    -81.0,
+                    0.0
+                ],
+                "Scale": [
+                    43.0,
+                    44.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 22,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    0.5333333611488342,
+                    0.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": false,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": true,
+                "Image Texture Name": "T_Inventory_item_slot_none",
+                "Image Type": 0
+            }
+        ],
+        "Components56": [
+            {
+                "Component Name": "item_slot_53",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    355.0,
+                    441.0
+                ],
+                "World Position": [
+                    -285.0,
+                    -81.0,
+                    0.0
+                ],
+                "Scale": [
+                    43.0,
+                    44.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 22,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    0.5333333611488342,
+                    0.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": false,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": true,
+                "Image Texture Name": "T_Inventory_item_slot_none",
+                "Image Type": 0
+            }
+        ],
+        "Components57": [
+            {
+                "Component Name": "item_slot_54",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    407.5,
+                    441.0
+                ],
+                "World Position": [
+                    -232.5,
+                    -81.0,
+                    0.0
+                ],
+                "Scale": [
+                    43.0,
+                    44.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 22,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    0.5333333611488342,
+                    0.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": false,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": true,
+                "Image Texture Name": "T_Inventory_item_slot_none",
+                "Image Type": 0
+            }
+        ],
+        "Components58": [
+            {
+                "Component Name": "item_slot_55",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    460.0,
+                    441.0
+                ],
+                "World Position": [
+                    -180.0,
+                    -81.0,
+                    0.0
+                ],
+                "Scale": [
+                    43.0,
+                    44.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 22,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    0.5333333611488342,
+                    0.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": false,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": true,
+                "Image Texture Name": "T_Inventory_item_slot_none",
+                "Image Type": 0
+            }
+        ],
+        "Components59": [
+            {
+                "Component Name": "item_slot_60",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    197.0,
+                    496.0
+                ],
+                "World Position": [
+                    -443.0,
+                    -136.0,
+                    0.0
+                ],
+                "Scale": [
+                    43.0,
+                    44.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 22,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    0.5333333611488342,
+                    0.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": false,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": true,
+                "Image Texture Name": "T_Inventory_item_slot_none",
+                "Image Type": 0
+            }
+        ],
+        "Components60": [
+            {
+                "Component Name": "item_slot_61",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    249.5,
+                    496.0
+                ],
+                "World Position": [
+                    -390.5,
+                    -136.0,
+                    0.0
+                ],
+                "Scale": [
+                    43.0,
+                    44.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 22,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    0.5333333611488342,
+                    0.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": false,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": true,
+                "Image Texture Name": "T_Inventory_item_slot_none",
+                "Image Type": 0
+            }
+        ],
+        "Components61": [
+            {
+                "Component Name": "item_slot_62",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    303.0,
+                    496.0
+                ],
+                "World Position": [
+                    -337.0,
+                    -136.0,
+                    0.0
+                ],
+                "Scale": [
+                    43.0,
+                    44.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 22,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    0.5333333611488342,
+                    0.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": false,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": true,
+                "Image Texture Name": "T_Inventory_item_slot_none",
+                "Image Type": 0
+            }
+        ],
+        "Components62": [
+            {
+                "Component Name": "item_slot_63",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    355.0,
+                    496.0
+                ],
+                "World Position": [
+                    -285.0,
+                    -136.0,
+                    0.0
+                ],
+                "Scale": [
+                    43.0,
+                    44.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 22,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    0.5333333611488342,
+                    0.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": false,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": true,
+                "Image Texture Name": "T_Inventory_item_slot_none",
+                "Image Type": 0
+            }
+        ],
+        "Components63": [
+            {
+                "Component Name": "item_slot_64",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    407.5,
+                    496.0
+                ],
+                "World Position": [
+                    -232.5,
+                    -136.0,
+                    0.0
+                ],
+                "Scale": [
+                    43.0,
+                    44.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 22,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    0.5333333611488342,
+                    0.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": false,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": true,
+                "Image Texture Name": "T_Inventory_item_slot_none",
+                "Image Type": 0
+            }
+        ],
+        "Components64": [
+            {
+                "Component Name": "item_slot_65",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    460.0,
+                    496.0
+                ],
+                "World Position": [
+                    -180.0,
+                    -136.0,
+                    0.0
+                ],
+                "Scale": [
+                    43.0,
+                    44.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 22,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    0.5333333611488342,
+                    0.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": false,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": true,
+                "Image Texture Name": "T_Inventory_item_slot_none",
+                "Image Type": 0
+            }
+        ],
+        "Components65": [
+            {
+                "Component Name": "item_slot_hover",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    225.0,
+                    681.0
+                ],
+                "World Position": [
+                    -415.0,
+                    -321.0,
+                    0.0
+                ],
+                "Scale": [
+                    56.0,
+                    56.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 23,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": false,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Image Texture Name": "T_Inventory_item_slot_hover",
+                "Image Type": 0
+            }
+        ],
+        "Components66": [
+            {
+                "Component Name": "item_slot_num_00",
+                "Render Type": 6,
+                "UI Type": 4,
+                "ShaderFileName": "",
+                "PassIndex": 0,
+                "Center": [
+                    213.0,
+                    176.0
+                ],
+                "World Position": [
+                    -427.0,
+                    184.0,
+                    0.0
+                ],
+                "Scale": [
+                    0.3100000023841858,
+                    0.3100000023841858,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 23,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": true,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Font File Name": "OxaniumRegular30",
+                "Text": "",
+                "Origin": [
+                    0.0,
+                    0.0
+                ],
+                "Option": 0,
+                "Text Type": 2
+            }
+        ],
+        "Components67": [
+            {
+                "Component Name": "item_slot_num_01",
+                "Render Type": 6,
+                "UI Type": 4,
+                "ShaderFileName": "",
+                "PassIndex": 0,
+                "Center": [
+                    265.5,
+                    176.0
+                ],
+                "World Position": [
+                    -374.5,
+                    184.0,
+                    0.0
+                ],
+                "Scale": [
+                    0.3100000023841858,
+                    0.3100000023841858,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 23,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": true,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Font File Name": "OxaniumRegular30",
+                "Text": "",
+                "Origin": [
+                    0.0,
+                    0.0
+                ],
+                "Option": 0,
+                "Text Type": 2
+            }
+        ],
+        "Components68": [
+            {
+                "Component Name": "item_slot_num_02",
+                "Render Type": 6,
+                "UI Type": 4,
+                "ShaderFileName": "",
+                "PassIndex": 0,
+                "Center": [
+                    319.0,
+                    176.0
+                ],
+                "World Position": [
+                    -321.0,
+                    184.0,
+                    0.0
+                ],
+                "Scale": [
+                    0.3100000023841858,
+                    0.3100000023841858,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 23,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": true,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Font File Name": "OxaniumRegular30",
+                "Text": "",
+                "Origin": [
+                    0.0,
+                    0.0
+                ],
+                "Option": 0,
+                "Text Type": 2
+            }
+        ],
+        "Components69": [
+            {
+                "Component Name": "item_slot_num_03",
+                "Render Type": 6,
+                "UI Type": 4,
+                "ShaderFileName": "",
+                "PassIndex": 0,
+                "Center": [
+                    371.0,
+                    176.0
+                ],
+                "World Position": [
+                    -269.0,
+                    184.0,
+                    0.0
+                ],
+                "Scale": [
+                    0.3100000023841858,
+                    0.3100000023841858,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 23,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": true,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Font File Name": "OxaniumRegular30",
+                "Text": "",
+                "Origin": [
+                    0.0,
+                    0.0
+                ],
+                "Option": 0,
+                "Text Type": 2
+            }
+        ],
+        "Components70": [
+            {
+                "Component Name": "item_slot_num_04",
+                "Render Type": 6,
+                "UI Type": 4,
+                "ShaderFileName": "",
+                "PassIndex": 0,
+                "Center": [
+                    423.5,
+                    176.0
+                ],
+                "World Position": [
+                    -216.5,
+                    184.0,
+                    0.0
+                ],
+                "Scale": [
+                    0.3100000023841858,
+                    0.3100000023841858,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 23,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": true,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Font File Name": "OxaniumRegular30",
+                "Text": "",
+                "Origin": [
+                    0.0,
+                    0.0
+                ],
+                "Option": 0,
+                "Text Type": 2
+            }
+        ],
+        "Components71": [
+            {
+                "Component Name": "item_slot_num_05",
+                "Render Type": 6,
+                "UI Type": 4,
+                "ShaderFileName": "",
+                "PassIndex": 0,
+                "Center": [
+                    476.0,
+                    176.0
+                ],
+                "World Position": [
+                    -164.0,
+                    184.0,
+                    0.0
+                ],
+                "Scale": [
+                    0.3100000023841858,
+                    0.3100000023841858,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 23,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": true,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Font File Name": "OxaniumRegular30",
+                "Text": "",
+                "Origin": [
+                    0.0,
+                    0.0
+                ],
+                "Option": 0,
+                "Text Type": 2
+            }
+        ],
+        "Components72": [
+            {
+                "Component Name": "item_slot_num_10",
+                "Render Type": 6,
+                "UI Type": 4,
+                "ShaderFileName": "",
+                "PassIndex": 0,
+                "Center": [
+                    213.0,
+                    231.0
+                ],
+                "World Position": [
+                    -427.0,
+                    129.0,
+                    0.0
+                ],
+                "Scale": [
+                    0.3100000023841858,
+                    0.3100000023841858,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 23,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": true,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Font File Name": "OxaniumRegular30",
+                "Text": "",
+                "Origin": [
+                    0.0,
+                    0.0
+                ],
+                "Option": 0,
+                "Text Type": 2
+            }
+        ],
+        "Components73": [
+            {
+                "Component Name": "item_slot_num_11",
+                "Render Type": 6,
+                "UI Type": 4,
+                "ShaderFileName": "",
+                "PassIndex": 0,
+                "Center": [
+                    265.5,
+                    231.0
+                ],
+                "World Position": [
+                    -374.5,
+                    129.0,
+                    0.0
+                ],
+                "Scale": [
+                    0.3100000023841858,
+                    0.3100000023841858,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 23,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": true,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Font File Name": "OxaniumRegular30",
+                "Text": "",
+                "Origin": [
+                    0.0,
+                    0.0
+                ],
+                "Option": 0,
+                "Text Type": 2
+            }
+        ],
+        "Components74": [
+            {
+                "Component Name": "item_slot_num_12",
+                "Render Type": 6,
+                "UI Type": 4,
+                "ShaderFileName": "",
+                "PassIndex": 0,
+                "Center": [
+                    319.0,
+                    231.0
+                ],
+                "World Position": [
+                    -321.0,
+                    129.0,
+                    0.0
+                ],
+                "Scale": [
+                    0.3100000023841858,
+                    0.3100000023841858,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 23,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": true,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Font File Name": "OxaniumRegular30",
+                "Text": "",
+                "Origin": [
+                    0.0,
+                    0.0
+                ],
+                "Option": 0,
+                "Text Type": 2
+            }
+        ],
+        "Components75": [
+            {
+                "Component Name": "item_slot_num_13",
+                "Render Type": 6,
+                "UI Type": 4,
+                "ShaderFileName": "",
+                "PassIndex": 0,
+                "Center": [
+                    371.0,
+                    231.0
+                ],
+                "World Position": [
+                    -269.0,
+                    129.0,
+                    0.0
+                ],
+                "Scale": [
+                    0.3100000023841858,
+                    0.3100000023841858,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 23,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": true,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Font File Name": "OxaniumRegular30",
+                "Text": "",
+                "Origin": [
+                    0.0,
+                    0.0
+                ],
+                "Option": 0,
+                "Text Type": 2
+            }
+        ],
+        "Components76": [
+            {
+                "Component Name": "item_slot_num_14",
+                "Render Type": 6,
+                "UI Type": 4,
+                "ShaderFileName": "",
+                "PassIndex": 0,
+                "Center": [
+                    423.5,
+                    231.0
+                ],
+                "World Position": [
+                    -216.5,
+                    129.0,
+                    0.0
+                ],
+                "Scale": [
+                    0.3100000023841858,
+                    0.3100000023841858,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 23,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": true,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Font File Name": "OxaniumRegular30",
+                "Text": "",
+                "Origin": [
+                    0.0,
+                    0.0
+                ],
+                "Option": 0,
+                "Text Type": 2
+            }
+        ],
+        "Components77": [
+            {
+                "Component Name": "item_slot_num_15",
+                "Render Type": 6,
+                "UI Type": 4,
+                "ShaderFileName": "",
+                "PassIndex": 0,
+                "Center": [
+                    476.0,
+                    231.0
+                ],
+                "World Position": [
+                    -164.0,
+                    129.0,
+                    0.0
+                ],
+                "Scale": [
+                    0.3100000023841858,
+                    0.3100000023841858,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 23,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": true,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Font File Name": "OxaniumRegular30",
+                "Text": "",
+                "Origin": [
+                    0.0,
+                    0.0
+                ],
+                "Option": 0,
+                "Text Type": 2
+            }
+        ],
+        "Components78": [
+            {
+                "Component Name": "item_slot_num_20",
+                "Render Type": 6,
+                "UI Type": 4,
+                "ShaderFileName": "",
+                "PassIndex": 0,
+                "Center": [
+                    213.0,
+                    286.0
+                ],
+                "World Position": [
+                    -427.0,
+                    74.0,
+                    0.0
+                ],
+                "Scale": [
+                    0.3100000023841858,
+                    0.3100000023841858,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 23,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": true,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Font File Name": "OxaniumRegular30",
+                "Text": "",
+                "Origin": [
+                    0.0,
+                    0.0
+                ],
+                "Option": 0,
+                "Text Type": 2
+            }
+        ],
+        "Components79": [
+            {
+                "Component Name": "item_slot_num_21",
+                "Render Type": 6,
+                "UI Type": 4,
+                "ShaderFileName": "",
+                "PassIndex": 0,
+                "Center": [
+                    265.5,
+                    286.0
+                ],
+                "World Position": [
+                    -374.5,
+                    74.0,
+                    0.0
+                ],
+                "Scale": [
+                    0.3100000023841858,
+                    0.3100000023841858,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 23,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": true,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Font File Name": "OxaniumRegular30",
+                "Text": "",
+                "Origin": [
+                    0.0,
+                    0.0
+                ],
+                "Option": 0,
+                "Text Type": 2
+            }
+        ],
+        "Components80": [
+            {
+                "Component Name": "item_slot_num_22",
+                "Render Type": 6,
+                "UI Type": 4,
+                "ShaderFileName": "",
+                "PassIndex": 0,
+                "Center": [
+                    319.0,
+                    286.0
+                ],
+                "World Position": [
+                    -321.0,
+                    74.0,
+                    0.0
+                ],
+                "Scale": [
+                    0.3100000023841858,
+                    0.3100000023841858,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 23,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": true,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Font File Name": "OxaniumRegular30",
+                "Text": "",
+                "Origin": [
+                    0.0,
+                    0.0
+                ],
+                "Option": 0,
+                "Text Type": 2
+            }
+        ],
+        "Components81": [
+            {
+                "Component Name": "item_slot_num_23",
+                "Render Type": 6,
+                "UI Type": 4,
+                "ShaderFileName": "",
+                "PassIndex": 0,
+                "Center": [
+                    371.0,
+                    286.0
+                ],
+                "World Position": [
+                    -269.0,
+                    74.0,
+                    0.0
+                ],
+                "Scale": [
+                    0.3100000023841858,
+                    0.3100000023841858,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 23,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": true,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Font File Name": "OxaniumRegular30",
+                "Text": "",
+                "Origin": [
+                    0.0,
+                    0.0
+                ],
+                "Option": 0,
+                "Text Type": 2
+            }
+        ],
+        "Components82": [
+            {
+                "Component Name": "item_slot_num_24",
+                "Render Type": 6,
+                "UI Type": 4,
+                "ShaderFileName": "",
+                "PassIndex": 0,
+                "Center": [
+                    423.5,
+                    286.0
+                ],
+                "World Position": [
+                    -216.5,
+                    74.0,
+                    0.0
+                ],
+                "Scale": [
+                    0.3100000023841858,
+                    0.3100000023841858,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 23,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": true,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Font File Name": "OxaniumRegular30",
+                "Text": "",
+                "Origin": [
+                    0.0,
+                    0.0
+                ],
+                "Option": 0,
+                "Text Type": 2
+            }
+        ],
+        "Components83": [
+            {
+                "Component Name": "item_slot_num_25",
+                "Render Type": 6,
+                "UI Type": 4,
+                "ShaderFileName": "",
+                "PassIndex": 0,
+                "Center": [
+                    476.0,
+                    286.0
+                ],
+                "World Position": [
+                    -164.0,
+                    74.0,
+                    0.0
+                ],
+                "Scale": [
+                    0.3100000023841858,
+                    0.3100000023841858,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 23,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": true,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Font File Name": "OxaniumRegular30",
+                "Text": "",
+                "Origin": [
+                    0.0,
+                    0.0
+                ],
+                "Option": 0,
+                "Text Type": 2
+            }
+        ],
+        "Components84": [
+            {
+                "Component Name": "item_slot_num_30",
+                "Render Type": 6,
+                "UI Type": 4,
+                "ShaderFileName": "",
+                "PassIndex": 0,
+                "Center": [
+                    213.0,
+                    340.5
+                ],
+                "World Position": [
+                    -427.0,
+                    19.5,
+                    0.0
+                ],
+                "Scale": [
+                    0.3100000023841858,
+                    0.3100000023841858,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 23,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": true,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Font File Name": "OxaniumRegular30",
+                "Text": "",
+                "Origin": [
+                    0.0,
+                    0.0
+                ],
+                "Option": 0,
+                "Text Type": 2
+            }
+        ],
+        "Components85": [
+            {
+                "Component Name": "item_slot_num_31",
+                "Render Type": 6,
+                "UI Type": 4,
+                "ShaderFileName": "",
+                "PassIndex": 0,
+                "Center": [
+                    265.5,
+                    340.5
+                ],
+                "World Position": [
+                    -374.5,
+                    19.5,
+                    0.0
+                ],
+                "Scale": [
+                    0.3100000023841858,
+                    0.3100000023841858,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 23,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": true,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Font File Name": "OxaniumRegular30",
+                "Text": "",
+                "Origin": [
+                    0.0,
+                    0.0
+                ],
+                "Option": 0,
+                "Text Type": 2
+            }
+        ],
+        "Components86": [
+            {
+                "Component Name": "item_slot_num_32",
+                "Render Type": 6,
+                "UI Type": 4,
+                "ShaderFileName": "",
+                "PassIndex": 0,
+                "Center": [
+                    319.0,
+                    340.5
+                ],
+                "World Position": [
+                    -321.0,
+                    19.5,
+                    0.0
+                ],
+                "Scale": [
+                    0.3100000023841858,
+                    0.3100000023841858,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 23,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": true,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Font File Name": "OxaniumRegular30",
+                "Text": "",
+                "Origin": [
+                    0.0,
+                    0.0
+                ],
+                "Option": 0,
+                "Text Type": 2
+            }
+        ],
+        "Components87": [
+            {
+                "Component Name": "item_slot_num_33",
+                "Render Type": 6,
+                "UI Type": 4,
+                "ShaderFileName": "",
+                "PassIndex": 0,
+                "Center": [
+                    371.0,
+                    340.5
+                ],
+                "World Position": [
+                    -269.0,
+                    19.5,
+                    0.0
+                ],
+                "Scale": [
+                    0.3100000023841858,
+                    0.3100000023841858,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 23,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": true,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Font File Name": "OxaniumRegular30",
+                "Text": "",
+                "Origin": [
+                    0.0,
+                    0.0
+                ],
+                "Option": 0,
+                "Text Type": 2
+            }
+        ],
+        "Components88": [
+            {
+                "Component Name": "item_slot_num_34",
+                "Render Type": 6,
+                "UI Type": 4,
+                "ShaderFileName": "",
+                "PassIndex": 0,
+                "Center": [
+                    423.5,
+                    340.5
+                ],
+                "World Position": [
+                    -216.5,
+                    19.5,
+                    0.0
+                ],
+                "Scale": [
+                    0.3100000023841858,
+                    0.3100000023841858,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 23,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": true,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Font File Name": "OxaniumRegular30",
+                "Text": "",
+                "Origin": [
+                    0.0,
+                    0.0
+                ],
+                "Option": 0,
+                "Text Type": 2
+            }
+        ],
+        "Components89": [
+            {
+                "Component Name": "item_slot_num_35",
+                "Render Type": 6,
+                "UI Type": 4,
+                "ShaderFileName": "",
+                "PassIndex": 0,
+                "Center": [
+                    476.0,
+                    340.5
+                ],
+                "World Position": [
+                    -164.0,
+                    19.5,
+                    0.0
+                ],
+                "Scale": [
+                    0.3100000023841858,
+                    0.3100000023841858,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 23,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": true,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Font File Name": "OxaniumRegular30",
+                "Text": "",
+                "Origin": [
+                    0.0,
+                    0.0
+                ],
+                "Option": 0,
+                "Text Type": 2
+            }
+        ],
+        "Components90": [
+            {
+                "Component Name": "item_slot_num_40",
+                "Render Type": 6,
+                "UI Type": 4,
+                "ShaderFileName": "",
+                "PassIndex": 0,
+                "Center": [
+                    213.0,
+                    396.5
+                ],
+                "World Position": [
+                    -427.0,
+                    -36.5,
+                    0.0
+                ],
+                "Scale": [
+                    0.3100000023841858,
+                    0.3100000023841858,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 23,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": true,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Font File Name": "OxaniumRegular30",
+                "Text": "",
+                "Origin": [
+                    0.0,
+                    0.0
+                ],
+                "Option": 0,
+                "Text Type": 2
+            }
+        ],
+        "Components91": [
+            {
+                "Component Name": "item_slot_num_41",
+                "Render Type": 6,
+                "UI Type": 4,
+                "ShaderFileName": "",
+                "PassIndex": 0,
+                "Center": [
+                    265.5,
+                    396.5
+                ],
+                "World Position": [
+                    -374.5,
+                    -36.5,
+                    0.0
+                ],
+                "Scale": [
+                    0.3100000023841858,
+                    0.3100000023841858,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 23,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": true,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Font File Name": "OxaniumRegular30",
+                "Text": "",
+                "Origin": [
+                    0.0,
+                    0.0
+                ],
+                "Option": 0,
+                "Text Type": 2
+            }
+        ],
+        "Components92": [
+            {
+                "Component Name": "item_slot_num_42",
+                "Render Type": 6,
+                "UI Type": 4,
+                "ShaderFileName": "",
+                "PassIndex": 0,
+                "Center": [
+                    319.0,
+                    396.5
+                ],
+                "World Position": [
+                    -321.0,
+                    -36.5,
+                    0.0
+                ],
+                "Scale": [
+                    0.3100000023841858,
+                    0.3100000023841858,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 23,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": true,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Font File Name": "OxaniumRegular30",
+                "Text": "",
+                "Origin": [
+                    0.0,
+                    0.0
+                ],
+                "Option": 0,
+                "Text Type": 2
+            }
+        ],
+        "Components93": [
+            {
+                "Component Name": "item_slot_num_43",
+                "Render Type": 6,
+                "UI Type": 4,
+                "ShaderFileName": "",
+                "PassIndex": 0,
+                "Center": [
+                    371.0,
+                    396.5
+                ],
+                "World Position": [
+                    -269.0,
+                    -36.5,
+                    0.0
+                ],
+                "Scale": [
+                    0.3100000023841858,
+                    0.3100000023841858,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 23,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": true,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Font File Name": "OxaniumRegular30",
+                "Text": "",
+                "Origin": [
+                    0.0,
+                    0.0
+                ],
+                "Option": 0,
+                "Text Type": 2
+            }
+        ],
+        "Components94": [
+            {
+                "Component Name": "item_slot_num_44",
+                "Render Type": 6,
+                "UI Type": 4,
+                "ShaderFileName": "",
+                "PassIndex": 0,
+                "Center": [
+                    423.5,
+                    396.5
+                ],
+                "World Position": [
+                    -216.5,
+                    -36.5,
+                    0.0
+                ],
+                "Scale": [
+                    0.3100000023841858,
+                    0.3100000023841858,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 23,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": true,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Font File Name": "OxaniumRegular30",
+                "Text": "",
+                "Origin": [
+                    0.0,
+                    0.0
+                ],
+                "Option": 0,
+                "Text Type": 2
+            }
+        ],
+        "Components95": [
+            {
+                "Component Name": "item_slot_num_45",
+                "Render Type": 6,
+                "UI Type": 4,
+                "ShaderFileName": "",
+                "PassIndex": 0,
+                "Center": [
+                    476.0,
+                    396.5
+                ],
+                "World Position": [
+                    -164.0,
+                    -36.5,
+                    0.0
+                ],
+                "Scale": [
+                    0.3100000023841858,
+                    0.3100000023841858,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 23,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": true,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Font File Name": "OxaniumRegular30",
+                "Text": "",
+                "Origin": [
+                    0.0,
+                    0.0
+                ],
+                "Option": 0,
+                "Text Type": 2
+            }
+        ],
+        "Components96": [
+            {
+                "Component Name": "item_slot_num_50",
+                "Render Type": 6,
+                "UI Type": 4,
+                "ShaderFileName": "",
+                "PassIndex": 0,
+                "Center": [
+                    213.0,
+                    451.0
+                ],
+                "World Position": [
+                    -427.0,
+                    -91.0,
+                    0.0
+                ],
+                "Scale": [
+                    0.3100000023841858,
+                    0.3100000023841858,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 23,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": true,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Font File Name": "OxaniumRegular30",
+                "Text": "",
+                "Origin": [
+                    0.0,
+                    0.0
+                ],
+                "Option": 0,
+                "Text Type": 2
+            }
+        ],
+        "Components97": [
+            {
+                "Component Name": "item_slot_num_51",
+                "Render Type": 6,
+                "UI Type": 4,
+                "ShaderFileName": "",
+                "PassIndex": 0,
+                "Center": [
+                    265.5,
+                    451.0
+                ],
+                "World Position": [
+                    -374.5,
+                    -91.0,
+                    0.0
+                ],
+                "Scale": [
+                    0.3100000023841858,
+                    0.3100000023841858,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 23,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": true,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Font File Name": "OxaniumRegular30",
+                "Text": "",
+                "Origin": [
+                    0.0,
+                    0.0
+                ],
+                "Option": 0,
+                "Text Type": 2
+            }
+        ],
+        "Components98": [
+            {
+                "Component Name": "item_slot_num_52",
+                "Render Type": 6,
+                "UI Type": 4,
+                "ShaderFileName": "",
+                "PassIndex": 0,
+                "Center": [
+                    319.0,
+                    451.0
+                ],
+                "World Position": [
+                    -321.0,
+                    -91.0,
+                    0.0
+                ],
+                "Scale": [
+                    0.3100000023841858,
+                    0.3100000023841858,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 23,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": true,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Font File Name": "OxaniumRegular30",
+                "Text": "",
+                "Origin": [
+                    0.0,
+                    0.0
+                ],
+                "Option": 0,
+                "Text Type": 2
+            }
+        ],
+        "Components99": [
+            {
+                "Component Name": "item_slot_num_53",
+                "Render Type": 6,
+                "UI Type": 4,
+                "ShaderFileName": "",
+                "PassIndex": 0,
+                "Center": [
+                    371.0,
+                    451.0
+                ],
+                "World Position": [
+                    -269.0,
+                    -91.0,
+                    0.0
+                ],
+                "Scale": [
+                    0.3100000023841858,
+                    0.3100000023841858,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 23,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": true,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Font File Name": "OxaniumRegular30",
+                "Text": "",
+                "Origin": [
+                    0.0,
+                    0.0
+                ],
+                "Option": 0,
+                "Text Type": 2
+            }
+        ],
+        "Components100": [
+            {
+                "Component Name": "item_slot_num_54",
+                "Render Type": 6,
+                "UI Type": 4,
+                "ShaderFileName": "",
+                "PassIndex": 0,
+                "Center": [
+                    423.5,
+                    451.0
+                ],
+                "World Position": [
+                    -216.5,
+                    -91.0,
+                    0.0
+                ],
+                "Scale": [
+                    0.3100000023841858,
+                    0.3100000023841858,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 23,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": true,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Font File Name": "OxaniumRegular30",
+                "Text": "",
+                "Origin": [
+                    0.0,
+                    0.0
+                ],
+                "Option": 0,
+                "Text Type": 2
+            }
+        ],
+        "Components101": [
+            {
+                "Component Name": "item_slot_num_55",
+                "Render Type": 6,
+                "UI Type": 4,
+                "ShaderFileName": "",
+                "PassIndex": 0,
+                "Center": [
+                    476.0,
+                    451.0
+                ],
+                "World Position": [
+                    -164.0,
+                    -91.0,
+                    0.0
+                ],
+                "Scale": [
+                    0.3100000023841858,
+                    0.3100000023841858,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 23,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": true,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Font File Name": "OxaniumRegular30",
+                "Text": "",
+                "Origin": [
+                    0.0,
+                    0.0
+                ],
+                "Option": 0,
+                "Text Type": 2
+            }
+        ],
+        "Components102": [
+            {
+                "Component Name": "item_slot_num_60",
+                "Render Type": 6,
+                "UI Type": 4,
+                "ShaderFileName": "",
+                "PassIndex": 0,
+                "Center": [
+                    213.0,
+                    506.0
+                ],
+                "World Position": [
+                    -427.0,
+                    -146.0,
+                    0.0
+                ],
+                "Scale": [
+                    0.3100000023841858,
+                    0.3100000023841858,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 23,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": true,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Font File Name": "OxaniumRegular30",
+                "Text": "",
+                "Origin": [
+                    0.0,
+                    0.0
+                ],
+                "Option": 0,
+                "Text Type": 2
+            }
+        ],
+        "Components103": [
+            {
+                "Component Name": "item_slot_num_61",
+                "Render Type": 6,
+                "UI Type": 4,
+                "ShaderFileName": "",
+                "PassIndex": 0,
+                "Center": [
+                    265.5,
+                    506.0
+                ],
+                "World Position": [
+                    -374.5,
+                    -146.0,
+                    0.0
+                ],
+                "Scale": [
+                    0.3100000023841858,
+                    0.3100000023841858,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 23,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": true,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Font File Name": "OxaniumRegular30",
+                "Text": "",
+                "Origin": [
+                    0.0,
+                    0.0
+                ],
+                "Option": 0,
+                "Text Type": 2
+            }
+        ],
+        "Components104": [
+            {
+                "Component Name": "item_slot_num_62",
+                "Render Type": 6,
+                "UI Type": 4,
+                "ShaderFileName": "",
+                "PassIndex": 0,
+                "Center": [
+                    319.0,
+                    506.0
+                ],
+                "World Position": [
+                    -321.0,
+                    -146.0,
+                    0.0
+                ],
+                "Scale": [
+                    0.3100000023841858,
+                    0.3100000023841858,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 23,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": true,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Font File Name": "OxaniumRegular30",
+                "Text": "",
+                "Origin": [
+                    0.0,
+                    0.0
+                ],
+                "Option": 0,
+                "Text Type": 2
+            }
+        ],
+        "Components105": [
+            {
+                "Component Name": "item_slot_num_63",
+                "Render Type": 6,
+                "UI Type": 4,
+                "ShaderFileName": "",
+                "PassIndex": 0,
+                "Center": [
+                    371.0,
+                    506.0
+                ],
+                "World Position": [
+                    -269.0,
+                    -146.0,
+                    0.0
+                ],
+                "Scale": [
+                    0.3100000023841858,
+                    0.3100000023841858,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 23,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": true,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Font File Name": "OxaniumRegular30",
+                "Text": "",
+                "Origin": [
+                    0.0,
+                    0.0
+                ],
+                "Option": 0,
+                "Text Type": 2
+            }
+        ],
+        "Components106": [
+            {
+                "Component Name": "item_slot_num_64",
+                "Render Type": 6,
+                "UI Type": 4,
+                "ShaderFileName": "",
+                "PassIndex": 0,
+                "Center": [
+                    423.5,
+                    506.0
+                ],
+                "World Position": [
+                    -216.5,
+                    -146.0,
+                    0.0
+                ],
+                "Scale": [
+                    0.3100000023841858,
+                    0.3100000023841858,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 23,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": true,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Font File Name": "OxaniumRegular30",
+                "Text": "",
+                "Origin": [
+                    0.0,
+                    0.0
+                ],
+                "Option": 0,
+                "Text Type": 2
+            }
+        ],
+        "Components107": [
+            {
+                "Component Name": "item_slot_num_65",
+                "Render Type": 6,
+                "UI Type": 4,
+                "ShaderFileName": "",
+                "PassIndex": 0,
+                "Center": [
+                    476.0,
+                    506.0
+                ],
+                "World Position": [
+                    -164.0,
+                    -146.0,
+                    0.0
+                ],
+                "Scale": [
+                    0.3100000023841858,
+                    0.3100000023841858,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 23,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": true,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Font File Name": "OxaniumRegular30",
+                "Text": "",
+                "Origin": [
+                    0.0,
+                    0.0
+                ],
+                "Option": 0,
+                "Text Type": 2
+            }
+        ],
+        "Components108": [
+            {
+                "Component Name": "money_num_00",
+                "Render Type": 6,
+                "UI Type": 4,
+                "ShaderFileName": "",
+                "PassIndex": 0,
+                "Center": [
+                    1098.0,
+                    611.0
+                ],
+                "World Position": [
+                    458.0,
+                    -251.0,
+                    0.0
+                ],
+                "Scale": [
+                    0.4000000059604645,
+                    0.4000000059604645,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 22,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": true,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Font File Name": "OxaniumRegular30",
+                "Text": "0",
+                "Origin": [
+                    0.0,
+                    0.0
+                ],
+                "Option": 0,
+                "Text Type": 2
+            }
+        ],
+        "Components109": [
+            {
+                "Component Name": "player_level_num_00",
+                "Render Type": 6,
+                "UI Type": 4,
+                "ShaderFileName": "",
+                "PassIndex": 0,
+                "Center": [
+                    943.0,
+                    149.0
+                ],
+                "World Position": [
+                    303.0,
+                    211.0,
+                    0.0
+                ],
+                "Scale": [
+                    0.699999988079071,
+                    0.5,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 22,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": true,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Font File Name": "OxaniumRegular30",
+                "Text": "10",
+                "Origin": [
+                    0.0,
+                    0.0
+                ],
+                "Option": 0,
+                "Text Type": 1
+            }
+        ],
+        "Components110": [
+            {
+                "Component Name": "shield_bar_00",
+                "Render Type": 6,
+                "UI Type": 5,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 3,
+                "Center": [
+                    1023.0,
+                    194.0
+                ],
+                "World Position": [
+                    383.0,
+                    166.0,
+                    0.0
+                ],
+                "Scale": [
+                    179.0,
+                    9.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 22,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": false,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Progress Texture Name": "T_Shield_bar"
+            }
+        ],
+        "Components111": [
+            {
+                "Component Name": "shield_bar_num_00",
+                "Render Type": 6,
+                "UI Type": 4,
+                "ShaderFileName": "",
+                "PassIndex": 0,
+                "Center": [
+                    935.0,
+                    184.0
+                ],
+                "World Position": [
+                    295.0,
+                    176.0,
+                    0.0
+                ],
+                "Scale": [
+                    0.3100000023841858,
+                    0.3100000023841858,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 23,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": true,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Font File Name": "OxaniumRegular30",
+                "Text": "100/100",
+                "Origin": [
+                    0.0,
+                    0.0
+                ],
+                "Option": 0,
+                "Text Type": 0
+            }
+        ],
+        "Components112": [
+            {
+                "Component Name": "shield_slot_00",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    852.0,
+                    353.0
+                ],
+                "World Position": [
+                    212.0,
+                    7.0,
+                    0.0
+                ],
+                "Scale": [
+                    43.0,
+                    44.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 22,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": false,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": true,
+                "Image Texture Name": "T_Inventory_item_slot_none",
+                "Image Type": 0
+            }
+        ],
+        "Components113": [
+            {
+                "Component Name": "sort_slot_hover",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    307.0,
+                    682.0
+                ],
+                "World Position": [
+                    -333.0,
+                    -322.0,
+                    0.0
+                ],
+                "Scale": [
+                    71.0,
+                    28.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 23,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": false,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Image Texture Name": "T_Inventory_sort_hover",
+                "Image Type": 0
+            }
+        ],
+        "Components114": [
+            {
+                "Component Name": "sort_slot_none",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    476.0,
+                    113.0
+                ],
+                "World Position": [
+                    -164.0,
+                    247.0,
+                    0.0
+                ],
+                "Scale": [
+                    58.0,
+                    17.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 22,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": true,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": true,
+                "Image Texture Name": "T_Inventory_sort_none",
+                "Image Type": 0
+            }
+        ],
+        "Components115": [
+            {
+                "Component Name": "weapon_slot_00",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    574.0,
+                    187.0
+                ],
+                "World Position": [
+                    -66.0,
+                    173.0,
+                    0.0
+                ],
+                "Scale": [
+                    43.0,
+                    44.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 22,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": false,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": true,
+                "Image Texture Name": "T_Inventory_item_slot_none",
+                "Image Type": 0
+            }
+        ],
+        "Components116": [
+            {
+                "Component Name": "weapon_slot_10",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    574.0,
+                    242.0
+                ],
+                "World Position": [
+                    -66.0,
+                    118.0,
+                    0.0
+                ],
+                "Scale": [
+                    43.0,
+                    44.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 22,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": false,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": true,
+                "Image Texture Name": "T_Inventory_item_slot_none",
+                "Image Type": 0
+            }
+        ],
+        "Components117": [
+            {
+                "Component Name": "weapon_slot_20",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    574.0,
+                    296.0
+                ],
+                "World Position": [
+                    -66.0,
+                    64.0,
+                    0.0
+                ],
+                "Scale": [
+                    43.0,
+                    44.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 22,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": false,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": true,
+                "Image Texture Name": "T_Inventory_item_slot_none",
+                "Image Type": 0
+            }
+        ],
+        "Components118": [
+            {
+                "Component Name": "weapon_slot_30",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    574.0,
+                    351.0
+                ],
+                "World Position": [
+                    -66.0,
+                    9.0,
+                    0.0
+                ],
+                "Scale": [
+                    43.0,
+                    44.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 22,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": false,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": true,
+                "Image Texture Name": "T_Inventory_item_slot_none",
+                "Image Type": 0
+            }
+        ],
+        "Components119": [
+            {
+                "Component Name": "weight_bar_00",
+                "Render Type": 6,
+                "UI Type": 5,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 3,
+                "Center": [
+                    311.0,
+                    618.0
+                ],
+                "World Position": [
+                    -329.0,
+                    -258.0,
+                    0.0
+                ],
+                "Scale": [
+                    157.0,
+                    5.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 22,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": false,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Progress Texture Name": "T_Weight_bar"
+            }
+        ],
+        "Components120": [
+            {
+                "Component Name": "weight_bar_num_00",
+                "Render Type": 6,
+                "UI Type": 4,
+                "ShaderFileName": "",
+                "PassIndex": 0,
+                "Center": [
+                    413.0,
+                    613.0
+                ],
+                "World Position": [
+                    -227.0,
+                    -253.0,
+                    0.0
+                ],
+                "Scale": [
+                    0.3100000023841858,
+                    0.3100000023841858,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 22,
+                "Ratio": 1.0,
+                "Color": [
+                    0.7299578189849854,
+                    0.7299578189849854,
+                    0.7299578189849854,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": true,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Font File Name": "OxaniumRegular30",
+                "Text": "100",
+                "Origin": [
+                    0.0,
+                    0.0
+                ],
+                "Option": 0,
+                "Text Type": 2
+            }
+        ],
+        "Components121": [
+            {
+                "Component Name": "weight_num_00",
+                "Render Type": 6,
+                "UI Type": 4,
+                "ShaderFileName": "",
+                "PassIndex": 0,
+                "Center": [
+                    1102.0,
+                    492.0
+                ],
+                "World Position": [
+                    462.0,
+                    -132.0,
+                    0.0
+                ],
+                "Scale": [
+                    0.4000000059604645,
+                    0.4000000059604645,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 22,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": true,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Font File Name": "OxaniumRegular30",
+                "Text": "100",
+                "Origin": [
+                    0.0,
+                    0.0
+                ],
+                "Option": 0,
+                "Text Type": 2
+            }
+        ],
+        "Components122": [
+            {
+                "Component Name": "workspeed_num_00",
+                "Render Type": 6,
+                "UI Type": 4,
+                "ShaderFileName": "",
+                "PassIndex": 0,
+                "Center": [
+                    1102.0,
+                    462.0
+                ],
+                "World Position": [
+                    462.0,
+                    -102.0,
+                    0.0
+                ],
+                "Scale": [
+                    0.4000000059604645,
+                    0.4000000059604645,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 22,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": true,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Font File Name": "OxaniumRegular30",
+                "Text": "100",
+                "Origin": [
+                    0.0,
+                    0.0
+                ],
+                "Option": 0,
+                "Text Type": 2
+            }
+        ]
+    },
+    "Panels2": {
+        "Panel Name": "Mouse_slot",
+        "Panel Projection Type": 0,
+        "Panel Depth": 22,
+        "Panel Pivot Component Name": "",
+        "Components Size": 1,
+        "Components0": [
+            {
+                "Component Name": "mouse_slot",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    51.0,
+                    609.0
+                ],
+                "World Position": [
+                    -589.0,
+                    -249.0,
+                    0.0
+                ],
+                "Scale": [
+                    42.0,
+                    42.0,
+                    0.20000000298023224
+                ],
+                "Angle": 0.0,
+                "Depth": 24,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 0.800000011920929,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": true,
+                "IsColor": false,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Image Texture Name": "T_Inventory_item_slot_none",
+                "Image Type": 0
+            }
+        ]
+    },
+    "Panels3": {
+        "Panel Name": "Item_slot_info",
+        "Panel Projection Type": 0,
+        "Panel Depth": 0,
+        "Panel Pivot Component Name": "",
+        "Components Size": 0
+    }
+}

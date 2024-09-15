@@ -1,0 +1,44 @@
+{
+  "Textures": {
+    "Base Texture": "Pal/Content/Pal/Model/Prop/Architecture/Loggingcamp/material/Tree_Bark_D.Tree_Bark_D",
+    "PM_Diffuse": "Pal/Content/Pal/Model/Prop/Architecture/Loggingcamp/material/Tree_Bark_D.Tree_Bark_D",
+    "Tree_Bark_D": "Pal/Content/Pal/Model/Prop/Architecture/Loggingcamp/material/Tree_Bark_D.Tree_Bark_D",
+    "PM_Normals": "Pal/Content/Pal/Model/Prop/Architecture/Loggingcamp/material/Tree_Bark_N.Tree_Bark_N",
+    "Normal Map": "Pal/Content/Pal/Model/Prop/Architecture/Loggingcamp/material/Tree_Bark_N.Tree_Bark_N"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 6,
+    "Colors": {
+      "Trunk Bend Offset": {
+        "R": 0.0,
+        "G": 0.5,
+        "B": 0.0,
+        "A": 0.0,
+        "Hex": "00BC00"
+      }
+    },
+    "Scalars": {
+      "Roughness": 0.9,
+      "Grass Bend Intensity": 0.0,
+      "Grass Bend Speed": 0.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "TwoSided": true,
+        "bCastDynamicShadowAsMasked": true,
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_TwoSidedFoliage",
+        "OpacityMaskClipValue": 0.3333
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

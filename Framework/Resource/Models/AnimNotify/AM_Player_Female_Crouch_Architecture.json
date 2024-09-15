@@ -1,0 +1,21 @@
+[
+	{
+		"Duration" : 0.0,
+		"EndTime" : 0.25006666779518127,
+		"SoundID" : "AKE_Player_Archirwcture_Hummer_1039963089",
+		"StartTime" : 0.25006666779518127,
+		"Type" : "Sound"
+	},
+	{
+		"AttachBoneName" : "Socket_Weapon_R",
+		"Duration" : 0.0,
+		"EffectName" : "Group_Build_Particle",
+		"EndTime" : 0.27570000290870667,
+		"StartTime" : 0.27570000290870667,
+		"Type" : "Effect",
+		"UseFollowBone" : false,
+		"vRelativeLocationX" : -17.0,
+		"vRelativeLocationY" : 4.0,
+		"vRelativeLocationZ" : -52.999996185302734
+	}
+]

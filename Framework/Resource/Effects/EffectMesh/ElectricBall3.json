@@ -1,0 +1,74 @@
+{
+    "RenderType": 9,
+    "EffectType": 1,
+    "Model File Path": "../../Resource/Models/Dat/NonAnim/EffectMeshs/Sphere02.dat",
+    "Effect Shader Name": "FX_EffectMesh_PNT2T",
+    "Scale": [
+        0.4009999930858612,
+        0.4009999930858612,
+        0.4009999930858612
+    ],
+    "Rotation": [
+        -90.0,
+        0.0,
+        0.0
+    ],
+    "Translation": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "Diffuse Color1": [
+        1.0,
+        0.9176470637321472,
+        0.3137255012989044,
+        1.0
+    ],
+    "Diffuse Color2": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+    ],
+    "Diffuse Color3": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+    ],
+    "Diffuse Texture Name": "",
+    "Noise Texture Name": "",
+    "Mask Texture Name": "T_Shockwave10",
+    "Distortion Texture Name": "",
+    "Dissolve Texture Name": "",
+    "Is Sprite": false,
+    "Sprite Row": 1,
+    "Sprite Col": 1,
+    "Sprite Speed": 1.0,
+    "Is Anim": false,
+    "Is Loop": true,
+    "Is UVMove Loop": true,
+    "Is Glow": false,
+    "Is Bloom": false,
+    "Is AlphaAttenuation": false,
+    "Use Diffuse Texture": false,
+    "Use Noise Texture": false,
+    "Use Mask Texture": true,
+    "Use Distortion Texture": false,
+    "Use Dissolve Texture": false,
+    "Distortion Weight": 0.0,
+    "Dissolve Weight": 0.0,
+    "Glow Weight": 0.0,
+    "Bloom Weight": 0.0,
+    "AlphaAttenuation Weight": 0.0,
+    "Life Time": [
+        0.0,
+        10.0
+    ],
+    "UVMove Speed": [
+        0.0,
+        3.0
+    ],
+    "Num KeyFrames": 0,
+    "KeyFrames": []
+}

@@ -1,0 +1,1902 @@
+{
+  "Effect Group Name": "Group_GreenMoss_Stomp",
+  "Duration": 1.0,
+  "Loop": false,
+  "Is Collider": true,
+  "Collider Type": 1,
+  "Collision Flag": 28682,
+  "Collision Layer": 128,
+  "Sphere Collider Radius": 0.0,
+  "Box Collider Extents": [
+    17.21299934387207,
+    1.6390000581741333,
+    21.13800048828125
+  ],
+  "Box Collider LocalPosition": [
+    0.0,
+    1.6390000581741333,
+    0.0
+  ],
+  "Box Collider LocalRotate": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Sound Name": "",
+  "Sound Loop": false,
+  "Sound Value": 1.0,
+  "Effects": [
+    {
+      "Effect Name": "Effect Mesh - Effect Mesh - Effect Mesh - Effect Mesh - Effect Mesh - Effect Mesh - Effect Mesh - Effect Mesh - Effect Mesh - Effect Mesh - GreenMoss_Stomp2",
+      "RenderType": 9,
+      "EffectType": 1,
+      "Model File Path": "../../Resource/Models/Dat/NonAnim/EffectMeshs/Ring.dat",
+      "Effect Shader Name": "FX_EffectMesh_PNT2T",
+      "Is Trail": false,
+      "Num Trails": 1,
+      "Trail Term": 0.05000000074505806,
+      "Scale": [
+        1.0,
+        2.0,
+        1.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Translation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Diffuse Color1": [
+        0.28431373834609985,
+        0.26537588238716125,
+        0.19232988357543945,
+        1.0
+      ],
+      "Diffuse Color2": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Diffuse Color3": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Diffuse Texture Name": "",
+      "Noise Texture Name": "T_Water03",
+      "Mask Texture Name": "T_Gradient11",
+      "Distortion Texture Name": "",
+      "Dissolve Texture Name": "Eff_Noise_01",
+      "Is Sprite": false,
+      "Sprite Row": 1,
+      "Sprite Col": 1,
+      "Sprite Speed": 1.0,
+      "Is Anim": false,
+      "Is Loop": false,
+      "Is UVMove Loop": false,
+      "Is Glow": false,
+      "Is Bloom": false,
+      "Is AlphaAttenuation": true,
+      "Use Diffuse Texture": false,
+      "Use Noise Texture": true,
+      "Use Mask Texture": true,
+      "Use Distortion Texture": false,
+      "Use Dissolve Texture": true,
+      "Distortion Weight": 0.0,
+      "Dissolve Weight": 0.0,
+      "Glow Weight": 0.0,
+      "Bloom Weight": 0.0,
+      "AlphaAttenuation Weight": 0.25,
+      "Life Time": [
+        0.0,
+        1.0
+      ],
+      "UVMove Speed": [
+        0.0,
+        0.0
+      ],
+      "Num KeyFrames": 2,
+      "KeyFrames": [
+        {
+          "Index": "KeyFrame0",
+          "Effect Shader Pass Index": 0,
+          "Time": 0.0,
+          "Render Culled": false,
+          "Color1": [
+            0.3529411554336548,
+            0.299956738948822,
+            0.09861592203378677,
+            0.6000000238418579
+          ],
+          "Color1 Weight": 0.33329999446868896,
+          "Color1 Easing Type": 1,
+          "Color1 Easing Expo": 2.0,
+          "Color2": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Color2 Weight": 0.33329999446868896,
+          "Color2 Easing Type": 1,
+          "Color2 Easing Expo": 2.0,
+          "Color3": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Color3 Weight": 0.33329999446868896,
+          "Color3 Easing Type": 1,
+          "Color3 Easing Expo": 2.0,
+          "Scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Scale Easing Type": 1,
+          "Scale Easing Expo": 2.0,
+          "Rotation": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "Rotation Easing Type": 1,
+          "Rotation Easing Expo": 2.0,
+          "Translation": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "Translation Easing Type": 1,
+          "Translation Easing Expo": 2.0,
+          "Rotate Weight": 0.0
+        },
+        {
+          "Index": "KeyFrame1",
+          "Effect Shader Pass Index": 0,
+          "Time": 1.0,
+          "Render Culled": false,
+          "Color1": [
+            0.3529411554336548,
+            0.299956738948822,
+            0.09861592203378677,
+            0.6000000238418579
+          ],
+          "Color1 Weight": 0.33329999446868896,
+          "Color1 Easing Type": 1,
+          "Color1 Easing Expo": 2.0,
+          "Color2": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Color2 Weight": 0.33329999446868896,
+          "Color2 Easing Type": 1,
+          "Color2 Easing Expo": 2.0,
+          "Color3": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Color3 Weight": 0.33329999446868896,
+          "Color3 Easing Type": 1,
+          "Color3 Easing Expo": 2.0,
+          "Scale": [
+            20.0,
+            20.0,
+            20.0
+          ],
+          "Scale Easing Type": 9,
+          "Scale Easing Expo": 2.0,
+          "Rotation": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "Rotation Easing Type": 1,
+          "Rotation Easing Expo": 2.0,
+          "Translation": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "Translation Easing Type": 1,
+          "Translation Easing Expo": 2.0,
+          "Rotate Weight": 0.0
+        }
+      ]
+    },
+    {
+      "Effect Name": "Effect Mesh - Effect Mesh - Effect Mesh - Effect Mesh - Effect Mesh - Effect Mesh - Effect Mesh - Effect Mesh - Effect Mesh - Effect Mesh - GreenMoss_Stomp3",
+      "RenderType": 9,
+      "EffectType": 1,
+      "Model File Path": "../../Resource/Models/Dat/NonAnim/EffectMeshs/Plane.dat",
+      "Effect Shader Name": "FX_EffectMesh_PNT2T",
+      "Is Trail": false,
+      "Num Trails": 1,
+      "Trail Term": 0.05000000074505806,
+      "Scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Rotation": [
+        90.0,
+        0.0,
+        0.0
+      ],
+      "Translation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Diffuse Color1": [
+        0.6078431606292725,
+        0.5323885679244995,
+        0.2413495033979416,
+        1.0
+      ],
+      "Diffuse Color2": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Diffuse Color3": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Diffuse Texture Name": "",
+      "Noise Texture Name": "T_Water03",
+      "Mask Texture Name": "T_maskCircle",
+      "Distortion Texture Name": "",
+      "Dissolve Texture Name": "Eff_Noise_01",
+      "Is Sprite": false,
+      "Sprite Row": 1,
+      "Sprite Col": 1,
+      "Sprite Speed": 1.0,
+      "Is Anim": false,
+      "Is Loop": false,
+      "Is UVMove Loop": false,
+      "Is Glow": false,
+      "Is Bloom": false,
+      "Is AlphaAttenuation": false,
+      "Use Diffuse Texture": false,
+      "Use Noise Texture": true,
+      "Use Mask Texture": true,
+      "Use Distortion Texture": false,
+      "Use Dissolve Texture": false,
+      "Distortion Weight": 0.0,
+      "Dissolve Weight": 0.0,
+      "Glow Weight": 0.0,
+      "Bloom Weight": 0.0,
+      "AlphaAttenuation Weight": 0.0,
+      "Life Time": [
+        0.0,
+        1.0
+      ],
+      "UVMove Speed": [
+        0.0,
+        0.0
+      ],
+      "Num KeyFrames": 2,
+      "KeyFrames": [
+        {
+          "Index": "KeyFrame0",
+          "Effect Shader Pass Index": 0,
+          "Time": 0.0,
+          "Render Culled": false,
+          "Color1": [
+            0.8578431606292725,
+            0.7392861247062683,
+            0.2775374948978424,
+            1.0
+          ],
+          "Color1 Weight": 0.33329999446868896,
+          "Color1 Easing Type": 1,
+          "Color1 Easing Expo": 2.0,
+          "Color2": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Color2 Weight": 0.33329999446868896,
+          "Color2 Easing Type": 1,
+          "Color2 Easing Expo": 2.0,
+          "Color3": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Color3 Weight": 0.33329999446868896,
+          "Color3 Easing Type": 1,
+          "Color3 Easing Expo": 2.0,
+          "Scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Scale Easing Type": 1,
+          "Scale Easing Expo": 2.0,
+          "Rotation": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "Rotation Easing Type": 1,
+          "Rotation Easing Expo": 2.0,
+          "Translation": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "Translation Easing Type": 1,
+          "Translation Easing Expo": 2.0,
+          "Rotate Weight": 0.0
+        },
+        {
+          "Index": "KeyFrame1",
+          "Effect Shader Pass Index": 0,
+          "Time": 1.0,
+          "Render Culled": false,
+          "Color1": [
+            0.8578431606292725,
+            0.7392861247062683,
+            0.2775374948978424,
+            1.0
+          ],
+          "Color1 Weight": 0.33329999446868896,
+          "Color1 Easing Type": 1,
+          "Color1 Easing Expo": 2.0,
+          "Color2": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Color2 Weight": 0.33329999446868896,
+          "Color2 Easing Type": 1,
+          "Color2 Easing Expo": 2.0,
+          "Color3": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Color3 Weight": 0.33329999446868896,
+          "Color3 Easing Type": 1,
+          "Color3 Easing Expo": 2.0,
+          "Scale": [
+            65.0,
+            65.0,
+            65.0
+          ],
+          "Scale Easing Type": 9,
+          "Scale Easing Expo": 2.0,
+          "Rotation": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "Rotation Easing Type": 1,
+          "Rotation Easing Expo": 2.0,
+          "Translation": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "Translation Easing Type": 1,
+          "Translation Easing Expo": 2.0,
+          "Rotate Weight": 0.0
+        }
+      ]
+    },
+    {
+      "Effect Name": "Effect Mesh - Effect Mesh - Effect Mesh - Effect Mesh - Effect Mesh - GreenMoss_Stomp_Spike",
+      "RenderType": 5,
+      "EffectType": 1,
+      "Model File Path": "../../Resource/Models/Dat/NonAnim/EffectMeshs/rock_spikes.dat",
+      "Effect Shader Name": "FX_EffectMesh_PNT2T",
+      "Is Trail": false,
+      "Num Trails": 1,
+      "Trail Term": 0.05000000074505806,
+      "Scale": [
+        7.0,
+        7.0,
+        7.0
+      ],
+      "Rotation": [
+        25.0,
+        0.0,
+        0.0
+      ],
+      "Translation": [
+        0.0,
+        0.0,
+        -9.0
+      ],
+      "Diffuse Color1": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Diffuse Color2": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Diffuse Color3": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Diffuse Texture Name": "T_pal_b03_tree_africanVegetationPlam_02_D",
+      "Noise Texture Name": "T_PalCatchnoise",
+      "Mask Texture Name": "",
+      "Distortion Texture Name": "",
+      "Dissolve Texture Name": "Eff_Noise_01",
+      "Is Sprite": false,
+      "Sprite Row": 1,
+      "Sprite Col": 1,
+      "Sprite Speed": 1.0,
+      "Is Anim": false,
+      "Is Loop": false,
+      "Is UVMove Loop": false,
+      "Is Glow": false,
+      "Is Bloom": false,
+      "Is AlphaAttenuation": false,
+      "Use Diffuse Texture": true,
+      "Use Noise Texture": true,
+      "Use Mask Texture": false,
+      "Use Distortion Texture": false,
+      "Use Dissolve Texture": true,
+      "Distortion Weight": 0.0,
+      "Dissolve Weight": 0.0,
+      "Glow Weight": 0.0,
+      "Bloom Weight": 0.0,
+      "AlphaAttenuation Weight": 0.0,
+      "Life Time": [
+        0.0,
+        1.0
+      ],
+      "UVMove Speed": [
+        0.0,
+        0.0
+      ],
+      "Num KeyFrames": 0,
+      "KeyFrames": []
+    },
+    {
+      "Effect Name": "Effect Mesh - Effect Mesh - Effect Mesh - Effect Mesh - Effect Mesh - GreenMoss_Stomp_Spike2",
+      "RenderType": 5,
+      "EffectType": 1,
+      "Model File Path": "../../Resource/Models/Dat/NonAnim/EffectMeshs/rock_spikes.dat",
+      "Effect Shader Name": "FX_EffectMesh_PNT2T",
+      "Is Trail": false,
+      "Num Trails": 1,
+      "Trail Term": 0.05000000074505806,
+      "Scale": [
+        8.0,
+        8.0,
+        8.0
+      ],
+      "Rotation": [
+        25.0,
+        30.0,
+        0.0
+      ],
+      "Translation": [
+        -4.0,
+        0.0,
+        -7.5
+      ],
+      "Diffuse Color1": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Diffuse Color2": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Diffuse Color3": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Diffuse Texture Name": "T_pal_b03_tree_africanVegetationPlam_02_D",
+      "Noise Texture Name": "T_PalCatchnoise",
+      "Mask Texture Name": "",
+      "Distortion Texture Name": "",
+      "Dissolve Texture Name": "Eff_Noise_01",
+      "Is Sprite": false,
+      "Sprite Row": 1,
+      "Sprite Col": 1,
+      "Sprite Speed": 1.0,
+      "Is Anim": false,
+      "Is Loop": false,
+      "Is UVMove Loop": false,
+      "Is Glow": false,
+      "Is Bloom": false,
+      "Is AlphaAttenuation": false,
+      "Use Diffuse Texture": true,
+      "Use Noise Texture": true,
+      "Use Mask Texture": false,
+      "Use Distortion Texture": false,
+      "Use Dissolve Texture": true,
+      "Distortion Weight": 0.0,
+      "Dissolve Weight": 0.0,
+      "Glow Weight": 0.0,
+      "Bloom Weight": 0.0,
+      "AlphaAttenuation Weight": 0.0,
+      "Life Time": [
+        0.0,
+        1.0
+      ],
+      "UVMove Speed": [
+        0.0,
+        0.0
+      ],
+      "Num KeyFrames": 0,
+      "KeyFrames": []
+    },
+    {
+      "Effect Name": "Effect Mesh - Effect Mesh - Effect Mesh - Effect Mesh - GreenMoss_Stomp1",
+      "RenderType": 9,
+      "EffectType": 1,
+      "Model File Path": "../../Resource/Models/Dat/NonAnim/EffectMeshs/Ring.dat",
+      "Effect Shader Name": "FX_EffectMesh_PNT2T",
+      "Is Trail": false,
+      "Num Trails": 1,
+      "Trail Term": 0.05000000074505806,
+      "Scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Translation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Diffuse Color1": [
+        0.4215686321258545,
+        0.38115009665489197,
+        0.22524991631507874,
+        1.0
+      ],
+      "Diffuse Color2": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Diffuse Color3": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Diffuse Texture Name": "",
+      "Noise Texture Name": "Eff_Noise_11",
+      "Mask Texture Name": "Pattern_Non_Direction_0404",
+      "Distortion Texture Name": "",
+      "Dissolve Texture Name": "Eff_Noise_01",
+      "Is Sprite": false,
+      "Sprite Row": 1,
+      "Sprite Col": 1,
+      "Sprite Speed": 1.0,
+      "Is Anim": false,
+      "Is Loop": false,
+      "Is UVMove Loop": false,
+      "Is Glow": false,
+      "Is Bloom": false,
+      "Is AlphaAttenuation": false,
+      "Use Diffuse Texture": false,
+      "Use Noise Texture": true,
+      "Use Mask Texture": true,
+      "Use Distortion Texture": false,
+      "Use Dissolve Texture": true,
+      "Distortion Weight": 0.0,
+      "Dissolve Weight": 0.0,
+      "Glow Weight": 0.0,
+      "Bloom Weight": 0.0,
+      "AlphaAttenuation Weight": 0.0,
+      "Life Time": [
+        0.0,
+        1.0
+      ],
+      "UVMove Speed": [
+        0.0,
+        0.0
+      ],
+      "Num KeyFrames": 2,
+      "KeyFrames": [
+        {
+          "Index": "KeyFrame0",
+          "Effect Shader Pass Index": 0,
+          "Time": 0.0,
+          "Render Culled": false,
+          "Color1": [
+            1.0,
+            0.886274516582489,
+            0.4431372582912445,
+            1.0
+          ],
+          "Color1 Weight": 0.33329999446868896,
+          "Color1 Easing Type": 1,
+          "Color1 Easing Expo": 2.0,
+          "Color2": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Color2 Weight": 0.33329999446868896,
+          "Color2 Easing Type": 1,
+          "Color2 Easing Expo": 2.0,
+          "Color3": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Color3 Weight": 0.33329999446868896,
+          "Color3 Easing Type": 1,
+          "Color3 Easing Expo": 2.0,
+          "Scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Scale Easing Type": 9,
+          "Scale Easing Expo": 2.0,
+          "Rotation": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "Rotation Easing Type": 1,
+          "Rotation Easing Expo": 2.0,
+          "Translation": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "Translation Easing Type": 1,
+          "Translation Easing Expo": 2.0,
+          "Rotate Weight": 0.0
+        },
+        {
+          "Index": "KeyFrame1",
+          "Effect Shader Pass Index": 0,
+          "Time": 1.0,
+          "Render Culled": false,
+          "Color1": [
+            1.0,
+            0.886274516582489,
+            0.4431372582912445,
+            1.0
+          ],
+          "Color1 Weight": 0.33329999446868896,
+          "Color1 Easing Type": 1,
+          "Color1 Easing Expo": 2.0,
+          "Color2": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Color2 Weight": 0.33329999446868896,
+          "Color2 Easing Type": 1,
+          "Color2 Easing Expo": 2.0,
+          "Color3": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Color3 Weight": 0.33329999446868896,
+          "Color3 Easing Type": 1,
+          "Color3 Easing Expo": 2.0,
+          "Scale": [
+            16.0,
+            16.0,
+            16.0
+          ],
+          "Scale Easing Type": 9,
+          "Scale Easing Expo": 2.0,
+          "Rotation": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "Rotation Easing Type": 1,
+          "Rotation Easing Expo": 2.0,
+          "Translation": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "Translation Easing Type": 1,
+          "Translation Easing Expo": 2.0,
+          "Rotate Weight": 0.0
+        }
+      ]
+    },
+    {
+      "Effect Name": "Effect Mesh - Effect Mesh - Effect Mesh - Effect Mesh - GreenMoss_Stomp_Spike10",
+      "RenderType": 5,
+      "EffectType": 1,
+      "Model File Path": "../../Resource/Models/Dat/NonAnim/EffectMeshs/rock_spikes.dat",
+      "Effect Shader Name": "FX_EffectMesh_PNT2T",
+      "Is Trail": false,
+      "Num Trails": 1,
+      "Trail Term": 0.05000000074505806,
+      "Scale": [
+        7.5,
+        7.5,
+        7.5
+      ],
+      "Rotation": [
+        25.0,
+        -45.0,
+        0.0
+      ],
+      "Translation": [
+        4.5,
+        0.0,
+        -7.0
+      ],
+      "Diffuse Color1": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Diffuse Color2": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Diffuse Color3": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Diffuse Texture Name": "T_pal_b03_tree_africanVegetationPlam_02_D",
+      "Noise Texture Name": "T_PalCatchnoise",
+      "Mask Texture Name": "",
+      "Distortion Texture Name": "",
+      "Dissolve Texture Name": "Eff_Noise_01",
+      "Is Sprite": false,
+      "Sprite Row": 1,
+      "Sprite Col": 1,
+      "Sprite Speed": 1.0,
+      "Is Anim": false,
+      "Is Loop": false,
+      "Is UVMove Loop": false,
+      "Is Glow": false,
+      "Is Bloom": false,
+      "Is AlphaAttenuation": false,
+      "Use Diffuse Texture": true,
+      "Use Noise Texture": true,
+      "Use Mask Texture": false,
+      "Use Distortion Texture": false,
+      "Use Dissolve Texture": true,
+      "Distortion Weight": 0.0,
+      "Dissolve Weight": 0.0,
+      "Glow Weight": 0.0,
+      "Bloom Weight": 0.0,
+      "AlphaAttenuation Weight": 0.0,
+      "Life Time": [
+        0.0,
+        1.0
+      ],
+      "UVMove Speed": [
+        0.0,
+        0.0
+      ],
+      "Num KeyFrames": 0,
+      "KeyFrames": []
+    },
+    {
+      "Effect Name": "Effect Mesh - Effect Mesh - Effect Mesh - Effect Mesh - GreenMoss_Stomp_Spike3",
+      "RenderType": 5,
+      "EffectType": 1,
+      "Model File Path": "../../Resource/Models/Dat/NonAnim/EffectMeshs/rock_spikes.dat",
+      "Effect Shader Name": "FX_EffectMesh_PNT2T",
+      "Is Trail": false,
+      "Num Trails": 1,
+      "Trail Term": 0.05000000074505806,
+      "Scale": [
+        7.0,
+        7.0,
+        7.0
+      ],
+      "Rotation": [
+        25.0,
+        60.0,
+        0.0
+      ],
+      "Translation": [
+        -7.5,
+        0.0,
+        -4.0
+      ],
+      "Diffuse Color1": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Diffuse Color2": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Diffuse Color3": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Diffuse Texture Name": "T_pal_b03_tree_africanVegetationPlam_02_D",
+      "Noise Texture Name": "T_PalCatchnoise",
+      "Mask Texture Name": "",
+      "Distortion Texture Name": "",
+      "Dissolve Texture Name": "Eff_Noise_01",
+      "Is Sprite": false,
+      "Sprite Row": 1,
+      "Sprite Col": 1,
+      "Sprite Speed": 1.0,
+      "Is Anim": false,
+      "Is Loop": false,
+      "Is UVMove Loop": false,
+      "Is Glow": false,
+      "Is Bloom": false,
+      "Is AlphaAttenuation": false,
+      "Use Diffuse Texture": true,
+      "Use Noise Texture": true,
+      "Use Mask Texture": false,
+      "Use Distortion Texture": false,
+      "Use Dissolve Texture": true,
+      "Distortion Weight": 0.0,
+      "Dissolve Weight": 0.0,
+      "Glow Weight": 0.0,
+      "Bloom Weight": 0.0,
+      "AlphaAttenuation Weight": 0.0,
+      "Life Time": [
+        0.0,
+        1.0
+      ],
+      "UVMove Speed": [
+        0.0,
+        0.0
+      ],
+      "Num KeyFrames": 0,
+      "KeyFrames": []
+    },
+    {
+      "Effect Name": "Effect Mesh - Effect Mesh - Effect Mesh - Effect Mesh - GreenMoss_Stomp_Spike4",
+      "RenderType": 5,
+      "EffectType": 1,
+      "Model File Path": "../../Resource/Models/Dat/NonAnim/EffectMeshs/rock_spikes.dat",
+      "Effect Shader Name": "FX_EffectMesh_PNT2T",
+      "Is Trail": false,
+      "Num Trails": 1,
+      "Trail Term": 0.05000000074505806,
+      "Scale": [
+        8.5,
+        8.5,
+        8.5
+      ],
+      "Rotation": [
+        25.0,
+        90.0,
+        0.0
+      ],
+      "Translation": [
+        -8.0,
+        0.0,
+        1.0
+      ],
+      "Diffuse Color1": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Diffuse Color2": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Diffuse Color3": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Diffuse Texture Name": "T_pal_b03_tree_africanVegetationPlam_02_D",
+      "Noise Texture Name": "T_PalCatchnoise",
+      "Mask Texture Name": "",
+      "Distortion Texture Name": "",
+      "Dissolve Texture Name": "Eff_Noise_01",
+      "Is Sprite": false,
+      "Sprite Row": 1,
+      "Sprite Col": 1,
+      "Sprite Speed": 1.0,
+      "Is Anim": false,
+      "Is Loop": false,
+      "Is UVMove Loop": false,
+      "Is Glow": false,
+      "Is Bloom": false,
+      "Is AlphaAttenuation": false,
+      "Use Diffuse Texture": true,
+      "Use Noise Texture": true,
+      "Use Mask Texture": false,
+      "Use Distortion Texture": false,
+      "Use Dissolve Texture": true,
+      "Distortion Weight": 0.0,
+      "Dissolve Weight": 0.0,
+      "Glow Weight": 0.0,
+      "Bloom Weight": 0.0,
+      "AlphaAttenuation Weight": 0.0,
+      "Life Time": [
+        0.0,
+        1.0
+      ],
+      "UVMove Speed": [
+        0.0,
+        0.0
+      ],
+      "Num KeyFrames": 0,
+      "KeyFrames": []
+    },
+    {
+      "Effect Name": "Effect Mesh - Effect Mesh - Effect Mesh - Effect Mesh - GreenMoss_Stomp_Spike5",
+      "RenderType": 5,
+      "EffectType": 1,
+      "Model File Path": "../../Resource/Models/Dat/NonAnim/EffectMeshs/rock_spikes.dat",
+      "Effect Shader Name": "FX_EffectMesh_PNT2T",
+      "Is Trail": false,
+      "Num Trails": 1,
+      "Trail Term": 0.05000000074505806,
+      "Scale": [
+        6.5,
+        6.5,
+        6.5
+      ],
+      "Rotation": [
+        -25.0,
+        -60.0,
+        0.0
+      ],
+      "Translation": [
+        -6.0,
+        0.0,
+        6.0
+      ],
+      "Diffuse Color1": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Diffuse Color2": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Diffuse Color3": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Diffuse Texture Name": "T_pal_b03_tree_africanVegetationPlam_02_D",
+      "Noise Texture Name": "T_PalCatchnoise",
+      "Mask Texture Name": "",
+      "Distortion Texture Name": "",
+      "Dissolve Texture Name": "Eff_Noise_01",
+      "Is Sprite": false,
+      "Sprite Row": 1,
+      "Sprite Col": 1,
+      "Sprite Speed": 1.0,
+      "Is Anim": false,
+      "Is Loop": false,
+      "Is UVMove Loop": false,
+      "Is Glow": false,
+      "Is Bloom": false,
+      "Is AlphaAttenuation": false,
+      "Use Diffuse Texture": true,
+      "Use Noise Texture": true,
+      "Use Mask Texture": false,
+      "Use Distortion Texture": false,
+      "Use Dissolve Texture": true,
+      "Distortion Weight": 0.0,
+      "Dissolve Weight": 0.0,
+      "Glow Weight": 0.0,
+      "Bloom Weight": 0.0,
+      "AlphaAttenuation Weight": 0.0,
+      "Life Time": [
+        0.0,
+        1.0
+      ],
+      "UVMove Speed": [
+        0.0,
+        0.0
+      ],
+      "Num KeyFrames": 0,
+      "KeyFrames": []
+    },
+    {
+      "Effect Name": "Effect Mesh - Effect Mesh - Effect Mesh - Effect Mesh - GreenMoss_Stomp_Spike6",
+      "RenderType": 5,
+      "EffectType": 1,
+      "Model File Path": "../../Resource/Models/Dat/NonAnim/EffectMeshs/rock_spikes.dat",
+      "Effect Shader Name": "FX_EffectMesh_PNT2T",
+      "Is Trail": false,
+      "Num Trails": 1,
+      "Trail Term": 0.05000000074505806,
+      "Scale": [
+        9.0,
+        9.0,
+        9.0
+      ],
+      "Rotation": [
+        25.0,
+        180.0,
+        0.0
+      ],
+      "Translation": [
+        -1.5,
+        0.0,
+        7.5
+      ],
+      "Diffuse Color1": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Diffuse Color2": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Diffuse Color3": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Diffuse Texture Name": "T_pal_b03_tree_africanVegetationPlam_02_D",
+      "Noise Texture Name": "T_PalCatchnoise",
+      "Mask Texture Name": "",
+      "Distortion Texture Name": "",
+      "Dissolve Texture Name": "Eff_Noise_01",
+      "Is Sprite": false,
+      "Sprite Row": 1,
+      "Sprite Col": 1,
+      "Sprite Speed": 1.0,
+      "Is Anim": false,
+      "Is Loop": false,
+      "Is UVMove Loop": false,
+      "Is Glow": false,
+      "Is Bloom": false,
+      "Is AlphaAttenuation": false,
+      "Use Diffuse Texture": true,
+      "Use Noise Texture": true,
+      "Use Mask Texture": false,
+      "Use Distortion Texture": false,
+      "Use Dissolve Texture": true,
+      "Distortion Weight": 0.0,
+      "Dissolve Weight": 0.0,
+      "Glow Weight": 0.0,
+      "Bloom Weight": 0.0,
+      "AlphaAttenuation Weight": 0.0,
+      "Life Time": [
+        0.0,
+        1.0
+      ],
+      "UVMove Speed": [
+        0.0,
+        0.0
+      ],
+      "Num KeyFrames": 0,
+      "KeyFrames": []
+    },
+    {
+      "Effect Name": "Effect Mesh - Effect Mesh - Effect Mesh - Effect Mesh - GreenMoss_Stomp_Spike7",
+      "RenderType": 5,
+      "EffectType": 1,
+      "Model File Path": "../../Resource/Models/Dat/NonAnim/EffectMeshs/rock_spikes.dat",
+      "Effect Shader Name": "FX_EffectMesh_PNT2T",
+      "Is Trail": false,
+      "Num Trails": 1,
+      "Trail Term": 0.05000000074505806,
+      "Scale": [
+        6.5,
+        6.5,
+        6.5
+      ],
+      "Rotation": [
+        -25.0,
+        20.0,
+        0.0
+      ],
+      "Translation": [
+        4.0,
+        0.0,
+        6.5
+      ],
+      "Diffuse Color1": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Diffuse Color2": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Diffuse Color3": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Diffuse Texture Name": "T_pal_b03_tree_africanVegetationPlam_02_D",
+      "Noise Texture Name": "T_PalCatchnoise",
+      "Mask Texture Name": "",
+      "Distortion Texture Name": "",
+      "Dissolve Texture Name": "Eff_Noise_01",
+      "Is Sprite": false,
+      "Sprite Row": 1,
+      "Sprite Col": 1,
+      "Sprite Speed": 1.0,
+      "Is Anim": false,
+      "Is Loop": false,
+      "Is UVMove Loop": false,
+      "Is Glow": false,
+      "Is Bloom": false,
+      "Is AlphaAttenuation": false,
+      "Use Diffuse Texture": true,
+      "Use Noise Texture": true,
+      "Use Mask Texture": false,
+      "Use Distortion Texture": false,
+      "Use Dissolve Texture": true,
+      "Distortion Weight": 0.0,
+      "Dissolve Weight": 0.0,
+      "Glow Weight": 0.0,
+      "Bloom Weight": 0.0,
+      "AlphaAttenuation Weight": 0.0,
+      "Life Time": [
+        0.0,
+        1.0
+      ],
+      "UVMove Speed": [
+        0.0,
+        0.0
+      ],
+      "Num KeyFrames": 0,
+      "KeyFrames": []
+    },
+    {
+      "Effect Name": "Effect Mesh - Effect Mesh - Effect Mesh - Effect Mesh - GreenMoss_Stomp_Spike8",
+      "RenderType": 5,
+      "EffectType": 1,
+      "Model File Path": "../../Resource/Models/Dat/NonAnim/EffectMeshs/rock_spikes.dat",
+      "Effect Shader Name": "FX_EffectMesh_PNT2T",
+      "Is Trail": false,
+      "Num Trails": 1,
+      "Trail Term": 0.05000000074505806,
+      "Scale": [
+        9.5,
+        9.5,
+        9.5
+      ],
+      "Rotation": [
+        -25.0,
+        75.0,
+        0.0
+      ],
+      "Translation": [
+        7.5,
+        0.0,
+        2.0
+      ],
+      "Diffuse Color1": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Diffuse Color2": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Diffuse Color3": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Diffuse Texture Name": "T_pal_b03_tree_africanVegetationPlam_02_D",
+      "Noise Texture Name": "T_PalCatchnoise",
+      "Mask Texture Name": "",
+      "Distortion Texture Name": "",
+      "Dissolve Texture Name": "Eff_Noise_01",
+      "Is Sprite": false,
+      "Sprite Row": 1,
+      "Sprite Col": 1,
+      "Sprite Speed": 1.0,
+      "Is Anim": false,
+      "Is Loop": false,
+      "Is UVMove Loop": false,
+      "Is Glow": false,
+      "Is Bloom": false,
+      "Is AlphaAttenuation": false,
+      "Use Diffuse Texture": true,
+      "Use Noise Texture": true,
+      "Use Mask Texture": false,
+      "Use Distortion Texture": false,
+      "Use Dissolve Texture": true,
+      "Distortion Weight": 0.0,
+      "Dissolve Weight": 0.0,
+      "Glow Weight": 0.0,
+      "Bloom Weight": 0.0,
+      "AlphaAttenuation Weight": 0.0,
+      "Life Time": [
+        0.0,
+        1.0
+      ],
+      "UVMove Speed": [
+        0.0,
+        0.0
+      ],
+      "Num KeyFrames": 0,
+      "KeyFrames": []
+    },
+    {
+      "Effect Name": "Effect Mesh - Effect Mesh - Effect Mesh - Effect Mesh - GreenMoss_Stomp_Spike9",
+      "RenderType": 5,
+      "EffectType": 1,
+      "Model File Path": "../../Resource/Models/Dat/NonAnim/EffectMeshs/rock_spikes.dat",
+      "Effect Shader Name": "FX_EffectMesh_PNT2T",
+      "Is Trail": false,
+      "Num Trails": 1,
+      "Trail Term": 0.05000000074505806,
+      "Scale": [
+        7.0,
+        7.0,
+        7.0
+      ],
+      "Rotation": [
+        25.0,
+        -60.0,
+        0.0
+      ],
+      "Translation": [
+        7.5,
+        0.0,
+        -3.0
+      ],
+      "Diffuse Color1": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Diffuse Color2": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Diffuse Color3": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Diffuse Texture Name": "T_pal_b03_tree_africanVegetationPlam_02_D",
+      "Noise Texture Name": "T_PalCatchnoise",
+      "Mask Texture Name": "",
+      "Distortion Texture Name": "",
+      "Dissolve Texture Name": "Eff_Noise_01",
+      "Is Sprite": false,
+      "Sprite Row": 1,
+      "Sprite Col": 1,
+      "Sprite Speed": 1.0,
+      "Is Anim": false,
+      "Is Loop": false,
+      "Is UVMove Loop": false,
+      "Is Glow": false,
+      "Is Bloom": false,
+      "Is AlphaAttenuation": false,
+      "Use Diffuse Texture": true,
+      "Use Noise Texture": true,
+      "Use Mask Texture": false,
+      "Use Distortion Texture": false,
+      "Use Dissolve Texture": true,
+      "Distortion Weight": 0.0,
+      "Dissolve Weight": 0.0,
+      "Glow Weight": 0.0,
+      "Bloom Weight": 0.0,
+      "AlphaAttenuation Weight": 0.0,
+      "Life Time": [
+        0.0,
+        1.0
+      ],
+      "UVMove Speed": [
+        0.0,
+        0.0
+      ],
+      "Num KeyFrames": 0,
+      "KeyFrames": []
+    },
+    {
+      "Effect Name": "Effect Mesh - Effect Mesh - Effect Mesh - GreenMoss_Stomp_ShockWave",
+      "RenderType": 9,
+      "EffectType": 1,
+      "Model File Path": "../../Resource/Models/Dat/NonAnim/EffectMeshs/Hemisphere00.dat",
+      "Effect Shader Name": "FX_EffectMesh_PNT2T",
+      "Is Trail": false,
+      "Num Trails": 1,
+      "Trail Term": 0.05000000074505806,
+      "Scale": [
+        20.0,
+        20.0,
+        20.0
+      ],
+      "Rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Translation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Diffuse Color1": [
+        0.9448401927947998,
+        0.970588207244873,
+        0.5328719019889832,
+        1.0
+      ],
+      "Diffuse Color2": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Diffuse Color3": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Diffuse Texture Name": "T_Rock_2_D",
+      "Noise Texture Name": "None",
+      "Mask Texture Name": "T_ChargeAura",
+      "Distortion Texture Name": "",
+      "Dissolve Texture Name": "",
+      "Is Sprite": false,
+      "Sprite Row": 1,
+      "Sprite Col": 1,
+      "Sprite Speed": 1.0,
+      "Is Anim": false,
+      "Is Loop": false,
+      "Is UVMove Loop": true,
+      "Is Glow": false,
+      "Is Bloom": false,
+      "Is AlphaAttenuation": false,
+      "Use Diffuse Texture": false,
+      "Use Noise Texture": true,
+      "Use Mask Texture": true,
+      "Use Distortion Texture": false,
+      "Use Dissolve Texture": true,
+      "Distortion Weight": 0.0,
+      "Dissolve Weight": 0.0,
+      "Glow Weight": 0.0,
+      "Bloom Weight": 0.0,
+      "AlphaAttenuation Weight": 0.0,
+      "Life Time": [
+        0.0,
+        0.20000000298023224
+      ],
+      "UVMove Speed": [
+        0.0,
+        4.0
+      ],
+      "Num KeyFrames": 2,
+      "KeyFrames": [
+        {
+          "Index": "KeyFrame0",
+          "Effect Shader Pass Index": 0,
+          "Time": 0.0,
+          "Render Culled": false,
+          "Color1": [
+            0.9450980424880981,
+            0.9725490212440491,
+            0.5333333611488342,
+            1.0
+          ],
+          "Color1 Weight": 0.33329999446868896,
+          "Color1 Easing Type": 1,
+          "Color1 Easing Expo": 2.0,
+          "Color2": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Color2 Weight": 0.33329999446868896,
+          "Color2 Easing Type": 1,
+          "Color2 Easing Expo": 2.0,
+          "Color3": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Color3 Weight": 0.33329999446868896,
+          "Color3 Easing Type": 1,
+          "Color3 Easing Expo": 2.0,
+          "Scale": [
+            20.0,
+            20.0,
+            20.0
+          ],
+          "Scale Easing Type": 1,
+          "Scale Easing Expo": 2.0,
+          "Rotation": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "Rotation Easing Type": 1,
+          "Rotation Easing Expo": 2.0,
+          "Translation": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "Translation Easing Type": 1,
+          "Translation Easing Expo": 2.0,
+          "Rotate Weight": 0.0
+        },
+        {
+          "Index": "KeyFrame1",
+          "Effect Shader Pass Index": 0,
+          "Time": 0.20000000298023224,
+          "Render Culled": false,
+          "Color1": [
+            0.9450980424880981,
+            0.9725490212440491,
+            0.5333333611488342,
+            0.0
+          ],
+          "Color1 Weight": 0.33329999446868896,
+          "Color1 Easing Type": 1,
+          "Color1 Easing Expo": 2.0,
+          "Color2": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Color2 Weight": 0.33329999446868896,
+          "Color2 Easing Type": 1,
+          "Color2 Easing Expo": 2.0,
+          "Color3": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Color3 Weight": 0.33329999446868896,
+          "Color3 Easing Type": 1,
+          "Color3 Easing Expo": 2.0,
+          "Scale": [
+            20.0,
+            20.0,
+            20.0
+          ],
+          "Scale Easing Type": 1,
+          "Scale Easing Expo": 2.0,
+          "Rotation": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "Rotation Easing Type": 1,
+          "Rotation Easing Expo": 2.0,
+          "Translation": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "Translation Easing Type": 1,
+          "Translation Easing Expo": 2.0,
+          "Rotate Weight": 0.0
+        }
+      ]
+    },
+    {
+      "Effect Name": "Particle - Particle - Particle - Particle - Particle - Particle - Particle - Particle - Particle - Particle_GreenMoss_Stomp1",
+      "RenderType": 9,
+      "EffectType": 0,
+      "ParticleType": 1,
+      "Effect Shader Name": "FX_Instancing_PRULPC",
+      "Use Diffuse Texture": false,
+      "Diffuse Texture Name": "",
+      "Use Mask Texture": true,
+      "Mask Texture Name": "KakaoTalk_20240427_141756747_05",
+      "Is Sprite": false,
+      "Sprite Row": 1,
+      "Sprite Col": 1,
+      "Sprite Speed": 1.0,
+      "Is Loop": false,
+      "Is Billboard": true,
+      "Is Directional": true,
+      "Is Gravity": true,
+      "Is Glow": false,
+      "Is Bloom": false,
+      "Is AlphaAttenuation": false,
+      "Gravity Value": 0.75,
+      "Glow Weight": 0.0,
+      "Bloom Weight": 0.0,
+      "AlphaAttenuation Weight": 0.0,
+      "Random Life Time": false,
+      "Life Time": [
+        0.0,
+        1.0
+      ],
+      "Num Instance": 100,
+      "Size": [
+        0.05000000074505806,
+        0.20000000298023224
+      ],
+      "Color1": [
+        0.7098039388656616,
+        0.4313725531101227,
+        0.0784313753247261,
+        0.6000000238418579
+      ],
+      "Color2": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Color3": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Speed": [
+        2.0,
+        3.0
+      ],
+      "Offset": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Pivot": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Range": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Rotation Per Second": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Radius": [
+        6.0,
+        6.0
+      ],
+      "Num KeyFrames": 0,
+      "KeyFrames": []
+    },
+    {
+      "Effect Name": "Particle - Particle - Particle - Particle - Particle - Particle - Particle - Particle - Particle - Particle_GreenMoss_Stomp2",
+      "RenderType": 9,
+      "EffectType": 0,
+      "ParticleType": 1,
+      "Effect Shader Name": "FX_Instancing_PRULPC",
+      "Use Diffuse Texture": false,
+      "Diffuse Texture Name": "",
+      "Use Mask Texture": true,
+      "Mask Texture Name": "KakaoTalk_20240427_141756747_06",
+      "Is Sprite": false,
+      "Sprite Row": 1,
+      "Sprite Col": 1,
+      "Sprite Speed": 1.0,
+      "Is Loop": false,
+      "Is Billboard": true,
+      "Is Directional": true,
+      "Is Gravity": true,
+      "Is Glow": false,
+      "Is Bloom": false,
+      "Is AlphaAttenuation": false,
+      "Gravity Value": 0.75,
+      "Glow Weight": 0.0,
+      "Bloom Weight": 0.0,
+      "AlphaAttenuation Weight": 0.0,
+      "Random Life Time": false,
+      "Life Time": [
+        0.0,
+        1.0
+      ],
+      "Num Instance": 100,
+      "Size": [
+        0.05000000074505806,
+        0.20000000298023224
+      ],
+      "Color1": [
+        0.9104077816009521,
+        0.9215686321258545,
+        0.5420991778373718,
+        0.6000000238418579
+      ],
+      "Color2": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Color3": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Speed": [
+        2.0,
+        3.0
+      ],
+      "Offset": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Pivot": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Range": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Rotation Per Second": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Radius": [
+        6.0,
+        6.0
+      ],
+      "Num KeyFrames": 0,
+      "KeyFrames": []
+    },
+    {
+      "Effect Name": "Particle - Particle - Particle - Particle - Particle - Particle - Particle - Particle - Particle_GreenMoss_Stomp4",
+      "RenderType": 9,
+      "EffectType": 0,
+      "ParticleType": 8,
+      "Effect Shader Name": "FX_Instancing_PRULPC",
+      "Use Diffuse Texture": false,
+      "Diffuse Texture Name": "T_Smoke_1",
+      "Use Mask Texture": true,
+      "Mask Texture Name": "FX_BI_Flame_01SE_gray03",
+      "Is Sprite": true,
+      "Sprite Row": 5,
+      "Sprite Col": 5,
+      "Sprite Speed": 0.05000000074505806,
+      "Is Loop": false,
+      "Is Billboard": true,
+      "Is Directional": false,
+      "Is Gravity": false,
+      "Is Glow": false,
+      "Is Bloom": false,
+      "Is AlphaAttenuation": false,
+      "Gravity Value": -0.5,
+      "Glow Weight": 0.0,
+      "Bloom Weight": 0.0,
+      "AlphaAttenuation Weight": 0.0,
+      "Random Life Time": false,
+      "Life Time": [
+        0.0,
+        1.0
+      ],
+      "Num Instance": 10,
+      "Size": [
+        10.0,
+        10.0
+      ],
+      "Color1": [
+        0.239215686917305,
+        0.239215686917305,
+        0.239215686917305,
+        0.6549019813537598
+      ],
+      "Color2": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Color3": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Speed": [
+        0.10000000149011612,
+        0.10000000149011612
+      ],
+      "Offset": [
+        0.0,
+        0.0010000000474974513,
+        0.0
+      ],
+      "Pivot": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Range": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Rotation Per Second": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Radius": [
+        20.0,
+        20.0
+      ],
+      "Num KeyFrames": 0,
+      "KeyFrames": []
+    },
+    {
+      "Effect Name": "Particle - Particle - Particle - Particle - Particle - Particle - Particle - Particle - Particle_GreenMoss_Stomp5",
+      "RenderType": 9,
+      "EffectType": 0,
+      "ParticleType": 8,
+      "Effect Shader Name": "FX_Instancing_PRULPC",
+      "Use Diffuse Texture": false,
+      "Diffuse Texture Name": "T_Smoke_1",
+      "Use Mask Texture": true,
+      "Mask Texture Name": "FX_BI_Flame_01_01SE",
+      "Is Sprite": true,
+      "Sprite Row": 5,
+      "Sprite Col": 5,
+      "Sprite Speed": 0.05000000074505806,
+      "Is Loop": false,
+      "Is Billboard": true,
+      "Is Directional": false,
+      "Is Gravity": false,
+      "Is Glow": false,
+      "Is Bloom": false,
+      "Is AlphaAttenuation": false,
+      "Gravity Value": -0.5,
+      "Glow Weight": 0.0,
+      "Bloom Weight": 0.0,
+      "AlphaAttenuation Weight": 0.0,
+      "Random Life Time": false,
+      "Life Time": [
+        0.0,
+        1.0
+      ],
+      "Num Instance": 10,
+      "Size": [
+        10.0,
+        10.0
+      ],
+      "Color1": [
+        0.239215686917305,
+        0.239215686917305,
+        0.239215686917305,
+        0.6549019813537598
+      ],
+      "Color2": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Color3": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Speed": [
+        0.10000000149011612,
+        0.10000000149011612
+      ],
+      "Offset": [
+        0.0,
+        0.0010000000474974513,
+        0.0
+      ],
+      "Pivot": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Range": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Rotation Per Second": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Radius": [
+        20.0,
+        20.0
+      ],
+      "Num KeyFrames": 0,
+      "KeyFrames": []
+    }
+  ]
+}

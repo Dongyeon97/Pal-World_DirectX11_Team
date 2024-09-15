@@ -1,0 +1,193 @@
+{
+    "Child Panel Size": 0,
+    "Panels0": {
+        "Panel Name": "LogoUI",
+        "Panel Projection Type": 0,
+        "Panel Depth": 0,
+        "Panel Pivot Component Name": "BaseImage",
+        "Components Size": 4,
+        "Components0": [
+            {
+                "Component Name": "BaseImage",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    640.0,
+                    360.0
+                ],
+                "World Position": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1280.0,
+                    720.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 0,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": false,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": true,
+                "IsInteraction": false,
+                "Image Texture Name": "T_title_BG",
+                "Image Type": 0
+            }
+        ],
+        "Components1": [
+            {
+                "Component Name": "GameEndButton",
+                "Render Type": 6,
+                "UI Type": 3,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    642.0,
+                    553.0
+                ],
+                "World Position": [
+                    2.0,
+                    -193.0,
+                    0.0
+                ],
+                "Scale": [
+                    425.0,
+                    31.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 1,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": false,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Static Texture Name": "T_Logo_ImageStatic_GameEnd",
+                "Hover Texture Name": "T_Logo_ImageHover_GameEnd",
+                "Click Texture Name": "T_Logo_ImageHover_GameEnd"
+            }
+        ],
+        "Components2": [
+            {
+                "Component Name": "GameStartButton",
+                "Render Type": 6,
+                "UI Type": 3,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    642.0,
+                    485.0
+                ],
+                "World Position": [
+                    2.0,
+                    -125.0,
+                    0.0
+                ],
+                "Scale": [
+                    425.0,
+                    31.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 1,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": false,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Static Texture Name": "T_Logo_ImageStatic_GameStart",
+                "Hover Texture Name": "T_Logo_ImageHover_GameStart",
+                "Click Texture Name": "T_Logo_ImageHover_GameStart"
+            }
+        ],
+        "Components3": [
+            {
+                "Component Name": "OptionButton",
+                "Render Type": 6,
+                "UI Type": 3,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    642.0,
+                    520.0
+                ],
+                "World Position": [
+                    2.0,
+                    -160.0,
+                    0.0
+                ],
+                "Scale": [
+                    425.0,
+                    31.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 1,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": false,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Static Texture Name": "T_Logo_ImageStatic_Option",
+                "Hover Texture Name": "T_Logo_ImageHover_Option",
+                "Click Texture Name": "T_Logo_ImageHover_Option"
+            }
+        ]
+    }
+}

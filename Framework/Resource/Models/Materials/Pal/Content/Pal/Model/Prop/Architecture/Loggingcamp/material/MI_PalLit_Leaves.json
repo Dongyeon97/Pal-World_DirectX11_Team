@@ -1,0 +1,48 @@
+{
+  "Textures": {
+    "Base Texture": "Pal/Content/Pal/Model/Prop/Architecture/Loggingcamp/material/Branch_D.Branch_D",
+    "PM_Diffuse": "Pal/Content/Pal/Model/Prop/Architecture/Loggingcamp/material/Branch_D.Branch_D",
+    "Branch_D": "Pal/Content/Pal/Model/Prop/Architecture/Loggingcamp/material/Branch_D.Branch_D",
+    "PM_Normals": "Pal/Content/Pal/Model/Prop/Architecture/Loggingcamp/material/Branch_N.Branch_N",
+    "Normal Map": "Pal/Content/Pal/Model/Prop/Architecture/Loggingcamp/material/Branch_N.Branch_N"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 6,
+    "Colors": {
+      "Subsurface Color": {
+        "R": 0.186769,
+        "G": 0.328125,
+        "B": 0.107418,
+        "A": 0.0,
+        "Hex": "789B5C"
+      }
+    },
+    "Scalars": {
+      "Specular": 0.1,
+      "Normal Map Intensity": 3.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "bOverride_ShadingModel": true,
+        "bOverride_DitheredLODTransition": true,
+        "bOverride_TwoSided": true,
+        "TwoSided": true,
+        "DitheredLODTransition": true,
+        "bCastDynamicShadowAsMasked": true,
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_TwoSidedFoliage",
+        "OpacityMaskClipValue": 0.3333
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

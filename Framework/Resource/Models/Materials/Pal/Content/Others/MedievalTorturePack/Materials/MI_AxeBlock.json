@@ -1,0 +1,31 @@
+{
+  "Textures": {
+    "AO_R_Met": "Pal/Content/Others/MedievalTorturePack/Textures/AxeBlock/T_ExecutAxeBlock_ARM.T_ExecutAxeBlock_ARM",
+    "PM_SpecularMasks": "Pal/Content/Others/MedievalTorturePack/Textures/AxeBlock/T_ExecutAxeBlock_ARM.T_ExecutAxeBlock_ARM",
+    "T_ExecutAxeBlock_ARM": "Pal/Content/Others/MedievalTorturePack/Textures/AxeBlock/T_ExecutAxeBlock_ARM.T_ExecutAxeBlock_ARM",
+    "PM_Diffuse": "Pal/Content/Others/MedievalTorturePack/Textures/AxeBlock/T_ExecutAxeBlock_BaseColor.T_ExecutAxeBlock_BaseColor",
+    "Diffuse": "Pal/Content/Others/MedievalTorturePack/Textures/AxeBlock/T_ExecutAxeBlock_BaseColor.T_ExecutAxeBlock_BaseColor",
+    "PM_Normals": "Pal/Content/Others/MedievalTorturePack/Textures/AxeBlock/T_ExecutAxeBlock_Normal.T_ExecutAxeBlock_Normal",
+    "Normal": "Pal/Content/Others/MedievalTorturePack/Textures/AxeBlock/T_ExecutAxeBlock_Normal.T_ExecutAxeBlock_Normal"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      }
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

@@ -1,0 +1,41 @@
+[
+  {
+    "Type": "AkAssetPlatformData",
+    "Name": "AkAssetPlatformData_0",
+    "Outer": "Reload_LaserRifle3",
+    "Class": "UScriptClass'AkAssetPlatformData'"
+  },
+  {
+    "Type": "AkAudioEvent",
+    "Name": "Reload_LaserRifle3",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Properties": {
+      "RequiredBank": {
+        "ObjectName": "AkAudioBank'AKB_SE_Weapon'",
+        "ObjectPath": "Pal/Content/Pal/Sound/SoundBank/AKB_SE_Weapon.2"
+      },
+      "PlatformAssetData": {
+        "ObjectName": "AkAssetPlatformData'Reload_LaserRifle3:AkAssetPlatformData_0'",
+        "ObjectPath": "Pal/Content/Pal/Sound/Events/SE/Weapon/Gun/LaserRifle/Reload_LaserRifle3.0"
+      },
+      "ShortID": 4000831483
+    }
+  },
+  {
+    "Type": "AkAudioEventData",
+    "Name": "AkAudioEventData_0",
+    "Outer": "Reload_LaserRifle3",
+    "Class": "UScriptClass'AkAudioEventData'",
+    "Properties": {
+      "MaxAttenuationRadius": 8000.0,
+      "MinimumDuration": 1.120544,
+      "MaximumDuration": 1.120544,
+      "MediaList": [
+        {
+          "ObjectName": "AkMediaAsset'1012796587'",
+          "ObjectPath": "Pal/Content/Pal/Sound/Media/1012796587.0"
+        }
+      ]
+    }
+  }
+]

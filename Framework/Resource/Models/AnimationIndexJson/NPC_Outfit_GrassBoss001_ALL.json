@@ -1,0 +1,23 @@
+[
+  "AS_NPC_Female_Give",
+  "AS_NPC_Female_GroundSit",
+  "AS_NPC_Female_Surprise",
+  "AS_NPC_Female_Talking",
+  "AS_NPC_Female_UseDevice",
+  "AS_Player_Female_CommonWork",
+  "AS_Player_Female_Cooking",
+  "AS_Player_Female_Deforest_None",
+  "AS_Player_Female_Emote_Cheer",
+  "AS_Player_Female_Emote_Dance",
+  "AS_Player_Female_Emote_Wave",
+  "AS_Player_Female_Feeding",
+  "AS_Player_Female_Idle_None",
+  "AS_Player_Female_Mining",
+  "AS_Player_Female_Petting_Small",
+  "AS_Player_Female_SleepIn",
+  "AS_Player_Female_SleepLoop",
+  "AS_Player_Female_SleepOnSideLoop",
+  "AS_Player_Female_Wakeup_FaceDown",
+  "AS_Player_Female_WakeUp_Faceup",
+  "AS_Player_Female_Watering_None"
+]

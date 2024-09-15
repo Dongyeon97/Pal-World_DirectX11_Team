@@ -1,0 +1,55 @@
+{
+  "Textures": {
+    "Base Texture": "Pal/Content/Pal/Model/Character/NPC/Boss/ForestBoss/SK_NPC_ForestBossHead001/T_NPC_ForestBossBrow001_B.T_NPC_ForestBossBrow001_B",
+    "T_NPC_ForestBossBrow001_B": "Pal/Content/Pal/Model/Character/NPC/Boss/ForestBoss/SK_NPC_ForestBossHead001/T_NPC_ForestBossBrow001_B.T_NPC_ForestBossBrow001_B",
+    "PM_SpecularMasks": "Pal/Content/Pal/Model/Character/NPC/Boss/ForestBoss/SK_NPC_ForestBossHead001/T_NPC_ForestBossBrow001_M.T_NPC_ForestBossBrow001_M",
+    "MetallicRoughnessOcclusionSpecularTexture": "Pal/Content/Pal/Model/Character/NPC/Boss/ForestBoss/SK_NPC_ForestBossHead001/T_NPC_ForestBossBrow001_M.T_NPC_ForestBossBrow001_M",
+    "PM_Normals": "Pal/Content/Pal/Model/Character/NPC/Boss/ForestBoss/SK_NPC_ForestBossHead001/T_NPC_ForestBossBrow001_N.T_NPC_ForestBossBrow001_N",
+    "Normal Map": "Pal/Content/Pal/Model/Character/NPC/Boss/ForestBoss/SK_NPC_ForestBossHead001/T_NPC_ForestBossBrow001_N.T_NPC_ForestBossBrow001_N"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 4,
+    "Colors": {
+      "BaseColor": {
+        "R": 0.583333,
+        "G": 0.583333,
+        "B": 0.583333,
+        "A": 1.0,
+        "Hex": "FFC9C9C9"
+      },
+      "Fresnel Emissive Color": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 1.0,
+        "Hex": "FF000000"
+      }
+    },
+    "Scalars": {
+      "Fresnel Exponent": 10.0,
+      "Fresnel Fraction": 0.0,
+      "Roughness Add": 0.2,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_ClearCoat",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "SubsurfaceProfile": {
+        "ObjectName": "SubsurfaceProfile'SP_CharacterBodyBase'",
+        "ObjectPath": "Pal/Content/Pal/Material/Character/Common/SP_CharacterBodyBase.0"
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

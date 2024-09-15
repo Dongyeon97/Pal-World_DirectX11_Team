@@ -1,0 +1,51 @@
+{
+  "Textures": {
+    "Base Texture": "Pal/Content/Pal/Model/Character/Player/Hair/Hair016/T_Player_Hair016_B.T_Player_Hair016_B",
+    "T_Player_Hair016_B": "Pal/Content/Pal/Model/Character/Player/Hair/Hair016/T_Player_Hair016_B.T_Player_Hair016_B",
+    "PM_Diffuse": "Pal/Content/Pal/Model/Character/Player/Body/Female/T_white_B.T_white_B",
+    "BaseColor Mask": "Pal/Content/Pal/Model/Character/Player/Body/Female/T_white_B.T_white_B",
+    "PM_Normals": "Pal/Content/Pal/Model/Character/Player/Hair/Hair016/T_Player_Hair016_N.T_Player_Hair016_N",
+    "Normal Map": "Pal/Content/Pal/Model/Character/Player/Hair/Hair016/T_Player_Hair016_N.T_Player_Hair016_N"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 4,
+    "Colors": {
+      "BaseColor": {
+        "R": 0.916667,
+        "G": 0.723322,
+        "B": 0.829356,
+        "A": 1.0,
+        "Hex": "FFF6DDEB"
+      }
+    },
+    "Scalars": {
+      "Character CameraFade Distance": 30.0,
+      "Occlusion Add": 1.0,
+      "Roughness": 0.475452,
+      "Roughness Add": 0.6,
+      "Roughness Mul": 0.8,
+      "Normal Map Intensity": 0.5,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_ClearCoat",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "SubsurfaceProfile": {
+        "ObjectName": "SubsurfaceProfile'SP_CharacterBodyBase'",
+        "ObjectPath": "Pal/Content/Pal/Material/Character/Common/SP_CharacterBodyBase.0"
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

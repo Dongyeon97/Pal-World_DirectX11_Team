@@ -1,0 +1,21 @@
+[
+	{
+		"AttachBoneName" : "root",
+		"Duration" : 0.0,
+		"EffectName" : "Group_WoodCutting",
+		"EndTime" : 0.6557999849319458,
+		"StartTime" : 0.6557999849319458,
+		"Type" : "Effect",
+		"UseFollowBone" : false,
+		"vRelativeLocationX" : 48.999996185302734,
+		"vRelativeLocationY" : -101.0,
+		"vRelativeLocationZ" : -90.0
+	},
+	{
+		"Duration" : 0.0,
+		"EndTime" : 0.46269997954368591,
+		"SoundID" : "Heavy_Sword_Swing_2_1025518190",
+		"StartTime" : 0.46269997954368591,
+		"Type" : "Sound"
+	}
+]

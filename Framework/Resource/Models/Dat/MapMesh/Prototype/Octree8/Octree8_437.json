@@ -1,0 +1,107 @@
+{
+    "Is Empty?": false,
+    "Tree Count": 2,
+    "Rock Count": 0,
+    "Pal Count": 0,
+    "Trees Information": {
+        "Habitat Type": 0,
+        "Nature Type": 0,
+        "Total Number of Trees": 2,
+        "Individual Information": {
+            "Tree25": [
+                {
+                    "Scale": [
+                        1.0,
+                        1.1594394445419312,
+                        1.0
+                    ]
+                },
+                {
+                    "Rotation": [
+                        -0.0,
+                        -33.44784164428711,
+                        0.0
+                    ]
+                },
+                {
+                    "Translation": [
+                        -3450.085205078125,
+                        -3.9687023162841797,
+                        -2098.25634765625
+                    ]
+                },
+                {
+                    "Center": [
+                        0.0,
+                        4.0,
+                        0.0
+                    ]
+                },
+                {
+                    "Extents": [
+                        0.4000000059604645,
+                        4.0,
+                        0.4000000059604645
+                    ]
+                },
+                {
+                    "Included Octree Node Index": [
+                        4,
+                        3,
+                        7
+                    ]
+                },
+                {
+                    "Model File Path": "../../Resource/Models/Dat/MapMesh/Placeable/Tree/tree8.dat"
+                }
+            ],
+            "Tree26": [
+                {
+                    "Scale": [
+                        1.0,
+                        1.1819288730621338,
+                        1.0
+                    ]
+                },
+                {
+                    "Rotation": [
+                        0.000005593210062215803,
+                        108.85126495361328,
+                        -0.00003369227852090262
+                    ]
+                },
+                {
+                    "Translation": [
+                        -3469.142578125,
+                        -5.729076385498047,
+                        -2104.958984375
+                    ]
+                },
+                {
+                    "Center": [
+                        0.0,
+                        4.0,
+                        0.0
+                    ]
+                },
+                {
+                    "Extents": [
+                        0.4000000059604645,
+                        4.0,
+                        0.4000000059604645
+                    ]
+                },
+                {
+                    "Included Octree Node Index": [
+                        4,
+                        3,
+                        7
+                    ]
+                },
+                {
+                    "Model File Path": "../../Resource/Models/Dat/MapMesh/Placeable/Tree/tree8.dat"
+                }
+            ]
+        }
+    }
+}

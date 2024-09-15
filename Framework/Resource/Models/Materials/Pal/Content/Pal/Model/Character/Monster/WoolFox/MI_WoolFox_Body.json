@@ -1,0 +1,64 @@
+{
+  "Textures": {
+    "Base Texture": "Pal/Content/Pal/Model/Character/Monster/WoolFox/T_WoolFox_Body_B.T_WoolFox_Body_B",
+    "T_WoolFox_Body_B": "Pal/Content/Pal/Model/Character/Monster/WoolFox/T_WoolFox_Body_B.T_WoolFox_Body_B",
+    "PM_SpecularMasks": "Pal/Content/Pal/Model/Character/Monster/WoolFox/T_WoolFox_Body_M.T_WoolFox_Body_M",
+    "MetallicRoughnessOcclusionSpecularTexture": "Pal/Content/Pal/Model/Character/Monster/WoolFox/T_WoolFox_Body_M.T_WoolFox_Body_M",
+    "PM_Normals": "Pal/Content/Pal/Model/Character/Monster/WoolFox/T_WoolFox_Body_N.T_WoolFox_Body_N",
+    "Normal Map": "Pal/Content/Pal/Model/Character/Monster/WoolFox/T_WoolFox_Body_N.T_WoolFox_Body_N",
+    "Subsurface Texture": "Pal/Content/Pal/Model/Character/Monster/WoolFox/T_WoolFox_Body_SSS.T_WoolFox_Body_SSS",
+    "T_WoolFox_Body_SSS": "Pal/Content/Pal/Model/Character/Monster/WoolFox/T_WoolFox_Body_SSS.T_WoolFox_Body_SSS"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 2,
+    "Colors": {
+      "BaseColor": {
+        "R": 0.947917,
+        "G": 0.923231,
+        "B": 0.934606,
+        "A": 1.0,
+        "Hex": "FFFAF7F8"
+      },
+      "Subsurface Color": {
+        "R": 1.0,
+        "G": 0.483485,
+        "B": 0.423684,
+        "A": 1.0,
+        "Hex": "FFFFB9AE"
+      },
+      "UVOffset0": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 0.0,
+        "Hex": "000000"
+      }
+    },
+    "Scalars": {
+      "Desaturation": -0.15,
+      "Roughness Add": 0.2,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "bOverride_ShadingModel": true,
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_Subsurface",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "SubsurfaceProfile": {
+        "ObjectName": "SubsurfaceProfile'SP_CharacterBodyBase'",
+        "ObjectPath": "Pal/Content/Pal/Material/Character/Common/SP_CharacterBodyBase.0"
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

@@ -1,0 +1,1249 @@
+{
+    "Child Panel Size": 0,
+    "Panels0": {
+        "Panel Name": "CharacterCreationUI",
+        "Panel Projection Type": 0,
+        "Panel Depth": 0,
+        "Panel Pivot Component Name": "BaseImage",
+        "Components Size": 26,
+        "Components0": [
+            {
+                "Component Name": "BaseImage",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    640.0,
+                    360.0
+                ],
+                "World Position": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1280.0,
+                    720.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 0,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": true,
+                "IsColor": false,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": true,
+                "IsInteraction": false,
+                "Image Texture Name": "T_CharacterCreation_BaseImage0",
+                "Image Type": 0
+            }
+        ],
+        "Components1": [
+            {
+                "Component Name": "BodyText",
+                "Render Type": 6,
+                "UI Type": 4,
+                "ShaderFileName": "",
+                "PassIndex": 0,
+                "Center": [
+                    245.0,
+                    313.0
+                ],
+                "World Position": [
+                    -395.0,
+                    47.0,
+                    0.0
+                ],
+                "Scale": [
+                    0.3799999952316284,
+                    0.3799999952316284,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 1,
+                "Ratio": 1.0,
+                "Color": [
+                    0.7046413421630859,
+                    0.9663515686988831,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": true,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Font File Name": "NotoSansKRMedium30",
+                "Text": "Body",
+                "Origin": [
+                    0.0,
+                    0.0
+                ],
+                "Option": 0,
+                "Text Type": 1
+            }
+        ],
+        "Components2": [
+            {
+                "Component Name": "ColorB",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 1,
+                "Center": [
+                    1050.0,
+                    330.0
+                ],
+                "World Position": [
+                    410.0,
+                    30.0,
+                    0.0
+                ],
+                "Scale": [
+                    200.0,
+                    3.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 2,
+                "Ratio": 0.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": true,
+                "IsColor": true,
+                "RelativeCenter": [
+                    410.0,
+                    -30.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Image Texture Name": "T_gauge_HP_base",
+                "Image Type": 0
+            }
+        ],
+        "Components3": [
+            {
+                "Component Name": "ColorBNumText",
+                "Render Type": 6,
+                "UI Type": 4,
+                "ShaderFileName": "",
+                "PassIndex": 0,
+                "Center": [
+                    1160.0,
+                    322.0
+                ],
+                "World Position": [
+                    520.0,
+                    38.0,
+                    0.0
+                ],
+                "Scale": [
+                    0.4000000059604645,
+                    0.4000000059604645,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 2,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": true,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Font File Name": "OxaniumRegular30",
+                "Text": "",
+                "Origin": [
+                    0.0,
+                    0.0
+                ],
+                "Option": 0,
+                "Text Type": 0
+            }
+        ],
+        "Components4": [
+            {
+                "Component Name": "ColorBSlider",
+                "Render Type": 6,
+                "UI Type": 2,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 1,
+                "Center": [
+                    1050.0,
+                    330.0
+                ],
+                "World Position": [
+                    310.0,
+                    30.0,
+                    0.0
+                ],
+                "Scale": [
+                    20.0,
+                    20.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 2,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": true,
+                "IsColor": true,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Slider Texture Name": "T_icon_new_dot",
+                "BackGround Component Name": "ColorB"
+            }
+        ],
+        "Components5": [
+            {
+                "Component Name": "ColorBText",
+                "Render Type": 6,
+                "UI Type": 4,
+                "ShaderFileName": "",
+                "PassIndex": 0,
+                "Center": [
+                    920.0,
+                    318.0
+                ],
+                "World Position": [
+                    280.0,
+                    42.0,
+                    0.0
+                ],
+                "Scale": [
+                    0.4000000059604645,
+                    0.4000000059604645,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 2,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": true,
+                "RelativeCenter": [
+                    280.0,
+                    -42.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Font File Name": "NotoSansKRMedium30",
+                "Text": "B",
+                "Origin": [
+                    0.0,
+                    0.0
+                ],
+                "Option": 0,
+                "Text Type": 1
+            }
+        ],
+        "Components6": [
+            {
+                "Component Name": "ColorG",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 1,
+                "Center": [
+                    1050.0,
+                    260.0
+                ],
+                "World Position": [
+                    410.0,
+                    100.0,
+                    0.0
+                ],
+                "Scale": [
+                    200.0,
+                    3.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 2,
+                "Ratio": 0.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": true,
+                "IsColor": true,
+                "RelativeCenter": [
+                    410.0,
+                    -100.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Image Texture Name": "T_gauge_HP_base",
+                "Image Type": 0
+            }
+        ],
+        "Components7": [
+            {
+                "Component Name": "ColorGNumText",
+                "Render Type": 6,
+                "UI Type": 4,
+                "ShaderFileName": "",
+                "PassIndex": 0,
+                "Center": [
+                    1160.0,
+                    252.0
+                ],
+                "World Position": [
+                    520.0,
+                    108.0,
+                    0.0
+                ],
+                "Scale": [
+                    0.4000000059604645,
+                    0.4000000059604645,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 2,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": true,
+                "RelativeCenter": [
+                    520.0,
+                    -108.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Font File Name": "OxaniumRegular30",
+                "Text": "",
+                "Origin": [
+                    0.0,
+                    0.0
+                ],
+                "Option": 0,
+                "Text Type": 0
+            }
+        ],
+        "Components8": [
+            {
+                "Component Name": "ColorGSlider",
+                "Render Type": 6,
+                "UI Type": 2,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 1,
+                "Center": [
+                    1050.0,
+                    260.0
+                ],
+                "World Position": [
+                    310.0,
+                    100.0,
+                    0.0
+                ],
+                "Scale": [
+                    20.0,
+                    20.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 2,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": true,
+                "IsColor": true,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Slider Texture Name": "T_icon_new_dot",
+                "BackGround Component Name": "ColorG"
+            }
+        ],
+        "Components9": [
+            {
+                "Component Name": "ColorGText",
+                "Render Type": 6,
+                "UI Type": 4,
+                "ShaderFileName": "",
+                "PassIndex": 0,
+                "Center": [
+                    920.0,
+                    248.0
+                ],
+                "World Position": [
+                    280.0,
+                    112.0,
+                    0.0
+                ],
+                "Scale": [
+                    0.4000000059604645,
+                    0.4000000059604645,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 2,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": true,
+                "RelativeCenter": [
+                    280.0,
+                    -112.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Font File Name": "NotoSansKRMedium30",
+                "Text": "G",
+                "Origin": [
+                    0.0,
+                    0.0
+                ],
+                "Option": 0,
+                "Text Type": 1
+            }
+        ],
+        "Components10": [
+            {
+                "Component Name": "ColorR",
+                "Render Type": 6,
+                "UI Type": 0,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 1,
+                "Center": [
+                    1050.0,
+                    190.0
+                ],
+                "World Position": [
+                    410.0,
+                    170.0,
+                    0.0
+                ],
+                "Scale": [
+                    200.0,
+                    3.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 2,
+                "Ratio": 0.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": true,
+                "IsColor": true,
+                "RelativeCenter": [
+                    410.0,
+                    -170.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Image Texture Name": "T_gauge_HP_base",
+                "Image Type": 0
+            }
+        ],
+        "Components11": [
+            {
+                "Component Name": "ColorRNumText",
+                "Render Type": 6,
+                "UI Type": 4,
+                "ShaderFileName": "",
+                "PassIndex": 0,
+                "Center": [
+                    1160.0,
+                    182.0
+                ],
+                "World Position": [
+                    520.0,
+                    178.0,
+                    0.0
+                ],
+                "Scale": [
+                    0.4000000059604645,
+                    0.4000000059604645,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 2,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": true,
+                "RelativeCenter": [
+                    520.0,
+                    -178.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Font File Name": "OxaniumRegular30",
+                "Text": "",
+                "Origin": [
+                    0.0,
+                    0.0
+                ],
+                "Option": 0,
+                "Text Type": 0
+            }
+        ],
+        "Components12": [
+            {
+                "Component Name": "ColorRSlider",
+                "Render Type": 6,
+                "UI Type": 2,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 1,
+                "Center": [
+                    1050.0,
+                    190.0
+                ],
+                "World Position": [
+                    310.0,
+                    170.0,
+                    0.0
+                ],
+                "Scale": [
+                    20.0,
+                    20.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 2,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": true,
+                "IsColor": true,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Slider Texture Name": "T_icon_new_dot",
+                "BackGround Component Name": "ColorR"
+            }
+        ],
+        "Components13": [
+            {
+                "Component Name": "ColorRText",
+                "Render Type": 6,
+                "UI Type": 4,
+                "ShaderFileName": "",
+                "PassIndex": 0,
+                "Center": [
+                    920.0,
+                    178.0
+                ],
+                "World Position": [
+                    280.0,
+                    182.0,
+                    0.0
+                ],
+                "Scale": [
+                    0.4000000059604645,
+                    0.4000000059604645,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 2,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": true,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Font File Name": "NotoSansKRMedium30",
+                "Text": "R",
+                "Origin": [
+                    0.0,
+                    0.0
+                ],
+                "Option": 0,
+                "Text Type": 1
+            }
+        ],
+        "Components14": [
+            {
+                "Component Name": "EquipmentText",
+                "Render Type": 6,
+                "UI Type": 4,
+                "ShaderFileName": "",
+                "PassIndex": 0,
+                "Center": [
+                    245.0,
+                    379.0
+                ],
+                "World Position": [
+                    -395.0,
+                    -19.0,
+                    0.0
+                ],
+                "Scale": [
+                    0.3799999952316284,
+                    0.3799999952316284,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 1,
+                "Ratio": 1.0,
+                "Color": [
+                    0.7046413421630859,
+                    0.9663515686988831,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": true,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Font File Name": "NotoSansKRMedium30",
+                "Text": "Eqiupment",
+                "Origin": [
+                    0.0,
+                    0.0
+                ],
+                "Option": 0,
+                "Text Type": 1
+            }
+        ],
+        "Components15": [
+            {
+                "Component Name": "FaceText",
+                "Render Type": 6,
+                "UI Type": 4,
+                "ShaderFileName": "",
+                "PassIndex": 0,
+                "Center": [
+                    245.0,
+                    248.0
+                ],
+                "World Position": [
+                    -395.0,
+                    112.0,
+                    0.0
+                ],
+                "Scale": [
+                    0.3799999952316284,
+                    0.3799999952316284,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 1,
+                "Ratio": 1.0,
+                "Color": [
+                    0.7046413421630859,
+                    0.9663515686988831,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": true,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Font File Name": "NotoSansKRMedium30",
+                "Text": "Face",
+                "Origin": [
+                    0.0,
+                    0.0
+                ],
+                "Option": 0,
+                "Text Type": 1
+            }
+        ],
+        "Components16": [
+            {
+                "Component Name": "GameStartButton",
+                "Render Type": 6,
+                "UI Type": 3,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    247.5,
+                    500.0
+                ],
+                "World Position": [
+                    -392.5,
+                    -140.0,
+                    0.0
+                ],
+                "Scale": [
+                    233.0,
+                    66.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 1,
+                "Ratio": 1.0,
+                "Color": [
+                    0.7046413421630859,
+                    0.9663515686988831,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": true,
+                "IsColor": false,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Static Texture Name": "T_CharacterCreation_GameStartStaticImage",
+                "Hover Texture Name": "T_CharacterCreation_GameStartHoverImage",
+                "Click Texture Name": "T_CharacterCreation_GameStartStaticImage"
+            }
+        ],
+        "Components17": [
+            {
+                "Component Name": "HairText",
+                "Render Type": 6,
+                "UI Type": 4,
+                "ShaderFileName": "",
+                "PassIndex": 0,
+                "Center": [
+                    245.0,
+                    182.0
+                ],
+                "World Position": [
+                    -395.0,
+                    178.0,
+                    0.0
+                ],
+                "Scale": [
+                    0.3799999952316284,
+                    0.44999998807907104,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 1,
+                "Ratio": 1.0,
+                "Color": [
+                    0.7046413421630859,
+                    0.9663515686988831,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": false,
+                "IsColor": true,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Font File Name": "NotoSansKRMedium30",
+                "Text": "Hair",
+                "Origin": [
+                    0.0,
+                    0.0
+                ],
+                "Option": 0,
+                "Text Type": 1
+            }
+        ],
+        "Components18": [
+            {
+                "Component Name": "LeftArrowButton0",
+                "Render Type": 6,
+                "UI Type": 3,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    123.0,
+                    192.0
+                ],
+                "World Position": [
+                    -517.0,
+                    168.0,
+                    0.0
+                ],
+                "Scale": [
+                    29.0,
+                    38.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 1,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": true,
+                "IsColor": false,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Static Texture Name": "T_CharacterCreation_ArrowStaticImage",
+                "Hover Texture Name": "T_CharacterCreation_ArrowHoverImage",
+                "Click Texture Name": "T_CharacterCreation_ArrowStaticImage"
+            }
+        ],
+        "Components19": [
+            {
+                "Component Name": "LeftArrowButton1",
+                "Render Type": 6,
+                "UI Type": 3,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    123.0,
+                    259.0
+                ],
+                "World Position": [
+                    -517.0,
+                    101.0,
+                    0.0
+                ],
+                "Scale": [
+                    29.0,
+                    38.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 1,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": true,
+                "IsColor": false,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Static Texture Name": "T_CharacterCreation_ArrowStaticImage",
+                "Hover Texture Name": "T_CharacterCreation_ArrowHoverImage",
+                "Click Texture Name": "T_CharacterCreation_ArrowStaticImage"
+            }
+        ],
+        "Components20": [
+            {
+                "Component Name": "LeftArrowButton2",
+                "Render Type": 6,
+                "UI Type": 3,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    123.0,
+                    323.0
+                ],
+                "World Position": [
+                    -517.0,
+                    37.0,
+                    0.0
+                ],
+                "Scale": [
+                    29.0,
+                    38.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 1,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": true,
+                "IsColor": false,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Static Texture Name": "T_CharacterCreation_ArrowStaticImage",
+                "Hover Texture Name": "T_CharacterCreation_ArrowHoverImage",
+                "Click Texture Name": "T_CharacterCreation_ArrowStaticImage"
+            }
+        ],
+        "Components21": [
+            {
+                "Component Name": "LeftArrowButton3",
+                "Render Type": 6,
+                "UI Type": 3,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    123.0,
+                    391.0
+                ],
+                "World Position": [
+                    -517.0,
+                    -31.0,
+                    0.0
+                ],
+                "Scale": [
+                    29.0,
+                    38.0,
+                    1.0
+                ],
+                "Angle": 0.0,
+                "Depth": 1,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": true,
+                "IsColor": false,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Static Texture Name": "T_CharacterCreation_ArrowStaticImage",
+                "Hover Texture Name": "T_CharacterCreation_ArrowHoverImage",
+                "Click Texture Name": "T_CharacterCreation_ArrowStaticImage"
+            }
+        ],
+        "Components22": [
+            {
+                "Component Name": "RightArrowButton0",
+                "Render Type": 6,
+                "UI Type": 3,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    372.0,
+                    192.0
+                ],
+                "World Position": [
+                    -268.0,
+                    168.0,
+                    0.0
+                ],
+                "Scale": [
+                    29.0,
+                    38.0,
+                    1.0
+                ],
+                "Angle": 180.0,
+                "Depth": 1,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": true,
+                "IsColor": false,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Static Texture Name": "T_CharacterCreation_ArrowStaticImage",
+                "Hover Texture Name": "T_CharacterCreation_ArrowHoverImage",
+                "Click Texture Name": "T_CharacterCreation_ArrowStaticImage"
+            }
+        ],
+        "Components23": [
+            {
+                "Component Name": "RightArrowButton1",
+                "Render Type": 6,
+                "UI Type": 3,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    372.0,
+                    259.0
+                ],
+                "World Position": [
+                    -268.0,
+                    101.0,
+                    0.0
+                ],
+                "Scale": [
+                    29.0,
+                    38.0,
+                    1.0
+                ],
+                "Angle": 180.0,
+                "Depth": 1,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": true,
+                "IsColor": false,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Static Texture Name": "T_CharacterCreation_ArrowStaticImage",
+                "Hover Texture Name": "T_CharacterCreation_ArrowHoverImage",
+                "Click Texture Name": "T_CharacterCreation_ArrowStaticImage"
+            }
+        ],
+        "Components24": [
+            {
+                "Component Name": "RightArrowButton2",
+                "Render Type": 6,
+                "UI Type": 3,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    372.0,
+                    323.0
+                ],
+                "World Position": [
+                    -268.0,
+                    37.0,
+                    0.0
+                ],
+                "Scale": [
+                    29.0,
+                    38.0,
+                    1.0
+                ],
+                "Angle": 180.0,
+                "Depth": 1,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": true,
+                "IsColor": false,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Static Texture Name": "T_CharacterCreation_ArrowStaticImage",
+                "Hover Texture Name": "T_CharacterCreation_ArrowHoverImage",
+                "Click Texture Name": "T_CharacterCreation_ArrowStaticImage"
+            }
+        ],
+        "Components25": [
+            {
+                "Component Name": "RightArrowButton3",
+                "Render Type": 6,
+                "UI Type": 3,
+                "ShaderFileName": "FX_UIOrthogonal_PS",
+                "PassIndex": 0,
+                "Center": [
+                    372.0,
+                    391.0
+                ],
+                "World Position": [
+                    -268.0,
+                    -31.0,
+                    0.0
+                ],
+                "Scale": [
+                    29.0,
+                    38.0,
+                    1.0
+                ],
+                "Angle": 180.0,
+                "Depth": 1,
+                "Ratio": 1.0,
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Alpha": 1.0,
+                "Mask Texture Name": "",
+                "IsMask": false,
+                "IsAlpha": true,
+                "IsColor": false,
+                "RelativeCenter": [
+                    0.0,
+                    0.0
+                ],
+                "IsRelative": false,
+                "IsInteraction": false,
+                "Static Texture Name": "T_CharacterCreation_ArrowStaticImage",
+                "Hover Texture Name": "T_CharacterCreation_ArrowHoverImage",
+                "Click Texture Name": "T_CharacterCreation_ArrowStaticImage"
+            }
+        ]
+    }
+}

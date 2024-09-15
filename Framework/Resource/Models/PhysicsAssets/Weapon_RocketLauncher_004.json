@@ -1,0 +1,291 @@
+[
+  {
+    "Type": "PhysicsAsset",
+    "Name": "SK_Weapon_RocketLauncher_004_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsAsset'",
+    "Properties": {
+      "BoundsBodies": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "SkeletalBodySetups": [
+        {
+          "ObjectName": "SkeletalBodySetup'SK_Weapon_RocketLauncher_004_PhysicsAsset:SkeletalBodySetup_0'",
+          "ObjectPath": "Pal/Content/Pal/Model/Weapon/RocketLauncher/SK_Weapon_RocketLauncher_004/SK_Weapon_RocketLauncher_004_PhysicsAsset.4"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'SK_Weapon_RocketLauncher_004_PhysicsAsset:SkeletalBodySetup_1'",
+          "ObjectPath": "Pal/Content/Pal/Model/Weapon/RocketLauncher/SK_Weapon_RocketLauncher_004/SK_Weapon_RocketLauncher_004_PhysicsAsset.5"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'SK_Weapon_RocketLauncher_004_PhysicsAsset:SkeletalBodySetup_2'",
+          "ObjectPath": "Pal/Content/Pal/Model/Weapon/RocketLauncher/SK_Weapon_RocketLauncher_004/SK_Weapon_RocketLauncher_004_PhysicsAsset.6"
+        },
+        {
+          "ObjectName": "SkeletalBodySetup'SK_Weapon_RocketLauncher_004_PhysicsAsset:SkeletalBodySetup_3'",
+          "ObjectPath": "Pal/Content/Pal/Model/Weapon/RocketLauncher/SK_Weapon_RocketLauncher_004/SK_Weapon_RocketLauncher_004_PhysicsAsset.7"
+        }
+      ],
+      "ConstraintSetup": [
+        {
+          "ObjectName": "PhysicsConstraintTemplate'SK_Weapon_RocketLauncher_004_PhysicsAsset:PhysicsConstraintTemplate_0'",
+          "ObjectPath": "Pal/Content/Pal/Model/Weapon/RocketLauncher/SK_Weapon_RocketLauncher_004/SK_Weapon_RocketLauncher_004_PhysicsAsset.1"
+        },
+        {
+          "ObjectName": "PhysicsConstraintTemplate'SK_Weapon_RocketLauncher_004_PhysicsAsset:PhysicsConstraintTemplate_1'",
+          "ObjectPath": "Pal/Content/Pal/Model/Weapon/RocketLauncher/SK_Weapon_RocketLauncher_004/SK_Weapon_RocketLauncher_004_PhysicsAsset.2"
+        },
+        {
+          "ObjectName": "PhysicsConstraintTemplate'SK_Weapon_RocketLauncher_004_PhysicsAsset:PhysicsConstraintTemplate_2'",
+          "ObjectPath": "Pal/Content/Pal/Model/Weapon/RocketLauncher/SK_Weapon_RocketLauncher_004/SK_Weapon_RocketLauncher_004_PhysicsAsset.3"
+        }
+      ],
+      "ThumbnailInfo": null
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_0",
+    "Outer": "SK_Weapon_RocketLauncher_004_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "tail1",
+        "ConstraintBone1": "tail1",
+        "ConstraintBone2": "root",
+        "Pos2": {
+          "X": -81.87107,
+          "Y": 0.32854277,
+          "Z": 15.032247
+        },
+        "PriAxis2": {
+          "X": 2.5288108E-07,
+          "Y": -1.0,
+          "Z": 1.0051931E-15
+        },
+        "SecAxis2": {
+          "X": 1.0,
+          "Y": 2.5288108E-07,
+          "Z": -1.5099579E-07
+        },
+        "ProfileInstance": {
+          "ConeLimit": {
+            "Swing1Motion": "EAngularConstraintMotion::ACM_Limited",
+            "Swing2Motion": "EAngularConstraintMotion::ACM_Limited"
+          },
+          "TwistLimit": {
+            "TwistMotion": "EAngularConstraintMotion::ACM_Limited"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_1",
+    "Outer": "SK_Weapon_RocketLauncher_004_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "barrel2",
+        "ConstraintBone1": "barrel2",
+        "ConstraintBone2": "root",
+        "Pos2": {
+          "X": 39.248604,
+          "Y": -2.7948852E-06,
+          "Z": 14.859141
+        },
+        "PriAxis2": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": -1.0
+        },
+        "SecAxis2": {
+          "X": -1.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "ProfileInstance": {
+          "ConeLimit": {
+            "Swing1Motion": "EAngularConstraintMotion::ACM_Limited",
+            "Swing2Motion": "EAngularConstraintMotion::ACM_Limited"
+          },
+          "TwistLimit": {
+            "TwistMotion": "EAngularConstraintMotion::ACM_Limited"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "PhysicsConstraintTemplate",
+    "Name": "PhysicsConstraintTemplate_2",
+    "Outer": "SK_Weapon_RocketLauncher_004_PhysicsAsset",
+    "Class": "UScriptClass'PhysicsConstraintTemplate'",
+    "Properties": {
+      "DefaultInstance": {
+        "JointName": "barrel1",
+        "ConstraintBone1": "barrel1",
+        "ConstraintBone2": "root",
+        "Pos2": {
+          "X": 34.56937,
+          "Y": -2.7948852E-06,
+          "Z": 14.859141
+        },
+        "PriAxis2": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": -1.0
+        },
+        "SecAxis2": {
+          "X": -1.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "ProfileInstance": {
+          "ConeLimit": {
+            "Swing1Motion": "EAngularConstraintMotion::ACM_Limited",
+            "Swing2Motion": "EAngularConstraintMotion::ACM_Limited"
+          },
+          "TwistLimit": {
+            "TwistMotion": "EAngularConstraintMotion::ACM_Limited"
+          }
+        }
+      }
+    }
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_0",
+    "Outer": "SK_Weapon_RocketLauncher_004_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphylElems": [
+          {
+            "Center": {
+              "X": -21.407482,
+              "Y": -1.3433937,
+              "Z": 11.683499
+            },
+            "Rotation": {
+              "Pitch": 3.1805547E-15,
+              "Yaw": -93.12578,
+              "Roll": -87.05968
+            },
+            "Radius": 20.635618,
+            "Length": 57.932816,
+            "RestOffset": 0.0,
+            "Name": "None",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "root",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "D692360347B2A4D5F713BEBB933D8888"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_1",
+    "Outer": "SK_Weapon_RocketLauncher_004_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphylElems": [
+          {
+            "Center": {
+              "X": 0.00039359657,
+              "Y": 1.5741656,
+              "Z": 1.4285151E-06
+            },
+            "Rotation": {
+              "Pitch": 3.1805547E-15,
+              "Yaw": 90.01224,
+              "Roll": -89.76071
+            },
+            "Radius": 14.785606,
+            "Length": 14.7858305,
+            "RestOffset": 0.0,
+            "Name": "None",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "tail1",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "EBF4621C42277238C1F47682615A5DCD"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_2",
+    "Outer": "SK_Weapon_RocketLauncher_004_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphylElems": [
+          {
+            "Center": {
+              "X": -0.0020208408,
+              "Y": 2.1826665,
+              "Z": -3.192928E-05
+            },
+            "Rotation": {
+              "Pitch": 5.565971E-15,
+              "Yaw": 90.56711,
+              "Roll": -168.15306
+            },
+            "Radius": 16.180391,
+            "Length": 16.426167,
+            "RestOffset": 0.0,
+            "Name": "None",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "barrel2",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "ECD91E1742A5970C202F83B1F2CCBFB1"
+  },
+  {
+    "Type": "SkeletalBodySetup",
+    "Name": "SkeletalBodySetup_3",
+    "Outer": "SK_Weapon_RocketLauncher_004_PhysicsAsset",
+    "Class": "UScriptClass'SkeletalBodySetup'",
+    "Properties": {
+      "AggGeom": {
+        "SphylElems": [
+          {
+            "Center": {
+              "X": 2.798179E-05,
+              "Y": 0.011316292,
+              "Z": 0.0001448896
+            },
+            "Rotation": {
+              "Pitch": -0.20471808,
+              "Yaw": -90.0,
+              "Roll": 16.302395
+            },
+            "Radius": 16.596928,
+            "Length": 16.82419,
+            "RestOffset": 0.0,
+            "Name": "None",
+            "bContributeToMass": true,
+            "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics"
+          }
+        ]
+      },
+      "BoneName": "barrel1",
+      "CollisionTraceFlag": "ECollisionTraceFlag::CTF_UseSimpleAsComplex"
+    },
+    "BodySetupGuid": "D55F48EC46C582B4B681938BF60B41EE"
+  }
+]

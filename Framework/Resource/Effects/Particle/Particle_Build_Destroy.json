@@ -1,0 +1,83 @@
+{
+    "RenderType": 5,
+    "EffectType": 0,
+    "ParticleType": 1,
+    "Effect Shader Name": "FX_Instancing_PRULPC",
+    "Use Diffuse Texture": false,
+    "Diffuse Texture Name": "FX_BI_ImpactCrack_Emissive01",
+    "Use Mask Texture": true,
+    "Mask Texture Name": "Fx_SmokeSE_01",
+    "Is Sprite": true,
+    "Sprite Row": 5,
+    "Sprite Col": 5,
+    "Sprite Speed": 0.02500000037252903,
+    "Is Loop": false,
+    "Is Billboard": true,
+    "Is Directional": true,
+    "Is Gravity": true,
+    "Is Glow": false,
+    "Is Bloom": false,
+    "Is AlphaAttenuation": false,
+    "Gravity Value": 1.7999999523162842,
+    "Glow Weight": 0.0,
+    "Bloom Weight": 0.0,
+    "AlphaAttenuation Weight": 0.0,
+    "Random Life Time": true,
+    "Life Time": [
+        0.0,
+        1.0
+    ],
+    "Num Instance": 20,
+    "Size": [
+        0.10000000149011612,
+        1.0
+    ],
+    "Color1": [
+        0.25882354378700256,
+        0.04313725605607033,
+        0.04313725605607033,
+        1.0
+    ],
+    "Color2": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+    ],
+    "Color3": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+    ],
+    "Speed": [
+        10.0,
+        20.0
+    ],
+    "Offset": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "Pivot": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "Range": [
+        1.0,
+        1.0,
+        1.0
+    ],
+    "Rotation Per Second": [
+        360.0,
+        360.0,
+        360.0
+    ],
+    "Radius": [
+        1.0,
+        1.2000000476837158
+    ],
+    "Num KeyFrames": 0,
+    "KeyFrames": []
+}

@@ -1,0 +1,180 @@
+{
+  "Effect Group Name": "Group_Fiho_FireBall",
+  "Duration": 1.0,
+  "Loop": false,
+  "Is Collider": false,
+  "Collider Type": 0,
+  "Collision Flag": 0,
+  "Collision Layer": 256,
+  "Sphere Collider Radius": 0.0,
+  "Box Collider Extents": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Box Collider LocalPosition": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Box Collider LocalRotate": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "Sound Name": "DragonWave_01_Cast_466499852",
+  "Sound Loop": false,
+  "Sound Value": 1.0,
+  "Effects": [
+    {
+      "Effect Name": "Effect Mesh - test3",
+      "RenderType": 9,
+      "EffectType": 1,
+      "Model File Path": "../../Resource/Models/Dat/NonAnim/EffectMeshs/RainDrop.dat",
+      "Effect Shader Name": "FX_EffectMesh_PNT2T",
+      "Scale": [
+        2.5,
+        1.25,
+        2.5
+      ],
+      "Rotation": [
+        -90.0,
+        0.0,
+        0.0
+      ],
+      "Translation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Diffuse Color1": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Diffuse Color2": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Diffuse Color3": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Diffuse Texture Name": "T_Fire_2",
+      "Noise Texture Name": "Eff_Noise_11",
+      "Mask Texture Name": "T_Shockwave10",
+      "Distortion Texture Name": "",
+      "Dissolve Texture Name": "Eff_Noise_01",
+      "Is Sprite": false,
+      "Sprite Row": 1,
+      "Sprite Col": 1,
+      "Sprite Speed": 1.0,
+      "Is Anim": false,
+      "Is Loop": false,
+      "Is UVMove Loop": false,
+      "Is Glow": false,
+      "Is Bloom": false,
+      "Is AlphaAttenuation": true,
+      "Use Diffuse Texture": true,
+      "Use Noise Texture": true,
+      "Use Mask Texture": true,
+      "Use Distortion Texture": false,
+      "Use Dissolve Texture": true,
+      "Distortion Weight": 0.0,
+      "Dissolve Weight": 0.0,
+      "Glow Weight": 0.0,
+      "Bloom Weight": 0.0,
+      "AlphaAttenuation Weight": 0.5,
+      "Life Time": [
+        0.0,
+        1.0
+      ],
+      "UVMove Speed": [
+        0.0,
+        0.5
+      ],
+      "Num KeyFrames": 0,
+      "KeyFrames": []
+    },
+    {
+      "Effect Name": "Effect Mesh - test5",
+      "RenderType": 9,
+      "EffectType": 1,
+      "Model File Path": "../../Resource/Models/Dat/NonAnim/EffectMeshs/Wave.dat",
+      "Effect Shader Name": "FX_EffectMesh_PNT2T",
+      "Scale": [
+        1.25,
+        3.75,
+        1.25
+      ],
+      "Rotation": [
+        90.0,
+        0.0,
+        0.0
+      ],
+      "Translation": [
+        0.0,
+        0.0,
+        -2.5
+      ],
+      "Diffuse Color1": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Diffuse Color2": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Diffuse Color3": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "Diffuse Texture Name": "T_Fire_2",
+      "Noise Texture Name": "T_Water04",
+      "Mask Texture Name": "T_Shockwave03",
+      "Distortion Texture Name": "",
+      "Dissolve Texture Name": "Eff_Noise_01",
+      "Is Sprite": false,
+      "Sprite Row": 1,
+      "Sprite Col": 1,
+      "Sprite Speed": 1.0,
+      "Is Anim": false,
+      "Is Loop": false,
+      "Is UVMove Loop": false,
+      "Is Glow": false,
+      "Is Bloom": false,
+      "Is AlphaAttenuation": true,
+      "Use Diffuse Texture": true,
+      "Use Noise Texture": true,
+      "Use Mask Texture": true,
+      "Use Distortion Texture": false,
+      "Use Dissolve Texture": true,
+      "Distortion Weight": 0.0,
+      "Dissolve Weight": 0.0,
+      "Glow Weight": 0.0,
+      "Bloom Weight": 0.0,
+      "AlphaAttenuation Weight": 0.20000000298023224,
+      "Life Time": [
+        0.0,
+        1.0
+      ],
+      "UVMove Speed": [
+        0.0,
+        -0.5
+      ],
+      "Num KeyFrames": 0,
+      "KeyFrames": []
+    }
+  ]
+}

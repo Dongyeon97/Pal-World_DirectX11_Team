@@ -1,0 +1,59 @@
+{
+  "Textures": {
+    "Base Texture": "Pal/Content/Pal/Model/Character/NPC/Boss/GrassBoss/SK_NPC_Outfit_GrassBoss001/T_NPC_Outfit_GrassBoss001_M01_B.T_NPC_Outfit_GrassBoss001_M01_B",
+    "T_NPC_Outfit_GrassBoss001_M01_B": "Pal/Content/Pal/Model/Character/NPC/Boss/GrassBoss/SK_NPC_Outfit_GrassBoss001/T_NPC_Outfit_GrassBoss001_M01_B.T_NPC_Outfit_GrassBoss001_M01_B",
+    "PM_Emissive": "Engine/Content/EngineResources/Black.Black",
+    "Emissive Texture": "Engine/Content/EngineResources/Black.Black",
+    "Jewel Mask": "Pal/Content/Pal/Model/Character/NPC/Boss/GrassBoss/SK_NPC_Outfit_GrassBoss001/T_NPC_Outfit_GrassBoss001_M01_JM.T_NPC_Outfit_GrassBoss001_M01_JM",
+    "T_NPC_Outfit_GrassBoss001_M01_JM": "Pal/Content/Pal/Model/Character/NPC/Boss/GrassBoss/SK_NPC_Outfit_GrassBoss001/T_NPC_Outfit_GrassBoss001_M01_JM.T_NPC_Outfit_GrassBoss001_M01_JM",
+    "PM_SpecularMasks": "Pal/Content/Pal/Model/Character/NPC/Boss/GrassBoss/SK_NPC_Outfit_GrassBoss001/T_NPC_Outfit_GrassBoss001_M01_M.T_NPC_Outfit_GrassBoss001_M01_M",
+    "MetallicRoughnessOcclusionSpecularTexture": "Pal/Content/Pal/Model/Character/NPC/Boss/GrassBoss/SK_NPC_Outfit_GrassBoss001/T_NPC_Outfit_GrassBoss001_M01_M.T_NPC_Outfit_GrassBoss001_M01_M",
+    "PM_Normals": "Pal/Content/Pal/Model/Character/NPC/Boss/GrassBoss/SK_NPC_Outfit_GrassBoss001/T_NPC_Outfit_GrassBoss001_M01_N.T_NPC_Outfit_GrassBoss001_M01_N",
+    "Normal Map": "Pal/Content/Pal/Model/Character/NPC/Boss/GrassBoss/SK_NPC_Outfit_GrassBoss001/T_NPC_Outfit_GrassBoss001_M01_N.T_NPC_Outfit_GrassBoss001_M01_N",
+    "Subsurface Texture": "Pal/Content/Pal/Material/DefaultBaseTexture.DefaultBaseTexture",
+    "DefaultBaseTexture": "Pal/Content/Pal/Material/DefaultBaseTexture.DefaultBaseTexture"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 4,
+    "Colors": {
+      "Subsurface Color": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 0.0,
+        "Hex": "000000"
+      }
+    },
+    "Scalars": {
+      "Emissive Texture Intensity": 0.0,
+      "Jewel Opacity": 0.75,
+      "Jewel Refract Color Power": 1.5,
+      "Jewel Refract Color Rate": 0.5,
+      "Jewel Refraction": 1.0,
+      "Occlusion Add": 0.0,
+      "Roughness Add": 0.2,
+      "Light Affect Emissive Intensity": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_ClearCoat",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "SubsurfaceProfile": {
+        "ObjectName": "SubsurfaceProfile'SP_CharacterBodyBase'",
+        "ObjectPath": "Pal/Content/Pal/Material/Character/Common/SP_CharacterBodyBase.0"
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

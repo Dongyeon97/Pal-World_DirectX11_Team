@@ -1,0 +1,30 @@
+{
+  "Textures": {
+    "PM_SpecularMasks": "Pal/Content/Others/LogCabin/Textures/Props/T_Pans_ARM.T_Pans_ARM",
+    "ARMH": "Pal/Content/Others/LogCabin/Textures/Props/T_Pans_ARM.T_Pans_ARM",
+    "PM_Diffuse": "Pal/Content/Others/LogCabin/Textures/Props/T_Pans_BCO.T_Pans_BCO",
+    "Basecolor-AlphaClip": "Pal/Content/Others/LogCabin/Textures/Props/T_Pans_BCO.T_Pans_BCO",
+    "PM_Normals": "Pal/Content/Others/LogCabin/Textures/Props/T_Pans_N.T_Pans_N",
+    "Normals": "Pal/Content/Others/LogCabin/Textures/Props/T_Pans_N.T_Pans_N"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

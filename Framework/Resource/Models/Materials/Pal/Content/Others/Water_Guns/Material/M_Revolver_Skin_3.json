@@ -1,0 +1,30 @@
+{
+  "Textures": {
+    "T_Revolver__N": "Pal/Content/Others/Water_Guns/Texture/T_Revolver__N.T_Revolver__N",
+    "T_Revolver_AORM": "Pal/Content/Others/Water_Guns/Texture/T_Revolver_AORM.T_Revolver_AORM",
+    "T_Revolver_Skin_3_BC": "Pal/Content/Others/Water_Guns/Texture/T_Revolver_Skin_3_BC.T_Revolver_Skin_3_BC",
+    "PM_Normals": "Pal/Content/Others/Water_Guns/Texture/T_Revolver__N.T_Revolver__N",
+    "PM_SpecularMasks": "Pal/Content/Others/Water_Guns/Texture/T_Revolver_AORM.T_Revolver_AORM"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {},
+    "Switches": {},
+    "Properties": {
+      "TwoSided": true,
+      "bUsedWithSkeletalMesh": true,
+      "bUsedWithStaticLighting": true,
+      "bUsedWithInstancedStaticMeshes": true,
+      "bCanMaskedBeAssumedOpaque": true,
+      "StateId": "788FF90A-4D52E257-9705D098-2D3B8AB9"
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "Textures": {
+    "Base Texture": "Pal/Content/Pal/Model/Character/NPC/Boss/SnowBoss/SK_NPC_SnowBossHair001/T_NPC_SnowBossHair001_B.T_NPC_SnowBossHair001_B",
+    "T_NPC_SnowBossHair001_B": "Pal/Content/Pal/Model/Character/NPC/Boss/SnowBoss/SK_NPC_SnowBossHair001/T_NPC_SnowBossHair001_B.T_NPC_SnowBossHair001_B",
+    "PM_SpecularMasks": "Pal/Content/Pal/Model/Character/NPC/Boss/SnowBoss/SK_NPC_SnowBossHair001/T_NPC_SnowBossHair001_M.T_NPC_SnowBossHair001_M",
+    "MetallicRoughnessOcclusionSpecularTexture": "Pal/Content/Pal/Model/Character/NPC/Boss/SnowBoss/SK_NPC_SnowBossHair001/T_NPC_SnowBossHair001_M.T_NPC_SnowBossHair001_M",
+    "PM_Normals": "Pal/Content/Pal/Model/Character/NPC/Boss/SnowBoss/SK_NPC_SnowBossHair001/T_NPC_SnowBossHair001_N.T_NPC_SnowBossHair001_N",
+    "Normal Map": "Pal/Content/Pal/Model/Character/NPC/Boss/SnowBoss/SK_NPC_SnowBossHair001/T_NPC_SnowBossHair001_N.T_NPC_SnowBossHair001_N"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 4,
+    "Colors": {
+      "BaseColor": {
+        "R": 0.526042,
+        "G": 0.526042,
+        "B": 0.526042,
+        "A": 1.0,
+        "Hex": "FFC0C0C0"
+      },
+      "Fresnel Emissive Color": {
+        "R": 0.122396,
+        "G": 0.370489,
+        "B": 0.734375,
+        "A": 1.0,
+        "Hex": "FF62A4DF"
+      }
+    },
+    "Scalars": {
+      "Roughness": 0.475452,
+      "Roughness Add": 0.5,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_ClearCoat",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "SubsurfaceProfile": {
+        "ObjectName": "SubsurfaceProfile'SP_CharacterBodyBase'",
+        "ObjectPath": "Pal/Content/Pal/Material/Character/Common/SP_CharacterBodyBase.0"
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

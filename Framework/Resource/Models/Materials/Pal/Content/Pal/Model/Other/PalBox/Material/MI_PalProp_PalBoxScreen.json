@@ -1,0 +1,56 @@
+{
+  "Textures": {
+    "Base Texture": "Pal/Content/Pal/Model/Other/PalBox/Material/T_PalBoxScreen_T.T_PalBoxScreen_T",
+    "T_PalBoxBase_B": "Pal/Content/Pal/Model/Other/PalBox/Material/T_PalBoxScreen_T.T_PalBoxScreen_T",
+    "PM_Emissive": "Pal/Content/Pal/Model/Other/PalBox/Material/T_PalBoxScreen_E.T_PalBoxScreen_E",
+    "Emissive Texture": "Pal/Content/Pal/Model/Other/PalBox/Material/T_PalBoxScreen_E.T_PalBoxScreen_E",
+    "Transparency Mask": "Pal/Content/Pal/Model/Other/PalBox/Material/T_PalBoxScreen_T.T_PalBoxScreen_T",
+    "T_PalBoxScreen_T": "Pal/Content/Pal/Model/Other/PalBox/Material/T_PalBoxScreen_T.T_PalBoxScreen_T"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "BaseColor": {
+        "R": 0.089844,
+        "G": 0.359375,
+        "B": 0.348429,
+        "A": 1.0,
+        "Hex": "FF54A29F"
+      },
+      "Panner Speed": {
+        "R": 0.0,
+        "G": 0.025,
+        "B": 0.0,
+        "A": 0.0,
+        "Hex": "002B00"
+      }
+    },
+    "Scalars": {
+      "Emissive Texture Intensity": 0.5,
+      "Roughness": 0.2,
+      "Specular": 1.0,
+      "Transparency": 0.5,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "bOverride_BlendMode": true,
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "SubsurfaceProfile": {
+        "ObjectName": "SubsurfaceProfile'SP_CharacterBodyBase'",
+        "ObjectPath": "Pal/Content/Pal/Material/Character/Common/SP_CharacterBodyBase.0"
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

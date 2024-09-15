@@ -1,0 +1,62 @@
+[
+	{
+		"AttachBoneName" : "root",
+		"Duration" : 0.10062122344970703,
+		"EndTime" : 0.67107415199279785,
+		"OffsetDataArray" : 
+		[
+			{
+				"SphereRadius" : 79.999992370605469,
+				"vRelativeLocationX" : 0.0,
+				"vRelativeLocationY" : 79.999992370605469,
+				"vRelativeLocationZ" : 100.0
+			}
+		],
+		"StartTime" : 0.57045292854309082,
+		"Type" : "Collision"
+	},
+	{
+		"Duration" : 0.0,
+		"EndTime" : 0.57363331317901611,
+		"SoundID" : "Punch_01_Swing_A_759933375",
+		"StartTime" : 0.57363331317901611,
+		"Type" : "Sound"
+	},
+	{
+		"AttachBoneName" : "root",
+		"Duration" : 0.072873353958129883,
+		"EndTime" : 1.2603416442871094,
+		"OffsetDataArray" : 
+		[
+			{
+				"SphereRadius" : 79.999992370605469,
+				"vRelativeLocationX" : 0.0,
+				"vRelativeLocationY" : 79.999992370605469,
+				"vRelativeLocationZ" : 100.0
+			}
+		],
+		"StartTime" : 1.1874682903289795,
+		"Type" : "Collision"
+	},
+	{
+		"Duration" : 0.0,
+		"EndTime" : 0.56586664915084839,
+		"FunctionName" : "DeclineStamina",
+		"StartTime" : 0.56586664915084839,
+		"Type" : "Function"
+	},
+	{
+		"Duration" : 0.0,
+		"EndTime" : 1.2309666872024536,
+		"FunctionName" : "DeclineStamina",
+		"StartTime" : 1.2309666872024536,
+		"Type" : "Function"
+	},
+	{
+		"Duration" : 0.0,
+		"EndTime" : 1.2176998853683472,
+		"SoundID" : "Punch_01_Swing_A_759933375",
+		"StartTime" : 1.2176998853683472,
+		"Type" : "Sound"
+	}
+]

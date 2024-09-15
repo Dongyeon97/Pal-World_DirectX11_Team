@@ -1,0 +1,142 @@
+{
+    "Is Empty?": false,
+    "Tree Count": 0,
+    "Rock Count": 3,
+    "Pal Count": 0,
+    "Rocks Information": {
+        "Habitat Type": 0,
+        "Nature Type": 0,
+        "Total Number of Rocks": 3,
+        "Individual Information": {
+            "Rock60": [
+                {
+                    "Scale": [
+                        0.07149971276521683,
+                        0.07149996608495712,
+                        0.03372114524245262
+                    ]
+                },
+                {
+                    "Rotation": [
+                        32.30827331542969,
+                        -52.8981819152832,
+                        -6.214465618133545
+                    ]
+                },
+                {
+                    "Translation": [
+                        -3410.248291015625,
+                        35.91789627075195,
+                        -2680.630859375
+                    ]
+                },
+                {
+                    "Center": [
+                        0.0,
+                        2.0,
+                        0.0
+                    ]
+                },
+                {
+                    "Radius": 2.0
+                },
+                {
+                    "Included Octree Node Index": [
+                        5,
+                        4,
+                        2
+                    ]
+                },
+                {
+                    "Model File Path": "../../Resource/Models/Dat/MapMesh/Placeable/Rock/SM_pal_b00_rock_MineableRocks.dat"
+                }
+            ],
+            "Rock61": [
+                {
+                    "Scale": [
+                        0.03818097710609436,
+                        0.03818097710609436,
+                        0.03818097710609436
+                    ]
+                },
+                {
+                    "Rotation": [
+                        -0.0,
+                        0.0,
+                        -174.9200897216797
+                    ]
+                },
+                {
+                    "Translation": [
+                        -3424.279296875,
+                        44.4834098815918,
+                        -2682.320556640625
+                    ]
+                },
+                {
+                    "Center": [
+                        0.0,
+                        2.0,
+                        0.0
+                    ]
+                },
+                {
+                    "Radius": 2.0
+                },
+                {
+                    "Included Octree Node Index": [
+                        5,
+                        4,
+                        2
+                    ]
+                },
+                {
+                    "Model File Path": "../../Resource/Models/Dat/MapMesh/Placeable/Rock/SM_pal_b00_rock_MineableRocks.dat"
+                }
+            ],
+            "Rock62": [
+                {
+                    "Scale": [
+                        0.07352881878614426,
+                        0.06796298921108246,
+                        0.0333326980471611
+                    ]
+                },
+                {
+                    "Rotation": [
+                        -14.119669914245605,
+                        -32.61537170410156,
+                        11.526542663574219
+                    ]
+                },
+                {
+                    "Translation": [
+                        -3431.538330078125,
+                        40.13557434082031,
+                        -2693.3427734375
+                    ]
+                },
+                {
+                    "Center": [
+                        0.0,
+                        2.0,
+                        0.0
+                    ]
+                },
+                {
+                    "Radius": 2.0
+                },
+                {
+                    "Included Octree Node Index": [
+                        5,
+                        4,
+                        2
+                    ]
+                },
+                {
+                    "Model File Path": "../../Resource/Models/Dat/MapMesh/Placeable/Rock/SM_pal_b00_rock_MineableRocks.dat"
+                }
+            ]
+        }
+    }
+}

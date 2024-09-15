@@ -1,0 +1,44 @@
+[
+	{
+		"AttachBoneName" : "root",
+		"Duration" : 0.11854666471481323,
+		"EndTime" : 1.1179561614990234,
+		"OffsetDataArray" : 
+		[
+			{
+				"SphereRadius" : 0.0,
+				"vRelativeLocationX" : 0.0,
+				"vRelativeLocationY" : 0.0,
+				"vRelativeLocationZ" : 0.0
+			},
+			{
+				"SphereRadius" : 0.0,
+				"vRelativeLocationX" : 0.0,
+				"vRelativeLocationY" : 0.0,
+				"vRelativeLocationZ" : 50.0
+			}
+		],
+		"StartTime" : 0.99940949678421021,
+		"Type" : "Collision"
+	},
+	{
+		"Duration" : 0.0,
+		"EndTime" : 1.862645149230957e-09,
+		"SoundIDArray" : 
+		[
+			"968213742"
+		],
+		"StartTime" : 1.862645149230957e-09,
+		"Type" : "Sound"
+	},
+	{
+		"Duration" : 0.0,
+		"EndTime" : 0.63413625955581665,
+		"SoundIDArray" : 
+		[
+			"363260044"
+		],
+		"StartTime" : 0.63413625955581665,
+		"Type" : "Sound"
+	}
+]

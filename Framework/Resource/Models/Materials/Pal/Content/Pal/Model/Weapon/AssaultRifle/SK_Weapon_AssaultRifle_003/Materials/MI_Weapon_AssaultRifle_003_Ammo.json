@@ -1,0 +1,30 @@
+{
+  "Textures": {
+    "Base Color": "Pal/Content/Pal/Model/Weapon/AssaultRifle/SK_Weapon_AssaultRifle_003/Textures/T_Weapon_AssaultRifle_003_Ammo_B.T_Weapon_AssaultRifle_003_Ammo_B",
+    "T_Weapon_AssaultRifle_003_Ammo_B": "Pal/Content/Pal/Model/Weapon/AssaultRifle/SK_Weapon_AssaultRifle_003/Textures/T_Weapon_AssaultRifle_003_Ammo_B.T_Weapon_AssaultRifle_003_Ammo_B",
+    "Material Masks": "Pal/Content/Pal/Model/Weapon/AssaultRifle/SK_Weapon_AssaultRifle_003/Textures/T_Weapon_AssaultRifle_003_Ammo_M.T_Weapon_AssaultRifle_003_Ammo_M",
+    "T_Weapon_AssaultRifle_003_Ammo_M": "Pal/Content/Pal/Model/Weapon/AssaultRifle/SK_Weapon_AssaultRifle_003/Textures/T_Weapon_AssaultRifle_003_Ammo_M.T_Weapon_AssaultRifle_003_Ammo_M",
+    "PM_Normals": "Pal/Content/Pal/Model/Weapon/AssaultRifle/SK_Weapon_AssaultRifle_003/Textures/T_Weapon_AssaultRifle_003_Ammo_N.T_Weapon_AssaultRifle_003_Ammo_N",
+    "Normals": "Pal/Content/Pal/Model/Weapon/AssaultRifle/SK_Weapon_AssaultRifle_003/Textures/T_Weapon_AssaultRifle_003_Ammo_N.T_Weapon_AssaultRifle_003_Ammo_N"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      }
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

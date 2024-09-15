@@ -1,0 +1,59 @@
+{
+  "Textures": {
+    "Base Texture": "Pal/Content/Pal/Model/Stage/tree/b00/SpeedTree/Texture/Spruce/Spruce_Norway_Desktop_1_Forest_001_Color_tga_Tex.Spruce_Norway_Desktop_1_Forest_001_Color_tga_Tex",
+    "PM_Diffuse": "Pal/Content/Pal/Model/Stage/tree/b00/SpeedTree/Texture/Spruce/Spruce_Norway_Desktop_1_Forest_001_Color_tga_Tex.Spruce_Norway_Desktop_1_Forest_001_Color_tga_Tex",
+    "Spruce_Norway_Desktop_1_Forest_001_Color_tga_Tex": "Pal/Content/Pal/Model/Stage/tree/b00/SpeedTree/Texture/Spruce/Spruce_Norway_Desktop_1_Forest_001_Color_tga_Tex.Spruce_Norway_Desktop_1_Forest_001_Color_tga_Tex",
+    "PM_Normals": "Pal/Content/Pal/Model/Stage/tree/b00/SpeedTree/Texture/Spruce/Spruce_Norway_Desktop_1_Forest_001_Normal_tga_Tex.Spruce_Norway_Desktop_1_Forest_001_Normal_tga_Tex",
+    "Normal Map": "Pal/Content/Pal/Model/Stage/tree/b00/SpeedTree/Texture/Spruce/Spruce_Norway_Desktop_1_Forest_001_Normal_tga_Tex.Spruce_Norway_Desktop_1_Forest_001_Normal_tga_Tex",
+    "Subsurface Texture": "Pal/Content/Pal/Material/DefaultBaseTexture.DefaultBaseTexture",
+    "DefaultBaseTexture": "Pal/Content/Pal/Material/DefaultBaseTexture.DefaultBaseTexture"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 6,
+    "Colors": {
+      "Hue": {
+        "R": 0.293077,
+        "G": 0.304923,
+        "B": 0.380208,
+        "A": 1.0,
+        "Hex": "FF9396A6"
+      },
+      "Subsurface Color": {
+        "R": 0.376248,
+        "G": 0.718672,
+        "B": 0.760417,
+        "A": 0.0,
+        "Hex": "A5DDE2"
+      }
+    },
+    "Scalars": {
+      "Contrast": 0.28,
+      "Saturation": 1.0,
+      "Value": 1.2,
+      "Roughness": 0.7,
+      "Specular": 0.0,
+      "Light Affect Subsurface Max": 1.0,
+      "Light Affect Subsurface Min": 0.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "bOverride_DitheredLODTransition": true,
+        "TwoSided": true,
+        "DitheredLODTransition": true,
+        "bCastDynamicShadowAsMasked": true,
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_TwoSidedFoliage",
+        "OpacityMaskClipValue": 0.3333
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

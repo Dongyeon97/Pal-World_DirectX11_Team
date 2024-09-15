@@ -1,0 +1,30 @@
+[
+	{
+		"Duration" : 0.0,
+		"EndTime" : 0.62959802150726318,
+		"SoundID" : "",
+		"StartTime" : 0.62959802150726318,
+		"Type" : "Sound"
+	},
+	{
+		"Duration" : 0.0,
+		"EndTime" : 0.85076099634170532,
+		"SoundID" : "",
+		"StartTime" : 0.85076099634170532,
+		"Type" : "Sound"
+	},
+	{
+		"Duration" : 0.0,
+		"EndTime" : 1.0676150321960449,
+		"SoundID" : "",
+		"StartTime" : 1.0676150321960449,
+		"Type" : "Sound"
+	},
+	{
+		"Duration" : 0.0,
+		"EndTime" : 1.2672359943389893,
+		"SoundID" : "",
+		"StartTime" : 1.2672359943389893,
+		"Type" : "Sound"
+	}
+]

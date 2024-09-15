@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="99. Header">
+      <UniqueIdentifier>{f45be24b-03e5-4cba-aaa0-db534c60746c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="99. Header\01. Precompiled">
+      <UniqueIdentifier>{51c835ec-e569-43b2-8183-be6612620d89}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="99. Header\02. etc">
+      <UniqueIdentifier>{6d85f29e-b9c9-4c2f-b611-557e9bc974d1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. ToolMap">
+      <UniqueIdentifier>{e93df8cd-ae08-4dd0-bb71-e6c58a429b27}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. ToolMap\01. ToolMap">
+      <UniqueIdentifier>{685e434a-5c79-4cab-ac80-2a9e917e80f9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. ToolMap\02. Module">
+      <UniqueIdentifier>{c2836bbf-077b-4c2f-936b-5e92a728a995}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. Manager">
+      <UniqueIdentifier>{b0a27323-3774-4ea5-a081-4b8ea9a59ae1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="97. ShaderFiles">
+      <UniqueIdentifier>{88d3df05-1226-4f99-a046-44b363e33250}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. GameObject">
+      <UniqueIdentifier>{0680f220-8dba-4219-890c-1e59cc810ce6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. Manager\01. ImGuiManager">
+      <UniqueIdentifier>{725a668b-7b27-4f07-8868-977a5dabfe22}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. ToolMap\03. Level Overrides">
+      <UniqueIdentifier>{0303c194-e338-4254-9dae-3e1259064302}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03. ImGuiWindow">
+      <UniqueIdentifier>{d88d88db-7a58-49fd-8282-45fbfec0c5b1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04. GameObject\01. ToolMapObject">
+      <UniqueIdentifier>{93370c69-386c-430f-b309-2904159488ce}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05. Component">
+      <UniqueIdentifier>{3f695a83-b171-411e-b044-a56a53107171}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05. Component\01. DebugColliderComponent">
+      <UniqueIdentifier>{ae14a2c3-c722-4699-8c82-c723b1404738}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05. Component\02. DebugSphereComponent">
+      <UniqueIdentifier>{af378ec8-db15-4257-9077-e7a2528b6151}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05. Component\03. DebugOBBComponent">
+      <UniqueIdentifier>{a31d6abe-9c6b-4d07-8b16-9ac5c65caa1d}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="framework.h">
+      <Filter>99. Header\02. etc</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>99. Header\01. Precompiled</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>99. Header\02. etc</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>99. Header\02. etc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ToolMapLevel.h">
+      <Filter>01. ToolMap\03. Level Overrides</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ToolMapDefine.h">
+      <Filter>99. Header\02. etc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ToolMapPCH.h">
+      <Filter>99. Header\01. Precompiled</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ToolMapEnum.h">
+      <Filter>99. Header\02. etc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ToolMapStruct.h">
+      <Filter>99. Header\02. etc</Filter>
+    </ClInclude>
+    <ClInclude Include="ToolMap.h">
+      <Filter>01. ToolMap\01. ToolMap</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ToolMapLoop.h">
+      <Filter>01. ToolMap\01. ToolMap</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ToolMapModule.h">
+      <Filter>01. ToolMap\02. Module</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ImGuiManager.h">
+      <Filter>02. Manager\01. ImGuiManager</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ImGuiWindow.h">
+      <Filter>03. ImGuiWindow</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ToolMapObject.h">
+      <Filter>04. GameObject\01. ToolMapObject</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="pch.cpp">
+      <Filter>99. Header\01. Precompiled</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ToolMapLevel.cpp">
+      <Filter>01. ToolMap\03. Level Overrides</Filter>
+    </ClCompile>
+    <ClCompile Include="ToolMap.cpp">
+      <Filter>01. ToolMap\01. ToolMap</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ToolMapLoop.cpp">
+      <Filter>01. ToolMap\01. ToolMap</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ToolMapModule.cpp">
+      <Filter>01. ToolMap\02. Module</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ImGuiManager.cpp">
+      <Filter>02. Manager\01. ImGuiManager</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ImGuiWindow.cpp">
+      <Filter>03. ImGuiWindow</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ToolMapObject.cpp">
+      <Filter>04. GameObject\01. ToolMapObject</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="ToolMap.rc">
+      <Filter>리소스 파일</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="small.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="ToolMap.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <FxCompile Include="..\..\Resource\Shaders\FX_AnimMesh_PNT2TBIBW.hlsl">
+      <Filter>97. ShaderFiles</Filter>
+    </FxCompile>
+    <FxCompile Include="..\..\Resource\Shaders\FX_NonAnimMesh_PNT2T.hlsl">
+      <Filter>97. ShaderFiles</Filter>
+    </FxCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\Resource\Shaders\Shader_Defines.hlsli">
+      <Filter>97. ShaderFiles</Filter>
+    </None>
+  </ItemGroup>
+</Project>

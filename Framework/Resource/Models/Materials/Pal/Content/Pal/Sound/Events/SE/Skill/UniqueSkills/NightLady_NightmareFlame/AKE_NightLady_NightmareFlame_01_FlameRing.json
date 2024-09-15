@@ -1,0 +1,41 @@
+[
+  {
+    "Type": "AkAssetPlatformData",
+    "Name": "AkAssetPlatformData_0",
+    "Outer": "AKE_NightLady_NightmareFlame_01_FlameRing",
+    "Class": "UScriptClass'AkAssetPlatformData'"
+  },
+  {
+    "Type": "AkAudioEvent",
+    "Name": "AKE_NightLady_NightmareFlame_01_FlameRing",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Properties": {
+      "RequiredBank": {
+        "ObjectName": "AkAudioBank'AKB_SE_Skill'",
+        "ObjectPath": "Pal/Content/Pal/Sound/SoundBank/AKB_SE_Skill.2"
+      },
+      "PlatformAssetData": {
+        "ObjectName": "AkAssetPlatformData'AKE_NightLady_NightmareFlame_01_FlameRing:AkAssetPlatformData_0'",
+        "ObjectPath": "Pal/Content/Pal/Sound/Events/SE/Skill/UniqueSkills/NightLady_NightmareFlame/AKE_NightLady_NightmareFlame_01_FlameRing.0"
+      },
+      "ShortID": 1874236964
+    }
+  },
+  {
+    "Type": "AkAudioEventData",
+    "Name": "AkAudioEventData_0",
+    "Outer": "AKE_NightLady_NightmareFlame_01_FlameRing",
+    "Class": "UScriptClass'AkAudioEventData'",
+    "Properties": {
+      "MaxAttenuationRadius": 8000.0,
+      "MinimumDuration": 4.633333,
+      "MaximumDuration": 4.633333,
+      "MediaList": [
+        {
+          "ObjectName": "AkMediaAsset'745087357'",
+          "ObjectPath": "Pal/Content/Pal/Sound/Media/745087357.0"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+	{
+		"AttachBoneName" : "Socket_Mouth",
+		"Duration" : 0.0,
+		"EffectName" : "Group_Watering",
+		"EndTime" : 0.27236664295196533,
+		"StartTime" : 0.27236664295196533,
+		"Type" : "Effect",
+		"UseFollowBone" : false,
+		"vRelativeLocationX" : 30.000001907348633,
+		"vRelativeLocationY" : 0.0,
+		"vRelativeLocationZ" : 0.0
+	},
+	{
+		"AttachBoneName" : "Socket_Mouth",
+		"Duration" : 0.0,
+		"EffectName" : "Group_Watering",
+		"EndTime" : 1.4465000629425049,
+		"StartTime" : 1.4465000629425049,
+		"Type" : "Effect",
+		"UseFollowBone" : false,
+		"vRelativeLocationX" : 30.000001907348633,
+		"vRelativeLocationY" : 0.0,
+		"vRelativeLocationZ" : 0.0
+	}
+]

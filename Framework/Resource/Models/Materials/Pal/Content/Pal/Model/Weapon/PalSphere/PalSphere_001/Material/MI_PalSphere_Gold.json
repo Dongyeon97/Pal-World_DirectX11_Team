@@ -1,0 +1,36 @@
+{
+  "Textures": {
+    "Base Texture": "Pal/Content/Pal/Model/Weapon/PalSphere/PalSphere_001/Texture/T_PalSphere_Gold_B.T_PalSphere_Gold_B",
+    "T_PalSphere_Gold_B": "Pal/Content/Pal/Model/Weapon/PalSphere/PalSphere_001/Texture/T_PalSphere_Gold_B.T_PalSphere_Gold_B",
+    "PM_SpecularMasks": "Pal/Content/Pal/Model/Weapon/PalSphere/PalSphere_001/Texture/T_PalSphere_Gold_M.T_PalSphere_Gold_M",
+    "MetallicRoughnessOcclusionSpecularTexture": "Pal/Content/Pal/Model/Weapon/PalSphere/PalSphere_001/Texture/T_PalSphere_Gold_M.T_PalSphere_Gold_M",
+    "PM_Normals": "Pal/Content/Pal/Model/Weapon/PalSphere/PalSphere_001/Texture/T_PalSphere_Gold_N.T_PalSphere_Gold_N",
+    "Normal Map": "Pal/Content/Pal/Model/Weapon/PalSphere/PalSphere_001/Texture/T_PalSphere_Gold_N.T_PalSphere_Gold_N"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 4,
+    "Colors": {},
+    "Scalars": {
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_ClearCoat",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "SubsurfaceProfile": {
+        "ObjectName": "SubsurfaceProfile'SP_CharacterBodyBase'",
+        "ObjectPath": "Pal/Content/Pal/Material/Character/Common/SP_CharacterBodyBase.0"
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

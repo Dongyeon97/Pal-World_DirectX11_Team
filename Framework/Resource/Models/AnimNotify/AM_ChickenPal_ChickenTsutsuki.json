@@ -1,0 +1,28 @@
+[
+	{
+		"AttachBoneName" : "Socket_Mouth",
+		"Duration" : 0.87572580575942993,
+		"EndTime" : 1.2910575866699219,
+		"OffsetDataArray" : 
+		[
+			{
+				"SphereRadius" : 35.0,
+				"vRelativeLocationX" : 0.0,
+				"vRelativeLocationY" : 0.0,
+				"vRelativeLocationZ" : 0.0
+			}
+		],
+		"StartTime" : 0.41533178091049194,
+		"Type" : "Collision"
+	},
+	{
+		"Duration" : 0.0,
+		"EndTime" : 0.32612934708595276,
+		"SoundIDArray" : 
+		[
+			"27678111"
+		],
+		"StartTime" : 0.32612934708595276,
+		"Type" : "Sound"
+	}
+]

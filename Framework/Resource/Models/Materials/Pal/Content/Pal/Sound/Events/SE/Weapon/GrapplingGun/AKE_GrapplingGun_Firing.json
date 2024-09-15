@@ -1,0 +1,41 @@
+[
+  {
+    "Type": "AkAssetPlatformData",
+    "Name": "AkAssetPlatformData_0",
+    "Outer": "AKE_GrapplingGun_Firing",
+    "Class": "UScriptClass'AkAssetPlatformData'"
+  },
+  {
+    "Type": "AkAudioEvent",
+    "Name": "AKE_GrapplingGun_Firing",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Properties": {
+      "RequiredBank": {
+        "ObjectName": "AkAudioBank'AKB_SE_Weapon'",
+        "ObjectPath": "Pal/Content/Pal/Sound/SoundBank/AKB_SE_Weapon.2"
+      },
+      "PlatformAssetData": {
+        "ObjectName": "AkAssetPlatformData'AKE_GrapplingGun_Firing:AkAssetPlatformData_0'",
+        "ObjectPath": "Pal/Content/Pal/Sound/Events/SE/Weapon/GrapplingGun/AKE_GrapplingGun_Firing.0"
+      },
+      "ShortID": 1896663511
+    }
+  },
+  {
+    "Type": "AkAudioEventData",
+    "Name": "AkAudioEventData_0",
+    "Outer": "AKE_GrapplingGun_Firing",
+    "Class": "UScriptClass'AkAudioEventData'",
+    "Properties": {
+      "MaxAttenuationRadius": 8000.0,
+      "MinimumDuration": 0.73125,
+      "MaximumDuration": 0.73125,
+      "MediaList": [
+        {
+          "ObjectName": "AkMediaAsset'939675864'",
+          "ObjectPath": "Pal/Content/Pal/Sound/Media/939675864.0"
+        }
+      ]
+    }
+  }
+]

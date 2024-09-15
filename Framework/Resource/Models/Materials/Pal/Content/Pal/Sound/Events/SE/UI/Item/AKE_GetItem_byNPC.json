@@ -1,0 +1,40 @@
+[
+  {
+    "Type": "AkAssetPlatformData",
+    "Name": "AkAssetPlatformData_0",
+    "Outer": "AKE_GetItem_byNPC",
+    "Class": "UScriptClass'AkAssetPlatformData'"
+  },
+  {
+    "Type": "AkAudioEvent",
+    "Name": "AKE_GetItem_byNPC",
+    "Class": "UScriptClass'AkAudioEvent'",
+    "Properties": {
+      "RequiredBank": {
+        "ObjectName": "AkAudioBank'AKB_SE_UI'",
+        "ObjectPath": "Pal/Content/Pal/Sound/SoundBank/AKB_SE_UI.2"
+      },
+      "PlatformAssetData": {
+        "ObjectName": "AkAssetPlatformData'AKE_GetItem_byNPC:AkAssetPlatformData_0'",
+        "ObjectPath": "Pal/Content/Pal/Sound/Events/SE/UI/Item/AKE_GetItem_byNPC.0"
+      },
+      "ShortID": 670901735
+    }
+  },
+  {
+    "Type": "AkAudioEventData",
+    "Name": "AkAudioEventData_0",
+    "Outer": "AKE_GetItem_byNPC",
+    "Class": "UScriptClass'AkAudioEventData'",
+    "Properties": {
+      "MinimumDuration": 2.774042,
+      "MaximumDuration": 2.774042,
+      "MediaList": [
+        {
+          "ObjectName": "AkMediaAsset'929905724'",
+          "ObjectPath": "Pal/Content/Pal/Sound/Media/929905724.0"
+        }
+      ]
+    }
+  }
+]
