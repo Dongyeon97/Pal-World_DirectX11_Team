@@ -7,9 +7,9 @@ DirectX11 팰월드 모작 팀 프로젝트
 - ToolEffect 프로젝트 전체
 
 - Engine
-   - 01. Engine
-      - 05. Component
-         - 08. EffectComponent
+   - 1. Engine
+      - 5. Component
+         - 8. EffectComponent
          - 13. TrailComponent
  
    - 05. Buffer
