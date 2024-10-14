@@ -9,28 +9,58 @@ DirectX11 팰월드 모작 팀 프로젝트
 - ToolEffect 프로젝트 전체
 
 - Engine
-   - Engine
-      - Component
-         - EffectComponent
-         - TrailComponent
+   - Component
+      - EffectComponent
+      - ParticleComponent
+      - EffectMeshComponent
+      - InstanceEffectMeshComponent
+      - TrailComponent
  
    - Buffer
-      - Buffer
-         - Primitive
-            - PointInstancing
-            - MeshInstancing
-            - Trail
+      - Instancing
+      - InstanceEffectMeshBuffer
+      - TrailBuffer
 
 - Client
    - Manager
       - BuildManager
       - EffectManager
  
-   - GameObject Overrides
-      - Habitat
-         - Architecture
-      - Effect
-
+   - Architecture
+      - Architecture
+      - ArchitecturePrefab
+      - Housing
+      - HousingPrefab
+      - HousingLump
+      - BerryFram
+      - BlastFurnace
+      - Chest
+      - Door
+      - FeedingBox
+      - HumanBed
+      - IronChest
+      - KitchenMedieval
+      - LumberYard
+      - PalBed
+      - PalBox
+      - Ranch
+      - RepairBench
+      - SphereTable
+      - StonePit
+      - WheatFarm
+      - WorkBench
+  
+   - Effect
+      - EffectBase
+      - ParticleObject
+      - EffectMeshObject
+      - InstanceEffectMeshObject
+      - EffectGroup
+      - ProjectileEffectGroup
+      - PalSummonParticle
+      - PalDeadParticle
+      - PalRetrieveTrail
+   
    - ShaderFiles
       - FX_Effect_PT2.hlsl
       - FX_EffectMesh_PNT2T.hlsl
