@@ -7,29 +7,29 @@ DirectX11 팰월드 모작 팀 프로젝트
 - ToolEffect 프로젝트 전체
 
 - Engine
-   - 01. Engine
-      - 05. Component
-         - 08. EffectComponent
-         - 13. TrailComponent
+   - Engine
+      - Component
+         - EffectComponent
+         - TrailComponent
  
-   - 05. Buffer
-      - 02. Buffer
-         - 02. Primitive
-            - 04. PointInstancing
-            - 05. MeshInstancing
-            - 06. Trail
+   - Buffer
+      - Buffer
+         - Primitive
+            - PointInstancing
+            - MeshInstancing
+            - Trail
 
 - Client
-   - 02. Manager
-      - 05. BuildManager
-      - 06. EffectManager
+   - Manager
+      - BuildManager
+      - EffectManager
  
-   - 05. GameObject Overrides
-      - 03. Habitat
-         - 03. Architecture
-      - 04. Effect
+   - GameObject Overrides
+      - Habitat
+         - Architecture
+      - Effect
 
-   - 98. ShaderFiles
+   - ShaderFiles
       - FX_Effect_PT2.hlsl
       - FX_EffectMesh_PNT2T.hlsl
       - FX_Instancing_PRULPC.hlsl
