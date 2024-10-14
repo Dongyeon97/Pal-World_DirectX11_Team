@@ -4,9 +4,9 @@ DirectX11 팰월드 모작 팀 프로젝트
 
 [ 작업 내용 ]
 
-- <ToolEffect> 프로젝트 전체
+- ToolEffect 프로젝트 전체
 
-- <Engine>
+- Engine
    - 01. Engine
       - 05. Component
          - 08. EffectComponent
@@ -19,7 +19,7 @@ DirectX11 팰월드 모작 팀 프로젝트
             - 05. MeshInstancing
             - 06. Trail
 
-- <Client>
+- Client
    - 02. Manager
       - 05. BuildManager
       - 06. EffectManager
